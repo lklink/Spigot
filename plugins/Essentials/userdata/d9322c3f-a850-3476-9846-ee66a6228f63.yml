@@ -1,0 +1,31 @@
+lastAccountName: gatogamer
+timestamps:
+  login: 1429845002186
+  logout: 1429845631535
+  lastteleport: 1429845271488
+ipAddress: 186.9.86.22
+lastlocation:
+  world: survival
+  x: -10.848053652850668
+  y: 115.0
+  z: 81.57672545321506
+  yaw: 2.4000044
+  pitch: 35.4
+logoutlocation:
+  world: plotworld
+  x: -106.59999719069043
+  y: 65.0
+  z: 73.68930186739337
+  yaw: -176.69987
+  pitch: 8.999999
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 2539.502061332184
+    y: 72.0
+    z: 799.474567987697
+    yaw: 37.81879
+    pitch: 22.350002
+money: '12635.01'
+afk: false

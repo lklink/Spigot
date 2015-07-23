@@ -1,0 +1,30 @@
+lastAccountName: TrazoxX5
+timestamps:
+  login: 1433458895602
+  logout: 1433459557821
+  lastteleport: 1433459529162
+ipAddress: 181.161.237.172
+lastlocation:
+  world: plotworld
+  x: 149.59605802906682
+  y: 65.0
+  z: -180.30405639880115
+  yaw: 11.400269
+  pitch: 10.3500805
+logoutlocation:
+  world: survival
+  x: 87.95187589299795
+  y: 67.0
+  z: 235.82477337898518
+  yaw: 8.099986
+  pitch: 17.40001
+socialspy: false
+homes:
+  home:
+    world: survival_nether
+    x: 96.71769943245567
+    y: 66.0
+    z: -142.20564463369442
+    yaw: 327.68066
+    pitch: -21.00001
+money: '30.0'

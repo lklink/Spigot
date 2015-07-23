@@ -1,0 +1,21 @@
+lastAccountName: cocolove
+timestamps:
+  login: 1434308165608
+  logout: 1434308211331
+ipAddress: 191.112.78.31
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -615.9159522947946
+  y: 28.0
+  z: -1371.6386865407499
+  yaw: 160.24872
+  pitch: -12.449996
+socialspy: false
+money: '30.0'

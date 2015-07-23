@@ -1,0 +1,22 @@
+lastAccountName: seb962
+timestamps:
+  login: 1437518669066
+  logout: 1437518702767
+  lastteleport: 1437438787868
+ipAddress: 190.45.106.36
+lastlocation:
+  world: plotworld
+  x: -19.560899878686232
+  y: 69.0
+  z: 21.520446244746147
+  yaw: 177.27777
+  pitch: 3.545337
+logoutlocation:
+  world: plotworld
+  x: -35.173791470463925
+  y: 65.0
+  z: 2.0980467071602384
+  yaw: 6.83
+  pitch: 22.904926
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: cristochulol
+timestamps:
+  login: 1434318000789
+  logout: 1434318011559
+  lastteleport: 1433644861243
+ipAddress: 200.86.53.53
+lastlocation:
+  world: juegos
+  x: -1401.7003940626935
+  y: 28.0
+  z: 3996.4266864471724
+  yaw: -291.1338
+  pitch: -19.093624
+logoutlocation:
+  world: juegos
+  x: -1396.987500011921
+  y: 17.5
+  z: 4029.6914467781644
+  yaw: 254.67401
+  pitch: 90.0
+socialspy: false
+money: '30.0'

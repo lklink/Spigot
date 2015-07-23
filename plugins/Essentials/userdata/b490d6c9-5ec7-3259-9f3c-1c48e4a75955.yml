@@ -1,0 +1,22 @@
+lastAccountName: Majeh
+timestamps:
+  login: 1436563039760
+  logout: 1436563067212
+  lastteleport: 1434916692462
+ipAddress: 201.188.40.14
+lastlocation:
+  world: survival
+  x: -20.333672688838117
+  y: 72.0
+  z: 436.9675395387217
+  yaw: 18.636965
+  pitch: 15.150022
+logoutlocation:
+  world: plotworld
+  x: 177.4286420044998
+  y: 65.0
+  z: 41.319329282058376
+  yaw: 182.2489
+  pitch: 15.749969
+socialspy: false
+money: '55.0'

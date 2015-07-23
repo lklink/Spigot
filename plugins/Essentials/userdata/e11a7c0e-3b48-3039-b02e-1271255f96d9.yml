@@ -1,0 +1,21 @@
+lastAccountName: Herobrine010
+timestamps:
+  login: 1433363761271
+  lastteleport: 1433364214865
+  logout: 1433364298761
+ipAddress: 190.99.112.30
+lastlocation:
+  world: plotworld
+  x: -163.14002419330683
+  y: 65.0
+  z: -225.99820426856513
+  yaw: -133.32481
+  pitch: 23.347208
+logoutlocation:
+  world: survival
+  x: -42.03721518206407
+  y: 103.0
+  z: 32.919396131169904
+  yaw: -160.73637
+  pitch: -33.475197
+money: '30.0'

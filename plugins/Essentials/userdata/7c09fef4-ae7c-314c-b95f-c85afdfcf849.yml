@@ -1,0 +1,23 @@
+lastAccountName: Feeck
+timestamps:
+  login: 1432770392185
+  lastteleport: 1432407619921
+  logout: 1432770839877
+ipAddress: 190.78.155.139
+lastlocation:
+  world: SkyWars
+  x: 42.03613160871397
+  y: 54.12418707874468
+  z: -7.480589451461794
+  yaw: 150.72333
+  pitch: 22.499952
+godmode: false
+logoutlocation:
+  world: SkyWars
+  x: -26.783372131672163
+  y: 63.0
+  z: -32.9259749460318
+  yaw: -328.56714
+  pitch: 21.717148
+socialspy: false
+money: '55.0'

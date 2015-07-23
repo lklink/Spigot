@@ -1,0 +1,22 @@
+lastAccountName: alex12
+timestamps:
+  login: 1434066221374
+  lastteleport: 1433703856176
+  logout: 1434066259224
+ipAddress: 181.26.199.11
+lastlocation:
+  world: Factions
+  x: -342.87767756054905
+  y: 71.5
+  z: -298.4394031697629
+  yaw: 256.30917
+  pitch: -14.550005
+logoutlocation:
+  world: juegos
+  x: -1461.8713595244053
+  y: 22.0
+  z: 3998.7245199493173
+  yaw: 284.491
+  pitch: -5.9999933
+socialspy: false
+money: '30.0'

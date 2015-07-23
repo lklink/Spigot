@@ -1,0 +1,38 @@
+permission: ''
+world: spawn
+X: -617
+Y: 19
+Z: -1430
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*eco give <player> 10000'
+- '*give <player> 266 16'
+- '*give <player> 384 32'
+- '*give <player> 322:1 1'
+- /spawn
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  dani3019: 1436062181097
+  Hotban23: 1433688229642
+  _KuxoMC_: 1433798916179
+  C4LCeTiN: 1434324467127
+  MirageMAN: 1437328698459
+  ventor: 1437409207607
+  Maxi_Fsr: 1437352104979
+  Miix20: 1433208934215
+  ErikEco1: 1437608513285
+  Volrat: 1433026321816
+  knales11: 1437353015521
+  xXalexskate13Xx: 1434317981615
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

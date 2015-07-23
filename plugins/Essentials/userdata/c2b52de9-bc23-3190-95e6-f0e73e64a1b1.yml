@@ -1,0 +1,21 @@
+lastAccountName: Skeletonman44
+timestamps:
+  login: 1429932639955
+  lastteleport: 1429933753991
+  logout: 1429934063712
+ipAddress: 201.241.158.166
+lastlocation:
+  world: plotworld
+  x: 43.389062844953465
+  y: 63.0
+  z: -29.854801783462424
+  yaw: 2.6999512
+  pitch: -14.100018
+logoutlocation:
+  world: juegos
+  x: -952.4481709014688
+  y: 128.5
+  z: -524.4910221409202
+  yaw: -10.536072
+  pitch: 22.153196
+money: '30.0'

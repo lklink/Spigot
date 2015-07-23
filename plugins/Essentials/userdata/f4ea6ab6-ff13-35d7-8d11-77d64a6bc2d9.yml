@@ -1,0 +1,22 @@
+lastAccountName: ferni
+timestamps:
+  login: 1433198020427
+  lastteleport: 1433198071039
+  logout: 1433198139230
+ipAddress: 200.104.37.165
+lastlocation:
+  world: juegos
+  x: -1393.2541233751667
+  y: 28.0
+  z: 4006.86927206421
+  yaw: -101.909
+  pitch: 5.249583
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 28.0
+  z: 4026.309669218317
+  yaw: -173.60902
+  pitch: 46.19959
+socialspy: false
+money: '30.0'

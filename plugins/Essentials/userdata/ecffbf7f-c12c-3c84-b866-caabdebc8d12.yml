@@ -1,0 +1,21 @@
+lastAccountName: sarcuach
+timestamps:
+  login: 1432400569487
+  logout: 1432400596640
+ipAddress: 190.209.185.22
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1397.5
+  y: 108.0
+  z: 4017.5
+  yaw: -1.6499999
+  pitch: -0.74999994
+socialspy: false
+money: '30.0'

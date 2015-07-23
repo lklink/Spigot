@@ -1,0 +1,30 @@
+lastAccountName: Alvalo
+timestamps:
+  login: 1433038684595
+  lastteleport: 1432604437485
+  logout: 1433038816549
+ipAddress: 190.163.218.245
+lastlocation:
+  world: plotworld
+  x: -172.99927875685475
+  y: 65.0
+  z: 132.40770528457747
+  yaw: 195.29999
+  pitch: 13.5
+homes:
+  home:
+    world: world
+    x: 827.3000000119209
+    y: 21.827117314324568
+    z: -377.69999998807907
+    yaw: 305.301
+    pitch: 9.749991
+socialspy: false
+logoutlocation:
+  world: plotworld
+  x: -167.4715484999442
+  y: 54.0
+  z: 132.30000001192093
+  yaw: 358.8002
+  pitch: 90.0
+money: '30.0'

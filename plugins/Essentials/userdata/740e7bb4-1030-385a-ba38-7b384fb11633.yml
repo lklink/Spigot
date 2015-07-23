@@ -1,0 +1,23 @@
+lastAccountName: trollevel
+timestamps:
+  login: 1427410426919
+  logout: 1427412271853
+  lastteleport: 1427411174039
+ipAddress: 201.188.49.140
+lastlocation:
+  world: world
+  x: 5.657416414702737
+  y: 69.0
+  z: 279.95019644204706
+  yaw: 48.0343
+  pitch: 34.251614
+logoutlocation:
+  world: world
+  x: -1.699999988079071
+  y: 69.0
+  z: 295.69999998807907
+  yaw: 256.49936
+  pitch: 90.0
+socialspy: false
+afk: false
+money: '30.0'

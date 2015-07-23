@@ -1,0 +1,20 @@
+lastAccountName: WeirdoBANANA
+timestamps:
+  login: 1434561991565
+  logout: 1434562184898
+ipAddress: 186.107.23.115
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5445886125199
+  y: 28.0
+  z: 4027.6385766787816
+  yaw: 177.75014
+  pitch: -19.650003
+money: '30.0'

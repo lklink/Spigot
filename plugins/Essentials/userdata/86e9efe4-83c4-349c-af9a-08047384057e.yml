@@ -1,0 +1,30 @@
+lastAccountName: Zhedas
+timestamps:
+  login: 1434918784174
+  lastteleport: 1434318721656
+  logout: 1434918840541
+ipAddress: 201.187.58.10
+lastlocation:
+  world: juegos
+  x: -984.0132090363919
+  y: 38.0
+  z: -124.30000001192089
+  yaw: 56.099457
+  pitch: 42.44948
+logoutlocation:
+  world: survival
+  x: -1524.4581460368784
+  y: 201.0
+  z: 5230.1855509471
+  yaw: 179.25648
+  pitch: 19.200054
+socialspy: false
+homes:
+  home:
+    world: Factions
+    x: -1508.4712310409066
+    y: 67.0
+    z: 2709.111948937199
+    yaw: 340.0466
+    pitch: 4.4997926
+money: '10155.0'

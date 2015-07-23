@@ -1,0 +1,21 @@
+lastAccountName: Shuilol
+timestamps:
+  login: 1433282851103
+  lastteleport: 1433282955375
+  logout: 1433282999867
+ipAddress: 179.60.83.105
+lastlocation:
+  world: juegos
+  x: 4703.723468886473
+  y: 53.0
+  z: 1048.176130744438
+  yaw: -112.59914
+  pitch: 38.998096
+logoutlocation:
+  world: juegos
+  x: 4702.140412890975
+  y: 52.0
+  z: 1056.483294402894
+  yaw: -173.6489
+  pitch: 22.200048
+money: '30.0'

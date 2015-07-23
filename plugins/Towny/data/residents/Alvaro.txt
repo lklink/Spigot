@@ -1,0 +1,11 @@
+lastOnline=1436106836629
+registered=1434217437471
+isNPC=false
+title=
+surname=
+town=UnionLatina
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

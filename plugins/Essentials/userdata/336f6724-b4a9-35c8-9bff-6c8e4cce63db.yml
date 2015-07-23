@@ -1,0 +1,21 @@
+lastAccountName: marcelito
+timestamps:
+  login: 1432942916031
+  lastteleport: 1432943756487
+  logout: 1432944235506
+ipAddress: 186.106.88.211
+lastlocation:
+  world: juegos
+  x: -1449.084000277147
+  y: 6.0
+  z: 3929.2234192600076
+  yaw: -171.43867
+  pitch: 14.085447
+logoutlocation:
+  world: Factions
+  x: -318.3255374437321
+  y: 69.0
+  z: -297.6309011647488
+  yaw: 221.90796
+  pitch: 27.928196
+money: '30.0'

@@ -1,0 +1,30 @@
+lastAccountName: GianlukaMC
+timestamps:
+  login: 1431907894100
+  logout: 1431907971502
+  lastteleport: 1431713587090
+ipAddress: 200.28.136.137
+lastlocation:
+  world: juegos
+  x: -952.486135194911
+  y: 128.0
+  z: -526.6786442981553
+  yaw: -196.08604
+  pitch: 44.20319
+logoutlocation:
+  world: juegos
+  x: -1442.1478444361737
+  y: 28.0
+  z: -661.4230171235934
+  yaw: 219.36151
+  pitch: 54.599968
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 224.78368258141694
+    y: 72.0
+    z: 96.25576738043695
+    yaw: 201.5354
+    pitch: 33.992683
+money: '70.0'

@@ -1,0 +1,22 @@
+lastAccountName: ItzAir
+timestamps:
+  login: 1433207406899
+  lastteleport: 1433207296505
+  logout: 1433207407381
+ipAddress: 196.32.86.178
+lastlocation:
+  world: juegos
+  x: 4703.102470017907
+  y: 52.5
+  z: 1044.3714791716773
+  yaw: -32.131275
+  pitch: 9.594111
+logoutlocation:
+  world: juegos
+  x: 4698.750729160832
+  y: 52.0
+  z: 1054.831899578929
+  yaw: 193.46936
+  pitch: 2.4001124
+socialspy: false
+money: '30.0'

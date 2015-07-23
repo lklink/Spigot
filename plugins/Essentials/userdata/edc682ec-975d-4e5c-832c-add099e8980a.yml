@@ -1,0 +1,22 @@
+lastAccountName: ErikEco1
+timestamps:
+  login: 1435174205279
+  lastteleport: 1435130632021
+  logout: 1435174837228
+ipAddress: 187.186.172.157
+lastlocation:
+  world: spawn
+  x: 549.4796629845277
+  y: 39.0
+  z: -1067.9017177163325
+  yaw: -124.8392
+  pitch: 12.899985
+logoutlocation:
+  world: spawn
+  x: -621.1271002657763
+  y: 49.0
+  z: -2425.6256552931895
+  yaw: 74.54929
+  pitch: 17.94
+socialspy: false
+money: '2700.0'

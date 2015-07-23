@@ -1,0 +1,20 @@
+lastAccountName: DyC_
+timestamps:
+  login: 1432336043935
+  logout: 1432336201551
+ipAddress: 186.67.31.214
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -226.73906032849374
+  y: 70.10408037809304
+  z: -85.0496120494787
+  yaw: -46.924652
+  pitch: 17.451159
+money: '30.0'

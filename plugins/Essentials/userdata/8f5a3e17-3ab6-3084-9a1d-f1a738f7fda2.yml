@@ -1,0 +1,21 @@
+lastAccountName: wewewe
+timestamps:
+  login: 1432497787809
+  logout: 1432497848448
+ipAddress: 186.178.245.247
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 29.371710722973884
+  z: 4026.309669218317
+  yaw: 143.191
+  pitch: 77.69958
+socialspy: false
+money: '30.0'

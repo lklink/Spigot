@@ -1,0 +1,30 @@
+lastAccountName: Pro001
+timestamps:
+  login: 1433718034110
+  lastteleport: 1431832244609
+  logout: 1433718073120
+ipAddress: 186.78.138.18
+lastlocation:
+  world: SkyWars
+  x: 0.4747626537565555
+  y: 49.0
+  z: 13.461273858993176
+  yaw: 2.8016338
+  pitch: -15.978411
+logoutlocation:
+  world: SkyWars
+  x: 0.749508981921029
+  y: 50.0
+  z: -4.30621494123519
+  yaw: 2.9597754
+  pitch: 9.606942
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: -1561.2277040205406
+    y: 63.0
+    z: 3595.993749647424
+    yaw: 16.735443
+    pitch: 32.533844
+money: '235.0'

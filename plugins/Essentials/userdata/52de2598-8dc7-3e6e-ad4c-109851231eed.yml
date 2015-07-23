@@ -1,0 +1,21 @@
+lastAccountName: raws
+timestamps:
+  login: 1433724356950
+  lastteleport: 1433729740510
+  logout: 1433735570712
+ipAddress: 201.216.132.45
+lastlocation:
+  world: plotworld
+  x: -258.29018810890193
+  y: 65.0
+  z: -63.85640895550455
+  yaw: -9.301392
+  pitch: 25.05015
+logoutlocation:
+  world: plotworld
+  x: -255.49163440162218
+  y: 65.0
+  z: -67.90498666955197
+  yaw: 325.4956
+  pitch: 25.799974
+money: '30.0'

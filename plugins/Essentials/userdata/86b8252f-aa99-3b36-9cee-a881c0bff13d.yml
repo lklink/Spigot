@@ -1,0 +1,21 @@
+lastAccountName: xXTheDarkProXx
+timestamps:
+  login: 1433990302293
+  lastteleport: 1433990827932
+  logout: 1433990832584
+ipAddress: 201.220.100.210
+lastlocation:
+  world: spawn
+  x: -618.7858814273649
+  y: 50.0
+  z: -2451.6382761008463
+  yaw: 181.28137
+  pitch: 10.912787
+logoutlocation:
+  world: plotworld
+  x: -20.5
+  y: 69.0
+  z: 19.5
+  yaw: -68.87223
+  pitch: 35.94534
+money: '30.0'

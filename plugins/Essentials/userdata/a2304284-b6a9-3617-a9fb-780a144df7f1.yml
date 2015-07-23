@@ -1,0 +1,21 @@
+lastAccountName: skilmax
+timestamps:
+  login: 1434396611738
+  logout: 1434396618688
+ipAddress: 200.84.200.80
+lastlocation:
+  world: Factions
+  x: 76.61294307432598
+  y: 73.0
+  z: -309.0784164528412
+  yaw: 46.30943
+  pitch: 1.6499922
+logoutlocation:
+  world: SkyWars
+  x: -3.4709824960108007
+  y: 49.0
+  z: 12.53727573563301
+  yaw: 307.63144
+  pitch: 6.4499984
+socialspy: false
+money: '30.0'

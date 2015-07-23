@@ -1,0 +1,45 @@
+lastAccountName: Sirgocsila
+timestamps:
+  login: 1428355479862
+  lastteleport: 1428357176257
+  logout: 1428358031296
+ipAddress: 186.78.147.188
+lastlocation:
+  world: juegos
+  x: -1010.0383960977205
+  y: 121.46008513825416
+  z: -524.8917838096486
+  yaw: -266.76965
+  pitch: -22.95003
+afk: false
+homes:
+  home:
+    world: world
+    x: -220.69553767553276
+    y: 78.74814090343433
+    z: 122.14413938079198
+    yaw: -163.95015
+    pitch: 33.75
+  coliseo:
+    world: world
+    x: 999753.8027909006
+    y: 218.0
+    z: 34364.39918774222
+    yaw: 10.737128
+    pitch: 49.349987
+  casita:
+    world: world
+    x: 3.93474722796893
+    y: 46.0
+    z: 587.2743431539275
+    yaw: 114.57513
+    pitch: 35.999985
+logoutlocation:
+  world: juegos
+  x: -993.5277852419524
+  y: 124.04732274212088
+  z: -524.0618196984536
+  yaw: 268.06952
+  pitch: 18.449968
+socialspy: false
+money: '30.0'

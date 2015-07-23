@@ -1,0 +1,21 @@
+lastAccountName: xxneoncraftxx
+timestamps:
+  login: 1435266517815
+  lastteleport: 1435266602503
+  logout: 1435267314831
+ipAddress: 84.122.67.6
+lastlocation:
+  world: juegos
+  x: -1392.8318538698882
+  y: 27.0
+  z: 3943.7196477734124
+  yaw: -181.95007
+  pitch: 5.1140787E-6
+logoutlocation:
+  world: spawn
+  x: -616.3000000119209
+  y: 48.0
+  z: -2409.6099664454873
+  yaw: 266.249
+  pitch: 47.040024
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: YayitoSuperLoco
+timestamps:
+  login: 1434749402816
+  logout: 1434749471167
+  lastteleport: 1434749465885
+ipAddress: 186.107.6.165
+lastlocation:
+  world: juegos
+  x: -1395.9700119040112
+  y: 28.0
+  z: 3980.489267829656
+  yaw: 191.69995
+  pitch: -9.9
+logoutlocation:
+  world: Factions
+  x: -274.5
+  y: 79.0
+  z: -302.5
+  yaw: 179.5092
+  pitch: 16.199995
+socialspy: false
+money: '30.0'

@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: pedrogaymer100
+timestamps:
+  login: 1437076581947
+  lastteleport: 1437077012428
+  logout: 1437077014977
+  mute: 0
+ipAddress: 189.221.209.174
+lastlocation:
+  world: spawn
+  x: -623.9499999880791
+  y: 46.0
+  z: -2380.1131483014024
+  yaw: -184.16473
+  pitch: 32.400677
+logoutlocation:
+  world: spawn
+  x: -613.5306283683749
+  y: 28.0
+  z: -1370.697845239093
+  yaw: 173.70952
+  pitch: 32.801785
+money: '1758.0'
+muted: false

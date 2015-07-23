@@ -1,0 +1,21 @@
+lastAccountName: SwiiPs
+timestamps:
+  login: 1435370109270
+  logout: 1435370127524
+ipAddress: 201.189.33.252
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: 270.8101044334935
+  y: 65.5
+  z: -276.2716238649639
+  yaw: 64.651276
+  pitch: 11.549982
+socialspy: false
+money: '30.0'

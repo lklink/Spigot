@@ -1,0 +1,82 @@
+permission: ''
+world: juegos
+X: 4704
+Y: 53
+Z: 1047
+price: 0.0
+cooldown: 1200
+globalCooldown: 0
+confirmation: false
+commands:
+- '*tppos 4687 78 1054 '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  Thetomash333: 1433607777796
+  BraulioIsaac: 1432344304072
+  Nelson: 1430086992047
+  benjamin: 1433006229627
+  dylan: 1433559747775
+  FabianMC: 1434929749860
+  DeathJungle: 1432326380145
+  xXalexskate13Xx: 1433705997079
+  dani3019: 1435025207393
+  davidm9: 1433208141861
+  elcrackboy: 1434065483925
+  pedrogaymer100: 1433381538903
+  benjaxh_: 1430080801343
+  Miix20: 1433208133161
+  knales11: 1430358853779
+  jorge: 1433641222626
+  GianlukaMC: 1431713443227
+  Javonico: 1434067580290
+  subzero: 1432946163781
+  Alvaro: 1434302799003
+  Archie888: 1433285304805
+  Longnhonh15: 1430095268405
+  Zhedas: 1433705399673
+  Pro001: 1431550633705
+  tyrion: 1429934768654
+  FlameElMaster: 1433805264287
+  MrDeadGamer: 1433130120686
+  Rayquaza39: 1433559391114
+  molaso: 1434725811509
+  GamerGhoul15: 1434845169476
+  DarthZeta: 1434810631441
+  arianna: 1434316820901
+  max773546333: 1433538204430
+  MrGopes: 1432850116964
+  kurjab: 1434939032957
+  jared: 1434682590251
+  creeper0000: 1433362023945
+  ElRopto: 1434318660711
+  Shuilol: 1433282955261
+  Elhpipe: 1434228130605
+  JseAranda: 1434313382892
+  Sebax21: 1429828258964
+  Hiccup_Hero: 1435276997049
+  daniel0daniel: 1433715244059
+  Reey_: 1434845613406
+  Patrick_XD_: 1432323022896
+  sword_for_evil: 1433548937975
+  333cesar333: 1429828872019
+  Foogles: 1433625409961
+  ElianGamer51: 1434915408608
+  Mage3683: 1430084450493
+  SlayerSito88: 1429929294008
+  nicobkn45: 1430099338812
+  Diegotiro: 1432357715941
+  lolomanolo11: 1433607719300
+  xSolowZ_: 1434234567327
+  PewDiePie25: 1433114874639
+  brythanie: 1434490149527
+  ItzAir: 1433207296452
+  _DarkSpaceHD_: 1433715292270
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

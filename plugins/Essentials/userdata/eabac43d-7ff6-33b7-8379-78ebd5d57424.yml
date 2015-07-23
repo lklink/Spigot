@@ -1,0 +1,22 @@
+lastAccountName: SoultA
+timestamps:
+  login: 1436817916287
+  lastteleport: 1436817887590
+  logout: 1436817980542
+ipAddress: 200.28.58.43
+lastlocation:
+  world: juegos
+  x: -1021.8379049454206
+  y: 50.0
+  z: -94.4350028008807
+  yaw: 229.21829
+  pitch: 25.219603
+logoutlocation:
+  world: spawn
+  x: -673.7545997838434
+  y: 6.6454319079102815
+  z: -1408.2970257840827
+  yaw: -282.32935
+  pitch: -3.5317147
+socialspy: false
+money: '10030.0'

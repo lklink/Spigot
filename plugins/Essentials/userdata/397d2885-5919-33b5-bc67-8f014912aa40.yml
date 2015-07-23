@@ -1,0 +1,20 @@
+lastAccountName: h2o
+timestamps:
+  login: 1433712197073
+  logout: 1433712236839
+ipAddress: 200.87.40.17
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1390.5
+  y: 53.0
+  z: 4034.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

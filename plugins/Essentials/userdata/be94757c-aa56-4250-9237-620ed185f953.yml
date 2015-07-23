@@ -1,0 +1,22 @@
+lastAccountName: Reey_
+timestamps:
+  login: 1435192212606
+  logout: 1435192384992
+  lastteleport: 1435192252908
+ipAddress: 201.223.92.94
+lastlocation:
+  world: juegos
+  x: -1134.8423682792427
+  y: 54.0
+  z: 2766.0106969211033
+  yaw: -4.3041177
+  pitch: 27.21941
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '1.000005E+9'

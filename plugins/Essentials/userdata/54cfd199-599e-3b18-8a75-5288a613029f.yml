@@ -1,0 +1,22 @@
+lastAccountName: alme8XXX
+timestamps:
+  login: 1435266356886
+  logout: 1435267294830
+  lastteleport: 1435267254103
+ipAddress: 190.199.192.47
+lastlocation:
+  world: spawn
+  x: -620.4428255134964
+  y: 49.0
+  z: -2429.2350537979246
+  yaw: 105.52243
+  pitch: 10.128001
+logoutlocation:
+  world: spawn
+  x: -619.2775200375596
+  y: 50.0
+  z: -2406.0702877523026
+  yaw: 348.9649
+  pitch: 14.428794
+socialspy: false
+money: '30.0'

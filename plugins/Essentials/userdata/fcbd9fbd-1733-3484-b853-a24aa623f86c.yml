@@ -1,0 +1,33 @@
+lastAccountName: Stalforeth
+timestamps:
+  login: 1430687901186
+  logout: 1430689011468
+  lastteleport: 1429936903253
+  kits:
+    tools: 1429933471956
+ipAddress: 190.22.72.254
+logoutlocation:
+  world: plotworld
+  x: 54.103479193850674
+  y: 65.0
+  z: -61.60066655381941
+  yaw: 118.9502
+  pitch: 20.549875
+lastlocation:
+  world: plotworld
+  x: -14.194697353569108
+  y: 3.2952036219202387
+  z: -91.28252090293562
+  yaw: 130.49985
+  pitch: 66.600006
+money: '670.0'
+socialspy: false
+afk: false
+homes:
+  prueb:
+    world: world
+    x: -511.40492027781477
+    y: 67.0
+    z: 611.4275959475613
+    yaw: 65.998634
+    pitch: 88.49999

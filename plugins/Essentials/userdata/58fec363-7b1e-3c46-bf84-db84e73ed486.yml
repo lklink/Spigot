@@ -1,0 +1,21 @@
+lastAccountName: BlueJayeeze
+timestamps:
+  login: 1434577598677
+  lastteleport: 1434577773063
+  logout: 1434577864774
+ipAddress: 186.9.166.161
+lastlocation:
+  world: spawn
+  x: -609.7747787650301
+  y: 6.0
+  z: -1376.4008256670309
+  yaw: 5.148826
+  pitch: -7.2000403
+logoutlocation:
+  world: survival
+  x: -1560.9987774414808
+  y: 102.0
+  z: 3778.416770024
+  yaw: -194.09094
+  pitch: 25.649872
+money: '30.0'

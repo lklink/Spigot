@@ -1,0 +1,21 @@
+lastAccountName: JuanJos1
+timestamps:
+  login: 1437001190513
+  logout: 1437001199163
+ipAddress: 191.111.131.220
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 29.0
+  z: 4026.5
+  yaw: 0.3
+  pitch: 0.0
+socialspy: false
+money: '30.0'

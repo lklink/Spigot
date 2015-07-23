@@ -1,0 +1,26 @@
+permission: ''
+world: juegos
+X: -1607
+Y: 37
+Z: -1039
+price: 0.0
+cooldown: 80400
+globalCooldown: 0
+confirmation: false
+commands:
+- /tp <player> -1572 22 -1024
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  C4LCeTiN: 1429919651028
+  _KuxoMC_: 1429822325297
+  FabianMC: 1429906059104
+  knino: 1429906052704
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

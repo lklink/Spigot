@@ -1,0 +1,30 @@
+lastAccountName: Giu02calcio
+timestamps:
+  login: 1433796674611
+  logout: 1433798055019
+  lastteleport: 1433797603498
+ipAddress: 5.2.0.198
+lastlocation:
+  world: Factions
+  x: -543.0322735873849
+  y: 64.0
+  z: -355.6155035795274
+  yaw: 244.15887
+  pitch: 14.699957
+logoutlocation:
+  world: plotworld
+  x: 97.34571659204782
+  y: 65.0
+  z: -188.40428232414766
+  yaw: 183.4068
+  pitch: 14.249965
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: 216.2452583466313
+    y: 65.0
+    z: -95.92640523160406
+    yaw: 170.20792
+    pitch: 55.090084
+money: '30.0'

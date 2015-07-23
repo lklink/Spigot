@@ -1,0 +1,20 @@
+lastAccountName: reloatrex
+timestamps:
+  login: 1435529849371
+  logout: 1435530040886
+ipAddress: 201.241.75.222
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -626.1377655390464
+  y: 29.0
+  z: -1401.7262701067393
+  yaw: -77.32474
+  pitch: 20.20199
+money: '30.0'

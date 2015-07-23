@@ -1,0 +1,28 @@
+lastAccountName: DitoBR
+timestamps:
+  login: 1429448699433
+  logout: 1429451971484
+  lastteleport: 1429448733081
+  kits:
+    firework: 1429389174620
+    color: 1429389140660
+    dtools: 1429389155683
+    notch: 1429389165462
+ipAddress: 190.162.32.32
+lastlocation:
+  world: survival
+  x: -133.3804609556255
+  y: 122.35693838801272
+  z: 31.931281149333714
+  yaw: -44.32113
+  pitch: 18.76027
+logoutlocation:
+  world: survival
+  x: -41.92599031163483
+  y: 146.00938094191397
+  z: 34.938269038377825
+  yaw: -254.8711
+  pitch: 3.134005
+socialspy: false
+godmode: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: AmigoDeLaAnita
+timestamps:
+  login: 1433810270313
+  lastteleport: 1433811956398
+  logout: 1433812063502
+ipAddress: 190.160.20.207
+lastlocation:
+  world: survival
+  x: -1525.5227284577336
+  y: 201.0
+  z: 5227.300000011921
+  yaw: -125.77779
+  pitch: 16.478262
+logoutlocation:
+  world: juegos
+  x: -1413.172622156079
+  y: 6.0
+  z: 4006.300000011921
+  yaw: -116.95121
+  pitch: 12.366132
+money: '30.0'

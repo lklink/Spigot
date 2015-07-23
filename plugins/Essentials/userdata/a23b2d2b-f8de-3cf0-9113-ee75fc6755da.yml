@@ -1,0 +1,46 @@
+lastAccountName: NooTx
+timestamps:
+  login: 1429748454841
+  logout: 1429748971646
+  lastteleport: 1429748500939
+ipAddress: 179.56.43.195
+logoutlocation:
+  world: juegos
+  x: -970.0791863873858
+  y: 42.0
+  z: -119.04386375353712
+  yaw: -118.77524
+  pitch: 20.324104
+afk: false
+lastlocation:
+  world: world
+  x: 199.5321483998801
+  y: 53.51574054030006
+  z: -209.07521189410434
+  yaw: 293.16336
+  pitch: -13.737382
+socialspy: false
+homes:
+  puerto:
+    world: world
+    x: -1194.3912607118184
+    y: 104.43697453402294
+    z: 1266.4290142641034
+    yaw: 82.59265
+    pitch: 57.0
+  torre:
+    world: world
+    x: -360.2809130178168
+    y: 95.1249206274455
+    z: -173.39933243984626
+    yaw: -10.198008
+    pitch: 14.250206
+  skywar:
+    world: world
+    x: 196.6885784944948
+    y: 113.76240242461675
+    z: -207.17010540643375
+    yaw: 27.296387
+    pitch: 47.7
+godmode: false
+money: '30.0'

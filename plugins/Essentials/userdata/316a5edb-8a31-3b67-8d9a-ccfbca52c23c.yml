@@ -1,0 +1,23 @@
+lastAccountName: Miix20
+timestamps:
+  login: 1434945468998
+  logout: 1434945476079
+  lastteleport: 1434566908071
+ipAddress: 190.249.8.203
+lastlocation:
+  world: juegos
+  x: -1394.8704709887488
+  y: 28.0
+  z: 3990.9108884517254
+  yaw: -180.13843
+  pitch: 8.4309435
+logoutlocation:
+  world: survival
+  x: 251.64879978584383
+  y: 69.0
+  z: 282.28375927725034
+  yaw: 79.499176
+  pitch: 12.604697
+socialspy: false
+money: '1005.0'
+homes: {}

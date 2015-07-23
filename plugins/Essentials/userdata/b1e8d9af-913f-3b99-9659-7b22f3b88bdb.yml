@@ -1,0 +1,59 @@
+lastAccountName: Mage3683
+timestamps:
+  login: 1433286038329
+  lastteleport: 1433286103479
+  logout: 1433286186495
+  kits:
+    tools: 1429466031597
+    color: 1429466006297
+    firework: 1429465897696
+    dtools: 1429466019346
+    notch: 1429465873945
+ipAddress: 186.10.27.16
+lastlocation:
+  world: SkyWars
+  x: -2.9013480840524704
+  y: 50.5
+  z: 19.073390418490085
+  yaw: 159.6153
+  pitch: 32.91473
+homes:
+  autoss:
+    world: survival
+    x: 1332.302808118293
+    y: 75.0
+    z: 1046.8246056927114
+    yaw: 346.49902
+    pitch: 9.899927
+  torre:
+    world: juegos
+    x: 1024.750557333813
+    y: 200.0
+    z: 521.3551849857467
+    yaw: -133.10245
+    pitch: 2.5500064
+  mundo:
+    world: juegos
+    x: 1634.1413545469889
+    y: 31.5
+    z: 1018.0464854818474
+    yaw: 88.508606
+    pitch: 0.29997504
+  asd:
+    world: juegos
+    x: 4709.5289133654405
+    y: 51.0
+    z: 1033.4578414439238
+    yaw: 86.90094
+    pitch: 3.1499665
+logoutlocation:
+  world: juegos
+  x: 4702.827878130869
+  y: 53.0
+  z: 1043.8710735163334
+  yaw: 23.300873
+  pitch: -0.45189986
+socialspy: false
+afk: false
+godmode: false
+money: '10235.0'

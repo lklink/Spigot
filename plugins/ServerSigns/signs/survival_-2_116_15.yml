@@ -1,0 +1,29 @@
+permission: ''
+world: survival
+X: -2
+Y: 116
+Z: 15
+price: 0.0
+cooldown: 5
+globalCooldown: 0
+confirmation: false
+commands:
+- '*warp Parkour '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  Sebax21: 1429828112010
+  GianlukaMC: 1431272800853
+  C4LCeTiN: 1434302064794
+  gatogamer: 1429829306645
+  FabianMC: 1429747948854
+  Zimok: 1429748524647
+  MrANORITHD: 1429819610229
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

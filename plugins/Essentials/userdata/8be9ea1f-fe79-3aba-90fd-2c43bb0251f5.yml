@@ -1,0 +1,22 @@
+lastAccountName: Portisha_135
+timestamps:
+  login: 1436228503025
+  lastteleport: 1434938797014
+  logout: 1436228513568
+ipAddress: 189.130.115.159
+lastlocation:
+  world: plotworld
+  x: -54.5
+  y: 65.0
+  z: -271.5
+  yaw: -99.14999
+  pitch: 41.250004
+logoutlocation:
+  world: plotworld
+  x: -53.5
+  y: 65.0
+  z: -271.5
+  yaw: 109.35003
+  pitch: 10.049999
+socialspy: false
+money: '30.0'

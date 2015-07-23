@@ -1,0 +1,21 @@
+lastAccountName: Elezegamerz
+timestamps:
+  login: 1433686683141
+  lastteleport: 1433686781219
+  logout: 1433686790430
+ipAddress: 190.139.80.195
+lastlocation:
+  world: survival
+  x: 14.111431389640583
+  y: 114.0
+  z: 97.98747112378626
+  yaw: -88.35901
+  pitch: -6.750182
+logoutlocation:
+  world: SkyWars
+  x: -0.6695835747706873
+  y: 51.0
+  z: -24.356960042667865
+  yaw: -183.89462
+  pitch: 2.644808
+money: '30.0'

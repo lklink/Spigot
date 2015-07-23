@@ -1,0 +1,22 @@
+lastAccountName: apple0000
+timestamps:
+  login: 1429976887302
+  logout: 1429977171022
+  lastteleport: 1429972205601
+ipAddress: 191.112.55.101
+lastlocation:
+  world: juegos
+  x: -952.4481709014688
+  y: 128.5
+  z: -524.4910221409202
+  yaw: -77.28606
+  pitch: 58.903194
+logoutlocation:
+  world: survival
+  x: 11841.86205979914
+  y: 64.0
+  z: 990.3587776176992
+  yaw: 353.34943
+  pitch: 30.899998
+socialspy: false
+money: '30.0'

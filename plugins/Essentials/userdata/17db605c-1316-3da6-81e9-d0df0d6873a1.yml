@@ -1,0 +1,20 @@
+lastAccountName: conja
+timestamps:
+  login: 1433109797524
+  logout: 1433109801024
+ipAddress: 83.39.96.12
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.15901
+  pitch: 29.549587
+money: '30.0'

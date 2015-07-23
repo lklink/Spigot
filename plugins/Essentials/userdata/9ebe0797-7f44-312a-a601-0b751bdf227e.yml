@@ -1,0 +1,22 @@
+lastAccountName: MarquiCodGamer
+timestamps:
+  login: 1433464189701
+  lastteleport: 1433289736323
+  logout: 1433464194453
+ipAddress: 190.189.97.155
+lastlocation:
+  world: plotworld
+  x: -204.0862969671973
+  y: 69.0
+  z: 91.69999998807907
+  yaw: -104.949554
+  pitch: 52.35001
+logoutlocation:
+  world: plotworld
+  x: -215.0
+  y: 65.0
+  z: -37.0
+  yaw: -79.80002
+  pitch: 0.14999983
+socialspy: false
+money: '30.0'

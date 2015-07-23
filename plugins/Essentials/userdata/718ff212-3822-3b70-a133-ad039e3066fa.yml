@@ -1,0 +1,22 @@
+lastAccountName: Dolan_Bandolero
+timestamps:
+  login: 1433294851362
+  lastteleport: 1433294898716
+  logout: 1433295900613
+ipAddress: 201.246.183.210
+lastlocation:
+  world: plotworld
+  x: -175.47219952748037
+  y: 65.0
+  z: -70.44965397636285
+  yaw: -27.749992
+  pitch: 28.050001
+logoutlocation:
+  world: plotworld
+  x: -175.12480250991626
+  y: 65.0
+  z: -69.12550783884696
+  yaw: 262.04993
+  pitch: 16.35
+socialspy: false
+money: '30.0'

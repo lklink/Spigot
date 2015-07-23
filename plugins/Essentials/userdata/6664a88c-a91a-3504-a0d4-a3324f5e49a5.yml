@@ -1,0 +1,21 @@
+lastAccountName: Leannan
+timestamps:
+  login: 1433810706558
+  lastteleport: 1433811617588
+  logout: 1433812071003
+ipAddress: 200.104.53.178
+lastlocation:
+  world: survival
+  x: -12.14296772784106
+  y: 122.0
+  z: 44.228373858289174
+  yaw: 62.549988
+  pitch: 12.600001
+logoutlocation:
+  world: juegos
+  x: -1020.8909788571008
+  y: 35.0
+  z: -101.41437435546351
+  yaw: 62.6958
+  pitch: 5.5500965
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: damian_2007m
+timestamps:
+  login: 1432998698434
+  logout: 1432998741087
+ipAddress: 186.67.191.245
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -216.41561915725487
+  y: 72.0
+  z: -309.6573595348114
+  yaw: 177.55914
+  pitch: 6.6000643
+socialspy: false
+money: '30.0'

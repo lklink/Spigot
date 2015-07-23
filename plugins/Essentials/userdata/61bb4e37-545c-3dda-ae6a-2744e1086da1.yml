@@ -1,0 +1,32 @@
+lastAccountName: jorge
+timestamps:
+  login: 1435094031364
+  lastteleport: 1435071804412
+  logout: 1435094036192
+  mute: 0
+ipAddress: 200.30.237.206
+lastlocation:
+  world: plotworld
+  x: 26.82285167003087
+  y: 66.0
+  z: 87.77364847812491
+  yaw: -226.9172
+  pitch: 10.620673
+logoutlocation:
+  world: spawn
+  x: -620.5065913758696
+  y: 49.0
+  z: -2426.713087386488
+  yaw: 11.337952
+  pitch: 11.664663
+socialspy: false
+money: '5320.0'
+muted: false
+homes:
+  home:
+    world: plotworld
+    x: 214.0
+    y: 65.0
+    z: -116.50423475217794
+    yaw: 0.0
+    pitch: 0.0

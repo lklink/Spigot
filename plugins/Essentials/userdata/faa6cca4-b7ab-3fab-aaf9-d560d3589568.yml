@@ -1,0 +1,20 @@
+lastAccountName: infogamer
+timestamps:
+  login: 1433512527919
+  logout: 1433513119545
+ipAddress: 167.62.143.34
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: 196.73047156534562
+  y: 65.0
+  z: -86.30194761309967
+  yaw: -265.4997
+  pitch: 30.899988
+money: '30.0'

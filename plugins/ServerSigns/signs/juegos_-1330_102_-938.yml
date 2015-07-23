@@ -1,0 +1,22 @@
+permission: ''
+world: juegos
+X: -1330
+Y: 102
+Z: -938
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /tppos -1329 127 -939
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

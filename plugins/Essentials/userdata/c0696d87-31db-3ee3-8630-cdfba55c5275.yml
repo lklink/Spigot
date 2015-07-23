@@ -1,0 +1,22 @@
+lastAccountName: anderson1036
+timestamps:
+  login: 1434419243418
+  lastteleport: 1434318145671
+  logout: 1434419508772
+ipAddress: 190.233.29.129
+lastlocation:
+  world: spawn
+  x: 562.5
+  y: 41.0
+  z: -1067.5
+  yaw: -35.28955
+  pitch: 90.0
+logoutlocation:
+  world: plotworld
+  x: 250.4952942254663
+  y: 65.0
+  z: -220.26007785902354
+  yaw: -107.84964
+  pitch: 38.849937
+socialspy: false
+money: '30.0'

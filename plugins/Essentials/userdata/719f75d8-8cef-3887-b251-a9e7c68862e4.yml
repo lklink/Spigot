@@ -1,0 +1,21 @@
+lastAccountName: Zyppo
+timestamps:
+  login: 1430070708483
+  logout: 1430070737565
+ipAddress: 186.79.199.54
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -946.5
+  y: 123.0
+  z: -528.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '680.0'

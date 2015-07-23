@@ -1,0 +1,21 @@
+lastAccountName: rodricraft
+timestamps:
+  login: 1433858290919
+  lastteleport: 1433858411843
+  logout: 1433858622741
+ipAddress: 190.44.163.191
+lastlocation:
+  world: juegos
+  x: -1393.3613129744783
+  y: 28.0
+  z: 4008.735633004628
+  yaw: -137.759
+  pitch: 10.3495865
+logoutlocation:
+  world: survival
+  x: 35.478116823807206
+  y: 68.0
+  z: 34.525192917974465
+  yaw: -233.40927
+  pitch: 17.39982
+money: '30.0'

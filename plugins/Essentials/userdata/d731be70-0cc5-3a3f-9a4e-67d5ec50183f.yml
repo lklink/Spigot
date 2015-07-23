@@ -1,0 +1,21 @@
+lastAccountName: saeckgamer
+timestamps:
+  login: 1432444435842
+  lastteleport: 1432444564072
+  logout: 1432445741054
+ipAddress: 190.209.89.213
+lastlocation:
+  world: juegos
+  x: -1396.937616811236
+  y: 28.0
+  z: 3992.8068454185395
+  yaw: -347.15894
+  pitch: 17.099564
+logoutlocation:
+  world: SkyWars
+  x: -0.28296453454926845
+  y: 49.0
+  z: 9.509708726478877
+  yaw: -171.31824
+  pitch: 7.6499844
+money: '30.0'

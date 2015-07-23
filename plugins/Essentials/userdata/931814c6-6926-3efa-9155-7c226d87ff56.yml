@@ -1,0 +1,21 @@
+lastAccountName: nayaretalex
+timestamps:
+  login: 1432348460287
+  logout: 1432348699000
+ipAddress: 190.164.102.7
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -333.221756478814
+  y: 76.0
+  z: -235.90000330979223
+  yaw: -108.34083
+  pitch: -7.2000003
+socialspy: false
+money: '30.0'

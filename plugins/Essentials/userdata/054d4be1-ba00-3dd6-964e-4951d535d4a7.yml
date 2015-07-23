@@ -1,0 +1,22 @@
+lastAccountName: max773546333
+timestamps:
+  login: 1434668045698
+  lastteleport: 1433538204453
+  logout: 1434668046347
+ipAddress: 201.187.116.88
+lastlocation:
+  world: juegos
+  x: 4702.636336664851
+  y: 52.5
+  z: 1045.1461167889345
+  yaw: -41.949154
+  pitch: 7.0482183
+logoutlocation:
+  world: juegos
+  x: 4700.826670052514
+  y: 52.0
+  z: 1058.1176001124477
+  yaw: 206.76752
+  pitch: 12.749958
+socialspy: false
+money: '30.0'

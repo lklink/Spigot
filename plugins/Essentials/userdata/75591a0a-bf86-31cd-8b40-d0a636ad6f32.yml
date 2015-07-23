@@ -1,0 +1,22 @@
+lastAccountName: BotUltraPro
+timestamps:
+  login: 1433464526965
+  logout: 1433464562185
+  lastteleport: 1433461268617
+ipAddress: 186.34.138.13
+lastlocation:
+  world: survival
+  x: -18.69999998807907
+  y: 107.5
+  z: 48.95429262937978
+  yaw: -5.4093447
+  pitch: -24.749998
+logoutlocation:
+  world: juegos
+  x: -1387.9801927744563
+  y: 28.0
+  z: 4019.6236749995583
+  yaw: -297.05893
+  pitch: -41.55041
+socialspy: false
+money: '0.0'

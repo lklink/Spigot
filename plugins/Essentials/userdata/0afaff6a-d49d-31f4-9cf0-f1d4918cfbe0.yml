@@ -1,0 +1,22 @@
+lastAccountName: XluFyX
+timestamps:
+  login: 1437006149944
+  lastteleport: 1436992921613
+  logout: 1437006670820
+ipAddress: 200.87.243.171
+lastlocation:
+  world: plotworld
+  x: 294.17468938240097
+  y: 65.0
+  z: 179.84372336777588
+  yaw: -263.2482
+  pitch: 2.587182
+logoutlocation:
+  world: survival
+  x: 166.30000001192093
+  y: 12.0
+  z: 21.359965975111496
+  yaw: 219.80869
+  pitch: 1.7117507
+socialspy: false
+money: '0.0'

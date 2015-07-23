@@ -1,0 +1,21 @@
+lastAccountName: SorryForMyHacks
+timestamps:
+  login: 1434575140859
+  logout: 1434575146610
+ipAddress: 181.160.169.121
+lastlocation:
+  world: plotworld
+  x: 255.37838066125653
+  y: 65.0
+  z: 50.528734341527795
+  yaw: 279.15796
+  pitch: 39.149536
+logoutlocation:
+  world: plotworld
+  x: 166.2883083594869
+  y: 65.0
+  z: 112.33601902656429
+  yaw: 32.670727
+  pitch: 15.037476
+socialspy: false
+money: '30.0'

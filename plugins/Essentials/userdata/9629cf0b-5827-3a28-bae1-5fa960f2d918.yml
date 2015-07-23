@@ -1,0 +1,21 @@
+lastAccountName: Poseidon
+timestamps:
+  login: 1430090968638
+  lastteleport: 1430091330456
+  logout: 1430091456293
+ipAddress: 190.43.244.113
+lastlocation:
+  world: survival
+  x: 5.994597150190282
+  y: 114.0
+  z: 89.93033840126773
+  yaw: -272.57428
+  pitch: -2.4280882
+logoutlocation:
+  world: survival
+  x: -20.30000001192093
+  y: 102.0
+  z: 61.69999998807907
+  yaw: 359.10016
+  pitch: 40.350033
+money: '30.0'

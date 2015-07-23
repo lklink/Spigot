@@ -1,0 +1,20 @@
+lastAccountName: EnderGame01
+timestamps:
+  login: 1434221440032
+  logout: 1434221455650
+ipAddress: 201.186.59.23
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -611.2007988547019
+  y: 28.0
+  z: -1377.4942823737215
+  yaw: 355.98468
+  pitch: 29.595242
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: SuperDanielPro
+timestamps:
+  login: 1429927981427
+  lastteleport: 1429928224154
+  logout: 1429928719440
+ipAddress: 189.170.253.54
+lastlocation:
+  world: plotworld
+  x: 84.16428375998063
+  y: 65.5
+  z: 3.4425595903467237
+  yaw: -74.40001
+  pitch: 27.600006
+logoutlocation:
+  world: juegos
+  x: -1024.9941299691254
+  y: 122.0
+  z: -524.2776855581913
+  yaw: -269.28595
+  pitch: 55.15324
+money: '29.0'

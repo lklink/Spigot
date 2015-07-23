@@ -1,0 +1,21 @@
+lastAccountName: TipicaMiyuCokieC
+timestamps:
+  login: 1435266355236
+  lastteleport: 1435266397538
+  logout: 1435267254803
+ipAddress: 190.164.117.116
+lastlocation:
+  world: juegos
+  x: -1379.2218628284759
+  y: 29.0
+  z: 3992.1509634857066
+  yaw: -88.76785
+  pitch: 39.884796
+logoutlocation:
+  world: spawn
+  x: -620.5534698895939
+  y: 48.0
+  z: -2433.7296848914893
+  yaw: -4.594952
+  pitch: 30.821396
+money: '60.0'

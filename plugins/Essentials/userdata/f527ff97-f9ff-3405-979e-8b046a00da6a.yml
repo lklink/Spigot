@@ -1,0 +1,21 @@
+lastAccountName: marco
+timestamps:
+  login: 1432440256473
+  logout: 1432440285882
+ipAddress: 200.73.210.165
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1355.951153770805
+  y: 10.0
+  z: 3960.4663988858265
+  yaw: 138.00005
+  pitch: 39.749992
+socialspy: false
+money: '30.0'

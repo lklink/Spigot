@@ -1,0 +1,22 @@
+lastAccountName: Criper01
+timestamps:
+  login: 1434575823404
+  logout: 1434575829155
+  lastteleport: 1434319639046
+ipAddress: 186.105.204.79
+lastlocation:
+  world: spawn
+  x: -614.2525706783051
+  y: 28.0
+  z: -1521.5698393971015
+  yaw: 357.04846
+  pitch: 6.600011
+logoutlocation:
+  world: spawn
+  x: -618.5578793990204
+  y: 50.0
+  z: -2450.3527537558502
+  yaw: 213.38087
+  pitch: 23.662786
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: SrDuds_BR
+timestamps:
+  login: 1433797360376
+  lastteleport: 1433797666498
+  logout: 1433797757403
+ipAddress: 190.147.74.26
+lastlocation:
+  world: juegos
+  x: -1398.0460134591237
+  y: 28.0
+  z: 4008.347385630126
+  yaw: 140.4911
+  pitch: 1.7995875
+logoutlocation:
+  world: SkyWars
+  x: -6.204629678984945
+  y: 51.0
+  z: 22.84948419500777
+  yaw: 123.13818
+  pitch: 17.446003
+money: '30.0'

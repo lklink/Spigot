@@ -1,0 +1,20 @@
+lastAccountName: rene100
+timestamps:
+  login: 1437084618142
+  logout: 1437084693504
+ipAddress: 189.231.105.246
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -612.3683297920912
+  y: 27.0
+  z: -1457.5442874796213
+  yaw: -182.77486
+  pitch: 4.301998
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: jude127
+timestamps:
+  login: 1435517660216
+  lastteleport: 1435517701040
+  logout: 1435517800945
+ipAddress: 181.64.192.236
+lastlocation:
+  world: juegos
+  x: -1394.4953083309501
+  y: 43.0
+  z: 3966.9481273466045
+  yaw: -323.6999
+  pitch: 6.299997
+logoutlocation:
+  world: survival
+  x: -31.445608805816807
+  y: 102.0
+  z: 54.477462449809806
+  yaw: 1.5265701
+  pitch: 19.65008
+socialspy: false
+money: '30.0'

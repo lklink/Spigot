@@ -1,0 +1,20 @@
+lastAccountName: lokygaymer
+timestamps:
+  login: 1434301597858
+  logout: 1434301764303
+ipAddress: 189.144.99.138
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -612.6311844792392
+  y: 28.0
+  z: -1388.9576875346493
+  yaw: 357.49866
+  pitch: 15.900011
+money: '30.0'

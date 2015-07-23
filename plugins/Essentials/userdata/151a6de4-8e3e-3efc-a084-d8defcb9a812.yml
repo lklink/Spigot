@@ -1,0 +1,22 @@
+lastAccountName: octavio
+timestamps:
+  login: 1433630034679
+  lastteleport: 1433613603692
+  logout: 1433630040502
+ipAddress: 177.245.196.86
+lastlocation:
+  world: plotworld
+  x: 61.09912956533684
+  y: 65.875
+  z: 167.90649973726025
+  yaw: -22.14506
+  pitch: 57.149998
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 28.0
+  z: 4026.309669218317
+  yaw: -178.40901
+  pitch: -9.300414
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: wtf2315
+timestamps:
+  login: 1434231638517
+  lastteleport: 1434231792464
+  logout: 1434232488553
+ipAddress: 186.104.243.45
+lastlocation:
+  world: spawn
+  x: -599.5167476867758
+  y: 29.0
+  z: -1403.096347366161
+  yaw: 136.0987
+  pitch: 12.450026
+logoutlocation:
+  world: spawn
+  x: -613.2827859510744
+  y: 28.0
+  z: -1373.0369126608027
+  yaw: 180.64871
+  pitch: 19.349998
+socialspy: false
+money: '29.0'

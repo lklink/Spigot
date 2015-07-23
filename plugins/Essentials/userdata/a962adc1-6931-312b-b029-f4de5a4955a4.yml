@@ -1,0 +1,22 @@
+lastAccountName: finnyboy63
+timestamps:
+  login: 1435442844907
+  logout: 1435443110497
+  lastteleport: 1435442994071
+ipAddress: 186.116.82.154
+lastlocation:
+  world: juegos
+  x: -1390.3016573261282
+  y: 31.0
+  z: 4005.451885808676
+  yaw: 39.450165
+  pitch: 41.84998
+logoutlocation:
+  world: survival
+  x: 72.06831617220897
+  y: 116.0
+  z: 87.5985194673135
+  yaw: 0.17663574
+  pitch: 18.016632
+socialspy: false
+money: '30.0'

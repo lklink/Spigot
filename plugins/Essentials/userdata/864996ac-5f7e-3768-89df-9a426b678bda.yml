@@ -1,0 +1,21 @@
+lastAccountName: miguel
+timestamps:
+  login: 1433701623661
+  logout: 1433701632611
+ipAddress: 201.188.19.122
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1353.8600629692799
+  y: 6.015949467937726
+  z: 3906.9272043149344
+  yaw: 346.44077
+  pitch: -9.000011
+socialspy: false
+money: '30.0'

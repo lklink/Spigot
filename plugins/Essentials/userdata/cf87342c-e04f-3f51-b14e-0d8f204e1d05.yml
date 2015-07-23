@@ -1,0 +1,23 @@
+lastAccountName: volkanito91
+timestamps:
+  login: 1433041796592
+  lastteleport: 1433041856197
+  logout: 1433041892778
+ipAddress: 200.86.73.201
+lastlocation:
+  world: plotworld
+  x: 104.7051549031299
+  y: 65.0
+  z: -101.7919669885056
+  yaw: 13.200023
+  pitch: 8.550004
+logoutlocation:
+  world: juegos
+  x: -1351.099263724265
+  y: 28.0
+  z: 3989.507341799212
+  yaw: 76.44103
+  pitch: -30.000425
+socialspy: false
+afk: false
+money: '1149.0'

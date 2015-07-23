@@ -1,0 +1,22 @@
+lastAccountName: antero
+timestamps:
+  login: 1434684338742
+  lastteleport: 1434216820508
+  logout: 1434684365271
+ipAddress: 190.233.70.31
+lastlocation:
+  world: SkyWars
+  x: 0.21826739443808435
+  y: 49.0
+  z: 13.15558667305833
+  yaw: -245.24445
+  pitch: 0.5448092
+logoutlocation:
+  world: spawn
+  x: -618.05296397894
+  y: 28.0
+  z: -1396.7453333052895
+  yaw: -276.25137
+  pitch: 4.976988E-7
+socialspy: false
+money: '30.0'

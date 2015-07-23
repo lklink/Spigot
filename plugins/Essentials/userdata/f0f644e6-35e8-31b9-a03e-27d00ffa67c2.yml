@@ -1,0 +1,22 @@
+lastAccountName: Javier
+timestamps:
+  login: 1434916372679
+  lastteleport: 1434917263547
+  logout: 1434919098083
+ipAddress: 201.222.226.85
+lastlocation:
+  world: survival
+  x: 16.5
+  y: 55.0
+  z: 298.5
+  yaw: 273.96927
+  pitch: 3.2521718
+logoutlocation:
+  world: survival
+  x: 16.5
+  y: 55.0
+  z: 298.5
+  yaw: 230.04834
+  pitch: 8.044905
+socialspy: false
+money: '70.0'

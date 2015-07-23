@@ -1,0 +1,21 @@
+lastAccountName: eyeshield
+timestamps:
+  login: 1432335964766
+  logout: 1432335969031
+ipAddress: 186.78.17.98
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -575.2069430555714
+  y: 70.0
+  z: -224.2732310804151
+  yaw: -98.29059
+  pitch: 5.249992
+socialspy: false
+money: '30.0'

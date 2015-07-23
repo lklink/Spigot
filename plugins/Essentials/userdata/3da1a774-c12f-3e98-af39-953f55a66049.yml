@@ -1,0 +1,22 @@
+lastAccountName: clementeelpro
+timestamps:
+  login: 1434243510189
+  lastteleport: 1434243587722
+  logout: 1434243611127
+ipAddress: 181.177.222.94
+lastlocation:
+  world: spawn
+  x: -552.1872968171463
+  y: 10.0
+  z: -1366.0490470167365
+  yaw: 20.149353
+  pitch: 9.599997
+logoutlocation:
+  world: spawn
+  x: -613.5398920168524
+  y: 28.0
+  z: -1367.466671878569
+  yaw: 175.2487
+  pitch: 15.600002
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: MarinaGamer7
+timestamps:
+  login: 1435691791097
+  lastteleport: 1435663221142
+  logout: 1435691795512
+ipAddress: 85.57.39.123
+lastlocation:
+  world: plotworld
+  x: 198.06303295409558
+  y: 65.0
+  z: -193.68037666885894
+  yaw: -165.90921
+  pitch: 3.7256436
+logoutlocation:
+  world: plotworld
+  x: 170.99698855451834
+  y: 64.0
+  z: -257.0594952986542
+  yaw: 2.1476746
+  pitch: 11.849814
+socialspy: false
+money: '30.0'

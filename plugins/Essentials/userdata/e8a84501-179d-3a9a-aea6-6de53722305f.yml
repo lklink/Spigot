@@ -1,0 +1,22 @@
+lastAccountName: subzero
+timestamps:
+  login: 1437271162615
+  lastteleport: 1437271195412
+  logout: 1437271249964
+ipAddress: 181.119.60.181
+lastlocation:
+  world: survival
+  x: -7.559372953738025
+  y: 56.492774140542735
+  z: 81.54435522749519
+  yaw: -106.56967
+  pitch: 9.2964325
+logoutlocation:
+  world: juegos
+  x: -819.4559371228399
+  y: 6.0
+  z: 3697.3467109059757
+  yaw: 267.72928
+  pitch: 1.0499984
+socialspy: false
+money: '30.0'

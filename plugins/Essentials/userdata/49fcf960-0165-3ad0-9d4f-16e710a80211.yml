@@ -1,0 +1,22 @@
+lastAccountName: SsniPer
+timestamps:
+  login: 1434157212700
+  logout: 1434157322303
+  lastteleport: 1434069481323
+ipAddress: 190.129.196.75
+lastlocation:
+  world: spawn
+  x: -613.4309726522746
+  y: 28.0
+  z: -1418.9849888934507
+  yaw: 80.0589
+  pitch: -1.353037
+logoutlocation:
+  world: spawn
+  x: -684.6901797979457
+  y: 24.5
+  z: -1418.8047785784602
+  yaw: 240.29309
+  pitch: 26.621168
+socialspy: false
+money: '30.0'

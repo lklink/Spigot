@@ -1,0 +1,20 @@
+lastAccountName: SoyMeeAyudenme
+timestamps:
+  login: 1433104738257
+  logout: 1433104918201
+ipAddress: 189.235.130.179
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1396.7960159508734
+  y: 28.0
+  z: 4014.9712466047804
+  yaw: -169.30972
+  pitch: -2.2017984
+money: '30.0'

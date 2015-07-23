@@ -1,0 +1,22 @@
+lastAccountName: seba2002stian
+timestamps:
+  login: 1435623659910
+  lastteleport: 1435624639146
+  logout: 1435624837702
+ipAddress: 66.128.34.152
+lastlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 49.0
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+logoutlocation:
+  world: spawn
+  x: -613.5
+  y: 28.0
+  z: -1367.5
+  yaw: 176.0251
+  pitch: 73.00201
+socialspy: false
+money: '30.0'

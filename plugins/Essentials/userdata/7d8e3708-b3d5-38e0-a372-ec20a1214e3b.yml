@@ -1,0 +1,30 @@
+lastAccountName: Gosu
+timestamps:
+  login: 1437529003003
+  lastteleport: 1437530469368
+  logout: 1437530477319
+ipAddress: 190.217.254.120
+lastlocation:
+  world: juegos
+  x: -1503.5
+  y: 133.0
+  z: 4439.5
+  yaw: -281.3842
+  pitch: 38.443417
+logoutlocation:
+  world: spawn
+  x: -614.723988226348
+  y: 28.0
+  z: -1372.1148815867168
+  yaw: 153.52509
+  pitch: 64.302
+socialspy: false
+homes:
+  home:
+    world: juegos
+    x: -1518.5
+    y: 133.0
+    z: 4437.5
+    yaw: 317.52158
+    pitch: 48.4642
+money: '30.0'

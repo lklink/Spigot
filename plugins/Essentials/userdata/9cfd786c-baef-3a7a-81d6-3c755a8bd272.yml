@@ -1,0 +1,21 @@
+lastAccountName: arcondo
+timestamps:
+  login: 1435544073701
+  lastteleport: 1435544154553
+  logout: 1435544454927
+ipAddress: 190.234.96.53
+lastlocation:
+  world: spawn
+  x: -612.6674852147114
+  y: 28.0
+  z: -1401.992453243146
+  yaw: 187.37946
+  pitch: 8.284793
+logoutlocation:
+  world: survival
+  x: 265.67423772663034
+  y: 64.0
+  z: 355.26419802130147
+  yaw: -263.83154
+  pitch: 14.204166
+money: '30.0'

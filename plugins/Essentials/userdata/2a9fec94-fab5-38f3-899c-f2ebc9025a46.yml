@@ -1,0 +1,22 @@
+lastAccountName: gonzalo
+timestamps:
+  login: 1433813061651
+  logout: 1433813074527
+  lastteleport: 1433796103763
+ipAddress: 201.186.33.121
+lastlocation:
+  world: juegos
+  x: -1398.4717985613768
+  y: 28.0
+  z: 4007.156862416991
+  yaw: 130.89096
+  pitch: 4.1995873
+logoutlocation:
+  world: SkyWars
+  x: -0.6568668223514401
+  y: 50.0
+  z: 3.820594047855204
+  yaw: 202.33841
+  pitch: 16.995985
+socialspy: false
+money: '30.0'

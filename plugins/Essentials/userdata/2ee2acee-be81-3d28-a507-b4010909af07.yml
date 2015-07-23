@@ -1,0 +1,22 @@
+lastAccountName: OldSteph
+timestamps:
+  login: 1432343903299
+  logout: 1432345057984
+  lastteleport: 1432344224269
+ipAddress: 190.30.201.28
+lastlocation:
+  world: survival
+  x: 166.1739961685036
+  y: 63.0
+  z: 74.80009155661261
+  yaw: 277.0121
+  pitch: 81.45
+logoutlocation:
+  world: survival
+  x: 370.0147703667075
+  y: 70.0
+  z: 54.13448647065648
+  yaw: 55.524506
+  pitch: 37.199986
+socialspy: false
+money: '30.0'

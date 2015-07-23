@@ -1,0 +1,22 @@
+lastAccountName: nicolas3131
+timestamps:
+  login: 1433545933407
+  logout: 1433546129200
+  lastteleport: 1433545987409
+ipAddress: 201.246.231.59
+lastlocation:
+  world: juegos
+  x: -1395.7255007105903
+  y: 28.0
+  z: 3982.1491960669277
+  yaw: 185.34091
+  pitch: -1.5004374
+logoutlocation:
+  world: Factions
+  x: -272.9133371204499
+  y: 72.0
+  z: -254.83305929739305
+  yaw: 198.85898
+  pitch: 2.549997
+socialspy: false
+money: '30.0'

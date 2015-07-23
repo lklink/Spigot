@@ -1,0 +1,22 @@
+lastAccountName: jonatan
+timestamps:
+  login: 1436830725271
+  lastteleport: 1436830929274
+  logout: 1436831691219
+ipAddress: 177.228.99.129
+lastlocation:
+  world: plotworld
+  x: -28.854929373843728
+  y: 66.0
+  z: 240.6855236273021
+  yaw: -139.35004
+  pitch: 82.05001
+logoutlocation:
+  world: plotworld
+  x: -253.69999998807907
+  y: 70.0
+  z: 210.44216481554858
+  yaw: -24.000061
+  pitch: 28.499996
+socialspy: false
+money: '30.0'

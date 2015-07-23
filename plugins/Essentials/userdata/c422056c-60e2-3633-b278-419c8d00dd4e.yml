@@ -1,0 +1,22 @@
+lastAccountName: Hectarea
+timestamps:
+  login: 1435897388438
+  logout: 1435897666738
+  lastteleport: 1435621518036
+ipAddress: 189.223.134.194
+lastlocation:
+  world: spawn
+  x: -613.1622818184923
+  y: 28.0
+  z: -1366.2784559592653
+  yaw: 194.76321
+  pitch: 3.557991
+logoutlocation:
+  world: spawn
+  x: -620.3455515937646
+  y: 48.0
+  z: -2438.9472427737564
+  yaw: -357.30078
+  pitch: 37.890022
+socialspy: false
+money: '30.0'

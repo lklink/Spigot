@@ -1,0 +1,21 @@
+lastAccountName: alexander
+timestamps:
+  login: 1433006239356
+  logout: 1433006274633
+ipAddress: 181.66.156.78
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1426.2434200455652
+  y: 28.0
+  z: 4019.3333929086175
+  yaw: -81.35896
+  pitch: 22.94998
+socialspy: false
+money: '30.0'

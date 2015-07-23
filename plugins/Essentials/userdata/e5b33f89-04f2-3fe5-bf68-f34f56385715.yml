@@ -1,0 +1,22 @@
+lastAccountName: TheCristianCR
+timestamps:
+  login: 1433647251710
+  logout: 1433647260161
+  lastteleport: 1433637323178
+ipAddress: 186.107.254.225
+lastlocation:
+  world: juegos
+  x: -1392.59955651937
+  y: 28.0
+  z: 4008.4367901348687
+  yaw: -152.30891
+  pitch: -1.0504153
+logoutlocation:
+  world: juegos
+  x: -1429.9234969179738
+  y: 28.0
+  z: 3993.125007086755
+  yaw: -91.70857
+  pitch: 7.5000076
+socialspy: false
+money: '30.0'

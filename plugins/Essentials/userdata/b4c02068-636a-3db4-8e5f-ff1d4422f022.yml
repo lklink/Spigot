@@ -1,0 +1,30 @@
+lastAccountName: nitrock
+timestamps:
+  login: 1434322771613
+  lastteleport: 1434322901602
+  logout: 1434322911502
+ipAddress: 200.120.171.41
+lastlocation:
+  world: juegos
+  x: 4694.664034698868
+  y: 52.0
+  z: 1060.9568727899598
+  yaw: 125.45125
+  pitch: 44.848106
+homes:
+  home:
+    world: juegos
+    x: -1395.5
+    y: 28.0
+    z: 4026.5
+    yaw: 180.691
+    pitch: 31.949587
+logoutlocation:
+  world: juegos
+  x: 4702.003888884232
+  y: 52.0
+  z: 1061.9399073799582
+  yaw: -202.44919
+  pitch: 18.750002
+socialspy: false
+money: '30.0'

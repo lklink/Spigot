@@ -1,0 +1,22 @@
+lastAccountName: Craas
+timestamps:
+  login: 1433105235936
+  logout: 1433105889419
+  lastteleport: 1433105456576
+ipAddress: 190.163.132.95
+lastlocation:
+  world: juegos
+  x: -1392.4490487389005
+  y: 28.0
+  z: 4009.268212300031
+  yaw: 199.29114
+  pitch: -2.0999932
+logoutlocation:
+  world: survival
+  x: -50.269272901190945
+  y: 49.81582403152687
+  z: 24.901297569661725
+  yaw: 183.44992
+  pitch: 90.0
+socialspy: false
+money: '30.0'

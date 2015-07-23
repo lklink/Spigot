@@ -1,0 +1,22 @@
+lastAccountName: Cs2Link
+timestamps:
+  login: 1435286196272
+  lastteleport: 1435285892235
+  logout: 1435286204623
+ipAddress: 187.148.137.17
+lastlocation:
+  world: juegos
+  x: -1396.4247521437849
+  y: 28.0
+  z: 4020.895921788795
+  yaw: 167.24474
+  pitch: 6.744478
+logoutlocation:
+  world: juegos
+  x: -1096.2918091738977
+  y: 54.0
+  z: 2782.416127923032
+  yaw: 208.63702
+  pitch: 31.2948
+socialspy: false
+money: '60.0'

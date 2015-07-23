@@ -1,0 +1,22 @@
+lastAccountName: Venji888
+timestamps:
+  login: 1434823685440
+  lastteleport: 1434765393068
+  logout: 1434824666798
+ipAddress: 190.47.8.33
+lastlocation:
+  world: juegos
+  x: -1089.699999988079
+  y: 61.0
+  z: 4432.300000011921
+  yaw: 78.89951
+  pitch: 9.14997
+logoutlocation:
+  world: juegos
+  x: -1090.7846866151847
+  y: 73.43616677629558
+  z: 4433.92798097582
+  yaw: 6.1490173
+  pitch: 20.999998
+socialspy: false
+money: '30.0'

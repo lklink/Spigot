@@ -1,0 +1,21 @@
+lastAccountName: Taizun
+timestamps:
+  login: 1433970990609
+  logout: 1433971015159
+ipAddress: 201.208.49.240
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1487.699999988079
+  y: 4.0
+  z: 4017.300000011921
+  yaw: 6.5996704
+  pitch: -78.9
+socialspy: false
+money: '30.0'

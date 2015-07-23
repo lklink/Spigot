@@ -1,0 +1,22 @@
+lastAccountName: xXShadowXxBlast
+timestamps:
+  login: 1433553975936
+  lastteleport: 1433554420478
+  logout: 1433554498783
+ipAddress: 201.239.78.156
+lastlocation:
+  world: plotworld
+  x: 195.68088046320878
+  y: 65.0
+  z: 157.88077217425354
+  yaw: 95.10003
+  pitch: 11.699982
+logoutlocation:
+  world: SkyWars
+  x: 0.5552248231528313
+  y: 52.61387992998081
+  z: -22.708357930336522
+  yaw: -173.11192
+  pitch: 2.5959973
+socialspy: false
+money: '30.0'

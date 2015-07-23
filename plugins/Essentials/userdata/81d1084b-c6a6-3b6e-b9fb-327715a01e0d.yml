@@ -1,0 +1,22 @@
+lastAccountName: mielsen
+timestamps:
+  login: 1434157585713
+  logout: 1434157632366
+  lastteleport: 1433899025203
+ipAddress: 181.165.5.159
+lastlocation:
+  world: juegos
+  x: -1397.2667045700769
+  y: 28.0
+  z: 4008.6531609566023
+  yaw: -224.45901
+  pitch: -0.30041087
+logoutlocation:
+  world: SkyWars
+  x: -6.147135324691229
+  y: 51.0
+  z: -25.949999988079075
+  yaw: -148.06172
+  pitch: 3.149984
+socialspy: false
+money: '30.0'

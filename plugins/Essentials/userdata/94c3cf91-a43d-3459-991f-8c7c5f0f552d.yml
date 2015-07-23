@@ -1,0 +1,20 @@
+lastAccountName: cristhian
+timestamps:
+  login: 1437318277543
+  logout: 1437318393992
+ipAddress: 201.230.49.159
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.7041440527039
+  y: 28.0
+  z: -1367.1104354598222
+  yaw: -13.724915
+  pitch: 28.050003
+money: '30.0'

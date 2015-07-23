@@ -1,0 +1,21 @@
+lastAccountName: OverLaxoS_
+timestamps:
+  login: 1435231801366
+  lastteleport: 1435232221390
+  logout: 1435232245040
+ipAddress: 181.51.219.203
+lastlocation:
+  world: juegos
+  x: -1393.5956897158637
+  y: 28.0
+  z: 4024.288415817999
+  yaw: 220.8
+  pitch: 7.0499983
+logoutlocation:
+  world: survival
+  x: -6.743236778200971
+  y: 114.0
+  z: 15.20555985274681
+  yaw: 74.63041
+  pitch: -0.5999962
+money: '30.0'

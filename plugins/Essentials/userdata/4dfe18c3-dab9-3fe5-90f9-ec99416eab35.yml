@@ -1,0 +1,30 @@
+lastAccountName: JseAranda
+timestamps:
+  login: 1434918767470
+  logout: 1434918875561
+  lastteleport: 1434918868792
+ipAddress: 200.86.139.208
+lastlocation:
+  world: plotworld
+  x: 186.73898233735278
+  y: 65.0
+  z: -160.66058925944438
+  yaw: 192.60004
+  pitch: 47.850018
+logoutlocation:
+  world: juegos
+  x: -1395.756472634497
+  y: 28.0
+  z: 4027.85510307936
+  yaw: 355.80005
+  pitch: -0.14999476
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 211.41186028719585
+    y: 12.0
+    z: -99.3164097647285
+    yaw: -113.16093
+    pitch: 31.800034
+money: '10235.0'

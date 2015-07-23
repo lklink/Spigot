@@ -1,0 +1,34 @@
+permission: ''
+world: juegos
+X: 4704
+Y: 103
+Z: 1047
+price: 0.0
+cooldown: 86000
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> Diamond 5 '
+- '*money give <player> 2000 '
+- '*spawn <player> '
+- '*broadcast &bEl Jugador &0[&1&l<player>&0] &b a pasado el &4&l/Warp Parkour '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  dani3019: 1433559665466
+  Alvaro: 1434302899285
+  _KuxoMC_: 1434915309290
+  FabianMC: 1434929780038
+  elcrackboy: 1434930000937
+  Elhpipe: 1429987037003
+  Mage3683: 1432234221788
+  sheezzy: 1429987001849
+  knino: 1433614629018
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

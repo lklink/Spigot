@@ -1,0 +1,20 @@
+lastAccountName: luka
+timestamps:
+  login: 1432878647475
+  logout: 1432878687126
+ipAddress: 189.204.178.198
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1403.5
+  y: 102.0
+  z: 4023.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

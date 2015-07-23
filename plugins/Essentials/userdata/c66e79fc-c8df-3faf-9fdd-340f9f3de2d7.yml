@@ -1,0 +1,21 @@
+lastAccountName: COZUGAMER
+timestamps:
+  login: 1434149175627
+  lastteleport: 1434149454700
+  logout: 1434149696191
+ipAddress: 190.129.127.236
+lastlocation:
+  world: spawn
+  x: -614.2668196690842
+  y: 28.0
+  z: -1408.0005879442476
+  yaw: 168.49896
+  pitch: 24.300005
+logoutlocation:
+  world: spawn
+  x: -618.5328052907823
+  y: 49.0
+  z: -2407.809174877659
+  yaw: 148.04913
+  pitch: 18.540003
+money: '30.0'

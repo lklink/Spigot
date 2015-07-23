@@ -1,0 +1,23 @@
+lastAccountName: Conf1de
+timestamps:
+  login: 1434155168144
+  logout: 1434155527288
+  lastteleport: 1432507291295
+ipAddress: 191.116.155.218
+lastlocation:
+  world: plotworld
+  x: -160.97827183321772
+  y: 65.0
+  z: 9.028557736274733
+  yaw: -275.9989
+  pitch: 36.60007
+logoutlocation:
+  world: plotworld
+  x: -132.2060763976549
+  y: 78.0
+  z: 57.778673258518396
+  yaw: 163.80083
+  pitch: -72.60009
+socialspy: false
+afk: false
+money: '30.0'

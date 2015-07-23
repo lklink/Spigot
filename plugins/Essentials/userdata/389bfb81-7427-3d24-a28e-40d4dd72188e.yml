@@ -1,0 +1,22 @@
+lastAccountName: Andrew1058_
+timestamps:
+  login: 1433363863703
+  lastteleport: 1433363893464
+  logout: 1433363966029
+ipAddress: 186.42.129.219
+lastlocation:
+  world: survival
+  x: -2.2423955649664644
+  y: 114.0
+  z: 16.35268839095012
+  yaw: -89.598694
+  pitch: -34.85768
+logoutlocation:
+  world: plotworld
+  x: 168.74778227847457
+  y: 65.0
+  z: -79.69999998807907
+  yaw: -117.95912
+  pitch: 30.415648
+socialspy: false
+money: '30.0'

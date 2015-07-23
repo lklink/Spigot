@@ -1,0 +1,22 @@
+lastAccountName: trolololo
+timestamps:
+  login: 1433645191600
+  logout: 1433646379113
+  lastteleport: 1433645683369
+ipAddress: 190.121.126.61
+lastlocation:
+  world: survival
+  x: -2.675575520829804
+  y: 114.0
+  z: 16.740932497918987
+  yaw: -94.0593
+  pitch: -28.800156
+logoutlocation:
+  world: juegos
+  x: -1395.446048289195
+  y: 28.0
+  z: 4002.7501443409037
+  yaw: 179.04091
+  pitch: 4.649589
+socialspy: false
+money: '30.0'

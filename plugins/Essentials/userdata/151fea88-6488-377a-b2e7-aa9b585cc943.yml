@@ -1,0 +1,21 @@
+lastAccountName: claudiaoshea
+timestamps:
+  login: 1433197841121
+  logout: 1433197841425
+ipAddress: 121.15.230.126
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.309
+  pitch: 31.949587
+socialspy: false
+money: '30.0'

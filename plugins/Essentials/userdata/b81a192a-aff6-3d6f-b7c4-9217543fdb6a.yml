@@ -1,0 +1,32 @@
+lastAccountName: sheezzy
+timestamps:
+  login: 1433904934468
+  logout: 1433905132812
+  lastteleport: 1433905017121
+  mute: 0
+ipAddress: 201.186.71.168
+lastlocation:
+  world: plotworld
+  x: 96.30000001192093
+  y: 59.41463175153524
+  z: -51.57499998807907
+  yaw: 169.94995
+  pitch: -5.250025
+logoutlocation:
+  world: plotworld
+  x: 98.52640842683243
+  y: 65.4807108763317
+  z: -78.33025259309983
+  yaw: -121.79993
+  pitch: 9.149981
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: -2644.0788117296806
+    y: 64.0
+    z: 4600.301195133303
+    yaw: 285.1443
+    pitch: 5.849973
+muted: false
+money: '2030.0'

@@ -1,0 +1,22 @@
+lastAccountName: JoaozinhoGamer_
+timestamps:
+  login: 1430264668195
+  logout: 1430264678931
+  lastteleport: 1430091941524
+ipAddress: 190.82.130.71
+lastlocation:
+  world: juegos
+  x: -1047.5257563692921
+  y: 122.0
+  z: -519.6672161442667
+  yaw: 83.24756
+  pitch: -3.1606543
+logoutlocation:
+  world: survival
+  x: 71.50405135682327
+  y: 71.0
+  z: 245.9716110184725
+  yaw: 164.0554
+  pitch: 28.50426
+socialspy: false
+money: '30.0'

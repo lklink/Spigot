@@ -1,0 +1,30 @@
+lastAccountName: YTVegettaGaymer
+timestamps:
+  login: 1437609797135
+  lastteleport: 1436126521438
+  logout: 1437609831786
+ipAddress: 181.160.169.206
+lastlocation:
+  world: survival
+  x: -19.78774940984254
+  y: 115.0
+  z: 70.95714922108627
+  yaw: 352.5616
+  pitch: -4.103044
+logoutlocation:
+  world: survival
+  x: 66.49873291720974
+  y: 9.0
+  z: 321.78439931246197
+  yaw: 94.07528
+  pitch: -4.8082266
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 66.69999998807907
+    y: 9.0
+    z: 321.6890913579264
+    yaw: -89.20456
+    pitch: 47.047676
+money: '30.0'

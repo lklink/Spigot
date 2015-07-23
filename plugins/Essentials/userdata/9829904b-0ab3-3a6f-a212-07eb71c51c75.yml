@@ -1,0 +1,20 @@
+lastAccountName: goku135
+timestamps:
+  login: 1435428454692
+  logout: 1435428595050
+ipAddress: 190.38.14.76
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1403.4221221159428
+  y: 29.0
+  z: 3869.11442761976
+  yaw: 91.650024
+  pitch: 62.700012
+money: '30.0'

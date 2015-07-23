@@ -1,0 +1,21 @@
+lastAccountName: Oreyx
+timestamps:
+  login: 1433012911252
+  lastteleport: 1433013133663
+  logout: 1433013390400
+ipAddress: 187.131.32.168
+lastlocation:
+  world: juegos
+  x: -1296.8891747666482
+  y: 24.0
+  z: 4013.7444808281975
+  yaw: 121.95862
+  pitch: 25.983335
+logoutlocation:
+  world: SkyWars
+  x: 1.47890953885832
+  y: 49.5
+  z: -15.736274737171751
+  yaw: 144.23871
+  pitch: 23.430359
+money: '55.0'

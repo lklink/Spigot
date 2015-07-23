@@ -1,0 +1,22 @@
+lastAccountName: brythanie
+timestamps:
+  login: 1434490099122
+  lastteleport: 1434490149591
+  logout: 1434490186473
+ipAddress: 186.36.126.113
+lastlocation:
+  world: juegos
+  x: 4701.652051854342
+  y: 52.0
+  z: 1050.1125613239888
+  yaw: -132.54912
+  pitch: 3.148144
+logoutlocation:
+  world: juegos
+  x: 4698.362324096207
+  y: 52.0
+  z: 1057.715683928811
+  yaw: 106.701385
+  pitch: 71.700005
+socialspy: false
+money: '30.0'

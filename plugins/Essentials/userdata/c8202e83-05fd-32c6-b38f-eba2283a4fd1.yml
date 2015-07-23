@@ -1,0 +1,22 @@
+lastAccountName: ANGELL845
+timestamps:
+  login: 1433209317085
+  logout: 1433209965992
+  lastteleport: 1433209378616
+ipAddress: 189.249.202.231
+lastlocation:
+  world: juegos
+  x: -1398.7093379100581
+  y: 28.0
+  z: 4016.7014805116796
+  yaw: 155.641
+  pitch: 45.449596
+logoutlocation:
+  world: SkyWars
+  x: 6.2034660267655655
+  y: 49.0
+  z: -9.409398957551883
+  yaw: -28.811768
+  pitch: 22.545984
+socialspy: false
+money: '55.0'

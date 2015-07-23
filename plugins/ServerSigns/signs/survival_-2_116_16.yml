@@ -1,0 +1,54 @@
+permission: ''
+world: survival
+X: -2
+Y: 116
+Z: 16
+price: 0.0
+cooldown: 5
+globalCooldown: 0
+confirmation: false
+commands:
+- '*warp Plotme '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  jeremy: 1434304440355
+  patotato: 1433616027946
+  FabianMC: 1430069014759
+  Zimok: 1429749715443
+  SrNiguel: 1431360764749
+  Zambrano: 1433100101251
+  creeper0000: 1433360902713
+  matita: 1433104654542
+  cristian123: 1434590929788
+  Skeletonman44: 1429933001189
+  CVBM: 1433541674457
+  ismael: 1435435854731
+  ChechotyHarDxX: 1432331372694
+  Majeh: 1434744943879
+  knales11: 1437504728308
+  lalo: 1433644264261
+  Sebax21: 1429830723792
+  Hotban23: 1433688540467
+  C4LCeTiN: 1434302073018
+  Javonico: 1433814291593
+  '123': 1432583893387
+  Andrew1058_: 1433363893426
+  trolololo: 1433645683353
+  Randroid75: 1434744948981
+  gatogamer: 1429829849884
+  BLUBLEGUM: 1434323171512
+  PewDiePie25: 1433128277063
+  yDarkSlayer: 1433552532276
+  Adrianog: 1434335665646
+  hamahamahomohumu: 1434303526743
+  Javier: 1433363896578
+  MrANORITHD: 1429819352692
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

@@ -1,0 +1,22 @@
+lastAccountName: nicko
+timestamps:
+  login: 1433482802042
+  lastteleport: 1433482866402
+  logout: 1433482981100
+ipAddress: 186.35.153.54
+lastlocation:
+  world: juegos
+  x: -1395.1591872683503
+  y: 28.0
+  z: 3981.537361516903
+  yaw: 167.79108
+  pitch: -2.100415
+logoutlocation:
+  world: Factions
+  x: -307.2345879056607
+  y: 69.0
+  z: -290.15957880103457
+  yaw: 74.509254
+  pitch: 28.800035
+socialspy: false
+money: '30.0'

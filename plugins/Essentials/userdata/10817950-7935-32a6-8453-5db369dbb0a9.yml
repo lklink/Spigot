@@ -1,0 +1,22 @@
+lastAccountName: OmegaSon
+timestamps:
+  login: 1434245494557
+  logout: 1434248127841
+  lastteleport: 1434246332666
+ipAddress: 201.241.39.41
+lastlocation:
+  world: spawn
+  x: -613.5398920168524
+  y: 28.0
+  z: -1367.466671878569
+  yaw: 184.99869
+  pitch: 16.2
+logoutlocation:
+  world: spawn
+  x: -621.8741275267422
+  y: 50.0
+  z: -2444.824805067123
+  yaw: -94.20001
+  pitch: 31.950031
+socialspy: false
+money: '30.0'

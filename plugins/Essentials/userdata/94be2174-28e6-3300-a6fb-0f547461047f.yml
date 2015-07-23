@@ -1,0 +1,22 @@
+lastAccountName: ZeusGamer12
+timestamps:
+  login: 1435524406394
+  logout: 1435524545323
+  lastteleport: 1434139803894
+ipAddress: 190.74.207.251
+lastlocation:
+  world: spawn
+  x: -649.5434736479414
+  y: 12.249187078744683
+  z: -1437.9613129471386
+  yaw: 324.20508
+  pitch: 7.670376
+logoutlocation:
+  world: spawn
+  x: -548.410371383617
+  y: 6.0
+  z: -1405.699999988079
+  yaw: 201.67273
+  pitch: 16.271976
+socialspy: false
+money: '55.0'

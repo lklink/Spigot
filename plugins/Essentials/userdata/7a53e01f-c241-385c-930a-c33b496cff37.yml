@@ -1,0 +1,32 @@
+lastAccountName: natali
+timestamps:
+  login: 1436454898346
+  lastteleport: 1436455488778
+  logout: 1436455545669
+  mute: 0
+ipAddress: 181.75.172.88
+lastlocation:
+  world: spawn
+  x: -620.2945693508887
+  y: 28.0
+  z: -1396.7206812598452
+  yaw: 84.22516
+  pitch: -26.147997
+logoutlocation:
+  world: spawn
+  x: -621.9914083034658
+  y: 6.0
+  z: -1411.7259214696328
+  yaw: -146.05128
+  pitch: -6.4500294
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 332.5
+    y: 72.0
+    z: -26.5
+    yaw: -210.073
+    pitch: 8.699965
+muted: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: FastAxel
+timestamps:
+  login: 1433645602649
+  logout: 1433645638951
+  lastteleport: 1433561301003
+ipAddress: 187.184.119.19
+lastlocation:
+  world: juegos
+  x: 4692.557850340143
+  y: 52.0
+  z: 1053.9331978296982
+  yaw: 50.901176
+  pitch: 12.898044
+logoutlocation:
+  world: SkyWars
+  x: -0.36364049471149207
+  y: 51.0
+  z: -21.863521803131633
+  yaw: -213.10211
+  pitch: 0.7121205
+socialspy: false
+money: '30.0'

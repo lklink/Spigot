@@ -1,0 +1,22 @@
+lastAccountName: hammielover
+timestamps:
+  login: 1433022203262
+  lastteleport: 1433022734518
+  logout: 1433024350872
+ipAddress: 190.164.44.7
+lastlocation:
+  world: plotworld
+  x: 136.27446676494526
+  y: 65.0
+  z: 61.517085018718014
+  yaw: 252.15005
+  pitch: 11.400009
+logoutlocation:
+  world: plotworld
+  x: 167.06394667834616
+  y: 65.0
+  z: -15.362096030524986
+  yaw: 224.70007
+  pitch: 12.299993
+socialspy: false
+money: '30.0'

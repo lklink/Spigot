@@ -1,0 +1,21 @@
+lastAccountName: KingofKing
+timestamps:
+  login: 1433612286127
+  lastteleport: 1433612313300
+  logout: 1433612342606
+ipAddress: 181.64.192.234
+lastlocation:
+  world: plotworld
+  x: 97.66687188954502
+  y: 65.0
+  z: 200.61716581653013
+  yaw: 4.2000017
+  pitch: 10.800005
+logoutlocation:
+  world: survival
+  x: -17.12407539156718
+  y: 112.0
+  z: 58.69033963274261
+  yaw: 54.83042
+  pitch: 12.2964115
+money: '30.0'

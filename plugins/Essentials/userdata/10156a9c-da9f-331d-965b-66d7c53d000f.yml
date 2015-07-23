@@ -1,0 +1,22 @@
+lastAccountName: NiqoBersttPvP
+timestamps:
+  login: 1429738546759
+  lastteleport: 1429741870727
+  logout: 1429741919215
+ipAddress: 181.160.97.209
+lastlocation:
+  world: juegos
+  x: 972.7741449658038
+  y: 141.0
+  z: 596.8784117731271
+  yaw: 62.27229
+  pitch: 6.8029556
+afk: false
+logoutlocation:
+  world: plotworld
+  x: 17.45768358912631
+  y: 65.0
+  z: -13.478061613942085
+  yaw: 171.91779
+  pitch: 29.199581
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: joseluis35
+timestamps:
+  login: 1436398327208
+  logout: 1436398401324
+  lastteleport: 1435618413128
+ipAddress: 189.148.167.38
+lastlocation:
+  world: spawn
+  x: -625.4258338368701
+  y: 50.0
+  z: -2449.690846990908
+  yaw: 173.29625
+  pitch: 3.2423966
+logoutlocation:
+  world: plotworld
+  x: -4.195605223627036
+  y: 65.0
+  z: -303.8184549626647
+  yaw: 177.90005
+  pitch: 35.100002
+socialspy: false
+money: '30.0'

@@ -1,0 +1,40 @@
+lastAccountName: LukeTheSmokie
+timestamps:
+  login: 1428355405653
+  lastteleport: 1428285669446
+  logout: 1428356014998
+ipAddress: 201.189.16.129
+lastlocation:
+  world: juegos
+  x: -1414.731001094939
+  y: 16.0
+  z: -589.3000000119209
+  yaw: -173.30777
+  pitch: -5.7559166
+logoutlocation:
+  world: juegos
+  x: -1439.7191917280484
+  y: 28.0
+  z: -674.5465695127924
+  yaw: 358.04462
+  pitch: 35.949562
+socialspy: false
+homes:
+  warp:
+    world: world
+    x: 10015.709420028268
+    y: 159.0625
+    z: 100058.5704740755
+    yaw: 73.54778
+    pitch: 54.619976
+  c:
+    world: world
+    x: 1000277.4435306392
+    y: 97.0
+    z: 34760.30000001192
+    yaw: -184.57684
+    pitch: 83.83608
+afk: false
+nickname: LukeTheSmokie
+godmode: false
+money: '30.0'

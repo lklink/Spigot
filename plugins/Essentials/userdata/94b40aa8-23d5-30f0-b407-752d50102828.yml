@@ -1,0 +1,20 @@
+lastAccountName: macundrita
+timestamps:
+  login: 1434243364067
+  logout: 1434243403491
+ipAddress: 200.120.198.141
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1386.5
+  y: 105.0
+  z: 4016.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

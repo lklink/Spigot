@@ -1,0 +1,21 @@
+lastAccountName: streetrock
+timestamps:
+  login: 1432936294557
+  logout: 1432936325057
+ipAddress: 200.86.96.248
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1388.5
+  y: 88.0
+  z: 4028.5
+  yaw: -0.90000004
+  pitch: 2.85
+socialspy: false
+money: '30.0'

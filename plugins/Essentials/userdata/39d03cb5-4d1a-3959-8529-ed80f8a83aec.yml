@@ -1,0 +1,22 @@
+lastAccountName: jeremy
+timestamps:
+  login: 1434404274111
+  logout: 1434404393084
+  lastteleport: 1434304440378
+ipAddress: 181.160.39.39
+lastlocation:
+  world: survival
+  x: -2.0240154548844003
+  y: 114.0
+  z: 16.898905911105885
+  yaw: -96.75775
+  pitch: -41.550007
+logoutlocation:
+  world: plotworld
+  x: -81.30000001192093
+  y: 63.0
+  z: 11.699999988079071
+  yaw: -6.7721696
+  pitch: 88.19998
+socialspy: false
+money: '30.0'

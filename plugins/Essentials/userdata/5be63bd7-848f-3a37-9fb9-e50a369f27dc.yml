@@ -1,0 +1,22 @@
+lastAccountName: oskar1818
+timestamps:
+  login: 1433745712179
+  lastteleport: 1433733022281
+  logout: 1433745754553
+ipAddress: 200.120.85.183
+lastlocation:
+  world: juegos
+  x: -1395.3674979782247
+  y: 28.0
+  z: 3982.074555928494
+  yaw: -180.20898
+  pitch: -4.650408
+logoutlocation:
+  world: plotworld
+  x: -245.1777345194032
+  y: 65.0
+  z: -108.80746403856176
+  yaw: -152.7
+  pitch: 30.300007
+socialspy: false
+money: '30.0'

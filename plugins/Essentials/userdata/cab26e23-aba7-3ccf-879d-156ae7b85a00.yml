@@ -1,0 +1,22 @@
+lastAccountName: ICEMAND_
+timestamps:
+  login: 1436735051374
+  logout: 1436735210816
+  lastteleport: 1436735095376
+ipAddress: 190.249.33.186
+lastlocation:
+  world: spawn
+  x: -613.6111845833016
+  y: 28.0
+  z: -1378.9556009639198
+  yaw: 355.34198
+  pitch: -7.59978
+logoutlocation:
+  world: plotworld
+  x: 269.0001072369434
+  y: 65.5
+  z: -3.1483364486934837
+  yaw: -251.56715
+  pitch: 12.336931
+socialspy: false
+money: '55.0'

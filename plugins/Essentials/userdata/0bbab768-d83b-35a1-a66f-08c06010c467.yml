@@ -1,0 +1,21 @@
+lastAccountName: Buca41
+timestamps:
+  login: 1435788493118
+  lastteleport: 1435788549984
+  logout: 1435788574085
+ipAddress: 190.139.249.165
+lastlocation:
+  world: spawn
+  x: -612.2187849818017
+  y: 28.0
+  z: -1378.0529669916762
+  yaw: -96.224945
+  pitch: -17.298004
+logoutlocation:
+  world: spawn
+  x: 542.7978418448365
+  y: 39.0
+  z: -1072.6671386318344
+  yaw: 139.01047
+  pitch: 20.399992
+money: '30.0'

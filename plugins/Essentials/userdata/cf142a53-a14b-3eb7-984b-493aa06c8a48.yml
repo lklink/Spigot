@@ -1,0 +1,31 @@
+lastAccountName: zyppo
+timestamps:
+  login: 1433711706693
+  lastteleport: 1430706801936
+  logout: 1433711736445
+ipAddress: 186.78.138.18
+lastlocation:
+  world: juegos
+  x: -1028.5928166293295
+  y: -253.9953320441445
+  z: 519.1935819286041
+  yaw: -115.14633
+  pitch: 15.418812
+homes:
+  home:
+    world: survival
+    x: 582.7003242839878
+    y: 18.0
+    z: 569.5227739830657
+    yaw: -253.95142
+    pitch: 25.349926
+socialspy: false
+afk: false
+money: '680.0'
+logoutlocation:
+  world: plotworld
+  x: -114.00170255139318
+  y: 65.5
+  z: 30.739496743214225
+  yaw: -207.60367
+  pitch: 9.450247

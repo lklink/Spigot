@@ -1,0 +1,28 @@
+permission: ''
+world: Castle
+X: 25
+Y: 51
+Z: -64
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 256 1'
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  sam400: 1433198772329
+  K0nrad_Joan: 1433198671459
+  lechuga: 1433198769938
+  ElianGamer51: 1433198673883
+  C4LCeTiN: 1433198630447
+  knales11: 1433198666308
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

@@ -1,0 +1,21 @@
+lastAccountName: DeathJungle
+timestamps:
+  login: 1432326253058
+  lastteleport: 1432326380157
+  logout: 1432326431595
+ipAddress: 201.214.94.112
+lastlocation:
+  world: juegos
+  x: 4703.44616722467
+  y: 53.0
+  z: 1047.934099991467
+  yaw: -99.54912
+  pitch: 34.64809
+logoutlocation:
+  world: juegos
+  x: 4692.285055278013
+  y: 52.0
+  z: 1059.2549583711257
+  yaw: 217.4013
+  pitch: 45.748074
+money: '30.0'

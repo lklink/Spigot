@@ -1,0 +1,73 @@
+infopvp:
+  location: juegos, 7995.486, 127.200, 3582.426
+  lines:
+  - '&u&l&o[p] &c&o&l¡Cuidado! &u&l&o[p]'
+  - '&u&l&o[p] &c&o&l¡PVP! &u&l&o[p]'
+tierrafirme:
+  location: survival, -16.361, 126.200, 44.471
+  lines:
+  - '&b&l&oAl Subirte a Este Barco te Llevara'
+  - '&b&l&oA Tierra Firme Donde Podras Explorar El Mundo'
+infos:
+  location: survival, -13.530, 118.200, 17.415
+  lines:
+  - '&u&l&o&k|||||||| &b&l&o Información &u&l&o&k||||||||'
+  - '&l&o¡Bienvenido Al Survival de NationCraft!'
+  - '&l&oAqui Podras Encontrar Una Tienda Para Vender Minerales'
+  - '&l&oComprar Libros Encantados Entre Otras Cosas!'
+  - '&l&oEsperamos Que te Diviertas Mucho En este Nuevo Servidor!'
+bienvenida:
+  location: juegos, -1395.603, 31.200, 4023.509
+  lines:
+  - '&f&lBienvenido &6&l&o{player} &f&lHa NationForce'
+  - '&f&l¡Disfruta El Servidor! Puedes Comprar &6&l&oVIP'
+  - '&f&lEn Nuestra Pagina &6&l&oWeb &f&l¡Diviertete!'
+plotmeinfo:
+  location: juegos, -1400.553, 31.200, 4010.530
+  lines:
+  - '&e&lInformacion PlotMe'
+  - '&a&l/Plotme Auto&7&l Para Crear Tu Plotme'
+  - '&a&l/Plotme Home&7&l Para Viajar a Tu Plotme'
+  - '&a&l/Plotme Clear&7&l Para Reiniciar Tu Plotme'
+1v1bienvenido:
+  location: spawn, 549.544, 42.200, -1067.476
+  lines:
+  - '&f&l¡Hola! Bienvenido &6&l{player} &f&la NationForce 1Vs1'
+  - '&f&lAqui podras &6&lLuchar &f&lcon otros usuarios y con tus amigos!'
+  - '&f&lEsperamos que te guste nuestro nuevo &6&lMiniJuego &f&l¡Saludos!'
+bienvenidosw:
+  location: spawn, -620.388, 52.000, -2436.464
+  lines:
+  - '&e&lBienvenido &c&l{player}&e&l a Nationforce SkyWars'
+bienvenidosw2:
+  location: spawn, -620.473, 51.500, -2436.739
+  lines:
+  - '&cEnfrentate contra otros jugadores a grandes'
+  - '&calturas! lucha por los cofres especiales del medio!'
+  - '&cDisfruta el servidor y recuerda que estamos en fase Beta'
+bienvenidosw3:
+  location: spawn, -620.402, 50.500, -2436.515
+  lines:
+  - '&aConsigue tu "VIP" en nuestra pagina web para'
+  - '&akits exclusivos, incremento de experencia en kits'
+  - '&acomo tambien votar por los cofres & tiempo del juego'
+  - '&aasi como entrar a mapas llenos ( antes de comenzar el juego )'
+swemail:
+  location: spawn, -632.466, 51.200, -2425.523
+  lines:
+  - '&e&l¿Quieres hacer tu Mapa?'
+  - '&cPrimero crea todo tu mapa de skywars en tu mundo Sky'
+  - '&cdebes construirlo y despues mandarlo al correo &aMrNaikito@gmail.com'
+bienvenido:
+  location: Beta, -44.655, 87.200, 159.348
+  lines:
+  - '&r&lBienvenido &e&l{player}&f&l, Disfruta del servidor'
+  - '&a&lWebsite: &fHttp://Nationforce.cl'
+owners:
+  location: Beta, -52.500, 87.200, 164.500
+  lines:
+  - '&9&l&nOwners'
+admins:
+  location: Beta, -52.500, 87.200, 154.500
+  lines:
+  - '&4&l&nAdmins'

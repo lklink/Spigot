@@ -1,0 +1,21 @@
+lastAccountName: man204
+timestamps:
+  login: 1435704408284
+  lastteleport: 1435704540991
+  logout: 1435704553976
+ipAddress: 190.224.174.32
+lastlocation:
+  world: spawn
+  x: -613.5233926504172
+  y: 43.0
+  z: -1426.9514752116495
+  yaw: -51.451294
+  pitch: 30.586233
+logoutlocation:
+  world: spawn
+  x: -623.3598883987283
+  y: 50.0
+  z: -2450.375619012174
+  yaw: 191.77293
+  pitch: 1.330319
+money: '30.0'

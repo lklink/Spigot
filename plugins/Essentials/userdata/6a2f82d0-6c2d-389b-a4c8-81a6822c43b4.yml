@@ -1,0 +1,30 @@
+lastAccountName: xStaticxRaydx
+timestamps:
+  login: 1433109582023
+  logout: 1433109615938
+  lastteleport: 1433109605279
+ipAddress: 190.163.67.162
+lastlocation:
+  world: plotworld
+  x: -123.49288578235205
+  y: 65.5
+  z: 121.13787294043097
+  yaw: -85.18766
+  pitch: 10.299769
+logoutlocation:
+  world: survival
+  x: 1383.7819470234217
+  y: 76.0
+  z: -3806.9588975429288
+  yaw: 171.15321
+  pitch: 57.169434
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 1405.4133168844812
+    y: 78.0
+    z: -3766.7808957750835
+    yaw: 109.99826
+    pitch: 10.820512
+money: '55.0'

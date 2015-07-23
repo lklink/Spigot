@@ -1,0 +1,23 @@
+lastAccountName: jotebian
+timestamps:
+  login: 1431809671806
+  lastteleport: 1430706683448
+  logout: 1431810700079
+ipAddress: 181.163.3.154
+lastlocation:
+  world: juegos
+  x: -1103.3100582067245
+  y: 30.200000047683716
+  z: 3262.1279947846456
+  yaw: 192.60004
+  pitch: 82.80006
+logoutlocation:
+  world: plotworld
+  x: -127.76548006037206
+  y: 65.0
+  z: -15.925000011920915
+  yaw: 46.050243
+  pitch: 28.500011
+socialspy: false
+money: '9504.0'
+afk: false

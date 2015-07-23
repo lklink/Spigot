@@ -1,0 +1,22 @@
+lastAccountName: DarckFenix1
+timestamps:
+  login: 1433550744885
+  lastteleport: 1432836824184
+  logout: 1433551203800
+ipAddress: 190.189.93.202
+lastlocation:
+  world: survival
+  x: -1563.116081320013
+  y: 103.0
+  z: 3805.2315241447036
+  yaw: 193.50958
+  pitch: -1.8000948
+logoutlocation:
+  world: plotworld
+  x: 213.44206790776636
+  y: 65.0
+  z: 45.47236626868114
+  yaw: -275.2508
+  pitch: 15.599958
+socialspy: false
+money: '30.0'

@@ -1,0 +1,28 @@
+permission: ''
+world: survival
+X: -2
+Y: 116
+Z: 13
+price: 0.0
+cooldown: 5
+globalCooldown: 0
+confirmation: false
+commands:
+- '*warp Cof '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  C4LCeTiN: 1429744066678
+  gatogamer: 1429829102482
+  FabianMC: 1429921122511
+  Naikito: 1429921260818
+  Zimok: 1429749968444
+  benjaxh_: 1430080737168
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

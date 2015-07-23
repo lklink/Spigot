@@ -1,0 +1,22 @@
+lastAccountName: FellOnMyHead
+timestamps:
+  login: 1433016698849
+  lastteleport: 1433016300417
+  logout: 1433016867712
+ipAddress: 200.124.100.68
+lastlocation:
+  world: juegos
+  x: -1393.6441580816586
+  y: 28.0
+  z: 3979.336998077121
+  yaw: -178.10898
+  pitch: 22.199589
+logoutlocation:
+  world: SkyWars
+  x: 0.5135019388045586
+  y: 52.733839418164436
+  z: 0.6114940658145507
+  yaw: -180.59454
+  pitch: -2.7551918
+socialspy: false
+money: '30.0'

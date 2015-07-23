@@ -1,0 +1,22 @@
+lastAccountName: ToxicShit
+timestamps:
+  login: 1431907767916
+  lastteleport: 1430091858197
+  logout: 1431907773974
+ipAddress: 179.7.92.204
+lastlocation:
+  world: juegos
+  x: 971.8501247316631
+  y: 141.0
+  z: 591.407500716673
+  yaw: 205.54724
+  pitch: 23.850086
+logoutlocation:
+  world: survival
+  x: 73.05642979950449
+  y: 65.0
+  z: 223.85641531532423
+  yaw: 152.1
+  pitch: -20.550024
+socialspy: false
+money: '30.0'

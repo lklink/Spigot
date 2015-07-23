@@ -1,0 +1,22 @@
+lastAccountName: KillerRichMC
+timestamps:
+  login: 1433368437737
+  lastteleport: 1433365340065
+  logout: 1433368613980
+ipAddress: 190.105.108.149
+lastlocation:
+  world: SkyWars
+  x: 0.3430947670083101
+  y: 51.0
+  z: -23.961503846705035
+  yaw: -175.7683
+  pitch: -0.90195686
+logoutlocation:
+  world: SkyWars
+  x: 0.14158867164475836
+  y: 51.0
+  z: -25.2163674510393
+  yaw: 10.187799
+  pitch: -5.7000017
+socialspy: false
+money: '790.0'

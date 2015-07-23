@@ -1,0 +1,11 @@
+lastOnline=1434321540374
+registered=1434305036344
+isNPC=false
+title=
+surname=
+town=NightRaid
+town-ranks=
+nation-ranks=
+friends=DarthKay,Zhedas,JseAranda
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

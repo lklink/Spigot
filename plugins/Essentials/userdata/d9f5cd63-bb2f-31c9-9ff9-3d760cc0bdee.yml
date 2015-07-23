@@ -1,0 +1,22 @@
+lastAccountName: CALE331
+timestamps:
+  login: 1434936554560
+  lastteleport: 1434936601466
+  logout: 1434936955471
+ipAddress: 201.213.153.191
+lastlocation:
+  world: spawn
+  x: 536.7682115101836
+  y: 39.0
+  z: -1067.478646915288
+  yaw: -252.77089
+  pitch: -23.467592
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '250.0'

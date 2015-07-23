@@ -1,0 +1,22 @@
+lastAccountName: LouZ_
+timestamps:
+  login: 1434407466381
+  logout: 1434409167381
+  lastteleport: 1434407504202
+ipAddress: 186.46.174.184
+lastlocation:
+  world: SkyWars
+  x: 0.5656799031910575
+  y: 51.0
+  z: -25.653935621742917
+  yaw: 174.73743
+  pitch: 7.0959983
+logoutlocation:
+  world: spawn
+  x: -624.8201740622862
+  y: 48.0
+  z: -2439.684479369185
+  yaw: 12.299408
+  pitch: -1.2599986
+socialspy: false
+money: '855.0'

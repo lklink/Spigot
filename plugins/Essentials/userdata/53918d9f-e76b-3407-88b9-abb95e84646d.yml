@@ -1,0 +1,22 @@
+lastAccountName: Onikaze
+timestamps:
+  login: 1430010347620
+  lastteleport: 1430010182151
+  logout: 1430010362891
+ipAddress: 190.215.21.64
+lastlocation:
+  world: juegos
+  x: -953.6999999880791
+  y: 124.5
+  z: -531.3062925318432
+  yaw: 120.45447
+  pitch: 20.519587
+logoutlocation:
+  world: survival
+  x: 90.0984372161053
+  y: 65.0
+  z: 226.12714309728682
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

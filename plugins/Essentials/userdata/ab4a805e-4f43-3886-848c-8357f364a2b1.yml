@@ -1,0 +1,20 @@
+lastAccountName: izzi
+timestamps:
+  login: 1432484794974
+  logout: 1432485243190
+ipAddress: 190.47.128.191
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1391.461815728869
+  y: 28.0
+  z: 4025.022691403969
+  yaw: 95.49103
+  pitch: -8.249998
+money: '30.0'

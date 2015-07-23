@@ -1,0 +1,21 @@
+lastAccountName: santiagogamer
+timestamps:
+  login: 1434407156271
+  logout: 1434407159622
+ipAddress: 190.9.201.182
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -714.4678813381172
+  y: 9.0
+  z: -1429.0449619108658
+  yaw: 168.0004
+  pitch: 80.27084
+socialspy: false
+money: '30.0'

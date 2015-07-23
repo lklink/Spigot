@@ -1,0 +1,22 @@
+lastAccountName: Link
+timestamps:
+  login: 1435677044144
+  lastteleport: 1435677812874
+  logout: 1435678047917
+ipAddress: 186.118.203.147
+lastlocation:
+  world: survival
+  x: 41.78096859479277
+  y: 65.0
+  z: 40.300000011920915
+  yaw: 256.07648
+  pitch: -8.983427
+money: '730.0'
+logoutlocation:
+  world: plotworld
+  x: 14.223753880009582
+  y: 65.0
+  z: -300.29021302430044
+  yaw: 200.10016
+  pitch: 15.900048
+socialspy: false

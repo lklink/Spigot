@@ -1,0 +1,30 @@
+lastAccountName: dBumBle
+timestamps:
+  login: 1436817406458
+  lastteleport: 1436817899743
+  logout: 1436817980542
+ipAddress: 201.239.184.216
+lastlocation:
+  world: juegos
+  x: -976.0161015841976
+  y: 35.0
+  z: -111.80226397361629
+  yaw: -81.633865
+  pitch: -13.560271
+logoutlocation:
+  world: spawn
+  x: -676.9993831595675
+  y: 29.0
+  z: -1377.5736553750064
+  yaw: -131.82703
+  pitch: -18.022055
+socialspy: false
+homes:
+  home:
+    world: Factions
+    x: -853.4843243123695
+    y: 74.0
+    z: 7.851244449688296
+    yaw: -209.1336
+    pitch: 30.816515
+money: '30.0'

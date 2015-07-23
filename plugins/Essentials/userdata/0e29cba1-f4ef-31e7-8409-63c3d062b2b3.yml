@@ -1,0 +1,21 @@
+lastAccountName: _Oolong_
+timestamps:
+  login: 1433369676072
+  logout: 1433369684246
+ipAddress: 186.106.68.111
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -305.7911556498755
+  y: 72.0
+  z: -302.8194048805432
+  yaw: 74.059204
+  pitch: 34.649975
+socialspy: false
+money: '30.0'

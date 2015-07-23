@@ -1,0 +1,21 @@
+lastAccountName: Linky
+timestamps:
+  login: 1437081952618
+  logout: 1437081980368
+ipAddress: 186.11.45.21
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: 181.27507
+  pitch: 66.25201
+socialspy: false
+money: '30.0'

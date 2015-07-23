@@ -1,0 +1,22 @@
+lastAccountName: matias621
+timestamps:
+  login: 1433195795788
+  lastteleport: 1433195881413
+  logout: 1433196372629
+ipAddress: 190.22.229.55
+lastlocation:
+  world: Factions
+  x: -246.7401936817771
+  y: 69.0
+  z: -265.9942853504056
+  yaw: 152.65851
+  pitch: 20.850021
+logoutlocation:
+  world: SkyWars
+  x: 0.5552248231528313
+  y: 52.14972055502537
+  z: -22.708357930336522
+  yaw: 186.88808
+  pitch: 2.5959973
+socialspy: false
+money: '235.0'

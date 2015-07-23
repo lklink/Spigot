@@ -1,0 +1,22 @@
+lastAccountName: uHasSparklezzz
+timestamps:
+  login: 1432445401066
+  logout: 1432445736046
+  lastteleport: 1432445414967
+ipAddress: 186.87.122.90
+lastlocation:
+  world: juegos
+  x: -1454.2415354864204
+  y: 22.0
+  z: 3997.6066355996772
+  yaw: 75.70526
+  pitch: 19.661604
+logoutlocation:
+  world: SkyWars
+  x: -1.435383145329253
+  y: 51.0
+  z: -21.13127697598913
+  yaw: 9.114624
+  pitch: 8.284804
+socialspy: false
+money: '30.0'

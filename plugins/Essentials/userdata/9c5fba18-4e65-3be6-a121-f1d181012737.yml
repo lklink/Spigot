@@ -1,0 +1,32 @@
+lastAccountName: TheFlamoshark
+timestamps:
+  login: 1435293264420
+  lastteleport: 1434856105332
+  mute: 0
+  logout: 1435293278327
+ipAddress: 189.150.132.255
+lastlocation:
+  world: spawn
+  x: -622.5255633778703
+  y: 50.0
+  z: -2448.1974998051146
+  yaw: -214.61792
+  pitch: 3.378065
+muted: false
+logoutlocation:
+  world: SkyWars
+  x: -27.511010681689385
+  y: 1.0
+  z: 2138.0152124439624
+  yaw: 277.74084
+  pitch: -8.762085
+socialspy: false
+homes:
+  home:
+    world: Factions
+    x: -84.88241848744569
+    y: 99.0
+    z: 2136.0010211772374
+    yaw: 277.4333
+    pitch: 24.004791
+money: '30.0'

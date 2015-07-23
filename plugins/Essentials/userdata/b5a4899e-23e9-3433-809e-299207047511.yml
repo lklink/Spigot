@@ -1,0 +1,30 @@
+lastAccountName: StrongTG
+timestamps:
+  login: 1433553846730
+  logout: 1433553853364
+  lastteleport: 1430275870879
+ipAddress: 201.239.73.159
+lastlocation:
+  world: survival
+  x: 16.306966130621728
+  y: 13.0
+  z: 584.8196081207814
+  yaw: -175.33435
+  pitch: -31.335302
+logoutlocation:
+  world: survival
+  x: 17.012755740757076
+  y: 62.0
+  z: 514.9616480410207
+  yaw: -175.76582
+  pitch: 37.19461
+socialspy: false
+money: '8990.0'
+homes:
+  home:
+    world: survival
+    x: 18.39677280712226
+    y: 62.0
+    z: 518.2514635464322
+    yaw: 211.55684
+    pitch: 4.3780065

@@ -1,0 +1,21 @@
+lastAccountName: naruto
+timestamps:
+  login: 1434076274136
+  logout: 1434076425462
+ipAddress: 190.114.57.101
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -558.6999999880791
+  y: 6.0
+  z: -1423.699999988079
+  yaw: -43.151184
+  pitch: -9.749988
+socialspy: false
+money: '30.0'

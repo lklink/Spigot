@@ -1,0 +1,22 @@
+lastAccountName: hbnino
+timestamps:
+  login: 1435268405450
+  logout: 1435268443202
+  lastteleport: 1434919232559
+ipAddress: 186.79.208.153
+lastlocation:
+  world: juegos
+  x: -1399.1465863164808
+  y: 28.0
+  z: 4007.37031088885
+  yaw: -203.85005
+  pitch: -5.699993
+logoutlocation:
+  world: spawn
+  x: -621.6869520101784
+  y: 50.0
+  z: -2445.1469237876167
+  yaw: -19.650673
+  pitch: 13.589996
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: CookLoco
+timestamps:
+  login: 1434563403224
+  lastteleport: 1434563474432
+  logout: 1434567185829
+ipAddress: 186.80.79.163
+lastlocation:
+  world: juegos
+  x: -1396.713000891772
+  y: 28.0
+  z: 3996.650703687648
+  yaw: -204.59521
+  pitch: -9.830384
+logoutlocation:
+  world: spawn
+  x: -624.033598540438
+  y: 49.0
+  z: -2428.1608668168947
+  yaw: -58.061768
+  pitch: 23.644823
+money: '210.0'

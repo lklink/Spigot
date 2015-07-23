@@ -1,0 +1,37 @@
+lastAccountName: Elhpipe
+timestamps:
+  login: 1435341450388
+  lastteleport: 1434822901877
+  logout: 1435341860324
+  kits:
+    color: 1431183875996
+    firework: 1429999143563
+    dtools: 1429998744256
+ipAddress: 191.116.179.246
+lastlocation:
+  world: juegos
+  x: -1319.5
+  y: 1.0
+  z: 4019.5
+  yaw: -358.64957
+  pitch: 40.95002
+logoutlocation:
+  world: plotworld
+  x: 4.300000011920929
+  y: 65.0
+  z: 22.055460984580442
+  yaw: 153.1506
+  pitch: 24.299973
+socialspy: false
+nickname: §2§lElhpipe
+afk: false
+homes:
+  home:
+    world: survival
+    x: 1178.5851031235218
+    y: 46.0
+    z: 60.20123404189765
+    yaw: -171.28903
+    pitch: 18.830751
+godmode: false
+money: '604870.0'

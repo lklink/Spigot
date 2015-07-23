@@ -1,0 +1,22 @@
+lastAccountName: kevin1998
+timestamps:
+  login: 1429930092603
+  lastteleport: 1429929953254
+  logout: 1429930122308
+ipAddress: 201.240.157.59
+lastlocation:
+  world: survival
+  x: -2.159877148560096
+  y: 114.0
+  z: 17.59126926816211
+  yaw: 261.75034
+  pitch: -33.599976
+logoutlocation:
+  world: juegos
+  x: 972.8446696260929
+  y: 141.0
+  z: 598.2535593066972
+  yaw: 22.248322
+  pitch: 88.79999
+socialspy: false
+money: '30.0'

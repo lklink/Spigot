@@ -1,0 +1,20 @@
+lastAccountName: joseph
+timestamps:
+  login: 1434129447281
+  logout: 1434129586339
+ipAddress: 181.163.182.56
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -576.3197030500504
+  y: 28.0
+  z: -1387.3019332962049
+  yaw: 19.99866
+  pitch: 1.4999981
+money: '30.0'

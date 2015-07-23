@@ -1,0 +1,22 @@
+permission: ''
+world: world
+X: 1000241
+Y: 83
+Z: 34376
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /broadcast &1Nicolas Ql No sabes manejar un Sv
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

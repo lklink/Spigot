@@ -1,0 +1,21 @@
+lastAccountName: WilliamsDarks
+timestamps:
+  login: 1434232224575
+  logout: 1434232338410
+ipAddress: 179.9.146.33
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.8303386973552
+  y: 28.0
+  z: -1406.556548089648
+  yaw: -179.651
+  pitch: 10.350023
+socialspy: false
+money: '30.0'

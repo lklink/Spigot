@@ -1,0 +1,20 @@
+lastAccountName: Neanderthal
+timestamps:
+  login: 1434066835133
+  logout: 1434066976802
+ipAddress: 186.128.137.110
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -567.8071442192683
+  y: 6.0
+  z: -1482.74771358199
+  yaw: -60.233105
+  pitch: 12.142051
+money: '30.0'

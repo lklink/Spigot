@@ -1,0 +1,21 @@
+lastAccountName: Vikingo
+timestamps:
+  login: 1435605313656
+  logout: 1435605531724
+ipAddress: 186.88.239.183
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -699.3501037442633
+  y: 6.0
+  z: -1446.5363837583413
+  yaw: 143.34174
+  pitch: 90.0
+socialspy: false
+money: '30.0'

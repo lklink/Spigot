@@ -1,0 +1,22 @@
+lastAccountName: DarthZeta
+timestamps:
+  login: 1434812098315
+  lastteleport: 1434812121315
+  logout: 1434812152875
+ipAddress: 186.106.159.19
+lastlocation:
+  world: spawn
+  x: 538.2672607582278
+  y: 39.0
+  z: -1068.357386543169
+  yaw: -37.962894
+  pitch: 21.212727
+logoutlocation:
+  world: spawn
+  x: -632.0740261013954
+  y: 6.0
+  z: -1393.1544623748396
+  yaw: 185.64525
+  pitch: 22.127348
+socialspy: false
+money: '30.0'

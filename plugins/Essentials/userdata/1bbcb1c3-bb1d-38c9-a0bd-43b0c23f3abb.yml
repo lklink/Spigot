@@ -1,0 +1,20 @@
+lastAccountName: Luxin
+timestamps:
+  login: 1434410479764
+  logout: 1434410540017
+ipAddress: 190.151.61.210
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -583.5265865642116
+  y: 28.0
+  z: -1404.67290104851
+  yaw: 340.6987
+  pitch: 14.850004
+money: '30.0'

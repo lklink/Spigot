@@ -1,0 +1,22 @@
+lastAccountName: ErikNoda
+timestamps:
+  login: 1433106507211
+  logout: 1433107539555
+  lastteleport: 1433107344460
+ipAddress: 68.228.200.239
+lastlocation:
+  world: Factions
+  x: -273.9275535652986
+  y: 79.0
+  z: -301.1251038116414
+  yaw: -64.690796
+  pitch: -5.850005
+logoutlocation:
+  world: juegos
+  x: -1403.009765356226
+  y: 28.5
+  z: 3979.4621145710958
+  yaw: -45.95885
+  pitch: 20.999603
+socialspy: false
+money: '30.0'

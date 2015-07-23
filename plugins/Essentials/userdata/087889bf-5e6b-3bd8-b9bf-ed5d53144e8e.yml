@@ -1,0 +1,21 @@
+lastAccountName: winstonxd
+timestamps:
+  login: 1436749035710
+  logout: 1436749459571
+ipAddress: 201.215.139.230
+lastlocation:
+  world: spawn
+  x: -697.0930143313429
+  y: 10.0
+  z: -1500.6271330392906
+  yaw: 44.925076
+  pitch: 79.64998
+logoutlocation:
+  world: spawn
+  x: -668.3000000119209
+  y: 6.0
+  z: -1522.4691918457736
+  yaw: -112.12485
+  pitch: 18.599983
+socialspy: false
+money: '30.0'

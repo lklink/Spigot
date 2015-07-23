@@ -1,0 +1,30 @@
+lastAccountName: Kcin
+timestamps:
+  login: 1435626156665
+  logout: 1435626762785
+  lastteleport: 1435626651814
+ipAddress: 190.79.199.153
+lastlocation:
+  world: spawn
+  x: -585.6244108594304
+  y: 28.0
+  z: -1364.2618087103915
+  yaw: 176.14526
+  pitch: 6.765339
+logoutlocation:
+  world: plotworld
+  x: -100.03985708567494
+  y: 68.5
+  z: 166.1256080691881
+  yaw: 237.75
+  pitch: -17.700003
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -88.32095936240415
+    y: 65.0
+    z: 183.76517033511524
+    yaw: 181.79993
+    pitch: 15.150008
+money: '30.0'

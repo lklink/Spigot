@@ -1,0 +1,22 @@
+lastAccountName: Ixis
+timestamps:
+  login: 1426393092390
+  logout: 1426393602598
+  lastteleport: 1426393562133
+ipAddress: 200.120.244.69
+logoutlocation:
+  world: world
+  x: -3.872589414963186
+  y: 48.968957599824506
+  z: 167.9747189804139
+  yaw: -301.8359
+  pitch: 34.670094
+lastlocation:
+  world: world
+  x: -79.61461690413668
+  y: 71.5
+  z: 285.05029747293753
+  yaw: 7.7181673
+  pitch: 31.016247
+socialspy: false
+money: '30.0'

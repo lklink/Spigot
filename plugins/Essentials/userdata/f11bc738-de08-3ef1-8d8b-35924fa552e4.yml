@@ -1,0 +1,21 @@
+lastAccountName: CrissGamerYT
+timestamps:
+  login: 1435602892692
+  lastteleport: 1435604818355
+  logout: 1435605356707
+ipAddress: 181.160.200.67
+lastlocation:
+  world: spawn
+  x: -613.5006425461033
+  y: 28.0
+  z: -1367.5624951490981
+  yaw: 199.86858
+  pitch: 18.686768
+logoutlocation:
+  world: spawn
+  x: -622.6551988931891
+  y: 50.0
+  z: -2449.506058986829
+  yaw: -13.01828
+  pitch: 9.263869
+money: '235.0'

@@ -1,0 +1,22 @@
+lastAccountName: Diego03g
+timestamps:
+  login: 1433203401664
+  lastteleport: 1433203556661
+  logout: 1433203576169
+ipAddress: 187.131.7.50
+lastlocation:
+  world: SkyWars
+  x: 3.3491922663315505
+  y: 51.0
+  z: -23.708361445983492
+  yaw: -4.5767045
+  pitch: -13.705192
+logoutlocation:
+  world: Factions
+  x: -323.44121760900697
+  y: 72.0
+  z: -303.761512946459
+  yaw: 68.5092
+  pitch: 20.249992
+socialspy: false
+money: '30.0'

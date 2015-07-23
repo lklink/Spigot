@@ -1,0 +1,21 @@
+lastAccountName: deigamerxd
+timestamps:
+  login: 1437350413666
+  logout: 1437350533624
+ipAddress: 200.120.50.105
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -673.3000000119209
+  y: 11.0
+  z: -1346.300000011921
+  yaw: 275.62482
+  pitch: 55.950024
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: japs2x
+timestamps:
+  login: 1433575502848
+  logout: 1433575620349
+ipAddress: 186.34.107.67
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1399.699999988079
+  y: 90.0
+  z: 4004.300000011921
+  yaw: -306.75085
+  pitch: -2.0999718
+socialspy: false
+money: '30.0'

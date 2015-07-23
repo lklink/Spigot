@@ -1,0 +1,32 @@
+lastAccountName: dani3019
+timestamps:
+  login: 1436061730318
+  lastteleport: 1436062275122
+  logout: 1435025938678
+  mute: 0
+ipAddress: 187.207.11.100
+lastlocation:
+  world: spawn
+  x: -617.0658149771635
+  y: 6.0
+  z: -1398.9288761642304
+  yaw: -115.43985
+  pitch: 86.1037
+logoutlocation:
+  world: juegos
+  x: -844.6999999880791
+  y: 6.0
+  z: 3670.680257004197
+  yaw: -166.96576
+  pitch: 8.850098
+socialspy: false
+muted: false
+homes:
+  home:
+    world: Factions
+    x: -20.766833672064916
+    y: 106.0
+    z: 2138.473505962789
+    yaw: 40.329964
+    pitch: 16.520464
+money: '124503.0'

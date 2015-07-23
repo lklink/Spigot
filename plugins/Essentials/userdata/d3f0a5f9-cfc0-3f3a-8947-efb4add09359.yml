@@ -1,0 +1,22 @@
+lastAccountName: Touk_
+timestamps:
+  login: 1432241178192
+  logout: 1432242214599
+  lastteleport: 1432241988114
+ipAddress: 181.202.181.35
+lastlocation:
+  world: plotworld
+  x: 85.12054371039214
+  y: 65.0
+  z: -38.203856440348424
+  yaw: 102.71521
+  pitch: 4.389676
+logoutlocation:
+  world: juegos
+  x: -1400.5718912916034
+  y: 27.0
+  z: 3917.467013460963
+  yaw: 180.3938
+  pitch: 11.230166
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: MrGamerG
+timestamps:
+  login: 1433198118479
+  lastteleport: 1433198147233
+  logout: 1433198251795
+ipAddress: 189.187.171.178
+lastlocation:
+  world: SkyWars
+  x: 1.1843987999626675
+  y: 49.0
+  z: -14.788733816590998
+  yaw: -178.78981
+  pitch: 7.075221
+logoutlocation:
+  world: SkyWars
+  x: -10.104402524696356
+  y: 51.0
+  z: -22.601304824747174
+  yaw: 1.9535509
+  pitch: -46.555897
+socialspy: false
+money: '30.0'

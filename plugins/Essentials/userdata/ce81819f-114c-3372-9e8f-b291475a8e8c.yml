@@ -1,0 +1,22 @@
+lastAccountName: Marty1002
+timestamps:
+  login: 1435889193286
+  logout: 1435889341012
+  lastteleport: 1435889313184
+ipAddress: 181.64.192.122
+lastlocation:
+  world: spawn
+  x: -620.9713995523227
+  y: 28.0
+  z: -1397.0764881227149
+  yaw: -284.9248
+  pitch: -33.948006
+logoutlocation:
+  world: spawn
+  x: -620.1355183852336
+  y: 6.0
+  z: -1375.0178110686209
+  yaw: 309.34882
+  pitch: -2.8500257
+socialspy: false
+money: '30.0'

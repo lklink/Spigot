@@ -1,0 +1,31 @@
+lastAccountName: SlayerSito88
+timestamps:
+  login: 1429946787113
+  lastteleport: 1429941573149
+  logout: 1429947202667
+ipAddress: 181.202.47.146
+lastlocation:
+  world: plotworld
+  x: -56.74931860064265
+  y: 65.0
+  z: 17.005169818373012
+  yaw: -354.29996
+  pitch: -2.5499954
+logoutlocation:
+  world: survival_nether
+  x: -14.495803495610753
+  y: 19.0
+  z: -173.15618643964063
+  yaw: 179.55789
+  pitch: -21.150024
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 144.21152246394666
+    y: 112.0
+    z: -1130.9221296960732
+    yaw: 50.60285
+    pitch: 5.099995
+afk: false
+money: '29.0'

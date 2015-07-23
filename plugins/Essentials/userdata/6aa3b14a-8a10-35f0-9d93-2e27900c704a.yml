@@ -1,0 +1,22 @@
+lastAccountName: pancho
+timestamps:
+  login: 1433459048292
+  lastteleport: 1433199361233
+  logout: 1433459087622
+ipAddress: 186.106.48.108
+lastlocation:
+  world: juegos
+  x: -1392.0628035491923
+  y: 28.0
+  z: 4007.300000011921
+  yaw: -143.60893
+  pitch: -3.3004138
+logoutlocation:
+  world: survival
+  x: -30.5
+  y: 103.0
+  z: 36.5
+  yaw: 300.1407
+  pitch: 44.549995
+socialspy: false
+money: '30.0'

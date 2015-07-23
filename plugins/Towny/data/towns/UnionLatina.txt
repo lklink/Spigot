@@ -1,0 +1,25 @@
+name=UnionLatina
+residents=knales11,lolomanolo11,Diegotiro,Maxi_Fsr,Alvaro,MagmaFire1
+mayor=knales11
+assistants=Diegotiro
+
+
+townBoard=Disfruta De La Ciudad!
+tag=
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+bonusBlocks=0
+purchasedBlocks=0
+taxpercent=false
+taxes=0.0
+plotPrice=0.0
+plotTax=0.0
+commercialPlotPrice=0.0
+commercialPlotTax=0.0
+embassyPlotPrice=0.0
+embassyPlotTax=0.0
+hasUpkeep=true
+open=false
+adminDisabledPvP=false
+public=true
+homeBlock=survival,238,481
+spawn=survival,3822.5741963227797,123.0,7701.448331032013,-18.55211,-283.33444

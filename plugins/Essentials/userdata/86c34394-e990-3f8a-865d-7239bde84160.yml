@@ -1,0 +1,20 @@
+lastAccountName: Zeuz
+timestamps:
+  login: 1432338946348
+  logout: 1432339271922
+ipAddress: 186.79.97.194
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: -62.2034006006174
+  y: 65.0
+  z: 33.552865828632946
+  yaw: -346.76733
+  pitch: 9.819173
+money: '30.0'

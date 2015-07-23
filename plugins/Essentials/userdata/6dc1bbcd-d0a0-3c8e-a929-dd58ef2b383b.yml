@@ -1,0 +1,22 @@
+lastAccountName: susanoo
+timestamps:
+  login: 1429845031777
+  logout: 1429849643814
+  lastteleport: 1429849225412
+ipAddress: 200.104.206.141
+lastlocation:
+  world: survival
+  x: 316.91232472838647
+  y: 66.0
+  z: 68.51422096516983
+  yaw: -152.40501
+  pitch: 43.649952
+logoutlocation:
+  world: survival
+  x: 133.68911766536593
+  y: 63.0
+  z: 361.47442259480124
+  yaw: 61.86325
+  pitch: 22.949972
+socialspy: false
+money: '29.0'

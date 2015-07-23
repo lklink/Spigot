@@ -1,0 +1,21 @@
+lastAccountName: Lokillo_PlayerYT
+timestamps:
+  login: 1431832401962
+  lastteleport: 1431832444614
+  logout: 1431834143917
+ipAddress: 187.150.49.6
+lastlocation:
+  world: juegos
+  x: -952.5289942528616
+  y: 126.5
+  z: -529.1593783714503
+  yaw: -180.18604
+  pitch: 21.253197
+logoutlocation:
+  world: SkyWars
+  x: 2.5214904868477133
+  y: 50.0
+  z: -2.3485772717981472
+  yaw: -100.087105
+  pitch: 28.693203
+money: '100.0'

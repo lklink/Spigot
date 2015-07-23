@@ -1,0 +1,32 @@
+lastAccountName: alfredonx
+timestamps:
+  login: 1433956242124
+  logout: 1433956421460
+  lastteleport: 1433956421255
+  mute: 0
+ipAddress: 186.78.201.85
+lastlocation:
+  world: plotworld
+  x: 193.38364203801126
+  y: 65.0
+  z: -186.98001840198225
+  yaw: -145.94936
+  pitch: 3.6000159
+logoutlocation:
+  world: juegos
+  x: -1038.5
+  y: 35.0
+  z: -111.5
+  yaw: 263.39917
+  pitch: -4.0504327
+socialspy: false
+homes:
+  home:
+    world: survival_nether
+    x: 117.73683981421738
+    y: 81.0
+    z: -2.273742646811244
+    yaw: 83.32579
+    pitch: 7.1999917
+money: '5860.0'
+muted: false

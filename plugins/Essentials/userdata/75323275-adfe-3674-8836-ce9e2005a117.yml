@@ -1,0 +1,20 @@
+lastAccountName: mitri123
+timestamps:
+  login: 1433977835413
+  logout: 1433977905583
+ipAddress: 186.106.143.86
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1394.3478245484182
+  y: 28.0
+  z: 3998.2166155153013
+  yaw: -180.05904
+  pitch: 3.899575
+money: '30.0'

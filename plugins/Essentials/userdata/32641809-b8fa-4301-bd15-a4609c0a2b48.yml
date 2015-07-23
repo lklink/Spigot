@@ -1,0 +1,22 @@
+lastAccountName: Javonico
+timestamps:
+  login: 1435175271336
+  lastteleport: 1435175446940
+  logout: 1435175557291
+ipAddress: 200.79.143.212
+lastlocation:
+  world: world
+  x: -29.941488945206036
+  y: 69.0
+  z: 316.2673908422942
+  yaw: 114.43298
+  pitch: 25.534842
+logoutlocation:
+  world: juegos
+  x: -1098.0222537634345
+  y: 51.0
+  z: 2794.282647442868
+  yaw: -130.50757
+  pitch: 37.222477
+socialspy: false
+money: '52205.0'

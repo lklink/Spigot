@@ -1,0 +1,28 @@
+permission: ''
+world: juegos
+X: 1026
+Y: 229
+Z: 522
+price: 0.0
+cooldown: 120
+globalCooldown: 0
+confirmation: false
+commands:
+- "/broadcast &3&L&o[&1&lEQUIPO AZUL&3&l&o] &6&l&o\xa1\xa1Domina La Torre!!"
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  _KuxoMC_: 1429390417198
+  By_GrabsMar: 1429313306947
+  FabianMC: 1429391259498
+  ShooterWinkle: 1429390866588
+  Elhpipe: 1429391052971
+  Mage3683: 1429390183886
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

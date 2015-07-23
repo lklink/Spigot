@@ -1,0 +1,21 @@
+lastAccountName: Tidegaming
+timestamps:
+  login: 1433197422367
+  lastteleport: 1433197981737
+  logout: 1433198121729
+ipAddress: 186.65.165.51
+lastlocation:
+  world: juegos
+  x: -1477.2148085064098
+  y: 6.0
+  z: 3946.4531023327686
+  yaw: -93.80788
+  pitch: -15.300486
+logoutlocation:
+  world: juegos
+  x: -1396.6783818726672
+  y: 28.0
+  z: 3871.7012152487773
+  yaw: -117.80942
+  pitch: -9.4500065
+money: '30.0'

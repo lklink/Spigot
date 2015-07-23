@@ -1,0 +1,22 @@
+lastAccountName: SanDezYT
+timestamps:
+  login: 1436065379514
+  logout: 1436066045223
+  lastteleport: 1436065993267
+ipAddress: 189.174.29.200
+lastlocation:
+  world: spawn
+  x: -615.0342215766841
+  y: 28.0
+  z: -1368.8094728813521
+  yaw: -224.36351
+  pitch: 41.30812
+logoutlocation:
+  world: juegos
+  x: -1127.5606686125827
+  y: 48.0
+  z: 2792.5702977295946
+  yaw: -108.42383
+  pitch: 69.73306
+socialspy: false
+money: '30.0'

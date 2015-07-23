@@ -1,0 +1,22 @@
+lastAccountName: Emiliano2101
+timestamps:
+  login: 1436567086797
+  lastteleport: 1436139136643
+  logout: 1436567088764
+ipAddress: 187.206.56.82
+lastlocation:
+  world: spawn
+  x: -614.1478102549279
+  y: 28.0
+  z: -1386.6572075857327
+  yaw: 170.16922
+  pitch: 30.785164
+logoutlocation:
+  world: plotworld
+  x: 18.688946583555055
+  y: 65.0
+  z: 70.90253762979484
+  yaw: 245.67276
+  pitch: 78.579445
+socialspy: false
+money: '30.0'

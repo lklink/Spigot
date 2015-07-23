@@ -1,0 +1,21 @@
+lastAccountName: goku
+timestamps:
+  login: 1433891193616
+  logout: 1433891286811
+ipAddress: 181.163.116.87
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1379.7668143610194
+  y: 19.0
+  z: 4085.1959426078693
+  yaw: -106.25806
+  pitch: 11.249558
+socialspy: false
+money: '30.0'

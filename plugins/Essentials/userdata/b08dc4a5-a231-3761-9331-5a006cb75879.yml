@@ -1,0 +1,21 @@
+lastAccountName: nitro222
+timestamps:
+  login: 1433045771577
+  logout: 1433045923089
+ipAddress: 186.37.202.13
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -362.95224978328633
+  y: 66.0
+  z: -135.60243253036973
+  yaw: 5.2091665
+  pitch: -6.150001
+socialspy: false
+money: '30.0'

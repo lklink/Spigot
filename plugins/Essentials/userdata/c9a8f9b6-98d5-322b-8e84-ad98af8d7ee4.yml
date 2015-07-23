@@ -1,0 +1,22 @@
+lastAccountName: Danelly
+timestamps:
+  login: 1434666261954
+  lastteleport: 1434571938474
+  logout: 1434666266103
+ipAddress: 190.238.192.87
+lastlocation:
+  world: spawn
+  x: -619.5887489899995
+  y: 48.5
+  z: -2408.342272550737
+  yaw: -1.868701
+  pitch: 17.062786
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 29.0
+  z: 4026.5
+  yaw: -0.15
+  pitch: 7.05
+socialspy: false
+money: '30.0'

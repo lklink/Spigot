@@ -1,0 +1,30 @@
+lastAccountName: nicobkn45
+timestamps:
+  login: 1437163822751
+  lastteleport: 1435954243549
+  logout: 1437163826451
+ipAddress: 190.46.43.250
+lastlocation:
+  world: survival
+  x: 251.9037794310423
+  y: 64.0
+  z: -71.30234269805713
+  yaw: 153.00032
+  pitch: 20.699974
+logoutlocation:
+  world: spawn
+  x: -612.9984211127064
+  y: 28.0
+  z: -1521.0708550171032
+  yaw: 182.92508
+  pitch: 11.351999
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -129.02803739462155
+    y: 65.0
+    z: 25.303769458434545
+    yaw: 269.35358
+    pitch: 16.151993
+money: '0.0'

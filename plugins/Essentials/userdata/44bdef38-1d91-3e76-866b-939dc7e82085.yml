@@ -1,0 +1,22 @@
+lastAccountName: hurrakano
+timestamps:
+  login: 1434046250480
+  lastteleport: 1434046401471
+  logout: 1434046820979
+ipAddress: 201.223.76.245
+lastlocation:
+  world: survival
+  x: 3.3949042586241474
+  y: 113.0
+  z: 111.49863233785442
+  yaw: 170.8407
+  pitch: 19.05
+logoutlocation:
+  world: spawn
+  x: -651.6413825489412
+  y: 6.415678256395476
+  z: -1472.5897936656597
+  yaw: -163.90138
+  pitch: 69.450005
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: supremegamer32
+timestamps:
+  login: 1435982702696
+  lastteleport: 1435983332285
+  logout: 1435983574913
+ipAddress: 200.89.40.155
+lastlocation:
+  world: spawn
+  x: -613.6394421871065
+  y: 28.0
+  z: -1368.4450006539516
+  yaw: -181.87491
+  pitch: 62.351997
+logoutlocation:
+  world: plotworld
+  x: 288.7799053183415
+  y: 65.0
+  z: -175.76509332297107
+  yaw: -267.3
+  pitch: 25.500004
+socialspy: false
+money: '30.0'

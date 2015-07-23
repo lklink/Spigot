@@ -1,0 +1,20 @@
+lastAccountName: ignacio
+timestamps:
+  login: 1433952479332
+  logout: 1433952518232
+ipAddress: 181.200.131.52
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1404.5
+  y: 104.0
+  z: 4017.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

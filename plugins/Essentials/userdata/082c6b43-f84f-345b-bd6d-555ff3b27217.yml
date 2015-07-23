@@ -1,0 +1,20 @@
+lastAccountName: ElMejorDeMaincra
+timestamps:
+  login: 1430070587510
+  logout: 1430070615029
+ipAddress: 186.79.199.54
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -959.5
+  y: 123.0
+  z: -532.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

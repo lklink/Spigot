@@ -1,0 +1,22 @@
+lastAccountName: ElRopto
+timestamps:
+  login: 1434848113657
+  lastteleport: 1434318681213
+  logout: 1434848140557
+ipAddress: 201.189.85.12
+lastlocation:
+  world: juegos
+  x: 4700.809790128829
+  y: 53.0
+  z: 1042.859568938582
+  yaw: 230.15114
+  pitch: 18.899986
+logoutlocation:
+  world: spawn
+  x: -575.4480008024209
+  y: 28.0
+  z: -1400.7676685056651
+  yaw: 277.24872
+  pitch: 12.749998
+socialspy: false
+money: '30.0'

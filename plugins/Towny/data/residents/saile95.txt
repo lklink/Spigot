@@ -1,0 +1,8 @@
+lastOnline=1435550621287
+registered=1434075675240
+isNPC=false
+title=
+surname=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

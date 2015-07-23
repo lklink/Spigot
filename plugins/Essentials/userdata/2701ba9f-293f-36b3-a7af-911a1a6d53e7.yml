@@ -1,0 +1,30 @@
+lastAccountName: samuel1234567
+timestamps:
+  login: 1433092994458
+  lastteleport: 1433093431387
+  logout: 1433093669303
+ipAddress: 186.78.201.240
+lastlocation:
+  world: plotworld
+  x: -20.681167349834503
+  y: 65.0
+  z: -16.90192518628289
+  yaw: -128.27219
+  pitch: -15.054662
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 28.0
+  z: 4026.309669218317
+  yaw: -179.309
+  pitch: 31.949587
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 155.9769972831735
+    y: 74.0
+    z: 91.98822422419519
+    yaw: 253.58044
+    pitch: 21.146452
+money: '30.0'

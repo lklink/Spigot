@@ -1,0 +1,20 @@
+lastAccountName: BJJCarlitos
+timestamps:
+  login: 1435532391881
+  logout: 1435532392381
+ipAddress: 198.8.80.83
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.5
+  y: 28.0
+  z: -1367.5
+  yaw: -181.87491
+  pitch: 62.351997
+money: '30.0'

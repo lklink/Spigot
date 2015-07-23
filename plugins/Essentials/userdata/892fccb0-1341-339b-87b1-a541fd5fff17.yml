@@ -1,0 +1,30 @@
+lastAccountName: PewDiePie25
+timestamps:
+  login: 1435879413229
+  lastteleport: 1435879458917
+  logout: 1435879514852
+ipAddress: 190.140.152.197
+lastlocation:
+  world: juegos
+  x: -1095.1533652881053
+  y: 54.0
+  z: 2783.9723005842375
+  yaw: -177.3284
+  pitch: 12.047035
+logoutlocation:
+  world: spawn
+  x: -622.0314971107299
+  y: 49.0
+  z: -2428.1412914739335
+  yaw: 42.32315
+  pitch: 18.770428
+socialspy: false
+money: '2605.0'
+homes:
+  home:
+    world: survival
+    x: 84.8301629583419
+    y: 16.0
+    z: 234.63386286967364
+    yaw: 236.09125
+    pitch: -41.889843

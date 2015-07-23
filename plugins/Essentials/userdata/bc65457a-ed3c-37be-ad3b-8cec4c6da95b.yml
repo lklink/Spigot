@@ -1,0 +1,22 @@
+lastAccountName: DominicSantiMX
+timestamps:
+  login: 1432444472904
+  logout: 1432445798654
+  lastteleport: 1432444568980
+ipAddress: 187.233.118.52
+lastlocation:
+  world: juegos
+  x: -1393.7748246308563
+  y: 84.0
+  z: 4009.283653215738
+  yaw: 260.3998
+  pitch: 14.40001
+logoutlocation:
+  world: SkyWars
+  x: -4.018937378279241
+  y: 49.0
+  z: -10.670986974898794
+  yaw: 276.7321
+  pitch: 6.6696124
+socialspy: false
+money: '240.0'

@@ -1,0 +1,37 @@
+permission: ''
+world: juegos
+X: -1485
+Y: 19
+Z: 3889
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 322:1 1'
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  C4LCeTiN: 1434826755721
+  savixz: 1435221002580
+  roy: 1433021827085
+  K0nrad_Joan: 1433114972776
+  knino: 1433620501341
+  Randroid75: 1434744259120
+  xXalexskate13Xx: 1433699276881
+  Alvaro: 1433021783974
+  DarthKay: 1433699275861
+  Zhedas: 1433699282748
+  lFone: 1433620461996
+  Diegotiro: 1432953971274
+  JseAranda: 1433537286528
+  Majeh: 1434744383822
+  knales11: 1433621126881
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

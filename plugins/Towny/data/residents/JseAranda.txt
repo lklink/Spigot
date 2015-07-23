@@ -1,0 +1,11 @@
+lastOnline=1434918876663
+registered=1434310200130
+isNPC=false
+title=
+surname=
+town=NightRaid
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

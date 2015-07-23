@@ -1,0 +1,22 @@
+lastAccountName: Clemente_YT
+timestamps:
+  login: 1434501656561
+  lastteleport: 1434502094548
+  logout: 1434502270328
+ipAddress: 37.133.61.222
+lastlocation:
+  world: juegos
+  x: -1394.1807513006893
+  y: 28.0
+  z: 3992.412027981453
+  yaw: 227.84955
+  pitch: 5.983913
+logoutlocation:
+  world: spawn
+  x: 546.283320664626
+  y: 39.5
+  z: -1068.700073233212
+  yaw: 76.17417
+  pitch: -3.8032875
+socialspy: false
+money: '600.0'

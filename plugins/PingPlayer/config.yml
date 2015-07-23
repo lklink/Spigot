@@ -1,0 +1,10 @@
+settings:
+  metrics: true
+  updater: true
+messages:
+  chatPrefix: "&7&k||&ePing&7&k||&e "
+  yourPing: "&eTu ping es &a%ping%"
+  othersPing: "&eEl ping de &a%player% &es &a%ping%"
+  playerNotOnline: "&cEste jugador no esta online"
+  onlyPlayerExecute: "&cOnly players can ping themselves!"
+  haveNoPermission: "&c&lNo Tienes Permisos Para Usar Este Comando"

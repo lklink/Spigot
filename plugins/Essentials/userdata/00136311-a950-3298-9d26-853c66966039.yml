@@ -1,0 +1,21 @@
+lastAccountName: MaryWhiteWolf
+timestamps:
+  login: 1437410264601
+  logout: 1437410266551
+ipAddress: 45.36.170.120
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.1770268011082
+  y: 28.0
+  z: -1389.438287714773
+  yaw: 177.22508
+  pitch: 14.9520035
+socialspy: false
+money: '30.0'

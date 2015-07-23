@@ -1,0 +1,22 @@
+lastAccountName: jhony16as
+timestamps:
+  login: 1434724781511
+  logout: 1434725122721
+  lastteleport: 1434724974012
+ipAddress: 161.18.195.185
+lastlocation:
+  world: juegos
+  x: -1397.8263137920674
+  y: 6.0
+  z: 4012.7004945638964
+  yaw: 285.15048
+  pitch: -2.8500187
+logoutlocation:
+  world: juegos
+  x: -1368.0781236406494
+  y: 23.0
+  z: 4060.333900117906
+  yaw: -129.90016
+  pitch: 1.0499308
+socialspy: false
+money: '30.0'

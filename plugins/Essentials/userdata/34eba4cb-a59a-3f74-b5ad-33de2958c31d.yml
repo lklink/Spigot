@@ -1,0 +1,22 @@
+lastAccountName: DrizzerX
+timestamps:
+  login: 1437602842466
+  lastteleport: 1433106822626
+  logout: 1437602359727
+ipAddress: 189.191.95.112
+lastlocation:
+  world: spawn
+  x: -618.6704400814114
+  y: 31.5
+  z: -1387.6434024280486
+  yaw: -15.974901
+  pitch: 68.20198
+logoutlocation:
+  world: MundoPlots
+  x: -23.95228643322572
+  y: 115.0
+  z: -13.084134642631803
+  yaw: -317.654
+  pitch: 25.825224
+socialspy: false
+money: '0.0'

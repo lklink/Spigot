@@ -1,0 +1,33 @@
+lastAccountName: SirAceTheActor
+timestamps:
+  login: 1432159911757
+  logout: 1432160046927
+  lastteleport: 1432159970086
+ipAddress: 181.162.20.112
+lastlocation:
+  world: world
+  x: -301.1277066694207
+  y: 72.0
+  z: 215.2691185869594
+  yaw: -169.06506
+  pitch: 5.400025
+logoutlocation:
+  world: plotworld
+  x: -63.64954381532455
+  y: 65.0
+  z: 57.89100856515981
+  yaw: -90.46805
+  pitch: 6.59999
+socialspy: false
+nickname: SirAceTheActor
+homes:
+  home:
+    world: juegos
+    x: -1026.5
+    y: 20.0
+    z: 518.5
+    yaw: 223.03966
+    pitch: 58.27237
+afk: false
+godmode: false
+money: '99.0'

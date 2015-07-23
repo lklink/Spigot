@@ -1,0 +1,57 @@
+permission: ''
+world: survival
+X: -2
+Y: 116
+Z: 17
+price: 0.0
+cooldown: 5
+globalCooldown: 0
+confirmation: false
+commands:
+- '*warp torre '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  jeremy: 1434304438655
+  patotato: 1433616026446
+  BraulioIsaac: 1432670326831
+  RICHARD: 1434852513865
+  benjamin: 1433006416233
+  MrDeadGamer: 1433039302880
+  Zimok: 1429749899480
+  kevin1998: 1429929953250
+  Zambrano: 1433100101252
+  creeper0000: 1433361620894
+  matita: 1433104650911
+  cristian123: 1434590929038
+  Ogoxx: 1429752928749
+  lol123567890: 1436809901877
+  elcrackboy: 1433093221866
+  Majeh: 1434744943301
+  lalo: 1433628936075
+  knales11: 1437504726674
+  D1234L: 1432500551271
+  Sebax21: 1429830722344
+  luife3000: 1433102932384
+  Hotban23: 1433688529016
+  C4LCeTiN: 1434302076676
+  savixz: 1435222166636
+  subzero: 1432946359592
+  Mage3683: 1429829160237
+  xStaticxRaydx: 1432505865032
+  Alvalo: 1432604454994
+  gatogamer: 1429829100181
+  PewDiePie25: 1433128275661
+  Adrianog: 1434335663196
+  hamahamahomohumu: 1434303525029
+  Javier: 1433434490163
+  Youshinx: 1429752931623
+  MrANORITHD: 1429819608476
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

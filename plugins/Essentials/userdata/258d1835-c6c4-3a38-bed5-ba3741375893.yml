@@ -1,0 +1,21 @@
+lastAccountName: Lans
+timestamps:
+  login: 1426390152056
+  logout: 1426390659801
+ipAddress: 179.8.222.60
+lastlocation:
+  world: world
+  x: -90.38159719383296
+  y: 62.24679395323254
+  z: 288.1361980172464
+  yaw: -258.3
+  pitch: -16.35002
+logoutlocation:
+  world: world
+  x: -50.21264558124838
+  y: 91.13172817685083
+  z: 334.86926368272964
+  yaw: -277.919
+  pitch: 23.250057
+socialspy: false
+money: '30.0'

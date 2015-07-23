@@ -1,0 +1,23 @@
+lastAccountName: Diegotiro
+timestamps:
+  login: 1436105640915
+  logout: 1436105642694
+  lastteleport: 1434224951175
+ipAddress: 200.112.62.152
+logoutlocation:
+  world: survival
+  x: 3820.1821479767345
+  y: 126.0
+  z: 7693.300000011921
+  yaw: 10.215729
+  pitch: 26.297869
+lastlocation:
+  world: spawn
+  x: -613.7694475529715
+  y: 28.0
+  z: -1377.9366000667078
+  yaw: 176.7487
+  pitch: 13.200003
+afk: false
+socialspy: false
+money: '8940.0'

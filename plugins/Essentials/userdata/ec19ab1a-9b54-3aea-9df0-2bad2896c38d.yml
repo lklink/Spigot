@@ -1,0 +1,21 @@
+lastAccountName: Max
+timestamps:
+  login: 1433208153367
+  lastteleport: 1433208528228
+  logout: 1433208597929
+ipAddress: 179.60.84.52
+lastlocation:
+  world: juegos
+  x: -1395.4391883006283
+  y: 28.0
+  z: 3980.7139978728687
+  yaw: 178.59149
+  pitch: 9.449612
+logoutlocation:
+  world: Factions
+  x: -319.7319492124453
+  y: 69.0
+  z: -363.43963784609485
+  yaw: 296.50888
+  pitch: 13.949978
+money: '30.0'

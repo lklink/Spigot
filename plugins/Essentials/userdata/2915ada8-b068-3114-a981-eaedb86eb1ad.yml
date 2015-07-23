@@ -1,0 +1,21 @@
+lastAccountName: lret
+timestamps:
+  login: 1432497644719
+  logout: 1432497650870
+ipAddress: 186.178.245.247
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1457.5053277793295
+  y: 6.518996544175906
+  z: 3976.1497939231517
+  yaw: 258.69077
+  pitch: -7.3503904
+socialspy: false
+money: '30.0'

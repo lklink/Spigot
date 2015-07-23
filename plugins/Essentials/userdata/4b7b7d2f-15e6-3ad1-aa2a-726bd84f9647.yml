@@ -1,0 +1,20 @@
+lastAccountName: chuchuino
+timestamps:
+  login: 1434142109525
+  logout: 1434143452777
+ipAddress: 200.120.77.118
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -672.7115007935776
+  y: 24.0
+  z: -1438.177420166781
+  yaw: -86.974396
+  pitch: -3.6619036
+money: '30.0'

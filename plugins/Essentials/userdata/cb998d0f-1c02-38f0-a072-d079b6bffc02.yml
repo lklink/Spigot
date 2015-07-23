@@ -1,0 +1,22 @@
+lastAccountName: MinnieLove
+timestamps:
+  login: 1434923548562
+  logout: 1434924870684
+  lastteleport: 1434923581565
+ipAddress: 189.198.88.24
+lastlocation:
+  world: plotworld
+  x: 132.5
+  y: 82.46945920136507
+  z: 161.5
+  yaw: -52.349888
+  pitch: 12.749825
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '30.0'

@@ -1,0 +1,20 @@
+lastAccountName: carnoo
+timestamps:
+  login: 1433106635485
+  logout: 1433107138853
+ipAddress: 83.35.46.36
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: SkyWars
+  x: -0.6743875879424248
+  y: 50.0
+  z: -1.2630478194842976
+  yaw: -188.10481
+  pitch: 34.152317
+money: '85.0'

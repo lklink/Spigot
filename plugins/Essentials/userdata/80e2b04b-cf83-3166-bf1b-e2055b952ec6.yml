@@ -1,0 +1,20 @@
+lastAccountName: Angel_PvP12
+timestamps:
+  login: 1436209120230
+  logout: 1436209194727
+ipAddress: 189.158.96.204
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -632.1311591605659
+  y: 10.0
+  z: -1523.699999988079
+  yaw: -275.54456
+  pitch: 16.23909
+money: '30.0'

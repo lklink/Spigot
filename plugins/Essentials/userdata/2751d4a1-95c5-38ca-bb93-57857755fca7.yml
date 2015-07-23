@@ -1,0 +1,22 @@
+lastAccountName: zCioletti_
+timestamps:
+  login: 1435549175116
+  lastteleport: 1435548037633
+  logout: 1435549233621
+ipAddress: 179.28.7.193
+lastlocation:
+  world: spawn
+  x: 562.5
+  y: 41.0
+  z: -1067.5
+  yaw: 324.89297
+  pitch: 90.0
+logoutlocation:
+  world: juegos
+  x: -1105.3439686317572
+  y: 49.0
+  z: 2783.566032424206
+  yaw: -98.09662
+  pitch: 42.420387
+socialspy: false
+money: '30.0'

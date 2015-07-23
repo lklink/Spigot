@@ -1,0 +1,22 @@
+lastAccountName: Catalina_
+timestamps:
+  login: 1435256066568
+  logout: 1435256640765
+  lastteleport: 1435256306907
+ipAddress: 201.223.90.57
+lastlocation:
+  world: plotworld
+  x: -297.37529981661896
+  y: 65.0
+  z: -261.73890055754146
+  yaw: -246.75664
+  pitch: 53.298737
+logoutlocation:
+  world: spawn
+  x: -620.6818948901793
+  y: 49.0
+  z: -2426.011324034713
+  yaw: 122.69925
+  pitch: -9.510014
+socialspy: false
+money: '30.0'

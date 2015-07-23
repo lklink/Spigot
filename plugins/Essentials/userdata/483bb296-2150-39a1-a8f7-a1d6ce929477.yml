@@ -1,0 +1,46 @@
+lastAccountName: zentuxzeto
+timestamps:
+  login: 1437524609107
+  logout: 1437524793658
+  lastteleport: 1437524705307
+ipAddress: 186.79.222.232
+afk: false
+logoutlocation:
+  world: juegos
+  x: -1627.737136620102
+  y: 128.0
+  z: 4449.135990558335
+  yaw: 185.32614
+  pitch: 4.0799527
+lastlocation:
+  world: spawn
+  x: -623.1190861021228
+  y: 61.384501778154394
+  z: -2443.443705667494
+  yaw: -164.00668
+  pitch: 26.855988
+homes:
+  home:
+    world: world
+    x: -426.6234095509981
+    y: 65.9921823876445
+    z: 546.8861173821513
+    yaw: -266.54993
+    pitch: 34.950024
+  cesar1:
+    world: world
+    x: -511.49889853697914
+    y: 67.0
+    z: 611.3375985480656
+    yaw: 19.348623
+    pitch: 41.10006
+  castillo:
+    world: juegos
+    x: -1139.424072356179
+    y: 44.153684199553624
+    z: 3251.443156528836
+    yaw: 275.0539
+    pitch: 16.350006
+socialspy: false
+money: '2299.0'
+teleportenabled: true

@@ -1,0 +1,21 @@
+lastAccountName: jona650
+timestamps:
+  login: 1434144594636
+  lastteleport: 1434146105344
+  logout: 1434146121043
+ipAddress: 201.186.187.95
+lastlocation:
+  world: spawn
+  x: -613.7442436079112
+  y: 28.0
+  z: -1373.2652468315423
+  yaw: 173.21027
+  pitch: 90.0
+logoutlocation:
+  world: plotworld
+  x: 125.58856622433765
+  y: 65.0
+  z: 157.50585583951673
+  yaw: -168.29681
+  pitch: 31.207272
+money: '30.0'

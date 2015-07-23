@@ -1,0 +1,21 @@
+lastAccountName: josedo
+timestamps:
+  login: 1436128511320
+  logout: 1436128550810
+ipAddress: 179.7.92.169
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: 230.61796745727526
+  y: 65.0
+  z: 239.0324820826371
+  yaw: 49.200623
+  pitch: 4.949994
+socialspy: false
+money: '30.0'

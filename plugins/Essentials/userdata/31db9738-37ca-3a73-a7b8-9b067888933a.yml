@@ -1,0 +1,30 @@
+lastAccountName: carfty6574
+timestamps:
+  login: 1429906266450
+  logout: 1429906510440
+  lastteleport: 1429906444220
+ipAddress: 201.132.40.148
+lastlocation:
+  world: juegos
+  x: -952.0526995509846
+  y: 128.5
+  z: -524.3836822187616
+  yaw: -311.43616
+  pitch: 8.053199
+logoutlocation:
+  world: juegos
+  x: -952.4481709014688
+  y: 129.5100754951133
+  z: -524.4910221409202
+  yaw: -182.13605
+  pitch: 30.403196
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 206.97282327845804
+    y: 70.0
+    z: 64.90212383244128
+    yaw: 222.14847
+    pitch: 12.750028
+money: '25.0'

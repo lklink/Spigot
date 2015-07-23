@@ -1,0 +1,20 @@
+lastAccountName: Cowbra
+timestamps:
+  login: 1434481012390
+  logout: 1434481150355
+ipAddress: 190.82.23.179
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -690.5799040151423
+  y: 10.0
+  z: -1375.6590293072668
+  yaw: 129.60596
+  pitch: 12.868877
+money: '30.0'

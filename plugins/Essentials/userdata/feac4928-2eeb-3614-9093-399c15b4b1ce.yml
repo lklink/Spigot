@@ -1,0 +1,21 @@
+lastAccountName: sebastian396
+timestamps:
+  login: 1437615472098
+  logout: 1437615527649
+ipAddress: 190.164.237.20
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1391.8926612932805
+  y: 28.5
+  z: 3972.706186232695
+  yaw: 153.45
+  pitch: 20.399998
+money: '10000.0'
+socialspy: false

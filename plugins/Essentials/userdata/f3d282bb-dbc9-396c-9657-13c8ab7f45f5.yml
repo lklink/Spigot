@@ -1,0 +1,29 @@
+lastAccountName: SoyElmo
+timestamps:
+  login: 1434144429028
+  lastteleport: 1434146083943
+  logout: 1434146351067
+ipAddress: 201.186.190.239
+lastlocation:
+  world: plotworld
+  x: 186.5
+  y: 68.0
+  z: 43.5
+  yaw: -275.33423
+  pitch: 74.41939
+homes:
+  home:
+    world: plotworld
+    x: 205.47108077209737
+    y: 67.0
+    z: 165.6972146780527
+    yaw: 70.69143
+    pitch: 68.52613
+logoutlocation:
+  world: plotworld
+  x: 172.39126996869223
+  y: 66.0
+  z: 48.14134647229637
+  yaw: -186.64832
+  pitch: 67.75643
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: aquenandosesale
+timestamps:
+  login: 1435911644611
+  lastteleport: 1435911684211
+  logout: 1435911712263
+ipAddress: 188.78.204.207
+lastlocation:
+  world: spawn
+  x: -598.125816068277
+  y: 29.0
+  z: -1402.5348562883037
+  yaw: -298.42892
+  pitch: 0.2648016
+logoutlocation:
+  world: spawn
+  x: -622.1896684809793
+  y: 50.0
+  z: -2446.672120866279
+  yaw: 349.6515
+  pitch: 16.863676
+money: '30.0'

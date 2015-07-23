@@ -1,0 +1,21 @@
+lastAccountName: ElPalomo
+timestamps:
+  login: 1432926011009
+  lastteleport: 1432926048860
+  logout: 1432926747278
+ipAddress: 190.47.68.91
+lastlocation:
+  world: juegos
+  x: -1396.2108098342883
+  y: 28.0
+  z: 3998.4754396892877
+  yaw: -180.65898
+  pitch: 5.2495947
+logoutlocation:
+  world: survival
+  x: 91.86236481280909
+  y: 73.0
+  z: 221.47246821657515
+  yaw: 249.74998
+  pitch: 42.6
+money: '30.0'

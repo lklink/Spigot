@@ -1,0 +1,22 @@
+lastAccountName: Bunines
+timestamps:
+  login: 1433114498517
+  lastteleport: 1433114517319
+  logout: 1433114573985
+ipAddress: 71.197.66.231
+lastlocation:
+  world: SkyWars
+  x: -7.636560225470613
+  y: 49.5
+  z: 5.933430961444445
+  yaw: -55.344505
+  pitch: 23.194963
+logoutlocation:
+  world: survival
+  x: -15.300000011920933
+  y: 109.0
+  z: 51.84582220078507
+  yaw: 34.580444
+  pitch: 57.300003
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: nico0007
+timestamps:
+  login: 1435350061378
+  lastteleport: 1433732351778
+  logout: 1435350145153
+ipAddress: 181.160.143.28
+lastlocation:
+  world: juegos
+  x: -1395.190177272708
+  y: 28.0
+  z: 3981.1040389774116
+  yaw: -183.35889
+  pitch: 6.749579
+logoutlocation:
+  world: world2
+  x: -797.4069951289148
+  y: 79.0
+  z: -169.06724313373397
+  yaw: 14.659378
+  pitch: 32.249958
+money: '30.0'

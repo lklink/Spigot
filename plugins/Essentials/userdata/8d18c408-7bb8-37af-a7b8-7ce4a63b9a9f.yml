@@ -1,0 +1,20 @@
+lastAccountName: SrVaquita
+timestamps:
+  login: 1433106634335
+  logout: 1433108858084
+ipAddress: 85.55.126.238
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: SkyWars
+  x: 3.6970737674855627
+  y: 50.0
+  z: -2.5178344704578057
+  yaw: 3.9054203
+  pitch: -0.20518982
+money: '60.0'

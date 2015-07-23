@@ -1,0 +1,22 @@
+lastAccountName: PandaDog3000
+timestamps:
+  login: 1435700357542
+  lastteleport: 1435606339572
+  logout: 1435700361341
+ipAddress: 186.154.62.10
+lastlocation:
+  world: survival
+  x: -19.5
+  y: 112.5
+  z: 47.5
+  yaw: 24.626637
+  pitch: 7.6666183
+logoutlocation:
+  world: survival
+  x: -14.918954046948473
+  y: 115.0
+  z: 11.478713397035758
+  yaw: -8.523767
+  pitch: 23.399982
+socialspy: false
+money: '30.0'

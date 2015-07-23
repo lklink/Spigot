@@ -1,0 +1,23 @@
+lastAccountName: YTDerekGamer
+timestamps:
+  login: 1435663370005
+  lastteleport: 1432336039886
+  lastheal: 1432336125095
+  logout: 1435663375016
+ipAddress: 79.146.132.86
+lastlocation:
+  world: SkyWars
+  x: 11.01399818266331
+  y: 49.87272989110647
+  z: -7.981446116155942
+  yaw: 199.3236
+  pitch: 9.899991
+logoutlocation:
+  world: spawn
+  x: -617.5446747798054
+  y: 28.0
+  z: -1374.7544722406953
+  yaw: -107.92498
+  pitch: -8.748009
+socialspy: false
+money: '255.0'

@@ -1,0 +1,23 @@
+lastAccountName: cw2
+timestamps:
+  login: 1430234794718
+  logout: 1430235479251
+  lastteleport: 1430191303639
+ipAddress: 179.8.131.45
+lastlocation:
+  world: plotworld
+  x: 53.728010942708835
+  y: 71.0
+  z: -84.88422362042
+  yaw: 154.65088
+  pitch: 63.749935
+logoutlocation:
+  world: plotworld
+  x: 102.6493580086518
+  y: 65.0
+  z: -298.7243194509742
+  yaw: 347.98666
+  pitch: 17.700018
+socialspy: false
+afk: false
+money: '26.0'

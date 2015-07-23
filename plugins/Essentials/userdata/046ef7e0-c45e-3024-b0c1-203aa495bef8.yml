@@ -1,0 +1,73 @@
+lastAccountName: Alvaro
+timestamps:
+  login: 1436106833827
+  logout: 1436106835377
+  lastteleport: 1436106415561
+  kits:
+    tools: 1429459919047
+    color: 1429459946349
+    firework: 1429459954349
+    dtools: 1429459930398
+    nuevo: 1433008294460
+    notch: 1429459938298
+ipAddress: 186.105.89.147
+lastlocation:
+  world: survival
+  x: 75.012053896924
+  y: 4.0
+  z: 282.8873245684395
+  yaw: 96.73019
+  pitch: -20.549994
+logoutlocation:
+  world: survival
+  x: 84.60734023600726
+  y: 62.0
+  z: 318.6042259402952
+  yaw: -260.13983
+  pitch: 10.774205
+socialspy: false
+homes:
+  home:
+    world: juegos
+    x: 1277.3468299834874
+    y: 42.0
+    z: 4667.524230312178
+    yaw: 99.57654
+    pitch: 49.9499
+  nether:
+    world: survival_nether
+    x: 89.54613421764758
+    y: 80.0
+    z: 56.09650182444389
+    yaw: -228.4505
+    pitch: 37.800003
+  globo:
+    world: juegos
+    x: -1477.2548819349238
+    y: 209.59982853712881
+    z: -889.3962326678071
+    yaw: 69.82772
+    pitch: 57.300007
+  premios:
+    world: juegos
+    x: -1394.6929341401544
+    y: 89.0
+    z: 4017.1331074376553
+    yaw: -248.91167
+    pitch: 12.749991
+  spleef:
+    world: Castle
+    x: 1256.699999988079
+    y: 22.0
+    z: 4432.63778011454
+    yaw: -224.69678
+    pitch: 80.85
+  arena:
+    world: juegos
+    x: -1494.1027844321218
+    y: 99.77908676092018
+    z: 3417.7985833359503
+    yaw: -199.79868
+    pitch: 42.60007
+teleportenabled: true
+money: '2479.0'

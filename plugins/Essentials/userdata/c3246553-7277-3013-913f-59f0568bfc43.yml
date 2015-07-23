@@ -1,0 +1,22 @@
+lastAccountName: EnderGirl72
+timestamps:
+  login: 1436573441553
+  logout: 1436573890317
+  lastteleport: 1436573601700
+ipAddress: 190.46.212.84
+lastlocation:
+  world: survival
+  x: 76.94058186279909
+  y: 63.0
+  z: 108.4322856568819
+  yaw: 116.00208
+  pitch: 3.848105
+logoutlocation:
+  world: spawn
+  x: -620.2472973361653
+  y: 48.0
+  z: -2417.355661733743
+  yaw: 329.86398
+  pitch: 24.634172
+socialspy: false
+money: '55.0'

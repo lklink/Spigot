@@ -1,0 +1,22 @@
+lastAccountName: Vegettogg
+timestamps:
+  login: 1435016916841
+  logout: 1435019037011
+  lastteleport: 1435019002261
+ipAddress: 190.198.81.162
+lastlocation:
+  world: juegos
+  x: -1399.0639267440663
+  y: 28.0
+  z: 4016.9779662404985
+  yaw: -249.14996
+  pitch: 3.150003
+logoutlocation:
+  world: survival
+  x: -4.069833219296428
+  y: 112.0
+  z: 57.69434427145066
+  yaw: 36.450226
+  pitch: 18.00001
+socialspy: false
+money: '30.0'

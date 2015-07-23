@@ -1,0 +1,22 @@
+lastAccountName: xSolowZ_
+timestamps:
+  login: 1435093638740
+  logout: 1435093704859
+  lastteleport: 1434234786085
+ipAddress: 177.237.163.0
+lastlocation:
+  world: juegos
+  x: 4704.475289264379
+  y: 52.0
+  z: 1050.699999988079
+  yaw: -25.171114
+  pitch: 33.83513
+logoutlocation:
+  world: spawn
+  x: -583.2435342784883
+  y: 6.0
+  z: -1484.1776717438786
+  yaw: 23.088104
+  pitch: -47.475735
+socialspy: false
+money: '233.0'

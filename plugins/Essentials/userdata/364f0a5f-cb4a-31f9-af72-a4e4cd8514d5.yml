@@ -1,0 +1,217 @@
+lastAccountName: Naikito
+timestamps:
+  login: 1436463221674
+  lastteleport: 1436230241732
+  logout: 1436463261182
+  kits:
+    oro: 1434053863867
+    color: 1432243742145
+    usuario: 1432427335791
+    esmeralda: 1435534625376
+    nuevo: 1435541585483
+    plata: 1435525482783
+    user: 1435541915353
+ipAddress: 186.78.59.32
+lastlocation:
+  world: Beta
+  x: -30.300000011920925
+  y: 55.671925057164145
+  z: 161.69999998807907
+  yaw: 131.88269
+  pitch: 7.670395
+logoutlocation:
+  world: Beta
+  x: -46.03383465961763
+  y: 73.24918707874468
+  z: 173.19922484202448
+  yaw: -265.90796
+  pitch: 60.5088
+socialspy: false
+homes:
+  skywars:
+    world: spawn
+    x: -620.5622225333944
+    y: 50.73848302115871
+    z: -2425.475848508044
+    yaw: 180.40564
+    pitch: -90.0
+  factions:
+    world: Factions
+    x: -205.41058158779347
+    y: 82.39326345430804
+    z: -367.45937888842843
+    yaw: 37.39032
+    pitch: 61.123196
+  skywarsmap1:
+    world: SkyWars
+    x: -26.81545170910871
+    y: 64.60314960606728
+    z: 3698.6063920332795
+    yaw: 130.65128
+    pitch: 40.233597
+  skywarsmap2:
+    world: SkyWars
+    x: -21.885171306289298
+    y: 50.0
+    z: 13685.308228545522
+    yaw: 94.40169
+    pitch: 35.932777
+  skywarsmap3:
+    world: SkyWars
+    x: -21.818081369393013
+    y: 50.0
+    z: 23686.162129364628
+    yaw: -7.550518
+    pitch: 34.72318
+  lobbyskywars:
+    world: SkyWars
+    x: -4.641280962105633
+    y: 52.597503829156075
+    z: 2.5165806821869308
+    yaw: 27.68628
+    pitch: 19.721706
+  skywarsmap5:
+    world: SkyWars
+    x: -20.109060042072933
+    y: 50.835588629080775
+    z: 43650.52922583272
+    yaw: 181.77927
+    pitch: 10.742409
+  skywarsmap4:
+    world: SkyWars
+    x: -21.54296530804183
+    y: 50.52374192067559
+    z: 33685.36158500692
+    yaw: 268.0897
+    pitch: 27.331196
+  home:
+    world: SkyWars
+    x: -20.5
+    y: 50.38606505345035
+    z: 53650.5
+    yaw: 264.87695
+    pitch: 29.788885
+  skywarsmap6:
+    world: SkyWars
+    x: -21.5
+    y: 52.49036423311556
+    z: 53685.5
+    yaw: 155.2138
+    pitch: 37.55284
+  skywarsmap7:
+    world: SkyWars
+    x: -20.50376652018167
+    y: 57.611158897661
+    z: 63651.16891415601
+    yaw: -105.529396
+    pitch: 53.7504
+  posiblemente:
+    world: juegos
+    x: -1316.9156365728702
+    y: 79.20882151983669
+    z: -171.12226761013457
+    yaw: -3.0570984
+    pitch: 21.801577
+  1vs1lobby:
+    world: juegos
+    x: -400.52199139599963
+    y: 16.496529750182674
+    z: 3635.090348416107
+    yaw: -23.578943
+    pitch: 28.560003
+  skywarsmap8:
+    world: SkyWars
+    x: -20.161889271645656
+    y: 60.7588658859978
+    z: 73651.74948105223
+    yaw: 336.80026
+    pitch: 64.82883
+  skywarsmap9:
+    world: SkyWars
+    x: -17.190009280989386
+    y: 60.355023642941745
+    z: 83647.66913731927
+    yaw: -311.36096
+    pitch: 86.928
+  globos:
+    world: juegos
+    x: -1454.893878730576
+    y: 197.0
+    z: -888.2057559252659
+    yaw: -343.89792
+    pitch: 30.403196
+  skywarsmap10:
+    world: SkyWars
+    x: -20.5
+    y: 50.0
+    z: 93650.5
+    yaw: 102.71381
+    pitch: 39.004795
+  skywarsmap11:
+    world: SkyWars
+    x: -23.435311079989805
+    y: 51.88709071721589
+    z: 103651.52947223355
+    yaw: 265.52985
+    pitch: 31.632
+  skywarsespera:
+    world: SkyWars
+    x: -9999.594607863022
+    y: 136.73901678930446
+    z: -0.73855888715646
+    yaw: -96.32144
+    pitch: 54.364803
+  1v102:
+    world: juegos
+    x: -9996.191885957107
+    y: 82.0
+    z: 3982.021570127442
+    yaw: -309.6992
+    pitch: 67.0
+  1v103:
+    world: juegos
+    x: -14002.962062635464
+    y: 102.39455161461811
+    z: 3990.122750019114
+    yaw: 7.7838135
+    pitch: 44.534363
+  1v104:
+    world: juegos
+    x: -12029.532725552472
+    y: 104.9828279807946
+    z: 3992.262471772864
+    yaw: -197.0102
+    pitch: 57.087494
+  parkournoob:
+    world: juegos
+    x: 4703.300000011921
+    y: 104.99509662949873
+    z: 1043.9777664994951
+    yaw: 153.59215
+    pitch: 59.759296
+  newspawn:
+    world: Beta
+    x: -9.948790664173492
+    y: 74.36448786152792
+    z: 162.76742942937014
+    yaw: 95.232056
+    pitch: 40.847977
+  plantillaplotz:
+    world: juegos
+    x: -1610.3961740323355
+    y: 127.63083487483952
+    z: 4288.921889008668
+    yaw: 49.32158
+    pitch: 41.481617
+  buildbattle:
+    world: juegos
+    x: 993.9839292286318
+    y: 105.0
+    z: 2988.699999988079
+    yaw: 71.20459
+    pitch: 65.423996
+afk: true
+godmode: false
+nickname: §4MrNaikito
+teleportenabled: true
+money: '299750.0'

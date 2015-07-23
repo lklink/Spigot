@@ -1,0 +1,20 @@
+lastAccountName: carlosCOD11
+timestamps:
+  login: 1436823724203
+  logout: 1436823852512
+ipAddress: 186.35.199.57
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -619.7035200235163
+  y: 40.0
+  z: -1427.0175177663214
+  yaw: 90.82507
+  pitch: 15.251991
+money: '30.0'

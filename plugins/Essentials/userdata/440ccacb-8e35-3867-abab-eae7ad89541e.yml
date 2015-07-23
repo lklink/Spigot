@@ -1,0 +1,24 @@
+lastAccountName: _exmorta_
+timestamps:
+  login: 1433618719112
+  lastteleport: 1433618887050
+  logout: 1433619019820
+ipAddress: 201.164.2.138
+lastlocation:
+  world: juegos
+  x: -1395.505026706149
+  y: 28.0
+  z: 3981.6263214524806
+  yaw: -179.49153
+  pitch: 6.943575
+money: '29.0'
+socialspy: false
+logoutlocation:
+  world: Factions
+  x: -264.30000001192093
+  y: 69.0
+  z: -250.6623519087105
+  yaw: 325.62366
+  pitch: 16.062616
+afk: false
+godmode: false

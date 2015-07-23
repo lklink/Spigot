@@ -1,0 +1,20 @@
+lastAccountName: Hugheskolton
+timestamps:
+  login: 1432413188645
+  logout: 1432413386376
+ipAddress: 179.56.226.72
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 28.0
+  z: 4026.309669218317
+  yaw: -185.90897
+  pitch: -8.100416
+money: '30.0'

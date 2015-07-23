@@ -1,0 +1,22 @@
+lastAccountName: Saiyent407
+timestamps:
+  login: 1434818228158
+  logout: 1434818263165
+  lastteleport: 1434675185000
+ipAddress: 190.199.48.166
+lastlocation:
+  world: juegos
+  x: -1391.858992158214
+  y: 89.0
+  z: 4007.9258424801997
+  yaw: -185.69998
+  pitch: 7.350002
+logoutlocation:
+  world: survival
+  x: -2.2670110964301005
+  y: 57.730483135777426
+  z: 107.44548236554898
+  yaw: 230.25
+  pitch: -88.05
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: Petronilora
+timestamps:
+  login: 1433649032277
+  lastteleport: 1433648061651
+  logout: 1433649035327
+ipAddress: 181.160.155.77
+lastlocation:
+  world: juegos
+  x: -1392.9188953245944
+  y: 28.0
+  z: 4006.7297848192247
+  yaw: -105.958954
+  pitch: -7.0504084
+logoutlocation:
+  world: survival
+  x: 11.1015271772215
+  y: 41.96353405590775
+  z: 69.4633882602827
+  yaw: -6.1035157E-6
+  pitch: -50.25
+socialspy: false
+money: '30.0'

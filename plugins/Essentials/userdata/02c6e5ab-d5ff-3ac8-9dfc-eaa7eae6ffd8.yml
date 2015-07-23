@@ -1,0 +1,21 @@
+lastAccountName: RAIDEN
+timestamps:
+  login: 1432515696738
+  lastteleport: 1432518067155
+  logout: 1432518299806
+ipAddress: 190.209.177.46
+lastlocation:
+  world: plotworld
+  x: 0.948998345358641
+  y: 65.0
+  z: 82.59585995743093
+  yaw: -2.0999548
+  pitch: -15.450019
+logoutlocation:
+  world: plotworld
+  x: -177.26031889261438
+  y: 65.0
+  z: 90.27845391461943
+  yaw: -13.500014
+  pitch: 22.349987
+money: '30.0'

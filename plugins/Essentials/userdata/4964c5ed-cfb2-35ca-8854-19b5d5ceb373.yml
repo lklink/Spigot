@@ -1,0 +1,21 @@
+lastAccountName: yDarkSlayer
+timestamps:
+  login: 1433552450044
+  lastteleport: 1433552532300
+  logout: 1433552621996
+ipAddress: 186.104.174.156
+lastlocation:
+  world: survival
+  x: -2.3871316992747738
+  y: 114.0
+  z: 16.64694321609507
+  yaw: -91.20342
+  pitch: -31.988037
+logoutlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 29.371710722973884
+  z: 4026.309669218317
+  yaw: 180.691
+  pitch: 31.949587
+money: '30.0'

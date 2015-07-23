@@ -1,0 +1,29 @@
+lastAccountName: _DarkSpaceHD_
+timestamps:
+  login: 1433714937082
+  lastteleport: 1433716408335
+  logout: 1433716739806
+ipAddress: 186.79.70.126
+lastlocation:
+  world: SkyWars
+  x: 0.33901268295034487
+  y: 51.0
+  z: -25.94999998807907
+  yaw: 267.77533
+  pitch: -19.04321
+homes:
+  home:
+    world: survival
+    x: 243.08715845188175
+    y: 75.0
+    z: 99.30000001192096
+    yaw: 282.6409
+    pitch: 7.0504966
+logoutlocation:
+  world: plotworld
+  x: -253.0911612733252
+  y: 66.875
+  z: 131.8729602023793
+  yaw: 3.9976075
+  pitch: 64.210884
+money: '75.0'

@@ -1,0 +1,22 @@
+lastAccountName: Mayk100
+timestamps:
+  login: 1433876295036
+  logout: 1433876562834
+  lastteleport: 1433876483115
+ipAddress: 95.5.164.215
+lastlocation:
+  world: survival_nether
+  x: 39.881880282047085
+  y: 81.0
+  z: 12.892298329028636
+  yaw: 83.776474
+  pitch: 65.38402
+logoutlocation:
+  world: SkyWars
+  x: 0.5552248231528313
+  y: 52.61387992998081
+  z: -22.708357930336522
+  yaw: -173.11192
+  pitch: 2.5959973
+socialspy: false
+money: '30.0'

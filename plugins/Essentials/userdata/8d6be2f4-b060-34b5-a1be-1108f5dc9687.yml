@@ -1,0 +1,21 @@
+lastAccountName: ElFolo
+timestamps:
+  login: 1434229938684
+  logout: 1434229964254
+ipAddress: 201.241.39.16
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -558.0697011032247
+  y: 72.0
+  z: -87.6204017840167
+  yaw: -84.63955
+  pitch: 13.200006
+socialspy: false
+money: '30.0'

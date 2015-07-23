@@ -1,0 +1,30 @@
+lastAccountName: byGRDZN
+timestamps:
+  login: 1433476307661
+  logout: 1433476342819
+  lastteleport: 1433129905690
+ipAddress: 190.212.195.65
+lastlocation:
+  world: plotworld
+  x: 20.906609003395417
+  y: 65.0
+  z: 137.58765682078766
+  yaw: -305.10004
+  pitch: 25.500013
+logoutlocation:
+  world: survival
+  x: 6.1752853422618195
+  y: 113.5
+  z: 108.22993969079347
+  yaw: -183.66962
+  pitch: 20.870277
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -19.515350000847846
+    y: 65.0
+    z: 161.6188291014535
+    yaw: 7.349987
+    pitch: 34.199993
+money: '30.0'

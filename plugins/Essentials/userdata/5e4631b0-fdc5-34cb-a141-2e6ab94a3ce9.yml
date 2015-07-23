@@ -1,0 +1,21 @@
+lastAccountName: CVBM
+timestamps:
+  login: 1433541446699
+  lastteleport: 1433541674512
+  logout: 1433541740346
+ipAddress: 181.64.209.226
+lastlocation:
+  world: survival
+  x: -2.1323526172014895
+  y: 114.0
+  z: 16.051967338138923
+  yaw: -81.909645
+  pitch: -38.10018
+logoutlocation:
+  world: plotworld
+  x: 74.20658387376494
+  y: 63.0
+  z: -17.57701612466417
+  yaw: 1.7778795
+  pitch: 8.495335
+money: '30.0'

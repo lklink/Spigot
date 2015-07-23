@@ -1,0 +1,21 @@
+lastAccountName: MrNachino
+timestamps:
+  login: 1429930077350
+  lastteleport: 1429933514824
+  logout: 1429933706333
+ipAddress: 191.113.159.248
+lastlocation:
+  world: survival
+  x: 66.844677166621
+  y: 64.0
+  z: -1228.975855914763
+  yaw: 16.403
+  pitch: 8.100041
+logoutlocation:
+  world: juegos
+  x: 4694.186398544366
+  y: 52.0
+  z: 1061.0433919092607
+  yaw: 90.796486
+  pitch: 18.897982
+money: '30.0'

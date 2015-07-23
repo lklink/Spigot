@@ -1,0 +1,22 @@
+lastAccountName: benjamon
+timestamps:
+  login: 1434325328754
+  logout: 1434325313529
+  lastteleport: 1434325024936
+ipAddress: 181.160.66.155
+lastlocation:
+  world: spawn
+  x: -620.480105842566
+  y: 28.0
+  z: -1395.911702739645
+  yaw: -276.55228
+  pitch: -30.450075
+logoutlocation:
+  world: juegos
+  x: -855.6999999880791
+  y: 6.0
+  z: 3678.7553010516954
+  yaw: 214.02948
+  pitch: -2.2499676
+socialspy: false
+money: '30.0'

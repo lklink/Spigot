@@ -1,0 +1,30 @@
+lastAccountName: OsoPoolar
+timestamps:
+  login: 1430257203706
+  lastteleport: 1430256648820
+  logout: 1430257220405
+ipAddress: 201.239.73.159
+lastlocation:
+  world: plotworld
+  x: 55.523293370877596
+  y: 65.0
+  z: 45.746636421394165
+  yaw: 219.23283
+  pitch: -8.0180645
+logoutlocation:
+  world: survival
+  x: 13.344156316571722
+  y: 62.0
+  z: 538.4443399415534
+  yaw: -181.651
+  pitch: 20.048779
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 14.441348779897133
+    y: 62.0
+    z: 518.7650009193599
+    yaw: -310.51917
+    pitch: 3.700136
+money: '30.0'

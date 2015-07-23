@@ -1,0 +1,20 @@
+lastAccountName: willrey
+timestamps:
+  login: 1434222870353
+  logout: 1434223007542
+ipAddress: 181.113.232.175
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -543.5182924115437
+  y: 6.0
+  z: -1414.5671701791034
+  yaw: 130.11455
+  pitch: 11.41283
+money: '30.0'

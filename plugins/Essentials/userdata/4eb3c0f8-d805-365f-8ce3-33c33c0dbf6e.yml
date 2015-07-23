@@ -1,0 +1,21 @@
+lastAccountName: frankitho
+timestamps:
+  login: 1434688126487
+  logout: 1434688388795
+ipAddress: 179.60.85.68
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1407.699999988079
+  y: 14.0
+  z: 4065.699999988079
+  yaw: 13.650635
+  pitch: -90.0
+socialspy: false
+money: '30.0'

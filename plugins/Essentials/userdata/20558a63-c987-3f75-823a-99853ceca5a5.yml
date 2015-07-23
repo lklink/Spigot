@@ -1,0 +1,22 @@
+lastAccountName: javierabella
+timestamps:
+  login: 1434238493959
+  lastteleport: 1433534275837
+  logout: 1434238715848
+ipAddress: 190.101.101.254
+lastlocation:
+  world: juegos
+  x: -1394.0264792031064
+  y: 28.0
+  z: 4007.9741096197313
+  yaw: 241.74101
+  pitch: 1.650003
+logoutlocation:
+  world: survival
+  x: 42.300000011920915
+  y: 64.0
+  z: 100.61871437440817
+  yaw: 170.39067
+  pitch: 10.049992
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: fer0boy
+timestamps:
+  login: 1437433857834
+  logout: 1437434477072
+  lastteleport: 1437434386698
+ipAddress: 189.204.185.70
+lastlocation:
+  world: plotworld
+  x: 290.5759778500621
+  y: 65.0
+  z: 83.15387394713282
+  yaw: -9.148634
+  pitch: 34.38622
+logoutlocation:
+  world: plotworld
+  x: 292.0
+  y: 65.0
+  z: 80.0
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '0.0'

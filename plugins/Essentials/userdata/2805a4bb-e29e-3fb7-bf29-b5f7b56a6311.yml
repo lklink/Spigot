@@ -1,0 +1,22 @@
+lastAccountName: lol123567890
+timestamps:
+  login: 1437084410162
+  lastteleport: 1437074482014
+  logout: 1437084803539
+ipAddress: 190.160.176.163
+lastlocation:
+  world: survival
+  x: 105.70301510478627
+  y: 59.0
+  z: 275.147382019367
+  yaw: 5.399933
+  pitch: 47.849995
+logoutlocation:
+  world: plotworld
+  x: 286.85511363931994
+  y: 65.5
+  z: -2.709785408537833
+  yaw: 182.09966
+  pitch: 13.4999485
+socialspy: false
+money: '8495.0'

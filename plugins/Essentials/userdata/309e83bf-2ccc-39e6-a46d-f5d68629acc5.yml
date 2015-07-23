@@ -1,0 +1,36 @@
+lastAccountName: K0nrad_Joan
+timestamps:
+  login: 1435367407705
+  logout: 1435367669788
+  mute: 0
+  lastteleport: 1435367619671
+  kits:
+    esmeralda: 1434319974260
+ipAddress: 201.236.10.164
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+afk: false
+lastlocation:
+  world: survival_nether
+  x: -23.40764058274541
+  y: 79.0848566131573
+  z: 80.51494674311957
+  yaw: 102.4241
+  pitch: 32.180313
+muted: false
+socialspy: false
+homes:
+  home:
+    world: juegos
+    x: -10045.85122199343
+    y: 88.0
+    z: 4528.351171933836
+    yaw: 356.82117
+    pitch: 28.069958
+nickname: §9§lK0nrad_Joan
+money: '1185.0'

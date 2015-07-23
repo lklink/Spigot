@@ -1,0 +1,22 @@
+lastAccountName: gtr1512
+timestamps:
+  login: 1433897846882
+  lastteleport: 1433897363119
+  logout: 1433898976628
+ipAddress: 190.237.225.219
+lastlocation:
+  world: juegos
+  x: -1395.2846179758392
+  y: 28.0
+  z: 3981.490769045359
+  yaw: -182.4589
+  pitch: -9.450407
+logoutlocation:
+  world: Factions
+  x: -392.30000001192093
+  y: 75.0
+  z: -619.7529135823403
+  yaw: -108.92432
+  pitch: 55.050007
+socialspy: false
+money: '30.0'

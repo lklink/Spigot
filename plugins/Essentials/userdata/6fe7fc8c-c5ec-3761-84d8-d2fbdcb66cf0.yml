@@ -1,0 +1,21 @@
+lastAccountName: Rudma007
+timestamps:
+  login: 1435266313067
+  lastteleport: 1435266776239
+  logout: 1435267254803
+ipAddress: 88.20.129.6
+lastlocation:
+  world: juegos
+  x: -1367.7697667705386
+  y: 28.0
+  z: 3982.549350292156
+  yaw: -124.79998
+  pitch: 5.7000227
+logoutlocation:
+  world: spawn
+  x: -619.9349398364747
+  y: 50.0
+  z: -2446.2412872470945
+  yaw: 22.199318
+  pitch: 15.69
+money: '245.0'

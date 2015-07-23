@@ -1,0 +1,22 @@
+lastAccountName: DtokeMC
+timestamps:
+  login: 1433551017655
+  lastteleport: 1433550896899
+  logout: 1433551061258
+ipAddress: 201.212.59.96
+lastlocation:
+  world: juegos
+  x: -1398.2670232170226
+  y: 28.0
+  z: 4015.3348904841673
+  yaw: -175.74104
+  pitch: -1.7732427
+logoutlocation:
+  world: plotworld
+  x: -21.89108570956165
+  y: 65.0
+  z: -46.7960929937803
+  yaw: 177.04759
+  pitch: 24.147345
+socialspy: false
+money: '30.0'

@@ -1,0 +1,20 @@
+lastAccountName: iTommy
+timestamps:
+  login: 1431388851059
+  logout: 1431389255919
+ipAddress: 64.32.74.181
+lastlocation:
+  world: juegos
+  x: -913.9183991638118
+  y: 122.0
+  z: -525.8997736978431
+  yaw: -67.41559
+  pitch: -9.194182
+logoutlocation:
+  world: juegos
+  x: -952.5606473795348
+  y: 129.75651664247184
+  z: -524.3731763332307
+  yaw: -95.59932
+  pitch: 33.4752
+money: '30.0'

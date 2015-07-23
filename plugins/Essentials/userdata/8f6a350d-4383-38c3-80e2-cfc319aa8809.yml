@@ -1,0 +1,21 @@
+lastAccountName: Goku041020003
+timestamps:
+  login: 1433616351171
+  lastteleport: 1433618148084
+  logout: 1433618651936
+ipAddress: 181.67.23.175
+lastlocation:
+  world: juegos
+  x: -1395.617621609822
+  y: 28.0
+  z: 3981.3858910627173
+  yaw: 182.79099
+  pitch: 6.2995896
+logoutlocation:
+  world: Factions
+  x: 10.657663936277476
+  y: 64.0
+  z: -326.3858406826896
+  yaw: 271.45874
+  pitch: 39.299988
+money: '30.0'

@@ -1,0 +1,31 @@
+lastAccountName: MrANORITHD
+timestamps:
+  login: 1431214160627
+  lastteleport: 1431214726163
+  logout: 1431214726462
+ipAddress: 186.35.116.195
+lastlocation:
+  world: survival
+  x: 68.30000001192093
+  y: 14.0
+  z: 542.9274581655121
+  yaw: -246.61646
+  pitch: 25.199993
+homes:
+  home:
+    world: survival
+    x: 0.5493206619628725
+    y: 62.0
+    z: 536.2375000119209
+    yaw: 92.38066
+    pitch: 12.150365
+afk: false
+money: '109660.99'
+logoutlocation:
+  world: survival
+  x: 0.5
+  y: 62.0
+  z: 536.5
+  yaw: 261.88065
+  pitch: 29.100367
+socialspy: false

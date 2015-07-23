@@ -1,0 +1,22 @@
+lastAccountName: Z0neto
+timestamps:
+  login: 1431905678112
+  logout: 1431907113909
+  lastteleport: 1431906263714
+ipAddress: 181.226.223.86
+lastlocation:
+  world: juegos
+  x: -1401.3006039436102
+  y: 28.0
+  z: 3988.201006759216
+  yaw: 270.27118
+  pitch: 25.200037
+logoutlocation:
+  world: juegos
+  x: -1432.6519684469638
+  y: 31.0
+  z: -572.5439722930495
+  yaw: -207.59998
+  pitch: 40.499897
+socialspy: false
+money: '30.0'

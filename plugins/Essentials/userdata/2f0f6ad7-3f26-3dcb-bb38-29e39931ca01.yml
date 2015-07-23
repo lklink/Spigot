@@ -1,0 +1,21 @@
+lastAccountName: mitrio
+timestamps:
+  login: 1433642475026
+  logout: 1433642660045
+ipAddress: 181.163.80.214
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -271.99705224587416
+  y: 79.0
+  z: -320.5445980440671
+  yaw: 347.35904
+  pitch: 15.449988
+socialspy: false
+money: '30.0'

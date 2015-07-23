@@ -1,0 +1,21 @@
+lastAccountName: FiRezPenguin
+timestamps:
+  login: 1433544816473
+  lastteleport: 1433545604903
+  logout: 1433545624021
+ipAddress: 200.93.81.77
+lastlocation:
+  world: survival
+  x: 207.56074309204098
+  y: 63.0
+  z: 228.91417008045386
+  yaw: 71.482056
+  pitch: 16.799997
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: 180.691
+  pitch: 31.949587
+money: '30.0'

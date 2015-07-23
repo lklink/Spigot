@@ -1,0 +1,20 @@
+lastAccountName: SonryCorporation
+timestamps:
+  login: 1433197494714
+  logout: 1433198119229
+ipAddress: 184.170.129.116
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1393.608571442161
+  y: 8.0
+  z: 4053.154835377239
+  yaw: 300.3907
+  pitch: 32.849556
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: thedjtrollin
+timestamps:
+  login: 1433553619913
+  lastteleport: 1433554428816
+  logout: 1433554506311
+ipAddress: 181.161.124.214
+lastlocation:
+  world: plotworld
+  x: 198.81322379074243
+  y: 65.5
+  z: 154.23790269249076
+  yaw: 64.94999
+  pitch: 21.149988
+logoutlocation:
+  world: SkyWars
+  x: 0.5552248231528313
+  y: 52.61387992998081
+  z: -22.708357930336522
+  yaw: -173.11192
+  pitch: 2.5959973
+money: '30.0'

@@ -1,0 +1,27 @@
+permission: ''
+world: juegos
+X: -1394
+Y: 90
+Z: 4007
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*spawn <player> '
+- '*give <player> 384 32 '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  C4LCeTiN: 1433014008217
+  Volrat: 1433025370075
+  sheezzy: 1430100957372
+  FabianMC: 1429986247421
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

@@ -1,0 +1,20 @@
+lastAccountName: Crack
+timestamps:
+  login: 1437173743907
+  logout: 1437173845060
+ipAddress: 181.64.206.84
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -612.1688087531068
+  y: 28.0
+  z: -1399.9193210065516
+  yaw: -235.57483
+  pitch: 25.15199
+money: '30.0'

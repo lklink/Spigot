@@ -1,0 +1,22 @@
+lastAccountName: iJon71
+timestamps:
+  login: 1436989095980
+  lastteleport: 1436990173630
+  logout: 1436990207803
+ipAddress: 187.132.220.189
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -181.87491
+  pitch: 62.351997
+logoutlocation:
+  world: juegos
+  x: -1131.3236219123937
+  y: 48.0
+  z: 2774.3892435605485
+  yaw: -2.7403622
+  pitch: 23.61548
+socialspy: false
+money: '210.0'

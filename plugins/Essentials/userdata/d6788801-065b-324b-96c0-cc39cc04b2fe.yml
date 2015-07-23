@@ -1,0 +1,21 @@
+lastAccountName: Ultimatewino
+timestamps:
+  login: 1433552499520
+  lastteleport: 1433552676684
+  logout: 1433553653272
+ipAddress: 190.101.61.22
+lastlocation:
+  world: survival
+  x: 4.1052726228843754
+  y: 102.0
+  z: 62.478474907387735
+  yaw: -48.90964
+  pitch: 8.39985
+logoutlocation:
+  world: Factions
+  x: -575.0811679918587
+  y: 66.0
+  z: 989.8540869265503
+  yaw: 325.76196
+  pitch: 2.5499508
+money: '30.0'

@@ -1,0 +1,30 @@
+lastAccountName: porotakilemo
+timestamps:
+  login: 1435967689313
+  lastteleport: 1435968038927
+  logout: 1435968305682
+ipAddress: 181.73.238.216
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: 180.52512
+  pitch: 15.701999
+logoutlocation:
+  world: survival
+  x: 449.89933706123855
+  y: 62.0
+  z: 249.34766734260063
+  yaw: 20.180103
+  pitch: 41.999985
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 252.86457380753282
+    y: 58.0
+    z: -81.91260925993795
+    yaw: 197.4002
+    pitch: 18.299997
+money: '30.0'

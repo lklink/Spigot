@@ -1,0 +1,21 @@
+lastAccountName: sombra7
+timestamps:
+  login: 1434644962515
+  lastteleport: 1434645457980
+  logout: 1434645928405
+ipAddress: 187.200.120.208
+lastlocation:
+  world: survival
+  x: -31.5
+  y: 103.0
+  z: 36.5
+  yaw: -37.959362
+  pitch: 15.299817
+logoutlocation:
+  world: spawn
+  x: -620.6255338833407
+  y: 50.0
+  z: -2451.376591970063
+  yaw: -328.35095
+  pitch: -12.2099905
+money: '30.0'

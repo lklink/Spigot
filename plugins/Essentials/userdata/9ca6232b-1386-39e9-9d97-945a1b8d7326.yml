@@ -1,0 +1,22 @@
+lastAccountName: NoHacksJustEze
+timestamps:
+  login: 1435286080271
+  lastteleport: 1435286144507
+  logout: 1435286342211
+ipAddress: 181.169.122.157
+lastlocation:
+  world: spawn
+  x: -619.9663684906294
+  y: 48.0
+  z: -2433.377614466343
+  yaw: -161.55414
+  pitch: 3.4499729
+logoutlocation:
+  world: spawn
+  x: 548.1002504604422
+  y: 39.0
+  z: -1066.111967031665
+  yaw: -73.23833
+  pitch: 90.0
+socialspy: false
+money: '240.0'

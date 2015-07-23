@@ -1,0 +1,22 @@
+lastAccountName: miriam
+timestamps:
+  login: 1433543867529
+  lastteleport: 1433543855378
+  logout: 1433543873479
+ipAddress: 179.7.100.111
+lastlocation:
+  world: plotworld
+  x: 36.71810575594659
+  y: 65.0
+  z: -116.12491157717736
+  yaw: 196.8006
+  pitch: 13.649994
+logoutlocation:
+  world: juegos
+  x: -1398.4562425226154
+  y: 28.0
+  z: 4015.4926735015715
+  yaw: 163.291
+  pitch: 1.7995855
+socialspy: false
+money: '30.0'

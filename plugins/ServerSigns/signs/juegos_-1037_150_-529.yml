@@ -1,0 +1,29 @@
+permission: ''
+world: juegos
+X: -1037
+Y: 150
+Z: -529
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 322;1 5'
+- '*spawn <player> '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  lolomanolo11: 1430958340553
+  C4LCeTiN: 1429997535803
+  FabianMC: 1429986266171
+  TheCreeksk8: 1430074366648
+  Maxi_Fsr: 1430008541297
+  SlayerSito88: 1429939250639
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

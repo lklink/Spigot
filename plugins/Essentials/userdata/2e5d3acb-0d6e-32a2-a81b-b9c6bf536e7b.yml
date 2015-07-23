@@ -1,0 +1,21 @@
+lastAccountName: kevixander
+timestamps:
+  login: 1434305255580
+  logout: 1434305726559
+ipAddress: 181.161.158.187
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -676.967995325107
+  y: -30.645744358676442
+  z: -1315.3927074749945
+  yaw: 74.598
+  pitch: 78.59999
+socialspy: false
+money: '30.0'

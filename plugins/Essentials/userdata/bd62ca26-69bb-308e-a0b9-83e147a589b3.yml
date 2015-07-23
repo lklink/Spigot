@@ -1,0 +1,20 @@
+lastAccountName: fdd
+timestamps:
+  login: 1433019987973
+  logout: 1433020023518
+ipAddress: 186.106.27.10
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.909
+  pitch: 30.299591
+money: '30.0'

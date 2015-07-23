@@ -1,0 +1,33 @@
+lastAccountName: lolomanolo11
+timestamps:
+  login: 1437060999487
+  logout: 1437061034373
+  lastteleport: 1436572590531
+  mute: 0
+ipAddress: 190.160.175.241
+lastlocation:
+  world: plotworld
+  x: 11.23546990679083
+  y: 65.0
+  z: -144.88935661065824
+  yaw: -46.156403
+  pitch: 90.0
+logoutlocation:
+  world: spawn
+  x: -620.2068354434713
+  y: 48.0
+  z: -2436.2814593218463
+  yaw: 130.7128
+  pitch: 18.115171
+socialspy: false
+muted: false
+homes:
+  home:
+    world: spawn
+    x: -613.6234254888969
+    y: 28.0
+    z: -1367.372822989373
+    yaw: -164.6717
+    pitch: 75.8688
+afk: false
+money: '2335.0'

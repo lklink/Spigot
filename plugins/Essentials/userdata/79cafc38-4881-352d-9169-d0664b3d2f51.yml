@@ -1,0 +1,29 @@
+lastAccountName: Niblic
+timestamps:
+  login: 1434315267458
+  lastteleport: 1434315392437
+  logout: 1434315933421
+ipAddress: 186.104.214.142
+lastlocation:
+  world: plotworld
+  x: 218.08464052173352
+  y: 65.0
+  z: -237.4676438784321
+  yaw: -302.85
+  pitch: 9.150003
+homes:
+  home:
+    world: survival
+    x: 181.4857438240761
+    y: 58.0
+    z: 53.56831219061449
+    yaw: 20.030182
+    pitch: 33.000008
+logoutlocation:
+  world: survival
+  x: -16.924876239076045
+  y: 123.0
+  z: 44.16327967110898
+  yaw: -162.15
+  pitch: 57.600002
+money: '30.0'

@@ -1,0 +1,20 @@
+lastAccountName: pakoco
+timestamps:
+  login: 1433454966305
+  logout: 1433455205204
+ipAddress: 200.120.172.161
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -2.382503058701232
+  y: 64.0
+  z: -381.70195564196507
+  yaw: -127.09087
+  pitch: 8.9999895
+money: '30.0'

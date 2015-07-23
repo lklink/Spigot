@@ -1,0 +1,22 @@
+lastAccountName: JokerGames_YT
+timestamps:
+  login: 1435523352183
+  lastteleport: 1435523503095
+  logout: 1435523554898
+ipAddress: 201.185.74.101
+lastlocation:
+  world: spawn
+  x: -605.6999999880791
+  y: 53.80479230105776
+  z: -2439.244553086832
+  yaw: -329.65573
+  pitch: 21.449984
+logoutlocation:
+  world: spawn
+  x: -624.7374438170283
+  y: 50.0
+  z: -2450.6720887830597
+  yaw: -259.75592
+  pitch: 21.900015
+socialspy: false
+money: '605.0'

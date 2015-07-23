@@ -1,0 +1,22 @@
+lastAccountName: xporkurx
+timestamps:
+  login: 1437243818008
+  lastteleport: 1434781074309
+  logout: 1437243960916
+ipAddress: 191.112.112.13
+lastlocation:
+  world: juegos
+  x: -1394.8678442827031
+  y: 28.0
+  z: 4007.7534612283403
+  yaw: -110.649605
+  pitch: -2.9376016
+logoutlocation:
+  world: survival
+  x: 357.14720381875105
+  y: 61.0
+  z: -32.30000001192093
+  yaw: 335.9098
+  pitch: 43.585903
+socialspy: false
+money: '30.0'

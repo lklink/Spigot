@@ -1,0 +1,21 @@
+lastAccountName: egrandall
+timestamps:
+  login: 1433910247971
+  logout: 1433910460824
+ipAddress: 190.74.74.94
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: -240.81215940883706
+  y: 65.8500000178814
+  z: -175.98975201849007
+  yaw: -320.0443
+  pitch: 28.64997
+socialspy: false
+money: '30.0'

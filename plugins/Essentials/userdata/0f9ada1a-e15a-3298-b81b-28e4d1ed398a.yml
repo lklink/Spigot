@@ -1,0 +1,21 @@
+lastAccountName: YIkiki
+timestamps:
+  login: 1429839444838
+  logout: 1429839465086
+ipAddress: 201.214.252.206
+lastlocation:
+  world: world
+  x: -76.0
+  y: 69.0
+  z: 280.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -69.5
+  y: 69.0
+  z: 289.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

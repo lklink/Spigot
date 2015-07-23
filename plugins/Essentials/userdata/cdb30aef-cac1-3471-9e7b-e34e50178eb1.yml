@@ -1,0 +1,22 @@
+lastAccountName: Gamer_FN
+timestamps:
+  login: 1434071726010
+  lastteleport: 1434055334789
+  logout: 1434071729760
+ipAddress: 181.73.10.19
+lastlocation:
+  world: spawn
+  x: -627.6297477270505
+  y: 31.0
+  z: -1417.6959435385338
+  yaw: 179.57176
+  pitch: 8.837122
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 49.0
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '30.0'

@@ -1,0 +1,20 @@
+lastAccountName: MagicLauncher
+timestamps:
+  login: 1430175267647
+  logout: 1430175272699
+ipAddress: 200.120.242.20
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -952.5
+  y: 130.0
+  z: -524.5
+  yaw: -182.13605
+  pitch: 30.403196
+money: '30.0'

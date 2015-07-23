@@ -1,0 +1,22 @@
+lastAccountName: Minato
+timestamps:
+  login: 1430234745339
+  logout: 1430235481765
+  lastteleport: 1429995383244
+ipAddress: 190.162.86.49
+lastlocation:
+  world: plotworld
+  x: 21.956884171058576
+  y: 65.0
+  z: -102.88286985804685
+  yaw: -247.35004
+  pitch: 19.349928
+logoutlocation:
+  world: plotworld
+  x: 99.3440586949631
+  y: 65.0
+  z: -303.68319502289336
+  yaw: 1.950306
+  pitch: 18.299952
+socialspy: false
+money: '29.0'

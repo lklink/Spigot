@@ -1,0 +1,22 @@
+lastAccountName: YisusGames
+timestamps:
+  login: 1435524580192
+  lastteleport: 1435525436730
+  logout: 1435526750612
+ipAddress: 190.212.195.83
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -181.87491
+  pitch: 62.351997
+logoutlocation:
+  world: juegos
+  x: -1133.575008574023
+  y: 54.0
+  z: 2766.693942629025
+  yaw: -90.43232
+  pitch: 10.33205
+socialspy: false
+money: '250.0'

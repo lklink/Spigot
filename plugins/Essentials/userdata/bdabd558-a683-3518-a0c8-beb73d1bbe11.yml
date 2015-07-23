@@ -1,0 +1,21 @@
+lastAccountName: lhamapropvpbro
+timestamps:
+  login: 1436760421996
+  lastteleport: 1436760465809
+  logout: 1436760525719
+ipAddress: 186.85.228.204
+lastlocation:
+  world: spawn
+  x: -615.5954317903288
+  y: 28.5
+  z: -1427.290028978754
+  yaw: -178.86833
+  pitch: -4.296615
+logoutlocation:
+  world: spawn
+  x: -612.9959915147372
+  y: 50.0
+  z: -2454.4029915699966
+  yaw: 273.74368
+  pitch: -3.7500026
+money: '30.0'

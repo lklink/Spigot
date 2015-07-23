@@ -1,0 +1,22 @@
+lastAccountName: woofgamer2014
+timestamps:
+  login: 1434764813252
+  lastteleport: 1434763080264
+  logout: 1434764871026
+ipAddress: 190.103.147.208
+lastlocation:
+  world: juegos
+  x: -1328.8773029841727
+  y: 6.0
+  z: 3976.01820953453
+  yaw: 95.396484
+  pitch: 30.76366
+logoutlocation:
+  world: plotworld
+  x: -152.3528188971464
+  y: 65.5
+  z: 230.68610017941535
+  yaw: -152.80238
+  pitch: 12.140103
+socialspy: false
+money: '30.0'

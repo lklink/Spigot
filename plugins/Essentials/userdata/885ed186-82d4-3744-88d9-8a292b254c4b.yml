@@ -1,0 +1,101 @@
+lastAccountName: FabianMC
+timestamps:
+  login: 1434929071172
+  lastteleport: 1434930057252
+  logout: 1434930297098
+  kits:
+    tools: 1429240273903
+    firework: 1430346163815
+    color: 1430178759066
+ipAddress: 191.117.100.135
+lastlocation:
+  world: juegos
+  x: 4705.228950840383
+  y: 103.63354021128937
+  z: 1044.3413001025265
+  yaw: -351.24924
+  pitch: 25.948122
+logoutlocation:
+  world: juegos
+  x: -1394.200023010476
+  y: 28.5
+  z: 3985.3949184554594
+  yaw: -224.54968
+  pitch: -15.299996
+socialspy: false
+nickname: §o§lFabian§lMC
+homes:
+  kuxo1:
+    world: world
+    x: 999920.9534400685
+    y: 83.0
+    z: 34526.25750139727
+    yaw: 182.04268
+    pitch: 43.50004
+  vip:
+    world: juegos
+    x: 1634.1319157131393
+    y: 31.5
+    z: 1017.83010325927
+    yaw: 89.40869
+    pitch: -1.8000227
+  arena:
+    world: world
+    x: -32.69999998807908
+    y: 120.0
+    z: 806.4149916335905
+    yaw: -89.44551
+    pitch: 16.117565
+  yo:
+    world: world
+    x: 251.69999998807907
+    y: 70.7085064402008
+    z: 13.956184297316659
+    yaw: -267.5519
+    pitch: 35.100006
+  apple:
+    world: survival
+    x: 11824.451641175803
+    y: 66.0
+    z: 1023.4926175680145
+    yaw: 357.5469
+    pitch: 14.10012
+  jungla:
+    world: survival
+    x: 627.5270203677517
+    y: 79.0
+    z: 3118.300000011921
+    yaw: -187.06255
+    pitch: -30.779646
+  factions:
+    world: Factions
+    x: -192.52147544158996
+    y: 77.85629073980873
+    z: 549.6415779286247
+    yaw: -356.74957
+    pitch: 27.599989
+  spawn2_0:
+    world: juegos
+    x: -1393.8521525092422
+    y: 33.586548995452496
+    z: 3917.3653400850003
+    yaw: -1.6855774
+    pitch: 24.899982
+  skywars:
+    world: SkyWars
+    x: -24.875331205006383
+    y: 54.76203005396375
+    z: 1183.9009566672066
+    yaw: -129.18677
+    pitch: 5.100001
+  l:
+    world: survival_the_end
+    x: 579.6999999880791
+    y: 17.0
+    z: 568.4938024610589
+    yaw: 278.54785
+    pitch: 87.9
+teleportenabled: false
+afk: false
+godmode: false
+money: '9722180.0'

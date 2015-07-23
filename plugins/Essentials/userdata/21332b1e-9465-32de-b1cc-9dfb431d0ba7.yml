@@ -1,0 +1,22 @@
+lastAccountName: NeCr0ManC3r
+timestamps:
+  login: 1435266333624
+  logout: 1435267252304
+  lastteleport: 1435266422774
+ipAddress: 200.104.201.90
+lastlocation:
+  world: SkyWars
+  x: -6.446700395452547
+  y: 49.0
+  z: 1.2799309193262265
+  yaw: 52.65735
+  pitch: 13.744836
+logoutlocation:
+  world: spawn
+  x: -625.5144883234458
+  y: 53.5
+  z: -2445.5931258988585
+  yaw: 303.75156
+  pitch: 33.599968
+socialspy: false
+money: '245.0'

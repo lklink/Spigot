@@ -1,0 +1,21 @@
+lastAccountName: josh
+timestamps:
+  login: 1434598058287
+  lastteleport: 1434598171837
+  logout: 1434598531650
+ipAddress: 201.240.222.208
+lastlocation:
+  world: Factions
+  x: -288.16537304996075
+  y: 79.0
+  z: -301.6348539238128
+  yaw: -74.14081
+  pitch: 6.749994
+logoutlocation:
+  world: plotworld
+  x: 249.75688576280896
+  y: 65.0
+  z: 161.3128090140883
+  yaw: 103.19992
+  pitch: 41.99997
+money: '30.0'

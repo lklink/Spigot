@@ -1,0 +1,25 @@
+permission: ''
+world: world
+X: 1000151
+Y: 32
+Z: 34374
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /give <player> 310 1
+- /give <player> 311 1
+- /give <player> 312 1
+- /give <player> 313 1
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

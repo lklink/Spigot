@@ -1,0 +1,1129 @@
+[15:19:53] [Server thread/INFO]: Starting minecraft server version 1.8
+[15:19:53] [Server thread/INFO]: Loading properties
+[15:19:53] [Server thread/INFO]: Default game type: SURVIVAL
+[15:19:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-c3c767f-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[15:19:53] [Server thread/INFO]: Debug logging is disabled
+[15:19:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:19:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:19:53] [Server thread/INFO]: Generating keypair
+[15:19:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:19:53] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:19:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[15:19:54] [Server thread/INFO]: [HubParticles] Loading HubParticles v1.41
+[15:19:54] [Server thread/INFO]: [VoxelSniper] Loading VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[15:19:54] [Server thread/INFO]: [Buycraft] Loading Buycraft v6.7
+[15:19:54] [Server thread/INFO]: [PlotZWorld] Loading PlotZWorld v3.8
+[15:19:54] [Server thread/INFO]: [Vault] Loading Vault v1.5.3-b37
+[15:19:54] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[15:19:54] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.22.7-SNAPSHOT
+[15:19:54] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[15:19:54] [Server thread/INFO]: [Questioner] Loading Questioner v0.6
+[15:19:54] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.0
+[15:19:54] [Server thread/INFO]: [TabColor] Loading TabColor v6.6
+[15:19:54] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.0.0-beta-05.1569-
+[15:19:54] [Server thread/INFO]: [MineResetLite] Loading MineResetLite v0.3.6
+[15:19:54] [Server thread/INFO]: [iConomy] Loading iConomy v7.0
+[15:19:54] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.10.0
+[15:19:54] [Server thread/INFO]: [Announcement] Loading Announcement v1.0.3
+[15:19:54] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.2-SNAPSHOT
+[15:19:54] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.4
+[15:19:54] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.14.2
+[15:19:54] [Server thread/INFO]: [Plotz] Loading Plotz v3.8
+[15:19:54] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:19:54] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.14-SNAPSHOT (build 1195)
+[15:19:54] [Server thread/INFO]: [Jobs] Loading Jobs v2.12.0
+[15:19:54] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b804
+[15:19:54] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[15:19:54] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[15:19:54] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.8
+[15:19:54] [Server thread/INFO]: [Towny] Loading Towny v0.89.2.0
+[15:19:54] [Server thread/INFO]: [ServerSigns] Loading ServerSigns v3.1.1
+[15:19:54] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[15:19:54] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v9.3
+[15:19:54] [Server thread/INFO]: [LWC] Loading LWC v4.4.0 (b881) (July 11, 2013)
+[15:19:54] [Server thread/INFO]: [AuthMe] Loading AuthMe v3.4
+[15:19:54] [Server thread/INFO]: [TitleManager] Loading TitleManager v1.5.9
+[15:19:54] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[15:19:54] [Server thread/INFO]: [TownyChat] Loading TownyChat v0.42
+[15:19:54] [Server thread/INFO]: [PlotZWorld] Enabling PlotZWorld v3.8
+[15:19:54] [Server thread/INFO]: [Vault] Enabling Vault v1.5.3-b37
+[15:19:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:19:54] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[15:19:54] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[15:19:54] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[15:19:54] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[15:19:54] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:19:54] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:19:54] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:19:54] [Server thread/INFO]: [Vault] Enabled Version 1.5.3-b37
+[15:19:54] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.2-SNAPSHOT
+[15:19:54] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:19:54] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.14.2
+[15:19:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v9.3
+[15:19:54] [Server thread/INFO]: [LWC] Enabling LWC v4.4.0 (b881) (July 11, 2013)
+[15:19:54] [Server thread/INFO]: [LWC] Connecting to SQLite
+[15:19:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:19:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:19:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:19:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:19:54] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:19:54] [Server thread/INFO]: Preparing level "juegos"
+[15:19:54] [Server thread/INFO]: -------- World Settings For [juegos] --------
+[15:19:54] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:54] [Server thread/INFO]: Anti X-Ray: true
+[15:19:54] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:54] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:54] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:54] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:54] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:54] [Server thread/INFO]: Structure Info Saving: true
+[15:19:54] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:54] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:54] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:54] [Server thread/INFO]: View Distance: 10
+[15:19:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:54] [Server thread/INFO]: Clear tick list: false
+[15:19:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:55] [Server thread/INFO]: -------- World Settings For [juegos_nether] --------
+[15:19:55] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:55] [Server thread/INFO]: Anti X-Ray: true
+[15:19:55] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:55] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:55] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:55] [Server thread/INFO]: Structure Info Saving: true
+[15:19:55] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:55] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:55] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:55] [Server thread/INFO]: View Distance: 10
+[15:19:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:55] [Server thread/INFO]: Clear tick list: false
+[15:19:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:55] [Server thread/INFO]: -------- World Settings For [juegos_the_end] --------
+[15:19:55] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:55] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:55] [Server thread/INFO]: Anti X-Ray: true
+[15:19:55] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:55] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:55] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:55] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:55] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:55] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:55] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:55] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:55] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:55] [Server thread/INFO]: Structure Info Saving: true
+[15:19:55] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:55] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:55] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:55] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:55] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:55] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:55] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:55] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:55] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:55] [Server thread/INFO]: View Distance: 10
+[15:19:55] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:55] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:55] [Server thread/INFO]: Clear tick list: false
+[15:19:55] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:55] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2159448894344635551)
+[15:19:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2159448894344635551)
+[15:19:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3461990128697303900)
+[15:19:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[15:19:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:19:56] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R1 as the Bukkit adapter
+[15:19:56] [Server thread/INFO]: [HubParticles] Enabling HubParticles v1.41
+[15:19:56] [Server thread/INFO]: [VoxelSniper] Enabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[15:19:56] [Server thread/INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[15:19:56] [Server thread/INFO]: [VoxelSniper] Registered Sniper Listener.
+[15:19:56] [Server thread/INFO]: [Buycraft] Enabling Buycraft v6.7
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[15:19:56] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into iConomy 6 for Multiverse-Core v2.4-b527
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'juegos' - Env: NORMAL - Type: FLAT & seed: -2159448894344635551
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 1324837303287042188
+[15:19:56] [Server thread/INFO]: -------- World Settings For [survival] --------
+[15:19:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:56] [Server thread/INFO]: Anti X-Ray: true
+[15:19:56] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:56] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:56] [Server thread/INFO]: Structure Info Saving: true
+[15:19:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:56] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:56] [Server thread/INFO]: View Distance: 10
+[15:19:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:56] [Server thread/INFO]: Clear tick list: false
+[15:19:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:56] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1324837303287042188)
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'juegos_nether' - Env: NETHER - Type: FLAT & seed: -2159448894344635551
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'juegos_the_end' - Env: THE_END - Type: NORMAL & seed: 3461990128697303900
+[15:19:56] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_nether' - Env: NETHER - Type: NORMAL & seed: -3895889363950506750
+[15:19:56] [Server thread/INFO]: -------- World Settings For [survival_nether] --------
+[15:19:56] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:56] [Server thread/INFO]: Anti X-Ray: true
+[15:19:56] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:56] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:56] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:56] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:56] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:56] [Server thread/INFO]: Structure Info Saving: true
+[15:19:56] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:56] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:56] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:56] [Server thread/INFO]: View Distance: 10
+[15:19:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:56] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:56] [Server thread/INFO]: Clear tick list: false
+[15:19:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:56] [Server thread/INFO]: Preparing start region for level 4 (Seed: -3895889363950506750)
+[15:19:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival_the_end' - Env: THE_END - Type: NORMAL & seed: -8407285633709795682
+[15:19:57] [Server thread/INFO]: -------- World Settings For [survival_the_end] --------
+[15:19:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:57] [Server thread/INFO]: Anti X-Ray: true
+[15:19:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:57] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:57] [Server thread/INFO]: Structure Info Saving: true
+[15:19:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:57] [Server thread/INFO]: View Distance: 10
+[15:19:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:57] [Server thread/INFO]: Clear tick list: false
+[15:19:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:57] [Server thread/INFO]: Preparing start region for level 5 (Seed: -8407285633709795682)
+[15:19:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world2' - Env: NORMAL - Type: NORMAL & seed: 3461990128697303900
+[15:19:57] [Server thread/INFO]: -------- World Settings For [world2] --------
+[15:19:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:57] [Server thread/INFO]: Anti X-Ray: true
+[15:19:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:57] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:57] [Server thread/INFO]: Structure Info Saving: true
+[15:19:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:57] [Server thread/INFO]: View Distance: 10
+[15:19:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:57] [Server thread/INFO]: Clear tick list: false
+[15:19:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:57] [Server thread/INFO]: Preparing start region for level 6 (Seed: 3461990128697303900)
+[15:19:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'spawn' - Env: NORMAL - Type: FLAT & seed: -5814591429672175982
+[15:19:57] [Server thread/INFO]: -------- World Settings For [spawn] --------
+[15:19:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:57] [Server thread/INFO]: Anti X-Ray: true
+[15:19:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:57] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:57] [Server thread/INFO]: Structure Info Saving: true
+[15:19:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:57] [Server thread/INFO]: View Distance: 10
+[15:19:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:57] [Server thread/INFO]: Clear tick list: false
+[15:19:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:57] [Server thread/INFO]: Preparing start region for level 7 (Seed: -5814591429672175982)
+[15:19:57] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 3461990128697303900
+[15:19:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:19:57] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:57] [Server thread/INFO]: Anti X-Ray: true
+[15:19:57] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:57] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:57] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:57] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:57] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:57] [Server thread/INFO]: Structure Info Saving: true
+[15:19:57] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:57] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:57] [Server thread/INFO]: View Distance: 10
+[15:19:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:57] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:57] [Server thread/INFO]: Clear tick list: false
+[15:19:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:57] [Server thread/INFO]: Preparing start region for level 8 (Seed: 3461990128697303900)
+[15:19:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 4717406850248092373
+[15:19:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:19:58] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:58] [Server thread/INFO]: Anti X-Ray: true
+[15:19:58] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:58] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:58] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:58] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:58] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:58] [Server thread/INFO]: Structure Info Saving: true
+[15:19:58] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:58] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:58] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:58] [Server thread/INFO]: View Distance: 10
+[15:19:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:58] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:58] [Server thread/INFO]: Clear tick list: false
+[15:19:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:58] [Server thread/INFO]: Preparing start region for level 9 (Seed: 4717406850248092373)
+[15:19:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 4717406850248092373
+[15:19:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:19:58] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:58] [Server thread/INFO]: Anti X-Ray: true
+[15:19:58] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:58] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:58] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:58] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:58] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:58] [Server thread/INFO]: Structure Info Saving: true
+[15:19:58] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:58] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:58] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:58] [Server thread/INFO]: View Distance: 10
+[15:19:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:58] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:58] [Server thread/INFO]: Clear tick list: false
+[15:19:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:58] [Server thread/INFO]: Preparing start region for level 10 (Seed: 4717406850248092373)
+[15:19:59] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Beta' - Env: NORMAL - Type: NORMAL & seed: -1127924625432076140
+[15:19:59] [Server thread/INFO]: -------- World Settings For [Beta] --------
+[15:19:59] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:59] [Server thread/INFO]: Anti X-Ray: true
+[15:19:59] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:59] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:59] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:59] [Server thread/INFO]: Structure Info Saving: true
+[15:19:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:59] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:59] [Server thread/INFO]: View Distance: 10
+[15:19:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:59] [Server thread/INFO]: Clear tick list: false
+[15:19:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:59] [Server thread/INFO]: Preparing start region for level 11 (Seed: -1127924625432076140)
+[15:19:59] [Server thread/INFO]: [PlotZWorld] Getting generator for world: MundoPlots
+[15:19:59] [Server thread/INFO]: [PlotZWorld] Loaded plugins/Plotz/schematics/MundoPlots.schematic(38,256,38) for world: MundoPlots
+[15:19:59] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'MundoPlots' - Env: NORMAL - Type: NORMAL & seed: -810421893234829691 & generator: PlotZWorld
+[15:19:59] [Server thread/INFO]: -------- World Settings For [MundoPlots] --------
+[15:19:59] [Server thread/INFO]: Mob Spawn Range: 4
+[15:19:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:19:59] [Server thread/INFO]: Anti X-Ray: true
+[15:19:59] [Server thread/INFO]: 	Engine Mode: 1
+[15:19:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:19:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:19:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:19:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:19:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:19:59] [Server thread/INFO]: Alternative Hopper Ticking: false
+[15:19:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:19:59] [Server thread/INFO]: Random Lighting Updates: false
+[15:19:59] [Server thread/INFO]: Structure Info Saving: true
+[15:19:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:19:59] [Server thread/INFO]: Max Entity Collisions: 8
+[15:19:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:19:59] [Server thread/INFO]: Max TNT Explosions: 100
+[15:19:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:19:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:19:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:19:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:19:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:19:59] [Server thread/INFO]: View Distance: 10
+[15:19:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:19:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:19:59] [Server thread/INFO]: Clear tick list: false
+[15:19:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:19:59] [Server thread/INFO]: Preparing start region for level 12 (Seed: -810421893234829691)
+[15:20:00] [Server thread/INFO]: [Multiverse-Core] 13 - World(s) loaded.
+[15:20:00] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.22.7-SNAPSHOT
+[15:20:00] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:20:00] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:20:00] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:20:00] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:20:00] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:20:00] [Server thread/INFO]: [Questioner] Enabling Questioner v0.6
+[15:20:00] [Server thread/INFO]: [Questioner] v0.6 - Enabled
+[15:20:00] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.0
+[15:20:00] [Server thread/INFO]: [PingPlayer] Thank you for enabling Metrics!
+[15:20:00] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.0 enabled.
+[15:20:00] [Server thread/INFO]: [TabColor] Enabling TabColor v6.6
+[15:20:00] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.0.0-beta-05.1569-
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'juegos'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_nether) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_nether) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_nether) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_nether) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'juegos_nether'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_the_end) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_the_end) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_the_end) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (juegos_the_end) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'juegos_the_end'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_the_end) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_the_end'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world2) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world2) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world2) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world2) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world2'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (Beta) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (Beta) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (Beta) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (Beta) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Beta'
+[15:20:00] [Server thread/INFO]: [WorldGuard] (MundoPlots) TNT ignition is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (MundoPlots) Lighters are PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (MundoPlots) Lava fire is PERMITTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] (MundoPlots) Fire spread is UNRESTRICTED.
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'MundoPlots'
+[15:20:00] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:20:00] [Server thread/INFO]: [MineResetLite] Enabling MineResetLite v0.3.6
+[15:20:00] [Server thread/ERROR]: Cannot load plugins/MineResetLite/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while scanning a simple key
+ in 'string', line 10, column 1:
+    check-for-updates:false
+    ^
+could not found expected ':'
+ in 'string', line 11, column 1:
+    # MineResetLite supports multipl ... 
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:57) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:226) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:169) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:180) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at com.koletar.jj.mineresetlite.Config.initConfig(Config.java:108) [MineResetLite%20(1).jar:?]
+	at com.koletar.jj.mineresetlite.MineResetLite.setupConfig(MineResetLite.java:295) [MineResetLite%20(1).jar:?]
+	at com.koletar.jj.mineresetlite.MineResetLite.onEnable(MineResetLite.java:87) [MineResetLite%20(1).jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:356) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:316) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:402) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:370) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:325) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:211) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:505) [spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at java.lang.Thread.run(Unknown Source) [?:1.7.0_07]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: while scanning a simple key
+ in 'string', line 10, column 1:
+    check-for-updates:false
+    ^
+could not found expected ':'
+ in 'string', line 11, column 1:
+    # MineResetLite supports multipl ... 
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.stalePossibleSimpleKeys(ScannerImpl.java:465) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.needMoreTokens(ScannerImpl.java:280) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:225) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:143) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:226) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:155) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:122) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:105) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:120) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:481) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:400) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[spigot-1.8-R0.1-SNAPSHOT-latest.jar:git-Spigot-c3c767f-33d5de3]
+	... 17 more
+[15:20:00] [Server thread/INFO]: [MineResetLite] Loading mine from file 'BarcoDeCarga.mine.yml'...
+[15:20:00] [Server thread/INFO]: [MineResetLite] MineResetLite version 0.3.6 enabled!
+[15:20:00] [Server thread/INFO]: [iConomy] Enabling iConomy v7.0
+[15:20:00] [Server thread/INFO]: [iConomy - April Fools] Enabled (16 ms)
+[15:20:00] [Server thread/INFO]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[15:20:00] [Server thread/INFO]: [Vault][Economy] iConomy 7 hooked.
+[15:20:00] [Thread-23/INFO]: [iConomy - April Fools] Purged accounts with default balance.
+[15:20:00] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.10.0
+[15:20:00] [Server thread/INFO]: [CoreProtect] Invalid WorldEdit version found.
+[15:20:00] [Server thread/INFO]: CoreProtect version 2.10.0 is enabled!
+[15:20:00] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:20:00] [Server thread/INFO]: [Announcement] Enabling Announcement v1.0.3
+[15:20:00] [Server thread/INFO]: [Announcement] Config Loaded
+[15:20:00] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.4
+[15:20:00] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, adding support for player relative variables.
+[15:20:00] [Server thread/INFO]: [Plotz] Enabling Plotz v3.8
+[15:20:00] [Server thread/ERROR]: [Plotz] Error while loading key: add-price from Plotz configuration, the error goes as follows...
+[15:20:00] [Server thread/WARN]: java.lang.NullPointerException
+[15:20:00] [Server thread/WARN]: 	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+[15:20:00] [Server thread/WARN]: 	at java.lang.Double.parseDouble(Unknown Source)
+[15:20:00] [Server thread/WARN]: 	at me.kyle.plotz.util.ran.ConfigUtils.getDouble(ConfigUtils.java:107)
+[15:20:00] [Server thread/WARN]: 	at me.kyle.plotz.Main.loadConfig(Main.java:299)
+[15:20:00] [Server thread/WARN]: 	at me.kyle.plotz.Main.loadVals(Main.java:227)
+[15:20:00] [Server thread/WARN]: 	at me.kyle.plotz.Main.onEnable(Main.java:83)
+[15:20:00] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[15:20:00] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:335)
+[15:20:00] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[15:20:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.loadPlugin(CraftServer.java:356)
+[15:20:00] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.enablePlugins(CraftServer.java:316)
+[15:20:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.q(MinecraftServer.java:402)
+[15:20:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.k(MinecraftServer.java:370)
+[15:20:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.a(MinecraftServer.java:325)
+[15:20:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.DedicatedServer.init(DedicatedServer.java:211)
+[15:20:00] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:505)
+[15:20:00] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:20:00] [Server thread/INFO]: [Plotz] Vault support enabled, hooking into Vault...
+[15:20:00] [Server thread/INFO]: [Plotz] Hooking into Vault permissions...
+[15:20:01] [Server thread/INFO]: [Plotz] Loaded 49 commands!
+[15:20:01] [Server thread/INFO]: [Plotz] Storage type set to: flatfile
+[15:20:01] [Server thread/INFO]: [Plotz] Loading plots...
+[15:20:01] [Server thread/INFO]: [Plotz] Loaded 3 plots in 10ms
+[15:20:01] [Server thread/INFO]: [Plotz] Loaded WorldEdit plugin
+[15:20:01] [Server thread/INFO]: [Plotz] Java 7 Minor: 0
+[15:20:01] [Server thread/INFO]: [Plotz] Plot clear type set to Normal
+[15:20:01] [Server thread/INFO]: [Plotz] Loaded 9 listeners
+[15:20:01] [Server thread/INFO]: [Plotz] Loaded 0 names in U/D
+[15:20:01] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:20:01] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[15:20:01] [Server thread/INFO]: git-Spigot-c3c767f-33d5de3 (MC: 1.8)
+[15:20:01] [Server thread/INFO]: 1.8-R0.1-SNAPSHOT
+[15:20:01] [Server thread/INFO]: Using locale es
+[15:20:01] [Server thread/INFO]: Using locale es
+[15:20:01] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:20:01] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:20:01] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: iConomy 7 version: 1.5.3-b37)
+[15:20:01] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.14-SNAPSHOT (build 1195)
+[15:20:01] [Server thread/INFO]: [Jobs] Enabling Jobs v2.12.0
+[15:20:01] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Started database save task
+[15:20:01] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Started buffered payment thread
+[15:20:01] [Server thread/INFO]: [Jobs] Plugin has been enabled succesfully.
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b804
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.8 / Spigot-CB-DEV
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[15:20:01] [Server thread/INFO]: Adding packet level hooks for ProtocolLib (MC 1.8.0)...
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: FlyingFrequency | KeepAliveFrequency | SoundDistance
+[15:20:01] [Server thread/INFO]: [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b804 is enabled.
+[15:20:01] [Server thread/INFO]: [Towny] Enabling Towny v0.89.2.0
+[15:20:01] [Server thread/INFO]: ====================      Towny      ========================
+[15:20:01] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[15:20:02] [Server thread/WARN]: [Towny Warning] Unable to read CraftBukkit Version.
+[15:20:02] [Server thread/WARN]: [Towny Warning] Towny requires version 2918 or higher.
+[15:20:02] [Server thread/WARN]: [Towny Warning] Check your CraftBukkit version as we do not test on custom/old builds.
+[15:20:02] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.22.7-SNAPSHOT, Vault v1.5.3-b37, Questioner v0.6
+[15:20:02] [Server thread/WARN]: [Towny Error] Detected an error with the world files. Attempting to repair
+[15:20:02] [Server thread/WARN]: [Towny Error] No Homeblock - Failed to detect world for: Requiem
+[15:20:02] [Server thread/INFO]: [Towny] Time until a New Day: 20 hours, 39 minutes, 58 seconds
+[15:20:02] [Server thread/INFO]: =============================================================
+[15:20:02] [Server thread/INFO]: [Towny] Version: 0.89.2.0 - Mod Enabled
+[15:20:02] [Server thread/INFO]: =============================================================
+[15:20:02] [Server thread/INFO]: [ServerSigns] Enabling ServerSigns v3.1.1
+[15:20:02] [Server thread/INFO]: [ServerSigns] Successfully hooked into Vault
+[15:20:02] [Server thread/INFO]: [ServerSigns] Version 3.1.1 is now enabled.
+[15:20:02] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[15:20:02] [Server thread/INFO]: [AuthMe] Enabling AuthMe v3.4
+[15:20:02] [Server thread/INFO]: [AuthMe] Loading Configuration File...
+[15:20:02] [Server thread/INFO]: [AuthMe] Set Language: en
+[15:20:02] [Server thread/INFO]: [AuthMe] Vault plugin detected, hook with PermissionsEx system
+[15:20:02] [Server thread/INFO]: [AuthMe] Hook with Multiverse-Core for SpawnLocations
+[15:20:02] [Server thread/INFO]: [AuthMe] Hook with Essentials plugin
+[15:20:02] [Server thread/INFO]: [AuthMe] Hook with EssentialsSpawn plugin
+[15:20:02] [Server thread/INFO]: [AuthMe] LICENSE : This product includes GeoLite data created by MaxMind, available from http://www.maxmind.com
+[15:20:02] [Server thread/INFO]: [AuthMe] Authme 3.4 enabled
+[15:20:02] [Server thread/INFO]: [TitleManager] Enabling TitleManager v1.5.9
+[15:20:02] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[15:20:02] [Server thread/INFO]: [TownyChat] Enabling TownyChat v0.42
+[15:20:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:20:03] [Thread-24/INFO]: --------------------
+[15:20:03] [Thread-24/INFO]: [CoreProtect] Version 2.12.0 now available.
+[15:20:03] [Thread-24/INFO]: [CoreProtect] Download: Type "/co version" in-game.
+[15:20:03] [Thread-24/INFO]: --------------------
+[15:20:03] [Thread-24/INFO]: [Sponsor] Unlimited MC Hosting: www.hosthorde.com
+[15:20:03] [Thread-24/INFO]: --------------------
+[15:20:03] [Server thread/INFO]: Done (8.090s)! For help, type "help" or "?"
+[15:20:03] [Server thread/INFO]: [Jobs] [Jobs] Successfully linked with Vault.
+[15:20:03] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[15:20:03] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[15:20:03] [Server thread/INFO]: [Buycraft] Authenticated with the specified Secret key.
+[15:20:03] [Server thread/INFO]: [Buycraft] Plugin is now ready to be used.
+[15:20:03] [Craft Scheduler Thread - 13/INFO]: [TitleManager] Searching for updates.
+[15:20:03] [Server thread/INFO]: [TownyChat] -******* TownyChat enabled *******-
+[15:20:03] [Server thread/INFO]: [Citizens] Loaded 48 NPCs.
+[15:20:03] [pool-9-thread-2/INFO]: [Buycraft] Loaded 4 package(s) into the cache.
+[15:20:03] [Craft Scheduler Thread - 13/INFO]: [TitleManager] No update was found.
+[15:20:03] [Craft Scheduler Thread - 15/INFO]: [Plotz] Plotz -> The plugin is out of date, current version: 3.8 latest version: 4.0
+[15:20:19] [User Authenticator #1/INFO]: [SkinsRestorer] Skin for player MrNaikito is already cached
+[15:20:19] [User Authenticator #1/INFO]: UUID of player MrNaikito is 8c6b33be-21f4-3111-9e58-8af9e383d39d
+[15:20:19] [Server thread/INFO]: MrNaikito[/186.78.39.211:2525] logged in with entity id 434 at ([spawn] -621.066086069775, 49.0, -2421.9469287332354)
+[15:20:19] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mMrNaikito [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:20:34] [Server thread/INFO]: [AuthMe] MrNaikito logged in!
+[15:21:37] [Server thread/INFO]: MrNaikito issued server command: /mvtp PlotZ
+[15:21:43] [Server thread/INFO]: MrNaikito issued server command: /mvtp MundoPlots
+[15:21:53] [Server thread/INFO]: MrNaikito issued server command: /day
+[15:21:59] [Server thread/INFO]: MrNaikito issued server command: /plotz tp 0 0
+[15:22:26] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-height
+[15:22:36] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-height 116
+[15:22:50] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-height 116
+[15:23:06] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-home-offset-z
+[15:23:10] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-home-offset-z
+[15:23:14] [Server thread/INFO]: MrNaikito issued server command: /plotz setup setvalue plot-home-offset-z -14
+[15:23:14] [Server thread/ERROR]: [Plotz] Error while updating config [String] key: plot-home-offset-z [String] value: -14 [String] world: MundoPlots
+[15:23:14] [Server thread/WARN]: java.lang.NullPointerException: Could not find key plot-home-offset-z in Plotz config
+[15:23:14] [Server thread/WARN]: 	at me.kyle.plotz.util.ran.ConfigUtils.setValue(ConfigUtils.java:36)
+[15:23:14] [Server thread/WARN]: 	at me.kyle.plotz.commands.setup.PSetupSetValue.run(PSetupSetValue.java:57)
+[15:23:14] [Server thread/WARN]: 	at me.kyle.plotz.commands.utils.PSubCommand.run(PSubCommand.java:38)
+[15:23:14] [Server thread/WARN]: 	at me.kyle.plotz.commands.utils.PlotzCommand.onCommand(PlotzCommand.java:155)
+[15:23:14] [Server thread/WARN]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+[15:23:14] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141)
+[15:23:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R1.CraftServer.dispatchCommand(CraftServer.java:646)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.PlayerConnection.handleCommand(PlayerConnection.java:1115)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.PlayerConnection.a(PlayerConnection.java:950)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(PacketPlayInChat.java:26)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.PacketPlayInChat.a(PacketPlayInChat.java:53)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.PacketHandleTask.run(SourceFile:13)
+[15:23:14] [Server thread/WARN]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[15:23:14] [Server thread/WARN]: 	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+[15:23:14] [Server thread/WARN]: 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.z(MinecraftServer.java:696)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.DedicatedServer.z(DedicatedServer.java:316)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.y(MinecraftServer.java:634)
+[15:23:14] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R1.MinecraftServer.run(MinecraftServer.java:537)
+[15:23:14] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[15:27:17] [Server thread/INFO]: MrNaikito lost connection: Disconnected
+[15:27:17] [Server thread/INFO]: [-] MrNaikito se ha ido de Nationforce!
+[15:28:42] [User Authenticator #2/INFO]: [SkinsRestorer] Skin for player Reey_ was succesfully fetched and cached
+[15:28:42] [User Authenticator #2/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:28:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@146df140[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@4a13dbd4]},legacy=false] (/201.223.67.30:52203): §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:28:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@146df140[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@4a13dbd4]},legacy=false] (/201.223.67.30:52203) lost connection: §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:30:28] [User Authenticator #3/INFO]: [SkinsRestorer] Skin for player MrNaikito is already cached
+[15:30:28] [User Authenticator #3/INFO]: UUID of player MrNaikito is 8c6b33be-21f4-3111-9e58-8af9e383d39d
+[15:30:28] [Server thread/INFO]: MrNaikito[/186.78.39.211:2578] logged in with entity id 464 at ([MundoPlots] 206.56773579575298, 142.1926363582544, -31.000357012332245)
+[15:30:28] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mMrNaikito [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:30:38] [Server thread/INFO]: MrNaikito issued server command: /whitelist list
+[15:31:14] [User Authenticator #4/INFO]: [SkinsRestorer] Skin for player Reey_ is already cached
+[15:31:14] [User Authenticator #4/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:31:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6fd052f0[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@27617712]},legacy=false] (/201.223.67.30:52529): §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:31:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@6fd052f0[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@27617712]},legacy=false] (/201.223.67.30:52529) lost connection: §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:31:14] [Server thread/INFO]: MrNaikito issued server command: /warp skywars
+[15:31:25] [Server thread/INFO]: MrNaikito issued server command: /whitelist remove Reey_
+[15:31:26] [Server thread/INFO]: [MrNaikito: Removed Reey_ from the whitelist]
+[15:31:34] [Server thread/INFO]: MrNaikito issued server command: /whitelist list
+[15:31:40] [Server thread/INFO]: MrNaikito issued server command: /whitelist add Reey_
+[15:31:40] [Server thread/INFO]: [MrNaikito: Added Reey_ to the whitelist]
+[15:31:47] [User Authenticator #5/INFO]: [SkinsRestorer] Skin for player Reey_ is already cached
+[15:31:47] [User Authenticator #5/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:31:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62969c3f[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@7668ecdc]},legacy=false] (/201.223.67.30:52559): §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:31:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@62969c3f[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@7668ecdc]},legacy=false] (/201.223.67.30:52559) lost connection: §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:32:04] [User Authenticator #6/INFO]: [SkinsRestorer] Skin for player Reey_ is already cached
+[15:32:04] [User Authenticator #6/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:32:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@a7dd54f[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@1a8abcfe]},legacy=false] (/201.223.67.30:52579): §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:32:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@a7dd54f[id=d4ee5603-0d65-34c0-b753-90a478cf1606,name=Reey_,properties={textures=[com.mojang.authlib.properties.Property@1a8abcfe]},legacy=false] (/201.223.67.30:52579) lost connection: §c§lError:§7 Tu no estas en la Whitelist del servidor.. El servidor volvera pronto
+[15:32:21] [Server thread/INFO]: MrNaikito issued server command: /whitelist off
+[15:32:21] [Server thread/INFO]: [MrNaikito: Turned off the whitelist]
+[15:32:41] [User Authenticator #7/INFO]: [SkinsRestorer] Skin for player Reey_ is already cached
+[15:32:41] [User Authenticator #7/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:32:41] [Server thread/INFO]: Reey_[/201.223.67.30:52648] logged in with entity id 489 at ([Beta] -7.0586642749373905, 83.0, 158.332994119254)
+[15:32:41] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mReey_ [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:32:50] [Server thread/INFO]: [AuthMe] Reey_ logged in!
+[15:32:50] [Server thread/INFO]: MrNaikito issued server command: /whitelist remove Reey_
+[15:32:50] [Server thread/INFO]: [MrNaikito: Removed Reey_ from the whitelist]
+[15:32:54] [Server thread/INFO]: Reey_ lost connection: Disconnected
+[15:32:54] [Server thread/INFO]: [-] Reey_ se ha ido de Nationforce!
+[15:33:55] [Server thread/INFO]: MrNaikito issued server command: /whitelist remove Reey_
+[15:34:54] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardando..[m
+[15:34:55] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardado Completo..[m
+[15:35:05] [Server thread/INFO]: MrNaikito issued server command: /mv delete MundoPlots
+[15:35:09] [Server thread/INFO]: MrNaikito issued server command: /mvconfirm
+[15:35:09] [Server thread/INFO]: [Multiverse-Core] World 'MundoPlots' was unloaded from memory.
+[15:35:09] [Server thread/INFO]: [Multiverse-Core] World 'MundoPlots' was removed from config.yml
+[15:35:09] [Server thread/INFO]: [Multiverse-Core] World MundoPlots was DELETED.
+[15:36:18] [Server thread/INFO]: MrNaikito lost connection: Disconnected
+[15:36:18] [Server thread/INFO]: [-] MrNaikito se ha ido de Nationforce!
+[15:37:03] [User Authenticator #8/INFO]: [SkinsRestorer] Skin for player MrNaikito is already cached
+[15:37:03] [User Authenticator #8/INFO]: UUID of player MrNaikito is 8c6b33be-21f4-3111-9e58-8af9e383d39d
+[15:37:03] [Server thread/INFO]: MrNaikito[/186.78.39.211:2651] logged in with entity id 502 at ([spawn] -622.7321823173039, 50.0, -2403.5017327996807)
+[15:37:03] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mMrNaikito [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:37:11] [Server thread/INFO]: MrNaikito lost connection: Disconnected
+[15:37:11] [Server thread/INFO]: [-] MrNaikito se ha ido de Nationforce!
+[15:41:03] [Server thread/INFO]: [0;37;1m[[0;31;22mMRL[0;37;1m] [0;31;1mBarcoDeCarga [0;35;1mwill reset in [0;35;22m3 [0;35;1mminute(s)![m
+[15:44:03] [Server thread/INFO]: [0;37;1m[[0;31;22mMRL[0;37;1m] [0;31;1mBarcoDeCarga [0;35;1mhas been reset automatically![m
+[15:45:53] [User Authenticator #9/INFO]: [SkinsRestorer] Skin for player Reey_ is already cached
+[15:45:53] [User Authenticator #9/INFO]: UUID of player Reey_ is d4ee5603-0d65-34c0-b753-90a478cf1606
+[15:45:53] [Server thread/INFO]: Reey_[/201.223.67.30:53945] logged in with entity id 526 at ([Beta] -12.091043433011771, 85.0, 155.87241924868835)
+[15:45:53] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mReey_ [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:46:02] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m aaa[m
+[15:46:10] [User Authenticator #10/INFO]: [SkinsRestorer] Skin for player MrNaikito was succesfully fetched and cached
+[15:46:10] [User Authenticator #10/INFO]: UUID of player MrNaikito is 8c6b33be-21f4-3111-9e58-8af9e383d39d
+[15:46:10] [Server thread/INFO]: MrNaikito[/186.78.39.211:3782] logged in with entity id 534 at ([spawn] -622.7321823173039, 50.0, -2403.5017327996807)
+[15:46:10] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1mMrNaikito [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:46:33] [Server thread/INFO]: Reey_ issued server command: /back
+[15:46:42] [Server thread/INFO]: Reey_ issued server command: /weather clear
+[15:47:17] [Server thread/INFO]: Reey_ issued server command: /weather clear
+[15:47:21] [Server thread/INFO]: Reey_ issued server command: /gm 1
+[15:47:26] [Server thread/INFO]: Reey_ issued server command: /time set day
+[15:47:31] [Server thread/INFO]: Reey_ issued server command: /Weather clear
+[15:47:39] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m como se quita la lluvia?[m
+[15:48:08] [Server thread/INFO]: Reey_ issued server command: /skull Reey_
+[15:48:17] [Server thread/INFO]: Reey_ issued server command: /skull maxi_Fsr
+[15:48:21] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m -/toggledownfall[m
+[15:48:24] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m -/sun[m
+[15:48:28] [Server thread/INFO]: Reey_ issued server command: /toggledownfall
+[15:48:28] [Server thread/INFO]: [Reey_: Toggled downfall]
+[15:48:29] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m -/weather clear[m
+[15:48:38] [Server thread/INFO]: Reey_ issued server command: /sun
+[15:48:41] [Server thread/INFO]: Reey_ issued server command: /tp MrNaikito
+[15:48:46] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m loco[m
+[15:48:47] [Server thread/INFO]: MrNaikito issued server command: /mvlist
+[15:48:47] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m no sirve[m
+[15:48:57] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m la lluvia sigue[m
+[15:49:11] [Server thread/INFO]: Reey_ issued server command: /tp MrNaikito
+[15:49:17] [Server thread/INFO]: MrNaikito issued server command: /skull Ventor
+[15:49:19] [Server thread/INFO]: Reey_ issued server command: /skull ventor
+[15:49:31] [Server thread/INFO]: Reey_ issued server command: /skull Reey_
+[15:49:43] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m Si[m
+[15:49:45] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m :o[m
+[15:49:55] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardando..[m
+[15:49:55] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardado Completo..[m
+[15:50:23] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m xD[m
+[15:50:29] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m MrNaikito que es un Youtuber[m
+[15:50:47] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m admite tu identidad naiko[m
+[15:50:59] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m Xd[m
+[15:51:03] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m NaikientoMC[m
+[15:51:06] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m ajsdhsa[m
+[15:51:08] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m Naikito[m
+[15:51:10] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m naikitoMC xDD[m
+[15:51:24] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m NaikientoMC[m
+[15:51:26] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m KuxoMC[m
+[15:51:48] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m juacoMC[m
+[15:51:55] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m MaffiosoMC[m
+[15:51:56] [User Authenticator #11/INFO]: [SkinsRestorer] Skin for player _KuxoMC_ was succesfully fetched and cached
+[15:51:56] [User Authenticator #11/INFO]: UUID of player _KuxoMC_ is 5fd1163f-4c7d-37b4-b7f3-3cc6a2888107
+[15:51:56] [Server thread/INFO]: _KuxoMC_[/200.104.169.177:1197] logged in with entity id 622 at ([juegos] -1485.6418324168158, 193.0, -790.6697600748168)
+[15:51:56] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1m_KuxoMC_ [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:52:09] [Server thread/INFO]: Reey_ issued server command: /MSG MrNaikito nah
+[15:52:12] [Server thread/INFO]: Reey_ issued server command: /admin
+[15:52:16] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m tampoco tan malo xD[m
+[15:52:36] [Server thread/INFO]: [AuthMe] Set _KuxoMC_ to gamemode: SURVIVAL
+[15:52:36] [Server thread/INFO]: _KuxoMC_ lost connection: §c§lEl Tiempo Para Iniciar Secion se Agoto
+[15:52:36] [Server thread/INFO]: [-] _KuxoMC_ se ha ido de Nationforce!
+[15:52:53] [Server thread/INFO]: Reey_ issued server command: /UP 0
+[15:52:58] [User Authenticator #12/INFO]: [SkinsRestorer] Skin for player _KuxoMC_ is already cached
+[15:52:58] [User Authenticator #12/INFO]: UUID of player _KuxoMC_ is 5fd1163f-4c7d-37b4-b7f3-3cc6a2888107
+[15:52:58] [Server thread/INFO]: _KuxoMC_[/200.104.169.177:1212] logged in with entity id 628 at ([juegos] -1485.6418324168158, 193.0, -790.6697600748168)
+[15:52:58] [Server thread/INFO]: [0;37;22m[[0;32;1m+[0;37;22m] [0;32;1m_KuxoMC_ [0;37;22mha entrado a [0;32;1mNationforce![m
+[15:53:06] [Server thread/INFO]: [AuthMe] _KuxoMC_ logged in!
+[15:53:18] [Server thread/INFO]: _KuxoMC_ issued server command: /gm 1
+[15:54:03] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Nada xD[m
+[15:54:30] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m YA[m
+[15:54:35] [Server thread/INFO]: MrNaikito issued server command: /up 0
+[15:54:38] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m loco[m
+[15:54:39] [Server thread/INFO]: MrNaikito issued server command: /up 0
+[15:54:42] [Server thread/INFO]: MrNaikito issued server command: //wand
+[15:54:43] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m saca la lluvia[m
+[15:54:47] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m a mi no me funciona[m
+[15:54:51] [Server thread/INFO]: MrNaikito issued server command: //set 2
+[15:54:56] [Server thread/INFO]: MrNaikito issued server command: //set 2
+[15:55:00] [Server thread/INFO]: MrNaikito issued server command: //sun
+[15:55:03] [Server thread/INFO]: MrNaikito issued server command: /sun
+[15:55:11] [Server thread/INFO]: MrNaikito issued server command: /day
+[15:55:15] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m no[m
+[15:55:23] [Server thread/INFO]: MrNaikito issued server command: /weather clar
+[15:55:25] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ah espera[m
+[15:55:26] [Server thread/INFO]: MrNaikito issued server command: /weather clear
+[15:55:41] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Ya la desactive[m
+[15:55:46] [Server thread/INFO]: MrNaikito issued server command: //set 2
+[15:56:11] [Server thread/INFO]: MrNaikito issued server command: /a
+[15:56:16] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//wand[m
+[15:56:19] [Server thread/INFO]: Reey_ issued server command: //wand
+[15:56:46] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[15:56:56] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[15:57:07] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//set [ID][m
+[15:57:08] [Server thread/INFO]: Reey_ issued server command: //Set 46
+[15:57:10] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//set 98[m
+[15:57:15] [Server thread/INFO]: Reey_ issued server command: //Set 98
+[15:57:25] [Server thread/INFO]: Reey_ issued server command: //Set 49
+[15:57:42] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m djfdk cagadaa[m
+[15:57:43] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xD[m
+[15:58:09] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Ya[m
+[15:58:29] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Naikito[m
+[15:58:38] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Como se hace con el cuarzo¡[m
+[15:58:39] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ?[m
+[15:58:45] [Server thread/INFO]: Reey_ issued server command: //Set 155
+[15:58:48] [Server thread/INFO]: Reey_ issued server command: //Set 155/2
+[15:58:53] [Server thread/INFO]: Reey_ issued server command: //Set 155/02
+[15:59:12] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[15:59:21] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//wall[m
+[15:59:24] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//wall [ID][m
+[15:59:31] [Server thread/INFO]: Reey_ issued server command: //wall 5
+[15:59:36] [Server thread/INFO]: Reey_ issued server command: //wall 5
+[15:59:40] [Server thread/INFO]: Reey_ issued server command: //wall
+[15:59:48] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m dice que no existe ese comando[m
+[15:59:55] [Server thread/INFO]: MrNaikito issued server command: /walls
+[16:00:01] [Server thread/INFO]: Reey_ issued server command: //walls 05
+[16:00:02] [Server thread/INFO]: MrNaikito issued server command: //walls
+[16:00:05] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m era walls[m
+[16:00:07] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xD[m
+[16:00:33] [Server thread/INFO]: Reey_ issued server command: //walls 98
+[16:00:47] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//undo[m
+[16:00:50] [Server thread/INFO]: Reey_ issued server command: //UNDO
+[16:00:52] [Server thread/INFO]: Reey_ issued server command: //UNDO
+[16:01:17] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Si[m
+[16:01:41] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//walls [ID] ":" [VARIABLE][m
+[16:01:49] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m Holaa Reey_[m
+[16:01:55] [Server thread/INFO]: Reey_ issued server command: /admin
+[16:01:57] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m [0;36;1mReey_[m[0;33;1m》[0;37;22m Holaa[m
+[16:02:00] [Server thread/INFO]: Reey_ issued server command: /mod
+[16:02:01] [Server thread/INFO]: Reey_ issued server command: /admin
+[16:02:02] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m Hola naiko jasjdjasj[m
+[16:02:03] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//walls 5:1[m
+[16:02:07] [Server thread/INFO]: MrNaikito issued server command: /g hola
+[16:02:07] [Craft Scheduler Thread - 29/INFO]: [TownyChat] onPlayerChat: Processing directed message for general
+[16:02:07] [Craft Scheduler Thread - 29/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m hola[m
+[16:02:09] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m de ti no me olvido ;) <3[m
+[16:02:17] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m ok[m
+[16:02:21] [Server thread/INFO]: Reey_ issued server command: //walls 155:2
+[16:02:50] [Server thread/INFO]: MrNaikito issued server command: //set 0
+[16:02:57] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ke[m
+[16:03:47] [Server thread/INFO]: Reey_ issued server command: //set 5:3
+[16:03:51] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[16:03:58] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m si cache[m
+[16:04:21] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m naiko[m
+[16:04:22] [Server thread/INFO]: Reey_ issued server command: //walls 5:4
+[16:04:23] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m dime[m
+[16:04:25] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xDD[m
+[16:04:27] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m fail[m
+[16:04:32] [Server thread/INFO]: MrNaikito issued server command: /g dime
+[16:04:32] [Craft Scheduler Thread - 38/INFO]: [TownyChat] onPlayerChat: Processing directed message for general
+[16:04:32] [Craft Scheduler Thread - 38/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m dime[m
+[16:04:38] [Server thread/INFO]: Reey_ issued server command: //walls 5:5
+[16:04:49] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m explicame que van a hacer con el server pls[m
+[16:04:55] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardando..[m
+[16:04:56] [AutoSaveWorld AutoSaveThread/INFO]: [0;33;1mGuardado Completo..[m
+[16:04:56] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m despues en ts[m
+[16:05:00] [Server thread/INFO]: MrNaikito issued server command: /g
+[16:05:03] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m despues en ts[m
+[16:05:10] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m estoy conectado;)[m
+[16:05:13] [Server thread/INFO]: Reey_ issued server command: //set 5:6
+[16:05:13] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m estoy ocupado ahorita ok?[m
+[16:05:17] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m ok pero despues[m
+[16:05:19] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;37;22m[5m||[0;33;22m[21mMod[0;37;22m[5m||[0;36;22m [0;36;22mKuxoMC[m[0;33;1m》[0;37;22m ok;)[m
+[16:05:21] [Server thread/INFO]: [0;33;22m[[0;37;22mGlobal[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m [0;31;22mMrNaikito[m[0;33;1m》[0;37;22m c:[m
+[16:05:23] [Server thread/INFO]: MrNaikito issued server command: /mod
+[16:05:25] [Server thread/INFO]: MrNaikito issued server command: /a
+[16:05:59] [Server thread/INFO]: Reey_ issued server command: /admin
+[16:06:01] [Server thread/INFO]: Reey_ issued server command: /admin
+[16:06:03] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m SI AHHA[m
+[16:06:21] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xDD[m
+[16:06:30] [Server thread/INFO]: MrNaikito issued server command: //set 0
+[16:07:06] [Server thread/INFO]: MrNaikito issued server command: //set 5
+[16:07:11] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m No se me ocurrio[m
+[16:07:13] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m si entiendo[m
+[16:07:37] [Server thread/INFO]: Reey_ issued server command: //set 5
+[16:07:54] [Server thread/INFO]: Reey_ issued server command: //set 5
+[16:07:59] [Server thread/INFO]: Reey_ issued server command: //set 5
+[16:08:02] [Server thread/INFO]: Reey_ issued server command: //set 5
+[16:08:12] [Server thread/INFO]: MrNaikito issued server command: //set 0
+[16:08:14] [Server thread/INFO]: MrNaikito issued server command: //day
+[16:08:17] [Server thread/INFO]: MrNaikito issued server command: /day
+[16:08:23] [Server thread/INFO]: MrNaikito issued server command: //day
+[16:08:36] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m en serio?[m
+[16:08:45] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m nO[m
+[16:09:25] [Server thread/INFO]: Reey_ issued server command: //set 57
+[16:09:43] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Obvio xD[m
+[16:10:30] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[16:10:43] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//copy[m
+[16:10:45] [Server thread/INFO]: Reey_ issued server command: //copy
+[16:10:46] [Server thread/INFO]: MrNaikito issued server command: //copy
+[16:10:50] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m si[m
+[16:10:56] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:10:58] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//paste[m
+[16:11:02] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m dale undo[m
+[16:11:03] [Server thread/INFO]: [0;37;1m[[0;31;22mMRL[0;37;1m] [0;31;1mBarcoDeCarga [0;35;1mwill reset in [0;35;22m3 [0;35;1mminute(s)![m
+[16:11:04] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m para hacerlo yo[m
+[16:11:05] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:11:14] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:11:18] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:11:19] [Server thread/INFO]: Reey_ issued server command: /paste
+[16:11:22] [Server thread/INFO]: Reey_ issued server command: //paste
+[16:11:27] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[16:11:34] [Server thread/INFO]: Reey_ issued server command: //undo
+[16:11:46] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xD[m
+[16:12:09] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m kdjfkd[m
+[16:12:13] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m ya[m
+[16:12:55] [Server thread/INFO]: MrNaikito issued server command: //PASTE
+[16:12:58] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:13:00] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m xD[m
+[16:13:04] [Server thread/INFO]: MrNaikito issued server command: //copy
+[16:13:06] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:13:09] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:13:17] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//rotate 90[m
+[16:13:18] [Server thread/INFO]: _KuxoMC_ issued server command: /summon
+[16:13:20] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//rotate 180[m
+[16:13:26] [Server thread/INFO]: MrNaikito issued server command: //rotate 180
+[16:13:26] [Server thread/INFO]: _KuxoMC_ issued server command: /spawnentity
+[16:13:28] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:13:32] [Server thread/INFO]: _KuxoMC_ issued server command: /spawnentity endercrystal
+[16:13:35] [Server thread/INFO]: MrNaikito issued server command: //rotate 90
+[16:13:37] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:13:43] [Server thread/INFO]: MrNaikito issued server command: //rotate 180
+[16:13:45] [Server thread/INFO]: MrNaikito issued server command: //paste
+[16:13:53] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Si mas o menos si[m
+[16:14:04] [Server thread/INFO]: [0;37;1m[[0;31;22mMRL[0;37;1m] [0;31;1mBarcoDeCarga [0;35;1mhas been reset automatically![m
+[16:14:23] [Server thread/INFO]: _KuxoMC_ issued server command: /spawnentity endercrystal
+[16:14:24] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;31;1m[5m||[0;34;1m[21mOwner[0;31;1m[5m||[0;31;22m MrNaikito[0;33;1m》[0;31;1m -//rotate [ 90 - 180 - -90 - -180[m
+[16:14:36] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m Si[m
+[16:14:41] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:14:42] [Server thread/INFO]: _KuxoMC_ issued server command: /spawnentity endercrystal
+[16:14:42] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:14:43] [Server thread/INFO]: MrNaikito issued server command: //undo
+[16:14:44] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m no entendi eso de rotate copy[m
+[16:14:50] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m osea[m
+[16:14:52] [Server thread/INFO]: [0;33;22m[[0;31;1mAdmin[0;33;22m] [0;35;22m[5m||[0;31;1m[21mAdmin[0;35;22m[5m||[0;31;1m Reey_[0;33;1m》[0;31;1m pasa el comando xD[m

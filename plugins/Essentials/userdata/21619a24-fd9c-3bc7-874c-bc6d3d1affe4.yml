@@ -1,0 +1,22 @@
+lastAccountName: meeperbeeper
+timestamps:
+  login: 1435529976581
+  lastteleport: 1435530160892
+  logout: 1435530268430
+ipAddress: 189.232.202.67
+lastlocation:
+  world: juegos
+  x: -1397.7614974444816
+  y: 28.5
+  z: 3986.9918237622155
+  yaw: 259.58362
+  pitch: 69.8476
+logoutlocation:
+  world: survival
+  x: -18.30000001192093
+  y: 104.0
+  z: 49.450367704688475
+  yaw: -38.90725
+  pitch: 83.692764
+socialspy: false
+money: '235.0'

@@ -1,0 +1,21 @@
+lastAccountName: NICO
+timestamps:
+  login: 1433197358082
+  logout: 1433197390834
+ipAddress: 200.112.88.222
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1398.1904294795784
+  y: 28.0
+  z: 3980.528327033986
+  yaw: -273.959
+  pitch: 7.1995883
+socialspy: false
+money: '30.0'

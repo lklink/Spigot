@@ -1,0 +1,20 @@
+lastAccountName: holiii
+timestamps:
+  login: 1435519465284
+  logout: 1435519711909
+ipAddress: 200.104.100.157
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -606.3000000119209
+  y: 27.5
+  z: -1521.950208279102
+  yaw: 9.975067
+  pitch: 46.451984
+money: '30.0'

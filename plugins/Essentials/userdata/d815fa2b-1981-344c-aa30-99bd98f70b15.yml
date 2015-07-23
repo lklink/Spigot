@@ -1,0 +1,30 @@
+lastAccountName: felcam08
+timestamps:
+  login: 1435971935102
+  lastteleport: 1435872072814
+  logout: 1435972484261
+ipAddress: 189.186.54.250
+lastlocation:
+  world: spawn
+  x: -622.9809359399045
+  y: 48.0
+  z: -2437.183963162
+  yaw: -39.573906
+  pitch: 10.473199
+socialspy: false
+logoutlocation:
+  world: survival
+  x: 79.24456672187908
+  y: 77.0
+  z: 367.5632281547301
+  yaw: -241.4518
+  pitch: 33.340435
+homes:
+  home:
+    world: survival
+    x: 88.69446186724775
+    y: 73.0
+    z: 373.94592466247195
+    yaw: 67.65451
+    pitch: 10.401358
+money: '30.0'

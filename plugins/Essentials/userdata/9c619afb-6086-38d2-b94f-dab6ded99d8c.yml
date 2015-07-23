@@ -1,0 +1,21 @@
+lastAccountName: alondra
+timestamps:
+  login: 1433797668149
+  logout: 1433798317625
+ipAddress: 190.117.235.145
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1393.3556727750056
+  y: 27.0
+  z: 3927.9341609119624
+  yaw: 258.54236
+  pitch: 30.450003
+socialspy: false
+money: '30.0'

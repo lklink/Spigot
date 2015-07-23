@@ -1,0 +1,24 @@
+lastAccountName: benjamin
+timestamps:
+  login: 1433005821327
+  lastteleport: 1433007041667
+  mute: 0
+  logout: 1433008200832
+ipAddress: 190.160.205.44
+lastlocation:
+  world: juegos
+  x: -1395.477176192915
+  y: 28.0
+  z: 4020.001499759731
+  yaw: -179.759
+  pitch: 31.949587
+money: '2225.0'
+muted: false
+logoutlocation:
+  world: juegos
+  x: -1392.4981148566794
+  y: 29.0
+  z: 3987.300000011921
+  yaw: -300.80896
+  pitch: 28.649584
+socialspy: false

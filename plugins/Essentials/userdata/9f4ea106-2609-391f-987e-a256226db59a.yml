@@ -1,0 +1,22 @@
+lastAccountName: N0Trix
+timestamps:
+  login: 1433871386528
+  lastteleport: 1433374543440
+  logout: 1433871408079
+ipAddress: 181.72.89.81
+lastlocation:
+  world: juegos
+  x: -1394.1913477072185
+  y: 28.5
+  z: 3984.0415518564264
+  yaw: -1.9382019
+  pitch: -5.8170033
+logoutlocation:
+  world: SkyWars
+  x: -2.081440473864756
+  y: 51.0
+  z: -25.117027599320174
+  yaw: 177.20168
+  pitch: 7.273646
+socialspy: false
+money: '30.0'

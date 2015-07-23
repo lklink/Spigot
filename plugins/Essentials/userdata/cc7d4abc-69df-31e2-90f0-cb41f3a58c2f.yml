@@ -1,0 +1,22 @@
+lastAccountName: itsMarkito
+timestamps:
+  login: 1434071915004
+  lastteleport: 1433374358967
+  logout: 1434071994880
+ipAddress: 66.176.243.55
+lastlocation:
+  world: juegos
+  x: -963.1085154097108
+  y: 35.0
+  z: -118.47723937190834
+  yaw: 135.74854
+  pitch: 24.27684
+logoutlocation:
+  world: spawn
+  x: -620.6722813527132
+  y: 50.0
+  z: -2450.695779402908
+  yaw: 183.31883
+  pitch: 23.450928
+socialspy: false
+money: '545.0'

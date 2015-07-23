@@ -1,0 +1,21 @@
+lastAccountName: Constanza_CHICA_
+timestamps:
+  login: 1436986508112
+  lastteleport: 1436986865930
+  logout: 1436987482487
+ipAddress: 200.89.36.63
+lastlocation:
+  world: plotworld
+  x: 293.4465341026142
+  y: 65.0
+  z: 293.609688762056
+  yaw: -191.25049
+  pitch: 28.34998
+logoutlocation:
+  world: plotworld
+  x: 300.33385915389226
+  y: 64.0
+  z: 293.4194389487168
+  yaw: 2.5498772
+  pitch: 23.699993
+money: '30.0'

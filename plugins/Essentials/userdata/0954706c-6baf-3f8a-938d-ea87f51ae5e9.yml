@@ -1,0 +1,22 @@
+lastAccountName: '010'
+timestamps:
+  login: 1433726246764
+  lastteleport: 1433470648172
+  logout: 1433726275466
+ipAddress: 190.138.87.227
+lastlocation:
+  world: juegos
+  x: -1401.9477939306232
+  y: 28.0
+  z: 3979.838313636244
+  yaw: -259.25897
+  pitch: 10.049989
+logoutlocation:
+  world: survival
+  x: 75.69817643183178
+  y: 63.0
+  z: 259.64050268683803
+  yaw: 40.499985
+  pitch: 13.80001
+socialspy: false
+money: '30.0'

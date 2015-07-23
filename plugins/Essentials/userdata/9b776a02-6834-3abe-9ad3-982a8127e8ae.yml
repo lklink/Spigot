@@ -1,0 +1,21 @@
+lastAccountName: pinkycata
+timestamps:
+  login: 1433622695996
+  logout: 1433622838950
+ipAddress: 181.51.53.75
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: -46.435563422468526
+  y: 65.0
+  z: -111.54769934053695
+  yaw: -86.24991
+  pitch: 10.9500065
+socialspy: false
+money: '30.0'

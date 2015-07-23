@@ -1,0 +1,22 @@
+lastAccountName: ninjafa
+timestamps:
+  login: 1435788818845
+  logout: 1435789101631
+  lastteleport: 1435789013577
+ipAddress: 186.23.66.208
+lastlocation:
+  world: spawn
+  x: -620.9127956676408
+  y: 28.0
+  z: -1397.076253207792
+  yaw: 89.92651
+  pitch: -41.29801
+logoutlocation:
+  world: juegos
+  x: -1011.6309893851818
+  y: 35.0
+  z: -78.44428629511833
+  yaw: 138.74915
+  pitch: 28.349968
+socialspy: false
+money: '30.0'

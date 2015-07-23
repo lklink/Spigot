@@ -1,0 +1,22 @@
+lastAccountName: Criscriper
+timestamps:
+  login: 1432769787779
+  lastteleport: 1432502012778
+  logout: 1432769809731
+ipAddress: 190.161.174.79
+lastlocation:
+  world: juegos
+  x: -1395.4488510871888
+  y: 28.0
+  z: 3988.6859655442086
+  yaw: -179.309
+  pitch: 30.599586
+logoutlocation:
+  world: survival
+  x: -33.7046023475586
+  y: 60.59620840873632
+  z: 17.508670758568787
+  yaw: 344.18036
+  pitch: -14.403598
+socialspy: false
+money: '30.0'

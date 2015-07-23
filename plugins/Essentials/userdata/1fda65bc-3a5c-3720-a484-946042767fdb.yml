@@ -1,0 +1,21 @@
+lastAccountName: BearGamesX_YT
+timestamps:
+  login: 1435953347990
+  logout: 1435953512176
+ipAddress: 181.54.117.143
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -661.4726685383692
+  y: 28.5
+  z: -1397.0216036327054
+  yaw: -57.075035
+  pitch: 22.349962
+socialspy: false
+money: '30.0'

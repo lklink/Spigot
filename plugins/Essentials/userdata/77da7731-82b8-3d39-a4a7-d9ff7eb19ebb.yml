@@ -1,0 +1,21 @@
+lastAccountName: sebaharcore
+timestamps:
+  login: 1435959390392
+  logout: 1435959523508
+ipAddress: 181.74.254.74
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1421.5603125876123
+  y: 28.0
+  z: 3989.0070394573954
+  yaw: 290.1
+  pitch: 15.449993
+socialspy: false
+money: '30.0'

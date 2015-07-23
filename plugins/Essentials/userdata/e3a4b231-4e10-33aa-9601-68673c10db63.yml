@@ -1,0 +1,22 @@
+lastAccountName: ismael
+timestamps:
+  login: 1436319096062
+  logout: 1436320167295
+  lastteleport: 1436152066665
+ipAddress: 189.217.30.92
+lastlocation:
+  world: plotworld
+  x: 279.4058038704635
+  y: 65.0
+  z: -291.11065277396165
+  yaw: -216.23366
+  pitch: 67.08509
+logoutlocation:
+  world: plotworld
+  x: 291.47018189478604
+  y: 65.0
+  z: -300.69999998807907
+  yaw: -283.14563
+  pitch: 62.210716
+socialspy: false
+money: '355.0'

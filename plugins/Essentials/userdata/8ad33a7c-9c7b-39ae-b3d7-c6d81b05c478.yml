@@ -1,0 +1,30 @@
+lastAccountName: facundo
+timestamps:
+  login: 1433883561464
+  lastteleport: 1433884743511
+  logout: 1433884812465
+ipAddress: 190.179.205.20
+lastlocation:
+  world: juegos
+  x: -1395.4931749049574
+  y: 28.0
+  z: 4026.309669218317
+  yaw: -179.309
+  pitch: 31.799587
+homes:
+  home:
+    world: Factions
+    x: -1501.1424601127883
+    y: 75.0
+    z: -181.35836046900354
+    yaw: -20.589844
+    pitch: 39.14999
+logoutlocation:
+  world: juegos
+  x: -1397.305276953367
+  y: 28.0
+  z: 4029.137499988079
+  yaw: -159.2087
+  pitch: 85.8
+socialspy: false
+money: '30.0'

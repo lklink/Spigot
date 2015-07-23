@@ -1,0 +1,31 @@
+lastAccountName: TheCreeksk8
+timestamps:
+  login: 1431195620522
+  lastteleport: 1430110529591
+  logout: 1431195639428
+ipAddress: 181.64.192.200
+lastlocation:
+  world: plotworld
+  x: -15.330217164969683
+  y: 65.0
+  z: 83.76510198925384
+  yaw: -136.5
+  pitch: 3.6000023
+logoutlocation:
+  world: plotworld
+  x: -19.613330655974913
+  y: 65.0
+  z: 86.56942691856275
+  yaw: 162.60043
+  pitch: 20.99976
+socialspy: false
+money: '134.0'
+homes:
+  home:
+    world: survival
+    x: 5.172207597367214
+    y: 73.0
+    z: 282.4566975575324
+    yaw: 221.09998
+    pitch: 38.85011
+godmode: false

@@ -1,0 +1,99 @@
+lastAccountName: knales11
+timestamps:
+  login: 1437504176226
+  logout: 1437504733074
+  lastteleport: 1437504728328
+  kits:
+    youtuber: 1435350519749
+    tools: 1429929994385
+    diamante: 1433722436659
+    firework: 1429460011348
+    esmeralda: 1435785250353
+    dtools: 1428763817456
+    nuevo: 1433365221820
+    plata: 1435784886634
+ipAddress: 186.79.0.39
+afk: false
+logoutlocation:
+  world: plotworld
+  x: -24.30000001192093
+  y: 69.0
+  z: 23.757071622301034
+  yaw: -98.22284
+  pitch: 18.112621
+lastlocation:
+  world: survival
+  x: -2.5900215172339065
+  y: 114.0
+  z: 16.24789035707536
+  yaw: 274.2202
+  pitch: -26.834822
+socialspy: false
+godmode: false
+homes:
+  home:
+    world: juegos
+    x: -1039.5
+    y: 149.0
+    z: -523.5
+    yaw: 56.538208
+    pitch: 20.177969
+  granja:
+    world: world
+    x: 1368.2067736730971
+    y: 64.0
+    z: -1287.8892038768754
+    yaw: -36.45353
+    pitch: 49.50004
+  asd:
+    world: world
+    x: 22.457362271955752
+    y: 109.0
+    z: 787.306550866271
+    yaw: 56.763428
+    pitch: 16.326515
+  arena:
+    world: world
+    x: 277.5385436301627
+    y: 64.0
+    z: 910.0974695788644
+    yaw: -317.18195
+    pitch: -3.458094
+  deu:
+    world: survival
+    x: 542.9979320836239
+    y: 11.0
+    z: 749.3858087874144
+    yaw: 251.65833
+    pitch: 13.58576
+  spleef:
+    world: Castle
+    x: 34.766058670828905
+    y: 34.0
+    z: -34.80379853762271
+    yaw: -252.28912
+    pitch: 31.220798
+  evento:
+    world: Castle
+    x: 24.622830773628166
+    y: 4.0
+    z: 203.16413824378873
+    yaw: -186.22784
+    pitch: -59.43734
+  skywar:
+    world: spawn
+    x: 562.6912259031087
+    y: 41.0
+    z: -1067.4783485698167
+    yaw: 91.215866
+    pitch: 14.607908
+  aja:
+    world: survival
+    x: 1240.5
+    y: 84.0
+    z: 180.5
+    yaw: -148.0748
+    pitch: 61.63211
+money: '10000000000000'
+nickname: §4knales11
+teleportenabled: true

@@ -1,0 +1,21 @@
+lastAccountName: Ogoxx
+timestamps:
+  login: 1429752755833
+  lastteleport: 1429752928759
+  logout: 1429753360274
+ipAddress: 186.107.223.187
+lastlocation:
+  world: survival
+  x: -3.18994488624399
+  y: 114.0
+  z: 16.70373160922867
+  yaw: -67.5
+  pitch: -21.899992
+logoutlocation:
+  world: juegos
+  x: -952.2882745651502
+  y: 123.0
+  z: -532.9118679135977
+  yaw: -344.84875
+  pitch: 7.4999824
+money: '30.0'

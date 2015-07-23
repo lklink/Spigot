@@ -1,0 +1,21 @@
+lastAccountName: AtomProduct
+timestamps:
+  login: 1435954574617
+  logout: 1435954614989
+ipAddress: 201.222.167.54
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.4958584619449
+  y: 28.0
+  z: 4000.767913538259
+  yaw: 157.45723
+  pitch: 8.485719
+socialspy: false
+money: '30.0'

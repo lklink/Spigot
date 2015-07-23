@@ -1,0 +1,22 @@
+lastAccountName: JesusMartinez
+timestamps:
+  login: 1437608450378
+  lastteleport: 1434939459187
+  logout: 1437608489231
+ipAddress: 190.45.80.138
+lastlocation:
+  world: plotworld
+  x: -65.4429109999588
+  y: 65.0
+  z: -277.02417254224997
+  yaw: 50.399994
+  pitch: 18.600046
+logoutlocation:
+  world: plotworld
+  x: 102.69999998807907
+  y: 65.0
+  z: -13.853284634029727
+  yaw: -91.22296
+  pitch: 42.095325
+money: '30.0'
+socialspy: false

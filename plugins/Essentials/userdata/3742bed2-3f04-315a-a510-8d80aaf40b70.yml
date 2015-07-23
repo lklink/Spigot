@@ -1,0 +1,30 @@
+lastAccountName: MirageMAN
+timestamps:
+  login: 1437597608423
+  lastteleport: 1437597630776
+  logout: 1437597695752
+ipAddress: 200.120.203.85
+lastlocation:
+  world: survival
+  x: -1562.468213734029
+  y: 104.5
+  z: 3830.47416148752
+  yaw: -4.040559
+  pitch: 7.350005
+homes:
+  home:
+    world: spawn
+    x: -616.5862710469295
+    y: 17.0
+    z: -1428.5428428914781
+    yaw: -174.40062
+    pitch: -16.05003
+logoutlocation:
+  world: spawn
+  x: -549.6599976877645
+  y: 29.0
+  z: -1405.3691728982517
+  yaw: 118.57546
+  pitch: 22.05
+socialspy: false
+money: '30030.0'

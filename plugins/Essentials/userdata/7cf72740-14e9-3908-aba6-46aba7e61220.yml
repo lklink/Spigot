@@ -1,0 +1,22 @@
+lastAccountName: saile95
+timestamps:
+  login: 1435549506355
+  lastteleport: 1434937499754
+  logout: 1435550618835
+ipAddress: 179.7.108.172
+lastlocation:
+  world: survival
+  x: -672.8420055136976
+  y: 64.0
+  z: 1274.7138789411542
+  yaw: -318.96045
+  pitch: 45.599964
+logoutlocation:
+  world: survival
+  x: -676.4679981908465
+  y: 60.0
+  z: 1278.8471662761146
+  yaw: 240.60234
+  pitch: 61.199863
+socialspy: false
+money: '350.0'

@@ -1,0 +1,22 @@
+lastAccountName: shintaro
+timestamps:
+  login: 1435094749043
+  lastteleport: 1435081713318
+  logout: 1435094782251
+ipAddress: 200.122.94.205
+lastlocation:
+  world: spawn
+  x: -628.7435049262963
+  y: 48.0
+  z: -2419.559625919056
+  yaw: 324.1491
+  pitch: 12.840034
+logoutlocation:
+  world: plotworld
+  x: -242.5013316928003
+  y: 66.0
+  z: -111.92142877583971
+  yaw: 22.050093
+  pitch: 48.600006
+socialspy: false
+money: '30.0'

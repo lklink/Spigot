@@ -1,0 +1,22 @@
+lastAccountName: davidm9
+timestamps:
+  login: 1434048239824
+  lastteleport: 1433293556495
+  logout: 1434048285819
+ipAddress: 201.232.142.229
+lastlocation:
+  world: survival
+  x: 407.2749600648144
+  y: 74.0
+  z: 285.47494896998785
+  yaw: 270.3871
+  pitch: 28.924461
+logoutlocation:
+  world: plotworld
+  x: -122.06601182092928
+  y: 65.875
+  z: 170.7142548150474
+  yaw: -221.24977
+  pitch: 12.000002
+socialspy: false
+money: '260.0'

@@ -1,0 +1,22 @@
+lastAccountName: EvilLeanbow
+timestamps:
+  login: 1433511695437
+  logout: 1433511959335
+  lastteleport: 1433511898816
+ipAddress: 190.101.101.72
+lastlocation:
+  world: juegos
+  x: -1395.4099414402153
+  y: 28.0
+  z: 3981.4127936592968
+  yaw: -182.00902
+  pitch: -2.1004145
+logoutlocation:
+  world: Factions
+  x: -504.58217868881223
+  y: 67.0
+  z: -232.44193553343496
+  yaw: 47.80919
+  pitch: 16.949991
+socialspy: false
+money: '55.0'

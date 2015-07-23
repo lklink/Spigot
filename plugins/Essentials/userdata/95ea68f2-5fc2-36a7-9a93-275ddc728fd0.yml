@@ -1,0 +1,21 @@
+lastAccountName: Choco_507
+timestamps:
+  login: 1432770828976
+  logout: 1432770837378
+ipAddress: 190.219.236.111
+lastlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.309
+  pitch: 31.949587
+logoutlocation:
+  world: juegos
+  x: -1404.5
+  y: 51.0
+  z: 4033.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

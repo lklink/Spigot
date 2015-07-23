@@ -1,0 +1,22 @@
+lastAccountName: Papape980
+timestamps:
+  login: 1433977311541
+  lastteleport: 1433810436037
+  logout: 1433810459387
+ipAddress: 201.215.131.82
+lastlocation:
+  world: juegos
+  x: -1398.4693632736432
+  y: 28.0
+  z: 4006.8146965265632
+  yaw: -264.71066
+  pitch: -12.287222
+logoutlocation:
+  world: SkyWars
+  x: -0.9366390303316424
+  y: 49.5
+  z: -16.45972783462411
+  yaw: -124.7226
+  pitch: 8.918407
+socialspy: false
+money: '30.0'

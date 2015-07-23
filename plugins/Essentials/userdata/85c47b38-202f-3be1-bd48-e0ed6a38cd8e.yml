@@ -1,0 +1,30 @@
+lastAccountName: Adrianog
+timestamps:
+  login: 1437578999147
+  lastteleport: 1437582568181
+  logout: 1437506090782
+ipAddress: 189.186.236.45
+lastlocation:
+  world: survival_nether
+  x: 26.652860036086146
+  y: 38.0
+  z: 229.69999998807907
+  yaw: -260.70325
+  pitch: 54.59986
+homes:
+  home:
+    world: plotworld
+    x: 214.30495655610463
+    y: 65.5
+    z: -269.42616609740253
+    yaw: -270.74982
+    pitch: 13.650006
+logoutlocation:
+  world: plotworld
+  x: 220.98349048883125
+  y: 70.875
+  z: -251.19246279699047
+  yaw: -98.69946
+  pitch: 23.55001
+socialspy: false
+money: '348.0'

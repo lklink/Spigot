@@ -1,0 +1,20 @@
+lastAccountName: Ague
+timestamps:
+  login: 1433092789056
+  logout: 1433092841335
+ipAddress: 189.196.157.205
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.4497877504643
+  y: 28.0
+  z: 3996.319670203995
+  yaw: -181.85898
+  pitch: -0.4504141
+money: '30.0'

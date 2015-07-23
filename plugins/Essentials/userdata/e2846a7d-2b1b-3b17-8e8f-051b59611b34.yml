@@ -1,0 +1,20 @@
+lastAccountName: edaniel321
+timestamps:
+  login: 1437428067579
+  logout: 1437428105028
+ipAddress: 186.113.96.9
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -673.3967238922098
+  y: 24.0
+  z: -1439.085863473178
+  yaw: -282.22495
+  pitch: 30.55201
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: luchit
+timestamps:
+  login: 1437440625643
+  lastteleport: 1437440802714
+  logout: 1437441082673
+ipAddress: 181.161.206.81
+lastlocation:
+  world: spawn
+  x: -613.5
+  y: 28.0
+  z: -1367.5
+  yaw: 178.12509
+  pitch: 62.351997
+logoutlocation:
+  world: juegos
+  x: -1131.80667369437
+  y: 54.0
+  z: 2766.1566801156546
+  yaw: 341.65665
+  pitch: 28.499855
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: krono
+timestamps:
+  login: 1433449136308
+  logout: 1433450082920
+  lastteleport: 1433449626539
+ipAddress: 186.9.106.51
+lastlocation:
+  world: juegos
+  x: -1392.300000011921
+  y: 28.0
+  z: 4007.2508118212454
+  yaw: -127.858986
+  pitch: -1.6504153
+logoutlocation:
+  world: survival
+  x: 11.443459250608615
+  y: 52.0
+  z: 297.5462839891384
+  yaw: 295.65082
+  pitch: 33.600014
+socialspy: false
+money: '30.0'

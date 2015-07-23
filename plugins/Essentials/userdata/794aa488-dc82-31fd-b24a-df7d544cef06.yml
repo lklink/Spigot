@@ -1,0 +1,22 @@
+lastAccountName: Rayquaza39
+timestamps:
+  login: 1437368154467
+  logout: 1437368169416
+  lastteleport: 1434862138003
+ipAddress: 190.171.114.107
+lastlocation:
+  world: plotworld
+  x: -23.560313024585287
+  y: 65.5
+  z: -230.2946008326146
+  yaw: 96.41867
+  pitch: 7.9380836
+logoutlocation:
+  world: spawn
+  x: 542.9537518874755
+  y: 39.0
+  z: -1067.0677757305823
+  yaw: -66.32001
+  pitch: 1.6763405
+socialspy: false
+money: '30.0'

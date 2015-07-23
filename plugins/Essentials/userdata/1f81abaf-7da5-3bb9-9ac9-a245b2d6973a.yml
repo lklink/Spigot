@@ -1,0 +1,21 @@
+lastAccountName: Zdog101
+timestamps:
+  login: 1433866917450
+  logout: 1433866951801
+ipAddress: 200.87.40.17
+lastlocation:
+  world: SkyWars
+  x: -22.862428435005775
+  y: 47.0
+  z: 3685.768135030395
+  yaw: 71.17869
+  pitch: 34.688393
+logoutlocation:
+  world: SkyWars
+  x: -57.30000001192093
+  y: 47.665909611697565
+  z: 3757.273409767427
+  yaw: 311.32538
+  pitch: 6.6000047
+socialspy: false
+money: '30.0'

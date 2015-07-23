@@ -1,0 +1,22 @@
+lastAccountName: lalo
+timestamps:
+  login: 1433644909750
+  logout: 1433646416614
+  lastteleport: 1433645003513
+ipAddress: 181.42.253.7
+lastlocation:
+  world: plotworld
+  x: -66.95847154474916
+  y: 65.0
+  z: 79.55298318371868
+  yaw: -243.89986
+  pitch: -6.899953
+logoutlocation:
+  world: juegos
+  x: -1395.5193086295621
+  y: 28.0
+  z: 4022.880223180764
+  yaw: -185.00899
+  pitch: 9.599591
+socialspy: false
+money: '30.0'

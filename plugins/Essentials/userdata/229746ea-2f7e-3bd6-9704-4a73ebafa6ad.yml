@@ -1,0 +1,22 @@
+lastAccountName: Gabo9
+timestamps:
+  login: 1436138199188
+  logout: 1436138549840
+  lastteleport: 1436138436716
+ipAddress: 190.62.161.188
+lastlocation:
+  world: survival
+  x: -48.30000001192093
+  y: 103.0
+  z: 17.074999988079067
+  yaw: -82.768196
+  pitch: 11.127298
+logoutlocation:
+  world: survival
+  x: 110.35472202059753
+  y: 71.0
+  z: 81.30872253535944
+  yaw: -117.71746
+  pitch: 20.080807
+socialspy: false
+money: '30.0'

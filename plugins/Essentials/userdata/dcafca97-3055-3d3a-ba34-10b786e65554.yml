@@ -1,0 +1,21 @@
+lastAccountName: Ghody
+timestamps:
+  login: 1433712480573
+  lastteleport: 1433712510737
+  logout: 1433712604562
+ipAddress: 190.75.74.136
+lastlocation:
+  world: juegos
+  x: -1395.4334406538474
+  y: 28.0
+  z: 3981.905296597494
+  yaw: -178.25897
+  pitch: 7.799591
+logoutlocation:
+  world: Factions
+  x: -359.55542611551056
+  y: 68.0
+  z: -379.4344733449498
+  yaw: -61.99069
+  pitch: 17.24998
+money: '30.0'

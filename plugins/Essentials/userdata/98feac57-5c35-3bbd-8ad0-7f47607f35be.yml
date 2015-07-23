@@ -1,0 +1,22 @@
+lastAccountName: sword_for_evil
+timestamps:
+  login: 1433548888222
+  logout: 1433549007384
+  lastteleport: 1433548963998
+ipAddress: 201.222.245.54
+lastlocation:
+  world: juegos
+  x: 4700.0746029075835
+  y: 52.0
+  z: 1056.7799423972342
+  yaw: -162.83267
+  pitch: -18.965229
+logoutlocation:
+  world: SkyWars
+  x: 1.4131484296071037
+  y: 51.0
+  z: -23.56217638366162
+  yaw: -167.36684
+  pitch: 29.11507
+socialspy: false
+money: '240.0'

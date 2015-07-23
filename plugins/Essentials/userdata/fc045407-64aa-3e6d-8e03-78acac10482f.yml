@@ -1,0 +1,21 @@
+lastAccountName: sauron360
+timestamps:
+  login: 1433559857160
+  logout: 1433559895816
+ipAddress: 186.107.230.37
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1403.5
+  y: 88.0
+  z: 4027.5
+  yaw: 1.6499997
+  pitch: 0.29999995
+socialspy: false
+money: '30.0'

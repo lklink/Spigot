@@ -1,0 +1,30 @@
+lastAccountName: gogeta66
+timestamps:
+  login: 1437435065312
+  lastteleport: 1437435205083
+  logout: 1437435237193
+ipAddress: 191.112.60.60
+lastlocation:
+  world: survival
+  x: 331.59372023030505
+  y: 72.0
+  z: -25.045512439777163
+  yaw: 47.942078
+  pitch: 33.79693
+homes:
+  home:
+    world: survival
+    x: 332.615998559975
+    y: 70.0
+    z: -26.30000001192093
+    yaw: 83.41923
+    pitch: 24.631971
+logoutlocation:
+  world: spawn
+  x: -619.9863328113025
+  y: 48.0
+  z: -2433.6797128076687
+  yaw: 60.952133
+  pitch: -4.671398
+socialspy: false
+money: '2560.0'

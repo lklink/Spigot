@@ -1,0 +1,22 @@
+lastAccountName: Todeswunsch
+timestamps:
+  login: 1426374275522
+  logout: 1426378246527
+  lastteleport: 1426378219266
+ipAddress: 190.160.72.191
+lastlocation:
+  world: world
+  x: -56.675938954696576
+  y: 61.200000047683716
+  z: 268.11524769620553
+  yaw: 0.5982666
+  pitch: -89.7
+logoutlocation:
+  world: world
+  x: -62.751384484821145
+  y: 69.0
+  z: 280.5405224955757
+  yaw: -88.50013
+  pitch: 15.45001
+socialspy: false
+money: '30.0'

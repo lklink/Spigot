@@ -1,0 +1,21 @@
+lastAccountName: SweetyB
+timestamps:
+  login: 1435265976595
+  lastteleport: 1435266210169
+  logout: 1435267247285
+ipAddress: 176.86.176.23
+lastlocation:
+  world: spawn
+  x: -620.765677492844
+  y: 49.0
+  z: -2426.6635800438075
+  yaw: 9.599182
+  pitch: 17.64
+logoutlocation:
+  world: spawn
+  x: -620.504031221186
+  y: 49.0
+  z: -2426.5736995033244
+  yaw: 173.84941
+  pitch: 9.989998
+money: '55.0'

@@ -1,0 +1,22 @@
+lastAccountName: SrNiguel
+timestamps:
+  login: 1431447084792
+  lastteleport: 1431360764782
+  logout: 1431447128845
+ipAddress: 181.1.236.106
+lastlocation:
+  world: survival
+  x: -3.0239827901747875
+  y: 114.0
+  z: 15.8403896239192
+  yaw: 279.10065
+  pitch: -22.958294
+logoutlocation:
+  world: plotworld
+  x: 62.69999998807907
+  y: 62.0
+  z: -3.546966706770077
+  yaw: 212.87396
+  pitch: 12.255298
+socialspy: false
+money: '30.0'

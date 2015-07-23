@@ -1,0 +1,22 @@
+lastAccountName: MrComando40
+timestamps:
+  login: 1434975689002
+  lastteleport: 1434218292746
+  logout: 1434975709252
+ipAddress: 37.135.79.237
+lastlocation:
+  world: spawn
+  x: -620.1761491504791
+  y: 48.0
+  z: -2440.952439320083
+  yaw: 215.75737
+  pitch: 4.297256
+logoutlocation:
+  world: spawn
+  x: -660.481742029272
+  y: 28.5
+  z: -1398.5667776056105
+  yaw: -17.614382
+  pitch: 6.7563605
+socialspy: false
+money: '90.0'

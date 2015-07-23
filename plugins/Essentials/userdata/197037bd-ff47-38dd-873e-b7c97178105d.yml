@@ -1,0 +1,22 @@
+lastAccountName: Jak3
+timestamps:
+  login: 1434042194628
+  lastteleport: 1434041697297
+  logout: 1434043518656
+ipAddress: 190.188.88.106
+lastlocation:
+  world: spawn
+  x: -621.4754525507238
+  y: 48.0
+  z: -2436.55150559804
+  yaw: -5.3676996
+  pitch: 8.124743
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '30.0'

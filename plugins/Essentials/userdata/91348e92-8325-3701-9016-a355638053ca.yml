@@ -1,0 +1,22 @@
+lastAccountName: ValentinaChic
+timestamps:
+  login: 1433879763487
+  lastteleport: 1433537788906
+  logout: 1433879803092
+ipAddress: 191.113.8.73
+lastlocation:
+  world: juegos
+  x: -1395.5756567535577
+  y: 28.0
+  z: 3980.9106665070835
+  yaw: -173.15912
+  pitch: -3.0004182
+logoutlocation:
+  world: plotworld
+  x: 209.58194821122922
+  y: 65.0
+  z: -55.08279548731036
+  yaw: -68.099945
+  pitch: 90.0
+socialspy: false
+money: '30.0'

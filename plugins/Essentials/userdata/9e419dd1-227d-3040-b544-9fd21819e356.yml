@@ -1,0 +1,22 @@
+lastAccountName: mecris66
+timestamps:
+  login: 1432982009647
+  logout: 1432983920696
+  lastteleport: 1432982936405
+ipAddress: 79.145.39.167
+lastlocation:
+  world: plotworld
+  x: 61.70549533797878
+  y: 66.0
+  z: -184.9838670527075
+  yaw: -126.60069
+  pitch: 17.70014
+logoutlocation:
+  world: plotworld
+  x: 55.38277371971219
+  y: 65.0
+  z: -179.63101881806716
+  yaw: -167.39972
+  pitch: 32.849903
+socialspy: false
+money: '30.0'

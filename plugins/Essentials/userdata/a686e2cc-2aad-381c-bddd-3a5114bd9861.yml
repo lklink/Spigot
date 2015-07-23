@@ -1,0 +1,21 @@
+lastAccountName: vegetta777
+timestamps:
+  login: 1434759268394
+  lastteleport: 1434760787307
+  logout: 1434761029693
+ipAddress: 190.163.155.49
+lastlocation:
+  world: plotworld
+  x: 19.258221322786337
+  y: 60.0
+  z: 162.30000001192093
+  yaw: 24.89978
+  pitch: -56.250008
+logoutlocation:
+  world: juegos
+  x: -1392.8956743899355
+  y: 43.0
+  z: 3969.3849345293706
+  yaw: 135.59995
+  pitch: 32.099995
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: ElianGamer51
+timestamps:
+  login: 1435158653303
+  lastteleport: 1435158914021
+  logout: 1435158929956
+ipAddress: 179.53.190.201
+lastlocation:
+  world: spawn
+  x: -623.6429190665752
+  y: 50.0
+  z: -2449.6214771244795
+  yaw: -11.896942
+  pitch: 23.148851
+logoutlocation:
+  world: spawn
+  x: 536.9053899270681
+  y: 39.0
+  z: -1068.6535823875295
+  yaw: 85.610275
+  pitch: -23.549997
+socialspy: false
+money: '20000.0'

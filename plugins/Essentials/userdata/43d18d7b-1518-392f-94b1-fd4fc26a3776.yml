@@ -1,0 +1,21 @@
+lastAccountName: agentJFR
+timestamps:
+  login: 1434323557942
+  lastteleport: 1434324096120
+  logout: 1434324340314
+ipAddress: 190.46.35.180
+lastlocation:
+  world: plotworld
+  x: 259.30996123268176
+  y: 65.0
+  z: -11.977641681088153
+  yaw: 106.200005
+  pitch: 16.350002
+money: '110.0'
+logoutlocation:
+  world: Factions
+  x: -362.6619966599028
+  y: 63.231523797587016
+  z: -724.453831739018
+  yaw: 71.80974
+  pitch: 25.8

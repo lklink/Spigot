@@ -1,0 +1,22 @@
+permission: ''
+world: world
+X: -92
+Y: 86
+Z: 432
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /Tppos -1,408 90 472,386
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

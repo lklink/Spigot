@@ -1,0 +1,22 @@
+lastAccountName: gianlucax02
+timestamps:
+  login: 1434855062990
+  lastteleport: 1434854916629
+  logout: 1434855084166
+ipAddress: 201.230.149.165
+lastlocation:
+  world: spawn
+  x: -621.6999999880791
+  y: 48.5
+  z: -2432.082141780048
+  yaw: -295.20087
+  pitch: -68.46004
+logoutlocation:
+  world: spawn
+  x: -656.0146580279035
+  y: 1.0
+  z: -2460.821641750846
+  yaw: 326.25015
+  pitch: 89.700005
+socialspy: false
+money: '55.0'

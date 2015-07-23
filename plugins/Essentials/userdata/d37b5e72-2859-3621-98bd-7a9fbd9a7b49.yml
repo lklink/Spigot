@@ -1,0 +1,21 @@
+lastAccountName: dnamiller
+timestamps:
+  login: 1435089031225
+  lastteleport: 1435089053207
+  logout: 1435089095516
+ipAddress: 189.182.61.239
+lastlocation:
+  world: juegos
+  x: -1394.236087529998
+  y: 28.0
+  z: 4007.705320500642
+  yaw: 246.88333
+  pitch: 5.4562964
+logoutlocation:
+  world: survival
+  x: -36.2481810276403
+  y: 50.186663563199126
+  z: 69.36112886113894
+  yaw: 121.26941
+  pitch: 45.73149
+money: '30.0'

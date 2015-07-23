@@ -1,0 +1,22 @@
+lastAccountName: Youshinx
+timestamps:
+  login: 1429753412750
+  lastteleport: 1429753288277
+  logout: 1429753427782
+ipAddress: 186.104.195.34
+lastlocation:
+  world: juegos
+  x: -952.4509363612735
+  y: 128.5
+  z: -524.6819392727449
+  yaw: -174.14883
+  pitch: 13.19993
+logoutlocation:
+  world: survival
+  x: 288.30000001192093
+  y: 65.0
+  z: 183.63302548298452
+  yaw: 221.09769
+  pitch: 1.349988
+socialspy: false
+money: '29.0'

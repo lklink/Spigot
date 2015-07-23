@@ -1,0 +1,39 @@
+lastAccountName: nino
+timestamps:
+  login: 1429843166238
+  logout: 1429844159576
+  lastteleport: 1429843286935
+ipAddress: 191.112.130.76
+logoutlocation:
+  world: survival
+  x: 207.43757065679353
+  y: 72.0
+  z: 560.4234688556941
+  yaw: -105.54675
+  pitch: 14.250035
+lastlocation:
+  world: plotworld
+  x: -118.20018914813224
+  y: 75.10576409735086
+  z: 25.192997892459637
+  yaw: 286.3496
+  pitch: 27.749949
+afk: false
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -873.7134248570139
+    y: 101.02916727315905
+    z: 191.81600989750842
+    yaw: -190.90993
+    pitch: 44.699997
+  casa:
+    world: survival
+    x: 398.28345434086134
+    y: 92.0
+    z: 275.45725195774145
+    yaw: -64.76123
+    pitch: 10.500044
+nickname: §6§oNino
+money: '30.0'

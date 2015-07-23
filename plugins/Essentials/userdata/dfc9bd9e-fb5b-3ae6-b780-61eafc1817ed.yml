@@ -1,0 +1,31 @@
+lastAccountName: MagicRoom
+timestamps:
+  login: 1431396232169
+  logout: 1431396382496
+  lastteleport: 1430871319222
+ipAddress: 200.120.242.20
+lastlocation:
+  world: plotworld
+  x: 47.368942216593624
+  y: 66.16610926093821
+  z: -23.24664613972059
+  yaw: -94.40607
+  pitch: 26.437511
+logoutlocation:
+  world: plotworld
+  x: -26.626873984611922
+  y: 65.0
+  z: -78.71383634773052
+  yaw: 285.14963
+  pitch: -11.999984
+socialspy: false
+money: '2064.0'
+afk: false
+homes:
+  home:
+    world: survival
+    x: 744.9749733283599
+    y: 70.0
+    z: 2648.0266019799124
+    yaw: -117.75787
+    pitch: 34.19996

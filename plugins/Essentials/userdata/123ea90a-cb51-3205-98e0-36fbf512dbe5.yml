@@ -1,0 +1,21 @@
+lastAccountName: kirablack
+timestamps:
+  login: 1432939927237
+  logout: 1432941549814
+ipAddress: 181.202.208.88
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1393.6787387572579
+  y: 6.0
+  z: 4017.940956346371
+  yaw: 242.4919
+  pitch: 23.399786
+socialspy: false
+money: '30.0'

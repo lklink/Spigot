@@ -1,0 +1,22 @@
+lastAccountName: tays
+timestamps:
+  login: 1433422998511
+  lastteleport: 1433363542387
+  logout: 1433423013912
+ipAddress: 90.168.56.201
+lastlocation:
+  world: plotworld
+  x: -46.24030069592591
+  y: 65.0
+  z: 175.23750001192096
+  yaw: 48.05597
+  pitch: 13.649962
+logoutlocation:
+  world: survival
+  x: -196.04627857529562
+  y: 54.0
+  z: 307.7065314792562
+  yaw: 245.17303
+  pitch: 36.900047
+socialspy: false
+money: '30.0'

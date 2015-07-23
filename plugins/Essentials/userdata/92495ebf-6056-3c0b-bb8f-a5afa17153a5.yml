@@ -1,0 +1,21 @@
+lastAccountName: Rock0
+timestamps:
+  login: 1434635392681
+  lastteleport: 1434635563894
+  logout: 1434635611909
+ipAddress: 186.11.11.36
+lastlocation:
+  world: plotworld
+  x: 247.55308049161619
+  y: 65.0
+  z: 202.7292060504284
+  yaw: -257.84988
+  pitch: 12.900045
+logoutlocation:
+  world: spawn
+  x: -620.0931785814311
+  y: 49.0
+  z: -2422.990783327313
+  yaw: 174.68146
+  pitch: 13.612786
+money: '30.0'

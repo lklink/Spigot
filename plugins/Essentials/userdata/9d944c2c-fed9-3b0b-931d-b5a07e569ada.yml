@@ -1,0 +1,20 @@
+lastAccountName: dan
+timestamps:
+  login: 1433042052083
+  logout: 1433042240294
+ipAddress: 181.64.192.52
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1482.0397268569595
+  y: 25.0
+  z: 3958.330201561615
+  yaw: 133.50227
+  pitch: 24.898434
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: Duvan
+timestamps:
+  login: 1432865301149
+  lastteleport: 1432868116760
+  logout: 1432868563958
+ipAddress: 190.102.246.12
+lastlocation:
+  world: juegos
+  x: -1478.1279443399592
+  y: 31.0
+  z: 4049.9148873049803
+  yaw: 285.5304
+  pitch: 20.399988
+logoutlocation:
+  world: juegos
+  x: -1396.105171557372
+  y: 28.0
+  z: 4025.213637267564
+  yaw: -44.158985
+  pitch: 39.74958
+socialspy: false
+money: '30.0'

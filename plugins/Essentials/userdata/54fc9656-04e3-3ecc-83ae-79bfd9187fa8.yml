@@ -1,0 +1,20 @@
+lastAccountName: einar
+timestamps:
+  login: 1433720186805
+  logout: 1433720274103
+ipAddress: 190.219.156.38
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1402.699999988079
+  y: 27.5
+  z: 3875.948481203771
+  yaw: -316.40894
+  pitch: 10.949587
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: animemaha
+timestamps:
+  login: 1432933169665
+  lastteleport: 1432872970326
+  logout: 1432933374968
+ipAddress: 188.55.30.102
+lastlocation:
+  world: juegos
+  x: -1395.5084989385796
+  y: 28.0
+  z: 4016.728172155626
+  yaw: -180.50899
+  pitch: 28.199585
+logoutlocation:
+  world: juegos
+  x: -1397.3354998323264
+  y: 28.0
+  z: 4024.293791292506
+  yaw: -176.526
+  pitch: 4.449437
+socialspy: false
+money: '30.0'

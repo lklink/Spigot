@@ -1,0 +1,22 @@
+lastAccountName: david
+timestamps:
+  login: 1434916870307
+  logout: 1434917772226
+  lastteleport: 1434917401788
+ipAddress: 190.209.192.170
+lastlocation:
+  world: juegos
+  x: -1399.699999988079
+  y: 28.0
+  z: 4007.300000011921
+  yaw: -182.40001
+  pitch: -4.8000007
+logoutlocation:
+  world: plotworld
+  x: 261.515567093374
+  y: 65.0
+  z: 245.7117766689617
+  yaw: -176.1001
+  pitch: 32.69999
+socialspy: false
+money: '27.0'

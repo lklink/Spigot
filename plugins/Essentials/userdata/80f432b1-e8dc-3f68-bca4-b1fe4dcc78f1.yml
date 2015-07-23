@@ -1,0 +1,21 @@
+lastAccountName: herobrine
+timestamps:
+  login: 1433044033325
+  logout: 1433044067959
+ipAddress: 181.160.117.49
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1387.5
+  y: 51.0
+  z: 4034.5
+  yaw: 3.3000002
+  pitch: 1.3499999
+socialspy: false
+money: '30.0'

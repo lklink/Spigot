@@ -1,0 +1,20 @@
+lastAccountName: diegoTK
+timestamps:
+  login: 1434078572034
+  logout: 1434078913046
+ipAddress: 200.104.37.168
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -535.213713706998
+  y: 6.0
+  z: -1496.300000011921
+  yaw: 12.79837
+  pitch: 23.099981
+money: '30.0'

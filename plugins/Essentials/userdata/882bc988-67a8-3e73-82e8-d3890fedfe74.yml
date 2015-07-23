@@ -1,0 +1,21 @@
+lastAccountName: SigNNNaL
+timestamps:
+  login: 1434831045981
+  lastteleport: 1434831149701
+  logout: 1434834105158
+ipAddress: 190.44.197.170
+lastlocation:
+  world: juegos
+  x: -1392.903386766873
+  y: 28.0
+  z: 4007.8464156148693
+  yaw: -133.05032
+  pitch: -3.3000193
+logoutlocation:
+  world: survival
+  x: -54.020074504713854
+  y: 15.0
+  z: 432.8662503032204
+  yaw: -181.95972
+  pitch: 53.849995
+money: '30.0'

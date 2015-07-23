@@ -1,0 +1,161 @@
+lastAccountName: Reey_
+timestamps:
+  login: 1437680753193
+  lastteleport: 1437680951482
+  logout: 1437679973311
+  kits:
+    youtuber: 1437516181111
+    oro: 1437516153210
+    diamante: 1437516161661
+    esmeralda: 1437528320820
+    nuevo: 1437512433661
+    plata: 1437516146460
+    user: 1437512421160
+ipAddress: 201.223.67.30
+lastlocation:
+  world: spawn
+  x: -615.7149509994232
+  y: 57.91953226210803
+  z: -2424.4795452601925
+  yaw: 85.969444
+  pitch: 27.289646
+afk: false
+logoutlocation:
+  world: Beta
+  x: -12.091043433011771
+  y: 85.0
+  z: 155.87241924868835
+  yaw: -70.84175
+  pitch: 35.62484
+socialspy: false
+nickname: §bReey_
+homes:
+  alsda:
+    world: plotworld
+    x: 175.54990241300928
+    y: 65.0
+    z: 47.71829277600842
+    yaw: 247.11589
+    pitch: 29.82001
+  globitos:
+    world: juegos
+    x: -1473.19444292202
+    y: 247.91961816717566
+    z: -915.9615177918035
+    yaw: -237.17062
+    pitch: 10.172741
+  survival:
+    world: Factions
+    x: -42.62372247369064
+    y: 80.0
+    z: 2109.196911520724
+    yaw: 35.494152
+    pitch: 2.5073588
+  danicasa:
+    world: Factions
+    x: -26.989668840196003
+    y: 113.0
+    z: 2152.656465662293
+    yaw: -180.17497
+    pitch: 59.336067
+  casitaadrian:
+    world: plotworld
+    x: 134.69999998807907
+    y: 65.0
+    z: 162.40165482713368
+    yaw: -11.408029
+    pitch: 11.639297
+  1v1:
+    world: juegos
+    x: -14003.534338296093
+    y: 100.5
+    z: 4000.5513907264535
+    yaw: -9.231445
+    pitch: 90.0
+  aquimori:
+    world: juegos
+    x: -14003.47719144895
+    y: 101.0
+    z: 4012.414003668155
+    yaw: -177.17004
+    pitch: 18.99422
+  staff:
+    world: spawn
+    x: -624.2929147587316
+    y: 63.0
+    z: -2368.1375269202617
+    yaw: 226.44957
+    pitch: 28.715067
+  kuxo:
+    world: juegos
+    x: -1450.4394376581713
+    y: 193.0
+    z: -755.2909424031201
+    yaw: 170.06702
+    pitch: 14.055885
+  jiji:
+    world: spawn
+    x: -622.9685587790316
+    y: 45.0
+    z: -2375.9374864340975
+    yaw: -182.87054
+    pitch: 17.203058
+  plotme2_0:
+    world: juegos
+    x: -1610.4544317397558
+    y: 115.0
+    z: 4301.78703737511
+    yaw: 57.321835
+    pitch: 9.108063
+  construcciones:
+    world: juegos
+    x: -1113.2219923299078
+    y: 200.0
+    z: -695.7899015857188
+    yaw: 174.99432
+    pitch: 42.55225
+  lobby:
+    world: Beta
+    x: -48.72492530645369
+    y: 84.0
+    z: 159.4422602123295
+    yaw: -92.35907
+    pitch: 2.52512
+  azul:
+    world: juegos
+    x: -14005.243919429835
+    y: 115.0
+    z: 3857.5773277467047
+    yaw: -265.3075
+    pitch: 8.882379
+  casani_o:
+    world: plotworld
+    x: 175.1556354017793
+    y: 67.11037722897228
+    z: -225.79370259131946
+    yaw: -29.870789
+    pitch: 39.010338
+  aaa:
+    world: juegos
+    x: -12128.356749686487
+    y: 139.0
+    z: 4127.76333338307
+    yaw: 274.38156
+    pitch: 84.25816
+  rojos:
+    world: juegos
+    x: -12104.300000011921
+    y: 134.0
+    z: 4143.191365170124
+    yaw: 44.640747
+    pitch: 39.778084
+  asd:
+    world: juegos
+    x: -12104.300000011921
+    y: 134.0
+    z: 4143.0826293070795
+    yaw: 99.06213
+    pitch: 58.624794
+godmode: false
+money: '1002000005000'
+teleportenabled: true

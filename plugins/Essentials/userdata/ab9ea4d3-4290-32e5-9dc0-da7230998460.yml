@@ -1,0 +1,30 @@
+lastAccountName: BraulioIsaac
+timestamps:
+  login: 1436802918708
+  lastteleport: 1436732198348
+  logout: 1436802994555
+ipAddress: 187.189.248.235
+lastlocation:
+  world: spawn
+  x: 551.2475769734942
+  y: 39.0
+  z: -1069.5543471311635
+  yaw: 234.32504
+  pitch: 40.272465
+logoutlocation:
+  world: plotworld
+  x: 87.35927520315393
+  y: 65.0
+  z: 122.80943785294475
+  yaw: 111.08389
+  pitch: 26.084259
+socialspy: false
+money: '34.0'
+homes:
+  home:
+    world: Factions
+    x: -1501.699999988079
+    y: 80.0
+    z: -179.30000001192093
+    yaw: 169.45898
+    pitch: 51.8345

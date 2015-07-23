@@ -1,0 +1,22 @@
+lastAccountName: GamerGhoul15
+timestamps:
+  login: 1434845994226
+  lastteleport: 1434846673708
+  logout: 1434846677929
+ipAddress: 181.15.181.122
+lastlocation:
+  world: juegos
+  x: -1032.0251491554977
+  y: 35.0
+  z: -111.25961878443265
+  yaw: 316.09113
+  pitch: 2.8979592
+logoutlocation:
+  world: spawn
+  x: -621.1354576526016
+  y: 48.0
+  z: -2432.4365026056576
+  yaw: 179.58945
+  pitch: -5.421151
+socialspy: false
+money: '30.0'

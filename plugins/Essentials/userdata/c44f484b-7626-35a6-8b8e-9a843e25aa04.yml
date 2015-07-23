@@ -1,0 +1,44 @@
+lastAccountName: ShooterWinkle
+timestamps:
+  login: 1437419741910
+  logout: 1437420447344
+  lastteleport: 1437412501147
+  kits:
+    youtuber: 1437412477895
+    diamante: 1437412576479
+    esmeralda: 1437412487096
+ipAddress: 190.215.172.195
+logoutlocation:
+  world: plotworld
+  x: 20.04909774822481
+  y: 65.0
+  z: 1.9668056111893488
+  yaw: 0.51431656
+  pitch: 41.503136
+lastlocation:
+  world: plotworld
+  x: 218.81496753469625
+  y: 70.0
+  z: -251.81010508435764
+  yaw: 47.554813
+  pitch: 21.533825
+socialspy: false
+homes:
+  home:
+    world: juegos
+    x: 1013.8677431642886
+    y: 102.0
+    z: 495.66915368597216
+    yaw: -316.16077
+    pitch: 8.0999775
+  a:
+    world: juegos
+    x: 1005.4453466391518
+    y: 203.0
+    z: 503.7008489213027
+    yaw: -222.21844
+    pitch: 49.35001
+afk: false
+money: '3729.0'
+nickname: ShooterWinkle
+godmode: false

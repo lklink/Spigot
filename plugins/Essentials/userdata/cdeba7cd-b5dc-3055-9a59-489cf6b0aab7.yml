@@ -1,0 +1,21 @@
+lastAccountName: SangreAzul
+timestamps:
+  login: 1434243953565
+  logout: 1434243956221
+ipAddress: 200.112.56.189
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -927.1727219900944
+  y: -85.1959041519215
+  z: -587.046581191693
+  yaw: -30.335993
+  pitch: -70.35007
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: OpChest
+timestamps:
+  login: 1426887734417
+  logout: 1426887809066
+ipAddress: 201.188.14.198
+lastlocation:
+  world: world
+  x: -73.5
+  y: 69.0
+  z: 286.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -75.77455032196745
+  y: 69.0
+  z: 280.49623487418285
+  yaw: -88.16262
+  pitch: 15.45001
+socialspy: false
+money: '30.0'

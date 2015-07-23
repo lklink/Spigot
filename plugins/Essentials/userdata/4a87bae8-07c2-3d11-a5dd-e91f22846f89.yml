@@ -1,0 +1,21 @@
+lastAccountName: daniel0daniel
+timestamps:
+  login: 1433714921981
+  lastteleport: 1433716329952
+  logout: 1433716632252
+ipAddress: 179.60.89.174
+lastlocation:
+  world: plotworld
+  x: -238.58098708531782
+  y: 65.0
+  z: 165.6049443762363
+  yaw: 11.250003
+  pitch: 21.149998
+logoutlocation:
+  world: plotworld
+  x: -254.09911988213247
+  y: 66.0
+  z: 133.23750001192093
+  yaw: 188.55151
+  pitch: 71.7
+money: '60.0'

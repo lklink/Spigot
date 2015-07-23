@@ -1,0 +1,22 @@
+lastAccountName: OliOrtiz
+timestamps:
+  login: 1431882925560
+  lastteleport: 1431821051134
+  logout: 1431883249555
+ipAddress: 190.156.54.134
+lastlocation:
+  world: juegos
+  x: -947.5072045719323
+  y: 121.0
+  z: -583.3456123212744
+  yaw: -334.3589
+  pitch: 7.472261
+logoutlocation:
+  world: SkyWars
+  x: -8.951891095896151
+  y: 51.0
+  z: -25.781754717272165
+  yaw: 28.366943
+  pitch: 10.588153
+socialspy: false
+money: '80.0'

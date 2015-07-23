@@ -1,0 +1,32 @@
+lastAccountName: AppleSwagOn
+timestamps:
+  login: 1429999849860
+  logout: 1430001026664
+  lastteleport: 1428775387016
+ipAddress: 191.119.139.193
+lastlocation:
+  world: juegos
+  x: -951.7785253003211
+  y: 127.0
+  z: -528.7565337395037
+  yaw: -181.08603
+  pitch: 65.69999
+logoutlocation:
+  world: plotworld
+  x: -73.11499040299861
+  y: 65.0
+  z: 77.49795046025096
+  yaw: 209.4
+  pitch: 19.2
+socialspy: false
+afk: false
+homes:
+  home:
+    world: world
+    x: -315.64086140118764
+    y: 65.0
+    z: 538.3000000119209
+    yaw: 357.97375
+    pitch: 49.452515
+nickname: AppleSwagOn
+money: '30.0'

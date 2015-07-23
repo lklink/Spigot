@@ -1,0 +1,22 @@
+lastAccountName: SebasCapo
+timestamps:
+  login: 1436803882844
+  logout: 1436803914697
+  lastteleport: 1431720183330
+ipAddress: 181.29.161.109
+lastlocation:
+  world: SkyWars
+  x: 9.5
+  y: 49.0
+  z: -0.5
+  yaw: 155.03131
+  pitch: -4.025049
+logoutlocation:
+  world: SkyWars
+  x: 12.592047502604998
+  y: 49.0
+  z: -7.9352570029722065
+  yaw: 48.872253
+  pitch: 15.671731
+socialspy: false
+money: '595.0'

@@ -1,0 +1,21 @@
+lastAccountName: molaso
+timestamps:
+  login: 1434725609812
+  lastteleport: 1434725812337
+  logout: 1434725890450
+ipAddress: 181.160.64.84
+lastlocation:
+  world: juegos
+  x: 4703.055465930876
+  y: 53.0
+  z: 1048.218061738879
+  yaw: -109.29917
+  pitch: 25.948114
+logoutlocation:
+  world: juegos
+  x: 4702.300000011921
+  y: 52.0
+  z: 1062.6768419985062
+  yaw: 181.85101
+  pitch: 19.049953
+money: '30.0'

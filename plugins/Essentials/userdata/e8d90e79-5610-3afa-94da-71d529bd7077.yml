@@ -1,0 +1,21 @@
+lastAccountName: Spilly_
+timestamps:
+  login: 1436829410805
+  logout: 1436829418005
+ipAddress: 101.180.193.244
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1396.5
+  y: 108.0
+  z: 4016.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

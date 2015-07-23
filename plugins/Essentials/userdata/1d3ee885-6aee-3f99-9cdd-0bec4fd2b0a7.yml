@@ -1,0 +1,30 @@
+lastAccountName: lechuga
+timestamps:
+  login: 1434408616249
+  lastteleport: 1434408988720
+  logout: 1434409202381
+ipAddress: 200.112.248.205
+lastlocation:
+  world: spawn
+  x: -659.7831235991065
+  y: 28.0
+  z: -1404.1716236829195
+  yaw: 89.51758
+  pitch: 0.54485327
+homes:
+  home:
+    world: plotworld
+    x: -173.39636096181843
+    y: 65.0
+    z: 52.43571632916419
+    yaw: -20.524332
+    pitch: 1.9362577
+logoutlocation:
+  world: spawn
+  x: -630.3263094754275
+  y: 50.0
+  z: -2445.1088223499323
+  yaw: 146.53784
+  pitch: 29.594625
+socialspy: false
+money: '250.0'

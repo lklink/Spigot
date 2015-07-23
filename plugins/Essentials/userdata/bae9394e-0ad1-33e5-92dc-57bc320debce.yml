@@ -1,0 +1,22 @@
+lastAccountName: druugs
+timestamps:
+  login: 1437345127003
+  lastteleport: 1437345207813
+  logout: 1437345728236
+ipAddress: 179.56.62.229
+lastlocation:
+  world: spawn
+  x: -624.885876671203
+  y: 50.0
+  z: -2449.522595039057
+  yaw: 4.499268
+  pitch: 18.99001
+logoutlocation:
+  world: survival
+  x: -1643.3486494456567
+  y: 63.85000001788139
+  z: 3499.8327405054224
+  yaw: 340.7533
+  pitch: 54.29999
+socialspy: false
+money: '30.0'

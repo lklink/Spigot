@@ -1,0 +1,30 @@
+lastAccountName: frachlitz
+timestamps:
+  login: 1435346183994
+  logout: 1435347106221
+  lastteleport: 1435346879530
+ipAddress: 190.57.164.2
+lastlocation:
+  world: plotworld
+  x: -152.75162307204386
+  y: 65.5
+  z: -503.00437136030996
+  yaw: 2.2484741
+  pitch: 28.499985
+logoutlocation:
+  world: plotworld
+  x: -171.75411838801222
+  y: 68.0
+  z: -301.6842757803672
+  yaw: 85.04896
+  pitch: 16.05
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -165.67341508673496
+    y: 65.0
+    z: -316.3189952138035
+    yaw: 232.79878
+    pitch: 19.199987
+money: '30.0'

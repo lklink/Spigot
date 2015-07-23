@@ -1,0 +1,20 @@
+lastAccountName: martinez500
+timestamps:
+  login: 1437326347023
+  logout: 1437326442871
+ipAddress: 200.112.150.180
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -615.7724157933295
+  y: 28.0
+  z: -1523.2765648567665
+  yaw: 19.611221
+  pitch: 13.161857
+money: '30.0'

@@ -1,0 +1,30 @@
+lastAccountName: hamahamahomohumu
+timestamps:
+  login: 1435585086389
+  lastteleport: 1434412373662
+  logout: 1435585096797
+ipAddress: 190.162.10.242
+lastlocation:
+  world: spawn
+  x: -621.4965286631586
+  y: 50.0
+  z: -2445.441173792702
+  yaw: 182.9993
+  pitch: -3.5100007
+logoutlocation:
+  world: plotworld
+  x: -129.67890400724616
+  y: 74.0
+  z: 204.13715269067964
+  yaw: 94.929565
+  pitch: 27.449934
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -141.2497978519587
+    y: 65.0
+    z: 209.52752242097216
+    yaw: 43.034912
+    pitch: 2.3999696
+money: '29.0'

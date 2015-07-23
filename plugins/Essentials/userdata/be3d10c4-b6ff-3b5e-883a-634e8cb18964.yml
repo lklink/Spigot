@@ -1,0 +1,22 @@
+lastAccountName: Capt4in_Hydra
+timestamps:
+  login: 1435592764742
+  logout: 1435592794543
+  lastteleport: 1435546208804
+ipAddress: 179.28.7.193
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -165.97493
+  pitch: 39.702
+logoutlocation:
+  world: juegos
+  x: -1104.1610657214028
+  y: 50.0
+  z: 2773.6084021124393
+  yaw: -30.042938
+  pitch: 21.89983
+socialspy: false
+money: '30.0'

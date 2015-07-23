@@ -1,0 +1,22 @@
+lastAccountName: angela1234
+timestamps:
+  login: 1433121704235
+  lastteleport: 1433122326342
+  logout: 1433122339625
+ipAddress: 186.65.145.71
+lastlocation:
+  world: survival
+  x: -4.1974604936141695
+  y: 114.0
+  z: 15.495664221527939
+  yaw: 278.18033
+  pitch: -5.2499847
+logoutlocation:
+  world: plotworld
+  x: -20.5
+  y: 69.0
+  z: 19.5
+  yaw: -181.67224
+  pitch: 81.450005
+socialspy: false
+money: '30.0'

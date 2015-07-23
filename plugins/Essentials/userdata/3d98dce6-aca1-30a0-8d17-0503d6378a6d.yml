@@ -1,0 +1,30 @@
+lastAccountName: KarlaGamer
+timestamps:
+  login: 1437440612937
+  lastteleport: 1437441043832
+  logout: 1437441057671
+ipAddress: 189.204.185.70
+lastlocation:
+  world: juegos
+  x: -1128.1431927967697
+  y: 49.0
+  z: 2804.8171626713665
+  yaw: -162.91797
+  pitch: -0.75217927
+homes:
+  home:
+    world: survival
+    x: 101.5836472136319
+    y: 65.0
+    z: 294.48586788195945
+    yaw: -292.58423
+    pitch: 43.559513
+logoutlocation:
+  world: spawn
+  x: -612.509187482683
+  y: 28.0
+  z: -1406.899474474489
+  yaw: 172.44661
+  pitch: 14.085106
+socialspy: false
+money: '30.0'

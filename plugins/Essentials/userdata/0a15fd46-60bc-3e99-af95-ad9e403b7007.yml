@@ -1,0 +1,22 @@
+lastAccountName: _AfriPvPGamer_
+timestamps:
+  login: 1433278007066
+  lastteleport: 1433107259927
+  logout: 1433278211201
+ipAddress: 85.55.177.67
+lastlocation:
+  world: SkyWars
+  x: -1.0416533340923544
+  y: 51.0
+  z: -21.363429693406058
+  yaw: 160.65637
+  pitch: -54.9
+logoutlocation:
+  world: SkyWars
+  x: 1.9078745654518259
+  y: 51.0
+  z: -20.15715170991558
+  yaw: 6.6054077
+  pitch: 18.899912
+socialspy: false
+money: '410.0'

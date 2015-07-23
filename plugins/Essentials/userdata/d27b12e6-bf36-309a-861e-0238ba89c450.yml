@@ -1,0 +1,22 @@
+lastAccountName: Zambrano
+timestamps:
+  login: 1433271820160
+  lastteleport: 1433103684160
+  logout: 1433271848362
+ipAddress: 186.93.196.148
+lastlocation:
+  world: juegos
+  x: -1395.6043657448802
+  y: 28.0
+  z: 3982.1377264227667
+  yaw: 180.54102
+  pitch: -2.2504134
+logoutlocation:
+  world: juegos
+  x: -1401.9795846687136
+  y: 28.0
+  z: 3975.2563817517057
+  yaw: 9.840968
+  pitch: 5.249593
+socialspy: false
+money: '30.0'

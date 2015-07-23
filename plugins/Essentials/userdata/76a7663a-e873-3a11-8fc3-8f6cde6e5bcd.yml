@@ -1,0 +1,30 @@
+lastAccountName: eltuty
+timestamps:
+  login: 1436910020166
+  lastteleport: 1436181463155
+  logout: 1436910089668
+ipAddress: 190.137.98.17
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -172.07253
+  pitch: 24.211739
+logoutlocation:
+  world: survival
+  x: 70.6075553624377
+  y: 71.0
+  z: 331.9475518824241
+  yaw: -60.868824
+  pitch: 15.331253
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 81.74219580197207
+    y: 62.0
+    z: 320.24979237456307
+    yaw: -97.58322
+    pitch: 44.560234
+money: '330.0'

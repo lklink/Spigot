@@ -1,0 +1,22 @@
+lastAccountName: George_G4m3r
+timestamps:
+  login: 1435268741450
+  lastteleport: 1435268523222
+  logout: 1435268775986
+ipAddress: 186.6.92.167
+lastlocation:
+  world: spawn
+  x: -616.7043483276605
+  y: 50.0
+  z: -2402.3439731542694
+  yaw: -189.2992
+  pitch: 12.750003
+logoutlocation:
+  world: spawn
+  x: 553.0239012939705
+  y: 39.0
+  z: -1064.2196633065219
+  yaw: 229.87122
+  pitch: 29.643927
+socialspy: false
+money: '30.0'

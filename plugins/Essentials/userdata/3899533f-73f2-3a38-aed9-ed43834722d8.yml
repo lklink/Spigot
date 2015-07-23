@@ -1,0 +1,22 @@
+lastAccountName: Ericplayer
+timestamps:
+  login: 1437170052348
+  logout: 1437171117317
+  lastteleport: 1437170215755
+ipAddress: 148.103.143.190
+lastlocation:
+  world: spawn
+  x: -682.8205587081651
+  y: 34.0
+  z: -1491.6687984125476
+  yaw: -339.6068
+  pitch: 7.223587
+logoutlocation:
+  world: plotworld
+  x: 181.18585900636918
+  y: 65.0
+  z: -225.28643966291438
+  yaw: -142.20122
+  pitch: -13.434839
+socialspy: false
+money: '30.0'

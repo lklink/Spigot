@@ -1,0 +1,21 @@
+lastAccountName: patotato
+timestamps:
+  login: 1433615904282
+  lastteleport: 1433616027960
+  logout: 1433616038496
+ipAddress: 190.42.51.177
+lastlocation:
+  world: survival
+  x: -3.4985397558858153
+  y: 114.0
+  z: 16.629034278875125
+  yaw: 275.48016
+  pitch: -20.099997
+logoutlocation:
+  world: plotworld
+  x: -14.801375578649619
+  y: 69.0
+  z: 22.852565169150427
+  yaw: -72.92197
+  pitch: 17.34534
+money: '30.0'

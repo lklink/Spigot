@@ -1,0 +1,26 @@
+lastAccountName: ErikEco1
+timestamps:
+  login: 1437607753882
+  lastteleport: 1437608513386
+  logout: 1437608651756
+  kits:
+    youtuber: 1437512379956
+    esmeralda: 1435269293934
+ipAddress: 187.186.172.157
+lastlocation:
+  world: spawn
+  x: -616.1621701286992
+  y: 17.0
+  z: -1428.815967883204
+  yaw: 175.09918
+  pitch: -36.149986
+logoutlocation:
+  world: spawn
+  x: -492.7841211440839
+  y: 36.98402285204506
+  z: -1419.491660304383
+  yaw: 22.37915
+  pitch: -16.5
+socialspy: false
+money: '12700.0'
+teleportenabled: true

@@ -1,0 +1,22 @@
+lastAccountName: Zappit_Zap
+timestamps:
+  login: 1433371612853
+  logout: 1433371763701
+  lastteleport: 1433293441865
+ipAddress: 186.77.207.130
+lastlocation:
+  world: juegos
+  x: -1396.876185716161
+  y: 28.0
+  z: 4016.2206456149534
+  yaw: -173.459
+  pitch: 30.14958
+logoutlocation:
+  world: SkyWars
+  x: -4.640041978643991
+  y: 49.0
+  z: -11.394410429542196
+  yaw: 12.886536
+  pitch: 10.313468
+socialspy: false
+money: '30.0'

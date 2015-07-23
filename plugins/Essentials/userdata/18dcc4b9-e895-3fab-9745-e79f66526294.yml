@@ -1,0 +1,30 @@
+lastAccountName: MrDeadGamer
+timestamps:
+  login: 1433641177678
+  logout: 1433641739711
+  lastteleport: 1433641720900
+ipAddress: 201.220.242.152
+lastlocation:
+  world: juegos
+  x: -1395.4837043387815
+  y: 28.0
+  z: 4024.5897461373033
+  yaw: -179.309
+  pitch: 31.949587
+logoutlocation:
+  world: survival_nether
+  x: 67.48470443323893
+  y: 87.0
+  z: 70.68029401015251
+  yaw: 90.07624
+  pitch: -7.365961
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: -1721.8271220065797
+    y: 69.0
+    z: 4368.354237392848
+    yaw: -181.1911
+    pitch: 86.40002
+money: '30.0'

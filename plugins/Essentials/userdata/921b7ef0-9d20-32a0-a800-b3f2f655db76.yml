@@ -1,0 +1,21 @@
+lastAccountName: Palmgren
+timestamps:
+  login: 1429906989818
+  lastteleport: 1429907173059
+  logout: 1429907183374
+ipAddress: 186.65.203.159
+lastlocation:
+  world: plotworld
+  x: -110.19455775661922
+  y: 65.0
+  z: -86.8050331717809
+  yaw: 9.300031
+  pitch: 4.6500063
+logoutlocation:
+  world: juegos
+  x: 972.5173567625607
+  y: 141.0
+  z: 590.4565419134526
+  yaw: 113.14724
+  pitch: -5.249913
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: wtf68
+timestamps:
+  login: 1434245484414
+  lastteleport: 1434246425603
+  logout: 1434246815117
+ipAddress: 181.160.158.213
+lastlocation:
+  world: Factions
+  x: -36.50228950765757
+  y: 99.0
+  z: 2152.5445884838164
+  yaw: 179.54999
+  pitch: 8.455716
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+money: '30.0'

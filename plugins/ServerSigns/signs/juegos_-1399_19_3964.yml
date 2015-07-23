@@ -1,0 +1,33 @@
+permission: ''
+world: juegos
+X: -1399
+Y: 19
+Z: 3964
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*eco give <player> 10000'
+- '*give <player> 266 16'
+- '*give <player> 384 32'
+- '*give <player> 322:1 1'
+- /spawn
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  Hotban23: 1433688229642
+  C4LCeTiN: 1433639713389
+  _KuxoMC_: 1433798916179
+  Miix20: 1433208934215
+  knales11: 1433896840953
+  Volrat: 1433026321816
+  xXalexskate13Xx: 1434317981615
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

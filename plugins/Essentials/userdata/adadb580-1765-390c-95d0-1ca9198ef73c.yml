@@ -1,0 +1,30 @@
+lastAccountName: edson_gamerPVP
+timestamps:
+  login: 1433941035956
+  lastteleport: 1433899527519
+  logout: 1433941099064
+ipAddress: 179.56.87.8
+lastlocation:
+  world: plotworld
+  x: -222.86443065013083
+  y: 65.0
+  z: -265.0274088103772
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: juegos
+  x: -1388.983077242886
+  y: 28.0
+  z: 4024.574333114343
+  yaw: 154.591
+  pitch: 26.249588
+socialspy: false
+homes:
+  home:
+    world: Factions
+    x: -1786.2507582548008
+    y: 12.0
+    z: -254.37877084586086
+    yaw: -183.6415
+    pitch: 35.250015
+money: '30.0'

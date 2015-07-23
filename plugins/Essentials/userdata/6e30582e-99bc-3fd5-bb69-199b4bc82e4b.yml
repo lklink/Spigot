@@ -1,0 +1,20 @@
+lastAccountName: destruccion01
+timestamps:
+  login: 1434330030454
+  logout: 1434330077955
+ipAddress: 181.64.192.206
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -641.7693018534999
+  y: 28.5
+  z: -1396.9343888789633
+  yaw: -58.601276
+  pitch: 18.600002
+money: '30.0'

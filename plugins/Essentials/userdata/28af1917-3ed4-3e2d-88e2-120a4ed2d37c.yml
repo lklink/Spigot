@@ -1,0 +1,20 @@
+lastAccountName: schneider
+timestamps:
+  login: 1433717263755
+  logout: 1433717482710
+ipAddress: 186.36.60.4
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: -243.32686078563933
+  y: 66.0
+  z: 98.7247024914183
+  yaw: 185.24963
+  pitch: 21.90003
+money: '30.0'

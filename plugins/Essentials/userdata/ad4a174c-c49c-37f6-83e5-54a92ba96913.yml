@@ -1,0 +1,22 @@
+lastAccountName: Kikas_PvpYT
+timestamps:
+  login: 1433650963700
+  logout: 1433651837957
+  lastteleport: 1433651787185
+ipAddress: 190.189.44.136
+lastlocation:
+  world: plotworld
+  x: -226.9839803994853
+  y: 65.0
+  z: 107.00403958968052
+  yaw: 161.33813
+  pitch: -6.040848
+logoutlocation:
+  world: juegos
+  x: -969.3026519684324
+  y: 35.0
+  z: -108.05350187107972
+  yaw: 122.94391
+  pitch: 10.838968
+socialspy: false
+money: '75.0'

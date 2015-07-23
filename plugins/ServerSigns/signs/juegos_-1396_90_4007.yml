@@ -1,0 +1,36 @@
+permission: ''
+world: juegos
+X: -1396
+Y: 90
+Z: 4007
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 322;1 5'
+- '*spawn <player> '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  luife3000: 1433025123509
+  C4LCeTiN: 1433013869005
+  Savixz: 1434664857842
+  FabianMC: 1429986266171
+  K0nrad_Joan: 1433199050017
+  Maxi_Fsr: 1430008541297
+  ErikEco1: 1433454415877
+  SlayerSito88: 1429939250639
+  lolomanolo11: 1430958340553
+  TheCreeksk8: 1430074366648
+  PewDiePie25: 1433025061705
+  lalo: 1433628527029
+  Volrat: 1433025345107
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

@@ -1,0 +1,22 @@
+lastAccountName: roy
+timestamps:
+  login: 1433027129578
+  lastteleport: 1433026834128
+  logout: 1433027143079
+ipAddress: 187.212.25.178
+lastlocation:
+  world: SkyWars
+  x: 0.726476365491596
+  y: 55.5
+  z: -27.164516280874377
+  yaw: 359.25616
+  pitch: 27.600113
+logoutlocation:
+  world: juegos
+  x: -1396.565276916701
+  y: 28.0
+  z: 3978.111358644514
+  yaw: 87.24115
+  pitch: -4.1894912E-4
+socialspy: false
+money: '245.0'

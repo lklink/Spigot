@@ -1,0 +1,21 @@
+lastAccountName: L34NDR0G4M3R
+timestamps:
+  login: 1434925181652
+  lastteleport: 1434925288153
+  logout: 1434925303403
+ipAddress: 179.39.42.165
+lastlocation:
+  world: plotworld
+  x: -292.32850241558873
+  y: 65.0
+  z: 49.14959191930989
+  yaw: -2.3999999
+  pitch: 40.049995
+logoutlocation:
+  world: spawn
+  x: -623.9977082986359
+  y: 50.0
+  z: -2450.4948442349155
+  yaw: 208.1314
+  pitch: 8.062789
+money: '30.0'

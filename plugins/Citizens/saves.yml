@@ -1,0 +1,1651 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 210
+npc:
+  '41':
+    metadata:
+      nameplate-visible: false
+    name: SkeletoGuardia1
+    uuid: 6f50a019-8880-40ce-ada3-7c1f99a55dae
+    traits:
+      type: LeashKnot
+      spawned: true
+      inventory: {}
+      location:
+        world: juegos
+        x: '-1028.4738173664186'
+        y: '122.0'
+        z: '-521.4961698408357'
+        yaw: '-63.03157043457031'
+        pitch: '5.958935737609863'
+      equipment:
+        hand:
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: LEATHER_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: IRON_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: IRON_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: Naikito
+        uuid: 364f0a5f-cb4a-31f9-af72-a4e4cd8514d5
+    traitnames: inventory,location,type,lookclose,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '54':
+    metadata:
+      cached-skin-uuid: 8f79fd92-3324-4921-b048-2dc7d31c81aa
+      player-skin-name: Elhpipe
+      cached-skin-uuid-name: Elhpipe
+    name: §2elcomepichula
+    uuid: 4ee77cfd-610c-4687-90ce-305e330a1b78
+    traits:
+      location:
+        world: juegos
+        x: '-897.9417025110058'
+        y: '-34319.40000006157'
+        z: '824.8462308160615'
+        yaw: '-272.52880859375'
+        pitch: '22.20002555847168'
+      spawned: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '51':
+    metadata:
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      nameplate-visible: false
+      player-skin-name: Skeleton
+      cached-skin-uuid-name: Skeleton
+    name: ReySkeleton
+    uuid: 1fbbb22f-77de-41c5-a841-616d92cf8bc3
+    traits:
+      location:
+        world: juegos
+        x: '-898.4069177773854'
+        y: '62.0'
+        z: '811.3000936336824'
+        yaw: '-312.58203125'
+        pitch: '0.0'
+      spawned: true
+      type: Skeleton
+      inventory:
+        '0':
+          type: WOOD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: WOOD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: LEATHER_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: LEATHER_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: LEATHER_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: LEATHER_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '50':
+    metadata:
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      nameplate-visible: false
+      player-skin-name: Skeleton
+      cached-skin-uuid-name: Skeleton
+    name: §7ReySkeleton
+    uuid: e4f85ced-5e39-4e68-a10d-1a1d1dff40d9
+    traits:
+      location:
+        world: juegos
+        x: '-920.6184992443154'
+        y: '62.0'
+        z: '811.3878830637152'
+        yaw: '-43.633056640625'
+        pitch: '0.0'
+      spawned: true
+      type: Skeleton
+      inventory:
+        '0':
+          type: STONE_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: STONE_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: CHAINMAIL_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: CHAINMAIL_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: CHAINMAIL_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: CHAINMAIL_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '49':
+    metadata:
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      player-skin-name: Skeleton
+      cached-skin-uuid-name: Skeleton
+    name: §fReySkeleton
+    uuid: 8b212144-3258-4692-9df7-b2ab9a76519f
+    traits:
+      location:
+        world: juegos
+        x: '-898.6337284538308'
+        y: '62.0'
+        z: '835.3701371542763'
+        yaw: '-221.68243408203125'
+        pitch: '0.0'
+      spawned: true
+      type: Skeleton
+      inventory:
+        '0':
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: IRON_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: IRON_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: IRON_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: IRON_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '48':
+    metadata:
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      player-skin-name: Skeleton
+      cached-skin-uuid-name: Skeleton
+    name: §6ReySkeleton
+    uuid: 2b4b532b-ac19-4ea5-b685-441eba231da8
+    traits:
+      location:
+        world: juegos
+        x: '-920.3992823009128'
+        y: '62.0'
+        z: '835.3883255955986'
+        yaw: '225.67205810546875'
+        pitch: '0.0'
+      spawned: true
+      type: Skeleton
+      inventory:
+        '0':
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: GOLD_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: GOLD_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: GOLD_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '64':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      player-skin-name: knales11
+      cached-skin-uuid-name: knales11
+    name: §5ElDiosDelMC
+    uuid: 9c93753d-ada8-4a53-8caa-87ddec20be1b
+    traits:
+      location:
+        world: juegos
+        x: '-899.6192680905966'
+        y: '-31552.800000079726'
+        z: '823.7610416067729'
+        yaw: '-89.98043823242188'
+        pitch: '63.74992752075195'
+      spawned: false
+      inventory: {}
+      gravity:
+        enabled: true
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,gravity,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '63':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      player-skin-name: knales11
+      cached-skin-uuid-name: knales11
+    name: §5ElDiosDelMC
+    uuid: db142475-d996-4558-a795-7ac405046c94
+    traits:
+      location:
+        world: juegos
+        x: '-898.0660589339491'
+        y: '-81966.99999936821'
+        z: '823.5165976757086'
+        yaw: '-86.67987060546875'
+        pitch: '82.64994049072266'
+      spawned: true
+      gravity:
+        enabled: true
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,gravity,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '62':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      player-skin-name: knales11
+      cached-skin-uuid-name: knales11
+    name: §5ElDiosDelMC
+    uuid: b0f6c974-62f8-4ca0-9fd3-d1519b49d76d
+    traits:
+      location:
+        world: juegos
+        x: '-896.656563528003'
+        y: '-31893.000000080963'
+        z: '823.4847779545486'
+        yaw: '-269.53021240234375'
+        pitch: '10.799959182739258'
+      spawned: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '61':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      player-skin-name: knales11
+      cached-skin-uuid-name: knales11
+    name: §5ElDiosDelMC
+    uuid: 9875e462-2ea8-4ca5-94a8-35a11e5e9293
+    traits:
+      location:
+        world: juegos
+        x: '-898.3163710759931'
+        y: '-82048.79999936702'
+        z: '823.5014148688642'
+        yaw: '-89.23011016845703'
+        pitch: '63.74995422363281'
+      spawned: true
+      gravity:
+        enabled: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '79':
+    name: SlimeMagmatico
+    uuid: 3ad92f4c-e22c-40a5-a9f3-1123b2940ef6
+    traits:
+      location:
+        world: juegos
+        x: '955.4999847412109'
+        y: '-533423.2984449643'
+        z: '453.49998474121094'
+        yaw: '88.04635620117188'
+        pitch: '0.0'
+      slimesize:
+        size: 10
+      spawned: true
+      type: Slime
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,slimesize,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '78':
+    name: SlimeMagmatico
+    uuid: 7b378c2a-4daf-4aea-891e-4826ccfaa9ac
+    traits:
+      location:
+        world: juegos
+        x: '929.7498036912057'
+        y: '-1348.795691688447'
+        z: '425.4754145565124'
+        yaw: '95.84613037109375'
+        pitch: '0.0'
+      slimesize:
+        size: 500
+      spawned: true
+      type: Slime
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: slimesize,inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '77':
+    name: SlimeMagmatico
+    uuid: e2e05b91-fea7-4dfe-a0af-0f1deab9a19a
+    traits:
+      location:
+        world: juegos
+        x: '1057.5'
+        y: '87.7599983215332'
+        z: '534.0'
+        yaw: '-0.453521728515625'
+        pitch: '0.0'
+      slimesize:
+        size: 1000
+      spawned: true
+      type: Slime
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,slimesize,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '76':
+    name: SlimeMagmatico
+    uuid: 7e8a1b61-7954-4e19-bbc9-6956be8e2345
+    traits:
+      location:
+        world: juegos
+        x: '1055.0'
+        y: '-379265.3702175226'
+        z: '535.0'
+        yaw: '9.949310302734375'
+        pitch: '0.0'
+      slimesize:
+        size: 100
+      spawned: false
+      type: Slime
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: slimesize,inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '75':
+    name: SlimeMagmatico
+    uuid: 7bb6dc6b-5140-4c50-a1c7-35243604be36
+    traits:
+      location:
+        world: juegos
+        x: '1034.5000019073486'
+        y: '100.0'
+        z: '532.5000019073486'
+        yaw: '-172.90069580078125'
+        pitch: '0.0'
+      slimesize:
+        size: 1000
+      spawned: false
+      type: Slime
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,slimesize,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '72':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: §5knales11
+    uuid: 5a5b80a1-cbcd-4874-9ea7-8de3c53a149d
+    traits:
+      location:
+        world: juegos
+        x: '-898.5045545127017'
+        y: '-79608.59999940253'
+        z: '823.659126263514'
+        yaw: '-273.15869140625'
+        pitch: '0.9711426496505737'
+      spawned: true
+      inventory:
+        '0':
+          type: DIAMOND_PICKAXE
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type: DIAMOND_PICKAXE
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '84':
+    metadata:
+      cached-skin-uuid: 3c4e86be-57f4-4f45-8158-c6547211a498
+      cached-skin-uuid-name: ElRichMC
+    name: ElRichMC
+    uuid: fd305680-209f-420b-845a-f77e71fcfb68
+    traits:
+      location:
+        world: world
+        x: '999824.9123984623'
+        y: '62.0'
+        z: '34365.43794514287'
+        yaw: '-99.47765350341797'
+        pitch: '24.79249382019043'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: By_GrabsMar
+        uuid: 87c4e1e3-182f-3d18-bcf6-5b181605a253
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '92':
+    metadata:
+      cached-skin-uuid: 0d83f8ab-b3c4-4fc3-9d31-4f91daebb88e
+      cached-skin-uuid-name: VegettaGaymer
+    name: VegettaGaymer
+    uuid: 12ae59fa-31ed-40aa-9e20-b7fcaa3a693d
+    traits:
+      location:
+        world: survival
+        x: '1.1141204039424597'
+        y: '113.0'
+        z: '34.47241266740002'
+        yaw: '274.12811279296875'
+        pitch: '0.0'
+      spawned: false
+      inventory: {}
+      waypoints:
+        linear: {}
+        provider: linear
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,waypoints,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '90':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: §1knales11
+    name: §1knales11
+    uuid: 37ac0d73-2f23-4b3d-8792-7d5f63245267
+    traits:
+      location:
+        world: survival
+        x: '-5.111111158420946'
+        y: '62.3197505955949'
+        z: '34.95130623723774'
+        yaw: '254.35122680664062'
+        pitch: '0.0'
+      spawned: false
+      inventory: {}
+      waypoints:
+        linear: {}
+        provider: linear
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,waypoints,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '5.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '89':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: §1knales11
+    uuid: a69dffcf-b8f3-4d42-8237-5331476dc8d6
+    traits:
+      location:
+        world: survival
+        x: '-27.719217047096016'
+        y: '62.114031667327204'
+        z: '30.825791420036342'
+        yaw: '305.74542236328125'
+        pitch: '0.0'
+      spawned: false
+      inventory: {}
+      waypoints:
+        linear: {}
+        provider: linear
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: waypoints,inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '50.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '88':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: knales11
+    uuid: c7af9620-9107-4806-be55-a747f8afbc45
+    traits:
+      location:
+        world: survival
+        x: '0.5613365442528612'
+        y: '113.0'
+        z: '33.693166815095395'
+        yaw: '2.2630717754364014'
+        pitch: '-15.899986267089844'
+      spawned: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '87':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: knales11
+    uuid: 660abbc9-9779-40b8-9fda-b1c96de3a901
+    traits:
+      location:
+        world: survival
+        x: '2.925000011920929'
+        y: '114.0'
+        z: '60.500028440007085'
+        yaw: '90.00117492675781'
+        pitch: '0.0'
+      spawned: false
+      inventory: {}
+      waypoints:
+        linear: {}
+        provider: linear
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: waypoints,inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '10.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '86':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: knales11
+    uuid: 269c06f6-b1da-4802-a78a-e85197741146
+    traits:
+      location:
+        world: survival
+        x: '10.733804979120993'
+        y: '113.0'
+        z: '55.73133286072187'
+        yaw: '208.2133026123047'
+        pitch: '6.777857303619385'
+      spawned: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '85':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: knales11
+    uuid: 5b522dc9-602e-4188-b4b1-e6866d886787
+    traits:
+      location:
+        world: survival
+        x: '11.007300638781757'
+        y: '113.0'
+        z: '55.05101704493171'
+        yaw: '329.2632751464844'
+        pitch: '76.37785339355469'
+      spawned: false
+      inventory: {}
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '95':
+    metadata:
+      cached-skin-uuid: f3e7e9d3-7865-47c8-bad5-99d8fee58bd7
+      cached-skin-uuid-name: Alvaro
+    name: Alvaro
+    uuid: 43284c2a-b261-497f-b206-0193ee823287
+    traits:
+      location:
+        world: survival
+        x: '-1665.5302111940114'
+        y: '79.0'
+        z: '3644.47598301311'
+        yaw: '-267.7481994628906'
+        pitch: '4.349999904632568'
+      spawned: true
+      inventory: {}
+      owner:
+        owner: Alvaro
+        uuid: 046ef7e0-c45e-3024-b0c1-203aa495bef8
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '124':
+    metadata:
+      cached-skin-uuid: dcdfc030-59c6-4d7a-9733-84c8cc14bb29
+      cached-skin-uuid-name: C4LCeTiN
+    name: C4LCeTiN
+    uuid: 694f2882-b28f-401c-b6c1-6fc279227b94
+    traits:
+      inventory: {}
+      location:
+        world: survival
+        x: '30.399362369765246'
+        y: '115.0'
+        z: '80.50177940010873'
+        yaw: '269.9513854980469'
+        pitch: '0.0'
+      spawned: false
+      waypoints:
+        linear: {}
+        provider: linear
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: waypoints,inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '134':
+    metadata:
+      cached-skin-uuid: 96d509d1-059d-4515-821a-ca91bffacd9c
+      cached-skin-uuid-name: knales11
+    name: knales11
+    uuid: 43cffa43-ea1c-471e-a206-1f68ccbb6e8c
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '4695.782073419366'
+        y: '-186492.90000187955'
+        z: '1028.9247422738804'
+        yaw: '-90.24932861328125'
+        pitch: '-1.050034761428833'
+      spawned: true
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '132':
+    metadata:
+      cached-skin-uuid: 8f79fd92-3324-4921-b048-2dc7d31c81aa
+      cached-skin-uuid-name: Elhpipe
+    name: Elhpipe
+    uuid: d7be07a2-6332-4d23-92ff-3aadc4167024
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '4695.759459505929'
+        y: '-186491.9000018795'
+        z: '1031.9863012219553'
+        yaw: '-90.39922332763672'
+        pitch: '1.3499789237976074'
+      spawned: true
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '128':
+    metadata:
+      cached-skin-uuid: de0a911d-fc8a-40f4-a6a0-8da0d966799a
+      cached-skin-uuid-name: Diego0511
+    name: Diego0511
+    uuid: a21356fc-5b2d-4c06-9322-c0e3c3a15632
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '4720.388147642677'
+        y: '-186460.30000187765'
+        z: '1032.0267532725638'
+        yaw: '89.15087127685547'
+        pitch: '2.549999475479126'
+      spawned: true
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '127':
+    metadata:
+      cached-skin-uuid: 55e7da94-2ff2-42bf-a495-cd677d423efa
+      cached-skin-uuid-name: Mage3683
+    name: Mage3683
+    uuid: e1e8432c-30bd-4539-85cb-4e24d4adadbc
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '4720.331629274964'
+        y: '-186459.5000018776'
+        z: '1028.9294300834463'
+        yaw: '89.60081481933594'
+        pitch: '0.4500092566013336'
+      spawned: true
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '138':
+    metadata:
+      cached-skin-uuid: 55e7da94-2ff2-42bf-a495-cd677d423efa
+      cached-skin-uuid-name: Mage3683
+    name: Mage3683
+    uuid: 34b822f1-3ccd-412f-9a37-c8351732a648
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '4704.497169784616'
+        y: '-161383.40000041798'
+        z: '1049.5187230495997'
+        yaw: '-181.24256896972656'
+        pitch: '3.900002956390381'
+      spawned: true
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '139':
+    metadata:
+      cached-skin-uuid: 55e7da94-2ff2-42bf-a495-cd677d423efa
+      cached-skin-uuid-name: Mage3683
+    name: Mage3683
+    uuid: 55dc6a14-9bc0-4a14-beca-c4c2189dd832
+    traits:
+      spawned: true
+      inventory: {}
+      location:
+        world: juegos
+        x: '4704.526019096842'
+        y: '-161383.40000041798'
+        z: '1049.6288851223567'
+        yaw: '-180.7986602783203'
+        pitch: '0.4500064253807068'
+      owner:
+        owner: Mage3683
+        uuid: b1e8d9af-913f-3b99-9659-7b22f3b88bdb
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '158':
+    name: §f§lRey §f§lHierro
+    uuid: c1ff23cf-78f0-43f6-990f-5e375e9bc3e9
+    traits:
+      location:
+        world: juegos
+        x: '-768.3000000119209'
+        y: '107.0'
+        z: '728.6999999880791'
+        yaw: '137.02906799316406'
+        pitch: '0.0'
+      type: Skeleton
+      inventory: {}
+      equipment:
+        hand:
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: IRON_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: IRON_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: IRON_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: IRON_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '157':
+    name: §f§lRey §6§lOro
+    uuid: e693d185-31ba-4a92-b163-4203bda735e6
+    traits:
+      location:
+        world: juegos
+        x: '-768.3000000119209'
+        y: '107.0'
+        z: '704.3000000119209'
+        yaw: '44.20147705078125'
+        pitch: '0.0'
+      type: Skeleton
+      inventory: {}
+      equipment:
+        hand:
+          type: GOLD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: GOLD_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: GOLD_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: GOLD_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: GOLD_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '156':
+    name: §f§lRey §c§lCuero
+    uuid: 7899bc54-6f23-4a94-8e95-b5f542668c40
+    traits:
+      location:
+        world: juegos
+        x: '-790.6999999880791'
+        y: '107.0'
+        z: '728.6999999880791'
+        yaw: '224.7967529296875'
+        pitch: '0.0'
+      type: Skeleton
+      inventory: {}
+      equipment:
+        hand:
+          type: WOOD_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: LEATHER_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: LEATHER_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: LEATHER_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: LEATHER_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '155':
+    metadata:
+      cached-skin-uuid: 6d959fcc-e0ca-44ff-8d49-f4a2ae9f8de8
+      cached-skin-uuid-name: Skeleton
+    name: §f§lRey §7§lMalla
+    uuid: 435116e2-e6cd-488d-87f4-c9ae848b768a
+    traits:
+      location:
+        world: juegos
+        x: '-790.6999999880791'
+        y: '107.0'
+        z: '704.3755949471723'
+        yaw: '-46.88092803955078'
+        pitch: '0.0'
+      type: Skeleton
+      inventory: {}
+      equipment:
+        hand:
+          type: IRON_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type: CHAINMAIL_HELMET
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type: CHAINMAIL_CHESTPLATE
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type: CHAINMAIL_LEGGINGS
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type: CHAINMAIL_BOOTS
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      lookclose:
+        enabled: false
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '169':
+    name: §6§1Ovejita
+    uuid: 9056fd00-4202-4383-bfb6-9870abd3e4c8
+    traits:
+      location:
+        world: survival
+        x: '19.69999998807906'
+        y: '112.0'
+        z: '127.69999998807904'
+        yaw: '59.27525329589844'
+        pitch: '0.0'
+      type: Sheep
+      spawned: true
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,lookclose,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '168':
+    metadata:
+      cached-skin-uuid: 99c45268-aae5-4994-a612-2492166838cb
+      cached-skin-uuid-name: Vaquita
+    name: §6§1Vaquita
+    uuid: f1e8bbda-f1d2-4189-8529-cc8eb5ce7809
+    traits:
+      location:
+        world: survival
+        x: '15.30000001192094'
+        y: '112.0'
+        z: '142.30000001192096'
+        yaw: '225.89102172851562'
+        pitch: '0.0'
+      type: Cow
+      spawned: true
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,lookclose,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '167':
+    metadata:
+      cached-skin-uuid: ddf705d6-a69e-45c3-8a6a-90f4d98e4c75
+      cached-skin-uuid-name: Chanchito
+    name: §6§1Chanchito
+    uuid: d813f095-4f1c-494a-8255-4727579a0339
+    traits:
+      location:
+        world: survival
+        x: '19.300000011920933'
+        y: '112.0'
+        z: '142.30000001192096'
+        yaw: '200.68106079101562'
+        pitch: '0.0'
+      type: Pig
+      spawned: true
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,lookclose,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '177':
+    metadata:
+      cached-skin-uuid: 916aebfa-afe9-4293-a0fd-fbc2c631633f
+      cached-skin-uuid-name: Guardia
+    name: §2Guardia
+    uuid: 2a8e48ab-f772-44f2-b677-59e82451db4f
+    traits:
+      location:
+        world: plotworld
+        x: '5.498511835802171'
+        y: '70.0'
+        z: '83.69556849362476'
+        yaw: '248.3880615234375'
+        pitch: '0.0'
+      equipment:
+        hand:
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      type: Zombie
+      spawned: true
+      inventory:
+        '0':
+          type: DIAMOND_SWORD
+          amount: 1
+          durability: 0
+          mdata: 0
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,lookclose,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '176':
+    name: §2Guardia
+    uuid: ab0c8d99-8da5-48b7-8b13-bf4279cb7b41
+    traits:
+      location:
+        world: plotworld
+        x: '34.38475686416223'
+        y: '70.0'
+        z: '83.47121586962508'
+        yaw: '25.757728576660156'
+        pitch: '0.0'
+      equipment:
+        hand:
+          type: BOW
+          amount: 1
+          durability: 0
+          mdata: 0
+          meta: {}
+          enchantments:
+            ARROW_DAMAGE: 5
+      type: Zombie
+      spawned: true
+      inventory: {}
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: FabianMC
+        uuid: 885ed186-82d4-3744-88d9-8a292b254c4b
+    traitnames: inventory,location,type,lookclose,equipment,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '179':
+    metadata:
+      cached-skin-uuid: acc472cb-967f-4a53-8b45-2e6879ba6769
+      cached-skin-uuid-name: SashaGrey
+    name: sashagrey
+    uuid: 7d9000c1-0377-411a-8c57-39d03c4021d7
+    traits:
+      location:
+        world: juegos
+        x: '-1391.5'
+        y: '29.5'
+        z: '4027.5'
+        yaw: '138.96633911132812'
+        pitch: '11.448237419128418'
+      inventory:
+        '0':
+          type: STICK
+          amount: 1
+          durability: 0
+          mdata: 0
+      text:
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, I'm <npc>!
+      equipment:
+        hand:
+          type: STICK
+          amount: 1
+          durability: 0
+          mdata: 0
+      spawned: true
+      poses: {}
+      speech: chat
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,speech,type,lookclose,equipment,text,spawned,poses,owner
+    navigator:
+      pathfindingrange: '4.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '185':
+    metadata:
+      cached-skin-uuid: 4905d08f-2e6e-4801-98e6-878ae7daf018
+      cached-skin-uuid-name: Fabi
+    name: Fabi
+    uuid: dee8c6b2-056d-43c4-b4b6-e1c815b4c218
+    traits:
+      spawned: true
+      inventory: {}
+      type: Squid
+      location:
+        world: juegos
+        x: '-1404.4127496954882'
+        y: '42.149326349550165'
+        z: '4012.2614253191664'
+        yaw: '-81.103271484375'
+        pitch: '65.70000457763672'
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '183':
+    name: Luchin
+    uuid: 3769d265-3cfe-49ce-ace3-1f9df206b36d
+    traits:
+      spawned: true
+      inventory: {}
+      type: Squid
+      location:
+        world: juegos
+        x: '-1404.2427265496033'
+        y: '32.0'
+        z: '4007.6345890926004'
+        yaw: '-64.005859375'
+        pitch: '58.79991912841797'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,lookclose,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '182':
+    metadata:
+      cached-skin-uuid: dd6b77a7-55b5-450f-beac-374f40550cf4
+      cached-skin-uuid-name: Joaquin
+    name: Joaquin
+    uuid: 760943e9-1507-40c1-80a7-ec049c605927
+    traits:
+      spawned: true
+      inventory: {}
+      type: Squid
+      location:
+        world: juegos
+        x: '-1404.300000011921'
+        y: '31.0'
+        z: '4013.434230123544'
+        yaw: '-90.25732421875'
+        pitch: '51.449928283691406'
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: C4LCeTiN
+        uuid: d4b16fec-f91a-326e-918d-c21c48c79a5a
+    traitnames: inventory,location,type,lookclose,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '199':
+    metadata:
+      protected-leash: false
+    name: §7Buey
+    uuid: ce4748a5-09a2-4940-94ce-ce9204c30663
+    traits:
+      poses: {}
+      location:
+        world: plotworld
+        x: '-46.96433884977573'
+        y: '65.0'
+        z: '50.620275308836995'
+        yaw: '274.33221435546875'
+        pitch: '0.0'
+      inventory: {}
+      equipment:
+        hand:
+          type: LEASH
+          amount: 1
+          durability: 0
+          mdata: 0
+      type: Cow
+      spawned: true
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,equipment,spawned,poses,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '198':
+    metadata:
+      protected-leash: false
+    name: §7Buey
+    uuid: b55ee6f9-7841-4ed1-8279-81b7eb4139bd
+    traits:
+      location:
+        world: plotworld
+        x: '-46.851499149130596'
+        y: '65.0'
+        z: '48.345923305228105'
+        yaw: '271.984619140625'
+        pitch: '0.0'
+      inventory: {}
+      type: Cow
+      spawned: true
+      owner:
+        owner: knales11
+        uuid: 4d23df55-1267-304e-82d8-eda9f3b9e04b
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '210':
+    metadata:
+      cached-skin-uuid: be94757c-aa56-4250-9237-620ed185f953
+      cached-skin-uuid-name: Reey_
+    name: Reey_
+    uuid: 57c1307e-42d1-47c5-b8df-b6cdf234f5ce
+    traits:
+      inventory: {}
+      location:
+        world: juegos
+        x: '-12208.928755273897'
+        y: '-10830.600000004339'
+        z: '4081.172859653786'
+        yaw: '38.4681396484375'
+        pitch: '25.01167869567871'
+      spawned: true
+      owner:
+        owner: Reey_
+        uuid: d4ee5603-0d65-34c0-b753-90a478cf1606
+    traitnames: inventory,location,type,spawned,owner
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,21 @@
+lastAccountName: AnonymousOP90
+timestamps:
+  login: 1432444434482
+  lastteleport: 1432444610144
+  logout: 1432445741054
+ipAddress: 189.217.89.83
+lastlocation:
+  world: juegos
+  x: -1410.699999988079
+  y: 28.0
+  z: 3952.899138343587
+  yaw: -287.89093
+  pitch: 32.08404
+logoutlocation:
+  world: SkyWars
+  x: 12.15204311964325
+  y: 54.5
+  z: -19.95959760707376
+  yaw: -186.16801
+  pitch: 16.869583
+money: '70.0'

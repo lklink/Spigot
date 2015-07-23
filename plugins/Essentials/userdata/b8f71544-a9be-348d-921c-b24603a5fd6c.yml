@@ -1,0 +1,20 @@
+lastAccountName: anto_petro
+timestamps:
+  login: 1434058350331
+  logout: 1434058483483
+ipAddress: 200.90.237.124
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -614.3033113078625
+  y: 28.0
+  z: -1531.6824276743623
+  yaw: 359.4488
+  pitch: 20.699978
+money: '30.0'

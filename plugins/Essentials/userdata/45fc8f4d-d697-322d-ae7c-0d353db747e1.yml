@@ -1,0 +1,30 @@
+lastAccountName: TigerGamer_YT
+timestamps:
+  login: 1436976614677
+  lastteleport: 1436125640360
+  logout: 1436977023681
+ipAddress: 181.1.159.50
+lastlocation:
+  world: survival
+  x: 71.69999998807907
+  y: 26.0
+  z: 355.2757125982354
+  yaw: 345.80444
+  pitch: -76.00267
+logoutlocation:
+  world: survival
+  x: 90.2814058514032
+  y: 73.0
+  z: 375.5082763574891
+  yaw: 284.63605
+  pitch: 6.0472193
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 81.16367059968316
+    y: 62.0
+    z: 320.3255458286659
+    yaw: 97.68097
+    pitch: 49.1445
+money: '299901.0'

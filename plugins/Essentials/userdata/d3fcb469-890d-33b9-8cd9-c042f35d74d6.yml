@@ -1,0 +1,30 @@
+lastAccountName: Hotban23
+timestamps:
+  login: 1434221638902
+  lastteleport: 1434197885264
+  logout: 1434221643181
+ipAddress: 200.104.117.165
+lastlocation:
+  world: survival
+  x: 6.304119002900528
+  y: 42.14119127912234
+  z: 64.26834644098706
+  yaw: -167.10924
+  pitch: 52.799988
+logoutlocation:
+  world: plotworld
+  x: -58.630988568258076
+  y: 65.0
+  z: 210.2912250018896
+  yaw: -159.6
+  pitch: -90.0
+socialspy: false
+homes:
+  home:
+    world: Factions
+    x: -3216.2198051219457
+    y: 78.0
+    z: 1415.8031900490626
+    yaw: -2.8252869
+    pitch: 25.950006
+money: '18125.0'

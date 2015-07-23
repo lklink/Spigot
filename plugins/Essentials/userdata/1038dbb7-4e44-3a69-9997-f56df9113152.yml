@@ -1,0 +1,22 @@
+lastAccountName: iTz_UrielPvP
+timestamps:
+  login: 1432419399000
+  lastteleport: 1432417883598
+  logout: 1432419472702
+ipAddress: 186.62.22.237
+lastlocation:
+  world: juegos
+  x: -1390.9325413853103
+  y: 28.0
+  z: 3989.7868225162147
+  yaw: -182.33794
+  pitch: 90.0
+logoutlocation:
+  world: Factions
+  x: -271.5
+  y: 79.0
+  z: -302.5
+  yaw: 204.33832
+  pitch: -1.8782009
+socialspy: false
+money: '30.0'

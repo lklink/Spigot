@@ -1,0 +1,30 @@
+lastAccountName: ElianGamer51
+timestamps:
+  login: 1437614569952
+  lastteleport: 1437615253687
+  logout: 1437616682787
+ipAddress: 179.53.178.78
+lastlocation:
+  world: plotworld
+  x: 382.74113327901387
+  y: 65.0
+  z: 323.6791996148844
+  yaw: 267.22723
+  pitch: 59.39997
+logoutlocation:
+  world: plotworld
+  x: 21.35085336527768
+  y: 65.0
+  z: 176.0415305056886
+  yaw: 148.94182
+  pitch: 53.85
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 94.69999998807907
+    y: 11.0
+    z: -710.9025285709245
+    yaw: -141.68268
+    pitch: 30.749994
+money: '20000.0'

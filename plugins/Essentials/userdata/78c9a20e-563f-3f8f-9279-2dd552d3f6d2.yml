@@ -1,0 +1,21 @@
+lastAccountName: janie11402
+timestamps:
+  login: 1434063742145
+  lastteleport: 1434063890730
+  logout: 1434063926567
+ipAddress: 186.9.131.169
+lastlocation:
+  world: plotworld
+  x: -60.56113240509511
+  y: 65.0
+  z: 61.48302499632699
+  yaw: 177.12775
+  pitch: -3.8046634
+logoutlocation:
+  world: survival
+  x: -19.578699983585075
+  y: 112.0
+  z: 59.33287094585053
+  yaw: 296.84067
+  pitch: -3.4501746
+money: '30.0'

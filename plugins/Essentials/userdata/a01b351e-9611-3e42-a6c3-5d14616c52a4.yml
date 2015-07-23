@@ -1,0 +1,21 @@
+lastAccountName: juanitox
+timestamps:
+  login: 1433464710999
+  logout: 1433464749902
+ipAddress: 181.72.236.203
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1328.300000011921
+  y: 29.0
+  z: 3990.306890255274
+  yaw: 65.6411
+  pitch: 22.95002
+socialspy: false
+money: '30.0'

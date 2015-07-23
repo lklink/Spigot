@@ -1,0 +1,29 @@
+lastAccountName: Doldar
+timestamps:
+  login: 1433719598624
+  lastteleport: 1433720050120
+  logout: 1433720972054
+ipAddress: 190.162.212.150
+lastlocation:
+  world: Factions
+  x: -539.6999999880791
+  y: 55.0
+  z: -217.48559638300944
+  yaw: 25.947174
+  pitch: 24.094553
+homes:
+  home:
+    world: Factions
+    x: -535.126448047431
+    y: 54.0
+    z: -221.05140902233714
+    yaw: 8.572128
+    pitch: 63.77956
+logoutlocation:
+  world: Factions
+  x: -490.69999998807907
+  y: 12.0
+  z: -214.7529376668688
+  yaw: -44.04236
+  pitch: 47.641865
+money: '30.0'

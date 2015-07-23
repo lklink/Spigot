@@ -1,0 +1,22 @@
+lastAccountName: Naikito
+timestamps:
+  login: 1435203947532
+  logout: 1435203176172
+  lastteleport: 1435198899259
+ipAddress: 186.78.45.253
+logoutlocation:
+  world: spawn
+  x: -623.0314657447658
+  y: 48.5
+  z: -2409.2006211436983
+  yaw: 165.77246
+  pitch: 21.206417
+socialspy: false
+lastlocation:
+  world: world
+  x: -56.92614363734019
+  y: 69.0
+  z: 279.0792664390142
+  yaw: -102.604805
+  pitch: 15.974401
+money: '299750.0'

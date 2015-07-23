@@ -1,0 +1,30 @@
+lastAccountName: '123'
+timestamps:
+  login: 1432585981137
+  logout: 1432586008588
+  lastteleport: 1432583893479
+ipAddress: 190.22.142.162
+lastlocation:
+  world: juegos
+  x: -1426.300000011921
+  y: 137.0
+  z: 3854.300000011921
+  yaw: -278.9462
+  pitch: 5.8439603
+logoutlocation:
+  world: juegos
+  x: -1422.7082481899881
+  y: 6.00552784794201
+  z: 3941.8339054915505
+  yaw: 95.30502
+  pitch: 4.316164
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: 44.69999998807908
+    y: 59.0
+    z: -7.304678545333447
+    yaw: -271.3725
+    pitch: 37.349953
+money: '30.0'

@@ -1,0 +1,30 @@
+lastAccountName: savixz
+timestamps:
+  login: 1437550042367
+  lastteleport: 1437550063669
+  logout: 1437550094633
+ipAddress: 186.104.9.41
+lastlocation:
+  world: spawn
+  x: -614.1208227774944
+  y: 28.0
+  z: -1369.2424273261074
+  yaw: -195.07492
+  pitch: 6.5519953
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: -614.980595755027
+  y: 28.0
+  z: -1372.3407229315085
+  yaw: -14.324884
+  pitch: -12.948011
+money: '50.0'
+homes:
+  home:
+    world: survival_nether
+    x: 97.70546803962587
+    y: 69.0
+    z: -134.85641133089956
+    yaw: -164.77362
+    pitch: 33.449917

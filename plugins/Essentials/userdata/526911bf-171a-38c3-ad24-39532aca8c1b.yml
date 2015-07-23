@@ -1,0 +1,30 @@
+lastAccountName: octavio123
+timestamps:
+  login: 1436306379380
+  logout: 1436307271651
+  lastteleport: 1436306793683
+ipAddress: 190.42.17.120
+lastlocation:
+  world: survival
+  x: 283.4564402563621
+  y: 61.0
+  z: -102.99111940610997
+  yaw: 335.03088
+  pitch: 18.899982
+logoutlocation:
+  world: survival
+  x: 318.7371432273977
+  y: 70.0
+  z: 215.1234613189331
+  yaw: 268.12833
+  pitch: 3.5999212
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 332.6446400164948
+    y: 72.0
+    z: -25.73068986625414
+    yaw: 181.1308
+    pitch: 17.399996
+money: '310.0'

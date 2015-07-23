@@ -1,0 +1,21 @@
+lastAccountName: thefitbeul45
+timestamps:
+  login: 1432748317156
+  logout: 1432750804930
+ipAddress: 186.124.150.221
+lastlocation:
+  world: survival
+  x: -10.260160991210451
+  y: 122.0
+  z: 64.5293092760019
+  yaw: -0.05103283
+  pitch: 27.118788
+logoutlocation:
+  world: SkyWars
+  x: 0.40995200576942736
+  y: 51.0
+  z: 23.302891002498637
+  yaw: 0.3590088
+  pitch: 19.45532
+socialspy: false
+money: '55.0'

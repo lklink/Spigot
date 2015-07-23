@@ -1,0 +1,22 @@
+lastAccountName: YXKIII
+timestamps:
+  login: 1432582960359
+  logout: 1432584880811
+  lastteleport: 1432583885387
+ipAddress: 181.75.6.28
+lastlocation:
+  world: survival
+  x: -7.706451285929562
+  y: 114.0
+  z: 19.59013297837609
+  yaw: 3.8304691
+  pitch: 25.946419
+logoutlocation:
+  world: plotworld
+  x: -195.54879377851998
+  y: 65.0
+  z: 147.8077198112973
+  yaw: -279.44995
+  pitch: 13.650004
+socialspy: false
+money: '30.0'

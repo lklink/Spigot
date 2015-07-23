@@ -1,0 +1,25 @@
+permission: ''
+world: world
+X: -2507
+Y: 106
+Z: 2617
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /spawn
+- /give <player> 322 2
+- /money give <player> 2000
+- /broadcast &1El Jugador &2&l<player> &1Acaba de Sobrevivir al &4Maze
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

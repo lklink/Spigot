@@ -1,0 +1,21 @@
+lastAccountName: nacho97
+timestamps:
+  login: 1433362620976
+  logout: 1433362625376
+ipAddress: 190.101.87.71
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1398.5
+  y: 107.0
+  z: 4020.5
+  yaw: 0.45
+  pitch: -10.950003
+socialspy: false
+money: '30.0'

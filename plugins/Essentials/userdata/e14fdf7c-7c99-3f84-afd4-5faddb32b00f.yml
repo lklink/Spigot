@@ -1,0 +1,30 @@
+lastAccountName: BLUBLEGUM
+timestamps:
+  login: 1434753026029
+  lastteleport: 1434753039134
+  logout: 1434753129988
+ipAddress: 187.207.5.19
+lastlocation:
+  world: survival
+  x: 62.58722950718568
+  y: 75.0
+  z: 222.45635224496135
+  yaw: 236.2717
+  pitch: 38.78843
+logoutlocation:
+  world: plotworld
+  x: -141.68453880635846
+  y: 65.0
+  z: 218.84922911118045
+  yaw: 328.0096
+  pitch: 14.891279
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: -130.71439790591737
+    y: 65.0
+    z: 222.54069344917127
+    yaw: -39.461914
+    pitch: 7.942313
+money: '235.0'

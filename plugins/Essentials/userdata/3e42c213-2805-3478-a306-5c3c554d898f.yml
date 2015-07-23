@@ -1,0 +1,22 @@
+lastAccountName: IMinatoHD
+timestamps:
+  login: 1432498558937
+  lastteleport: 1432445235553
+  logout: 1432498613489
+ipAddress: 181.54.251.48
+lastlocation:
+  world: juegos
+  x: -1426.644348438191
+  y: 28.0
+  z: 3963.802340862927
+  yaw: 231.09106
+  pitch: 9.599586
+logoutlocation:
+  world: SkyWars
+  x: -0.6860190458464414
+  y: 49.0
+  z: -7.32685068373905
+  yaw: -186.61806
+  pitch: 15.969618
+socialspy: false
+money: '55.0'

@@ -1,0 +1,31 @@
+lastAccountName: Volrat
+timestamps:
+  login: 1434324330264
+  logout: 1434324585451
+  lastteleport: 1434324571061
+ipAddress: 186.107.235.80
+lastlocation:
+  world: spawn
+  x: -620.2786894902177
+  y: 28.0
+  z: -1395.7982641555477
+  yaw: 83.898636
+  pitch: -26.54999
+logoutlocation:
+  world: juegos
+  x: -873.4217014366615
+  y: 9.5
+  z: 3716.851869091076
+  yaw: -214.82054
+  pitch: 16.499989
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -73.07104744550236
+    y: 63.0
+    z: 821.5154792105013
+    yaw: -209.89343
+    pitch: 3.300111
+afk: false
+money: '20055.0'

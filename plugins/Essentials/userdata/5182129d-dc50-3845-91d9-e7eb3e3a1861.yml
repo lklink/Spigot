@@ -1,0 +1,22 @@
+lastAccountName: matita
+timestamps:
+  login: 1433104178676
+  logout: 1433105118324
+  lastteleport: 1433104654550
+ipAddress: 186.79.240.111
+lastlocation:
+  world: survival
+  x: -2.4724567860974638
+  y: 114.0
+  z: 16.659191579600286
+  yaw: 261.29083
+  pitch: -35.400185
+logoutlocation:
+  world: plotworld
+  x: 21.07499998807907
+  y: 76.5
+  z: 13.51893575776285
+  yaw: 269.97742
+  pitch: 13.799993
+socialspy: false
+money: '30.0'

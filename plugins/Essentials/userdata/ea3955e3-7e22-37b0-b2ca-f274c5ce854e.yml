@@ -1,0 +1,22 @@
+lastAccountName: GOLI_GOLI
+timestamps:
+  login: 1436857043758
+  lastteleport: 1436857389532
+  logout: 1436857739348
+ipAddress: 189.128.56.197
+lastlocation:
+  world: survival
+  x: -56.12455758793739
+  y: 53.0
+  z: -10.782739190064913
+  yaw: 171.87909
+  pitch: 2.2578955
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+socialspy: false
+money: '30.0'

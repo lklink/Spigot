@@ -1,0 +1,21 @@
+lastAccountName: yeremy
+timestamps:
+  login: 1432350369380
+  logout: 1432350398682
+ipAddress: 191.113.242.52
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1402.5
+  y: 51.0
+  z: 4035.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

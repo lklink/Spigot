@@ -1,0 +1,22 @@
+lastAccountName: a3plex
+timestamps:
+  login: 1433549576978
+  lastteleport: 1433027560134
+  logout: 1433549611246
+ipAddress: 200.83.41.218
+lastlocation:
+  world: juegos
+  x: -1397.4661896745706
+  y: 28.0
+  z: 3976.9984723043835
+  yaw: -168.80005
+  pitch: -5.24998
+logoutlocation:
+  world: SkyWars
+  x: -1.0627381322988303
+  y: 50.0
+  z: -0.08639778326057085
+  yaw: -273.4804
+  pitch: 0.21007384
+socialspy: false
+money: '30.0'

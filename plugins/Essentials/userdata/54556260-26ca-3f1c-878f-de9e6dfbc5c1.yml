@@ -1,0 +1,22 @@
+lastAccountName: Eonofre
+timestamps:
+  login: 1434160414637
+  logout: 1434160438837
+  lastteleport: 1434074313719
+ipAddress: 181.66.226.198
+lastlocation:
+  world: SkyWars
+  x: -24.562913973363848
+  y: 54.0
+  z: 6.514727434576925
+  yaw: -162.3179
+  pitch: 12.000038
+logoutlocation:
+  world: spawn
+  x: -663.637481053378
+  y: 29.0
+  z: -1398.050000011921
+  yaw: -357.40167
+  pitch: 31.049995
+socialspy: false
+money: '30.0'

@@ -1,0 +1,27 @@
+permission: ''
+world: survival
+X: -2
+Y: 116
+Z: 14
+price: 0.0
+cooldown: 5
+globalCooldown: 0
+confirmation: false
+commands:
+- '*warp Egipto '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  Sebax21: 1429828816386
+  C4LCeTiN: 1434302080327
+  gatogamer: 1429828746340
+  Zimok: 1429750089510
+  MrANORITHD: 1429828124642
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

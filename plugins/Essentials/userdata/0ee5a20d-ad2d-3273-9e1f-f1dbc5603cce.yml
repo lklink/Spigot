@@ -1,0 +1,22 @@
+lastAccountName: iZady
+timestamps:
+  login: 1434579292835
+  logout: 1434579527510
+  lastteleport: 1434579498354
+ipAddress: 186.134.17.54
+lastlocation:
+  world: juegos
+  x: -1398.754173708996
+  y: 28.0
+  z: 4008.020933261206
+  yaw: 160.50067
+  pitch: -2.0357077
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 49.91960259017257
+  z: -2425.5808133252312
+  yaw: 187.87784
+  pitch: -0.4635773
+socialspy: false
+money: '30.0'

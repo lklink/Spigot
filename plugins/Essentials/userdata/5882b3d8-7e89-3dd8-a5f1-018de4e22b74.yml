@@ -1,0 +1,23 @@
+lastAccountName: Ducky
+timestamps:
+  login: 1429646634709
+  logout: 1429648036203
+  lastteleport: 1429646923445
+ipAddress: 201.188.42.50
+lastlocation:
+  world: juegos
+  x: -954.5593619406228
+  y: 128.4807108763317
+  z: -522.3000000119209
+  yaw: 346.3503
+  pitch: 50.399998
+logoutlocation:
+  world: plotworld
+  x: -57.60776166557122
+  y: 54.5
+  z: 17.96187232111411
+  yaw: -175.52223
+  pitch: -17.346573
+socialspy: false
+afk: false
+money: '30.0'

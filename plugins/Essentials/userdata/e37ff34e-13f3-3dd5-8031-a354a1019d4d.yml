@@ -1,0 +1,24 @@
+lastAccountName: prodarkgamer
+timestamps:
+  login: 1435549315076
+  lastteleport: 1435549342971
+  mute: 1435551454473
+  logout: 1435549486174
+ipAddress: 190.100.240.236
+lastlocation:
+  world: spawn
+  x: -619.5309404937415
+  y: 28.0
+  z: -1397.1838327746632
+  yaw: -278.1234
+  pitch: -16.403288
+logoutlocation:
+  world: spawn
+  x: -558.6999999880791
+  y: 14.0
+  z: -1392.756695662973
+  yaw: -36.038445
+  pitch: 43.002346
+socialspy: false
+muted: true
+money: '30.0'

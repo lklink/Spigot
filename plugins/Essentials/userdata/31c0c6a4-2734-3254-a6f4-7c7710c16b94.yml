@@ -1,0 +1,22 @@
+lastAccountName: Kyron25
+timestamps:
+  login: 1435784505578
+  logout: 1435784585930
+  lastteleport: 1435632256803
+ipAddress: 189.221.208.2
+lastlocation:
+  world: plotworld
+  x: 190.2132038976167
+  y: 65.0
+  z: -292.961204818389
+  yaw: -116.729675
+  pitch: 17.126766
+logoutlocation:
+  world: spawn
+  x: 547.8121590239813
+  y: 39.0
+  z: -1068.5146845575289
+  yaw: 46.019478
+  pitch: 34.90151
+socialspy: false
+money: '30.0'

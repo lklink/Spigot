@@ -1,0 +1,26 @@
+permission: ''
+world: juegos
+X: -1035
+Y: 150
+Z: -525
+price: 0.0
+cooldown: 1728000
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 138 1'
+- '*spawn <player> '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  cw2: 1429936415910
+  C4LCeTiN: 1429936302341
+  volkanito91: 1429936376171
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

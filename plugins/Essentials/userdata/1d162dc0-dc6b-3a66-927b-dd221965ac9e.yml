@@ -1,0 +1,21 @@
+lastAccountName: BoyPro
+timestamps:
+  login: 1431712802194
+  lastteleport: 1431712833696
+  logout: 1431712875697
+ipAddress: 179.7.68.153
+lastlocation:
+  world: juegos
+  x: -956.5631795429307
+  y: 129.5
+  z: -526.6492389006715
+  yaw: 246.64001
+  pitch: 29.267067
+logoutlocation:
+  world: juegos
+  x: -1434.3561948677382
+  y: 28.0
+  z: 3969.464004820475
+  yaw: 79.435524
+  pitch: 12.021121
+money: '30.0'

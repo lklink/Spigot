@@ -1,0 +1,21 @@
+lastAccountName: ICEMAND_
+timestamps:
+  login: 1435202534120
+  logout: 1435202553669
+ipAddress: 190.249.8.203
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: world
+  x: -81.5
+  y: 38.0
+  z: 281.5
+  yaw: -1.0851711
+  pitch: 0.58432287
+socialspy: false
+money: '55.0'

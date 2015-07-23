@@ -1,0 +1,22 @@
+lastAccountName: DrSolow
+timestamps:
+  login: 1431833876309
+  lastteleport: 1431832218684
+  logout: 1431834336424
+ipAddress: 177.237.189.123
+lastlocation:
+  world: juegos
+  x: -938.6588708621077
+  y: 123.0
+  z: -515.2675111440203
+  yaw: -219.95276
+  pitch: 3.7809577
+logoutlocation:
+  world: SkyWars
+  x: -3.697783700656146
+  y: 51.104080378093045
+  z: -18.385020401160887
+  yaw: -8.089935
+  pitch: 57.615128
+socialspy: false
+money: '175.0'

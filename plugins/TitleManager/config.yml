@@ -1,0 +1,30 @@
+usingConfig: true
+config-version: 3
+using-bungeecord: false
+tabmenu:
+  enabled: true
+  header: '&eBienvenido {PLAYER} a &4&k|||&eNationforce&4&k|||'
+  footer: '&ahttp://Nationforce.cl'
+welcome_message:
+  enabled: true
+  title: '&6&lNationforce'
+  subtitle: '&7&lBienvenido &c&l{PLAYER} &7&la NationForce'
+  fadeIn: 20
+  stay: 60
+  fadeOut: 20
+  first-join:
+    title: '&6&lNationforce'
+    subtitle: '&7&lBienvenido &c&l{PLAYER} &7&la NationForce'
+actionbar-welcome:
+  enabled: false
+  message: '&e&l¡Visita nuestra pagina web http://Nationforce.cl!'
+  first-join:
+    message: '&e&l¡Visita nuestra pagina web http://Nationforce.cl!'
+number-format:
+  enabled: true
+  format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

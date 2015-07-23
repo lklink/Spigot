@@ -1,0 +1,21 @@
+lastAccountName: fabr1
+timestamps:
+  login: 1434949490598
+  lastteleport: 1434949538925
+  logout: 1434949589013
+ipAddress: 181.90.138.18
+lastlocation:
+  world: juegos
+  x: -1398.3201130503608
+  y: 28.0
+  z: 4008.0673804017842
+  yaw: -216.29999
+  pitch: -1.5000002
+logoutlocation:
+  world: spawn
+  x: -620.4966364994544
+  y: 52.61416413842136
+  z: -2425.5808133252312
+  yaw: 187.19928
+  pitch: -2.1599996
+money: '30.0'

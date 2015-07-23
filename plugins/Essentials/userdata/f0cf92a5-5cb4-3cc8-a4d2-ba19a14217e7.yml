@@ -1,0 +1,87 @@
+lastAccountName: Maxi_Fsr
+timestamps:
+  login: 1437616864276
+  logout: 1437619121611
+  lastteleport: 1437618295844
+ipAddress: 200.83.18.63
+logoutlocation:
+  world: juegos
+  x: -12127.300000011921
+  y: 139.0
+  z: 4043.7925819718666
+  yaw: 5.8951435
+  pitch: 35.470245
+lastlocation:
+  world: spawn
+  x: -613.1668044477794
+  y: 28.0
+  z: -1367.7702201661027
+  yaw: -44.394592
+  pitch: 14.710234
+money: '1984142964'
+socialspy: false
+homes:
+  jungla:
+    world: survival
+    x: 425.46187336229974
+    y: 63.0
+    z: 3003.385927142275
+    yaw: 1.4573975
+    pitch: -8.250022
+  skywars:
+    world: juegos
+    x: -1025.0275398999734
+    y: 20.0
+    z: 518.5751915584526
+    yaw: -268.44656
+    pitch: 12.718792
+  skywars1:
+    world: SkyWars
+    x: -22.945441938335474
+    y: 60.0
+    z: 1182.2956530960273
+    yaw: 97.07922
+    pitch: 49.040337
+  pvp:
+    world: world
+    x: 1000232.3000000119
+    y: 186.0
+    z: 34365.69999998808
+    yaw: -129.61116
+    pitch: -3.8866646
+  nose:
+    world: survival
+    x: 12.257290272596942
+    y: 62.0
+    z: 536.810502563462
+    yaw: 106.790245
+    pitch: 8.383481
+  mina:
+    world: survival
+    x: 66.93983804347232
+    y: 11.0
+    z: 1735.8526069622196
+    yaw: 97.40149
+    pitch: 16.138203
+  fruta:
+    world: world
+    x: -19.727817424230192
+    y: 111.0
+    z: 207.010465160934
+    yaw: 181.49753
+    pitch: 0.102405265
+  end:
+    world: survival
+    x: 584.3000000119209
+    y: 17.0
+    z: 568.4415445605875
+    yaw: 86.00458
+    pitch: 44.472397
+  aca:
+    world: Factions
+    x: -161.82826037794916
+    y: 72.0
+    z: -2153.994076267798
+    yaw: 167.83377
+    pitch: 8.178464
+afk: false

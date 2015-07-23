@@ -1,0 +1,22 @@
+lastAccountName: Br33z3y
+timestamps:
+  login: 1433710883257
+  lastteleport: 1433717708599
+  logout: 1433718050619
+ipAddress: 201.246.130.70
+lastlocation:
+  world: plotworld
+  x: -99.15716635832337
+  y: 65.0
+  z: 208.79208675937994
+  yaw: 57.299976
+  pitch: 33.600006
+logoutlocation:
+  world: plotworld
+  x: -99.2197748743918
+  y: 65.0
+  z: 210.10295964206767
+  yaw: -75.0
+  pitch: 39.9
+socialspy: false
+money: '55.0'

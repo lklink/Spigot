@@ -1,0 +1,21 @@
+lastAccountName: DrakFTW
+timestamps:
+  login: 1432444434692
+  lastteleport: 1432444588418
+  logout: 1432445188068
+ipAddress: 190.167.29.162
+lastlocation:
+  world: juegos
+  x: -1394.4334150371217
+  y: 28.5
+  z: 3962.3779185829667
+  yaw: -305.15897
+  pitch: -1.9504068
+logoutlocation:
+  world: SkyWars
+  x: 0.38095108460014904
+  y: 51.371710722973894
+  z: 0.37514272371145285
+  yaw: 181.03206
+  pitch: 3.3696117
+money: '30.0'

@@ -1,0 +1,222 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - iConomy.payment
+    - essentials.warps.Mina
+    - adminshop.command.sell
+    - essentials.warps.Spleef
+    - towny.wild.*
+    - towny.wild.switch
+    - towny.wild.item_use
+    - towny.wild.destroy
+    - towny.wild.build
+    - essentials.spawn
+    - towny.command.nation.online
+    - towny.command.nation.deposit
+    - towny.town.spawn.nation
+    - towny.town.spawn.ally
+    - towny.chat.nation
+    - towny.command.nation.add
+    - towny.command.town.rank.vip
+    - towny.command.town.toggle.public
+    - towny.command.town.add
+    - towny.chat.town
+    - towny.town.spawn.town
+    - towny.command.town.deposit
+    - towny.command.town.leave
+    - towny.command.plot.set.reset
+    - towny.command.plot.set.perm
+    - towny.command.town.online
+    - towny.command.plot.toggle.*
+    - towny.command.plot.notforsale
+    - towny.command.plot.forsale
+    - towny.command.plot.unclaim
+    - towny.command.plot.claim
+    - towny.command.resident.*
+    - towny.command.chat.general
+    - towny.command.town.spawn.public
+    - towny.command.town.resident
+    - towny.command.nation.list
+    - towny.command.plot.perm
+    - towny.command.town.join
+    - towny.command.town.list
+    - towny.command.town.new
+    - towny.command.towny.list
+    - towny.command.towny.join
+    - towny.command.towny.new
+    - towny.command.towny.war
+    - towny.command.towny.version
+    - towny.command.towny.universe
+    - towny.command.towny.time
+    - towny.command.towny.tree
+    - towny.command.towny.prices
+    - towny.command.towny.map
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.suicide
+    - essentials.sethome
+    - essentials.rules
+    - essentials.pay
+    - essentials.msg
+    - essentials.me
+    - essentials.home
+    - essentials.helpop
+    - essentials.help
+    - essentials.delhome
+    - essentials.afk.auto
+    - lwc.protect
+    - authme.player.*
+    - scoreboardstats.use
+    - modifyworld.*
+    - plotme.use.auto
+    - plotme.use.home
+    - plotme.use.biome
+    - plotme.use.done
+    - plotme.use.add
+    - plotme.use.remove
+    - plotme.limit.1
+    - multiverse.portal.access.*
+    - serversigns.use.*
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use.warp
+    - essentials.signs.break.disposal
+    prefix: '&a'
+    options:
+      default: 'true'
+  admin:
+    permissions:
+    - '*'
+    prefix: '&7[&4Admin&7]&f'
+    suffix: '&4'
+    options:
+      prefix: '&6[admin]&6'
+  GM:
+    prefix: '&7[&6GM&7]&f'
+    permissions:
+    - iconomy.*
+    - worldguard.*
+    - worldedit.*
+    - towny.*
+    - serversigns.*
+    - mineresetlite.*
+    - lagg.*
+    - ChestShop.*
+    - lwc.*
+    - authme.*
+    - scoreboardstas.use
+    - modifyworld.*
+    - essentials.*
+  VIP:
+    prefix: '&7[&3VIP&7]&f'
+    permissions:
+    - essentials.heal
+    - essentials.hat
+    - essentials.keepxp
+    - essentials.back.ondeath
+    - essentials.warps.repair
+    - iConomy.payment
+    - essentials.warps.Mina
+    - adminshop.command.sell
+    - essentials.warps.Spleef
+    - towny.wild.*
+    - towny.wild.switch
+    - towny.wild.item_use
+    - towny.wild.destroy
+    - towny.wild.build
+    - essentials.spawn
+    - towny.command.nation.online
+    - towny.command.nation.deposit
+    - towny.town.spawn.nation
+    - towny.town.spawn.ally
+    - towny.chat.nation
+    - towny.command.nation.add
+    - towny.command.town.rank.vip
+    - towny.command.town.toggle.public
+    - towny.command.town.add
+    - towny.chat.town
+    - towny.town.spawn.town
+    - towny.command.town.deposit
+    - towny.command.town.leave
+    - towny.command.plot.set.reset
+    - towny.command.plot.set.perm
+    - towny.command.town.online
+    - towny.command.plot.toggle.*
+    - towny.command.plot.notforsale
+    - towny.command.plot.forsale
+    - towny.command.plot.unclaim
+    - towny.command.plot.claim
+    - towny.command.resident.*
+    - towny.command.chat.general
+    - towny.command.town.spawn.public
+    - towny.command.town.resident
+    - towny.command.nation.list
+    - towny.command.plot.perm
+    - towny.command.town.join
+    - towny.command.town.list
+    - towny.command.town.new
+    - towny.command.towny.list
+    - towny.command.towny.join
+    - towny.command.towny.new
+    - towny.command.towny.war
+    - towny.command.towny.version
+    - towny.command.towny.universe
+    - towny.command.towny.time
+    - towny.command.towny.tree
+    - towny.command.towny.prices
+    - towny.command.towny.map
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.suicide
+    - essentials.sethome
+    - essentials.rules
+    - essentials.pay
+    - essentials.msg
+    - essentials.me
+    - essentials.home
+    - essentials.helpop
+    - essentials.help
+    - essentials.delhome
+    - essentials.afk.auto
+    - lwc.protect
+    - authme.player.*
+    - scoreboardstats.use
+    - modifyworld.*
+    - plotme.use.auto
+    - plotme.use.home
+    - plotme.use.biome
+    - plotme.use.done
+    - plotme.use.add
+    - plotme.limit.1
+    - plotme.use.remove
+    - serversigns.use.*
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use.warp
+    - essentials.signs.break.disposal
+users:
+  141b0838-831e-3ed5-8ba7-ab425ded9b74:
+    group:
+    - admin
+    options:
+      name: nino
+  d74a38a0-f857-3b66-a1d3-d584775381ec:
+    group:
+    - default
+    options:
+      name: tyrion
+  5882b3d8-7e89-3dd8-a5f1-018de4e22b74:
+    options:
+      name: Ducky
+  d4b16fec-f91a-326e-918d-c21c48c79a5a:
+    group:
+    - admin

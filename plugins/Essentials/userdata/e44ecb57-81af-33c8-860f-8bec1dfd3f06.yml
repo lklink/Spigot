@@ -1,0 +1,30 @@
+lastAccountName: Longnhonh15
+timestamps:
+  login: 1430094284412
+  lastteleport: 1430095268467
+  logout: 1430095282642
+ipAddress: 200.120.253.114
+lastlocation:
+  world: juegos
+  x: 4703.9668138827965
+  y: 52.0
+  z: 1045.1742762120193
+  yaw: -21.550327
+  pitch: 0.77689755
+homes:
+  home:
+    world: plotworld
+    x: 58.74079529848081
+    y: 65.0
+    z: -150.70984369026976
+    yaw: -4.3008003
+    pitch: 15.9744005
+socialspy: false
+logoutlocation:
+  world: juegos
+  x: 4698.581249117386
+  y: 52.0
+  z: 1042.5353564713685
+  yaw: 266.5649
+  pitch: 34.568893
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: creeper0000
+timestamps:
+  login: 1433630471745
+  lastteleport: 1433375508590
+  logout: 1433630486179
+ipAddress: 201.223.85.37
+lastlocation:
+  world: plotworld
+  x: -223.29866460005744
+  y: 65.0
+  z: -107.24052744608827
+  yaw: -122.09999
+  pitch: 11.550009
+logoutlocation:
+  world: plotworld
+  x: -222.44781354501663
+  y: 65.0
+  z: -101.06079646242713
+  yaw: -106.706245
+  pitch: 5.549996
+socialspy: false
+money: '30.0'

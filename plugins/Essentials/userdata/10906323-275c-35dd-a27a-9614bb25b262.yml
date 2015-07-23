@@ -1,0 +1,22 @@
+lastAccountName: Martishun
+timestamps:
+  login: 1430093017822
+  logout: 1430093012951
+  lastteleport: 1430093971128
+ipAddress: 200.120.204.121
+lastlocation:
+  world: plotworld
+  x: -135.79182817955552
+  y: 65.0
+  z: 63.30000001192093
+  yaw: -99.59683
+  pitch: 41.849995
+logoutlocation:
+  world: survival
+  x: -9.139738746102806
+  y: 112.0
+  z: 53.54239668734919
+  yaw: -94.64995
+  pitch: 90.0
+socialspy: false
+money: '30.0'

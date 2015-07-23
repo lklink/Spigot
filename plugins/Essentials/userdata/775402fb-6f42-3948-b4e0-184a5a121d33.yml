@@ -1,0 +1,22 @@
+lastAccountName: Rodrigo730
+timestamps:
+  login: 1433806654484
+  logout: 1433806771737
+  lastteleport: 1433806724764
+ipAddress: 190.102.239.223
+lastlocation:
+  world: juegos
+  x: -1394.039774543765
+  y: 28.0
+  z: 4008.386391740533
+  yaw: 232.44096
+  pitch: 11.399592
+logoutlocation:
+  world: survival
+  x: -30.79656010935333
+  y: 102.0
+  z: 48.30000001192093
+  yaw: -4.0593143
+  pitch: 0.7498254
+socialspy: false
+money: '30.0'

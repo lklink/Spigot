@@ -1,0 +1,39 @@
+lastAccountName: tyrion
+timestamps:
+  login: 1433723865529
+  logout: 1433728649085
+  lastteleport: 1431392791606
+ipAddress: 190.211.43.153
+lastlocation:
+  world: juegos
+  x: -1146.7666820274999
+  y: 36.0
+  z: 3302.7996144324197
+  yaw: 250.17288
+  pitch: 4.3499804
+logoutlocation:
+  world: juegos
+  x: -1143.968021286302
+  y: 35.0
+  z: 3251.000972147327
+  yaw: -92.08264
+  pitch: 8.399934
+socialspy: false
+afk: false
+money: '1949.0'
+homes:
+  home:
+    world: juegos
+    x: -1147.910523896341
+    y: 42.0
+    z: 3251.833820650194
+    yaw: 277.6276
+    pitch: 11.40007
+  castillo:
+    world: juegos
+    x: -1142.7978701938518
+    y: 42.239363942144294
+    z: 3239.412887352556
+    yaw: 178.77734
+    pitch: 35.100075
+godmode: false

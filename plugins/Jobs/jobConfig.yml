@@ -1,0 +1,44 @@
+# Jobs configuration.
+# 
+# Stores information about each job.
+# 
+# For example configurations, visit http://dev.bukkit.org/server-mods/jobs/.
+
+Jobs:
+  Minero:
+    fullname: Minero
+    shortname: Minero
+    description: Recoje minerales para conseguir dinero!
+    ChatColour: DARK_RED
+    chat-display: full
+    leveling-progression-equation: 100*((1.13+(0.01*(numjobs-1)))^(joblevel-1))
+    income-progression-equation: baseincome*((1.05)^(joblevel-1))
+    experience-progression-equation: baseexperience*((1.05)^(joblevel-1))
+    Break:
+      STONE:
+        income: 20.0
+        experience: 5.0
+      COAL_ORE:
+        income: 30.0
+        experience: 10.0
+      GLOWING_REDSTONE_ORE:
+        income: 40.0
+        experience: 10.0
+      IRON_ORE:
+        income: 50.0
+        experience: 10.0
+      GOLD_ORE:
+        income: 80.0
+        experience: 10.0
+      LAPIS_ORE:
+        income: 80.0
+        experience: 10.0
+      DIAMOND_ORE:
+        income: 120.0
+        experience: 20.0
+      OBSIDIAN:
+        income: 80.0
+        experience: 10.0
+      MOSSY_COBBLESTONE:
+        income: 20.0
+        experience: 10.0

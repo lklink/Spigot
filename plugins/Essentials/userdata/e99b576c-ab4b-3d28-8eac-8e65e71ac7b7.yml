@@ -1,0 +1,22 @@
+lastAccountName: AlejaK9
+timestamps:
+  login: 1435522448236
+  logout: 1435522829788
+  lastteleport: 1435522511949
+ipAddress: 200.116.77.2
+lastlocation:
+  world: spawn
+  x: -613.5905699238238
+  y: 27.0
+  z: -1461.9506792690897
+  yaw: -358.72485
+  pitch: 10.451995
+logoutlocation:
+  world: spawn
+  x: -620.0801414743271
+  y: 48.0
+  z: -2434.2110878036424
+  yaw: -193.3508
+  pitch: -5.7599897
+socialspy: false
+money: '30.0'

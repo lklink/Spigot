@@ -1,0 +1,20 @@
+lastAccountName: kirito01
+timestamps:
+  login: 1434504041073
+  logout: 1434504153342
+ipAddress: 179.8.144.196
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -643.5818633079177
+  y: 23.0
+  z: -1350.7225717270067
+  yaw: 189.19897
+  pitch: -3.6000268
+money: '30.0'

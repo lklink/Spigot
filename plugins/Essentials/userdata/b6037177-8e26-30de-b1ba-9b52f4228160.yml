@@ -1,0 +1,20 @@
+lastAccountName: lec0
+timestamps:
+  login: 1435714620659
+  logout: 1435714706859
+ipAddress: 190.25.16.57
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -619.6999999880791
+  y: 28.0
+  z: -1499.961869983462
+  yaw: -303.0263
+  pitch: 17.866777
+money: '30.0'

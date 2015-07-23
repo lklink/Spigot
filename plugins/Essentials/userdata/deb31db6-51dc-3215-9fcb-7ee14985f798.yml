@@ -1,0 +1,20 @@
+lastAccountName: _Jogurts
+timestamps:
+  login: 1434232077455
+  logout: 1434232095681
+ipAddress: 200.112.56.189
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -613.5
+  y: 28.0
+  z: -1367.5
+  yaw: 176.29872
+  pitch: 13.200003
+money: '30.0'

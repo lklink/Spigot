@@ -1,0 +1,21 @@
+lastAccountName: nico246
+timestamps:
+  login: 1434415015490
+  lastteleport: 1434415057591
+  logout: 1434415153445
+ipAddress: 181.129.87.149
+lastlocation:
+  world: spawn
+  x: -612.7682328040318
+  y: 28.0
+  z: -1415.315635870351
+  yaw: 176.7487
+  pitch: 13.200003
+logoutlocation:
+  world: spawn
+  x: -631.4055469091892
+  y: 48.0
+  z: -2429.08998997323
+  yaw: -18.518341
+  pitch: 7.199978
+money: '30.0'

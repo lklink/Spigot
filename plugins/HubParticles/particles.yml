@@ -1,0 +1,14 @@
+list:
+- Bienvenido
+Bienvenido:
+  world: Beta
+  x: -51
+  y: 84
+  z: 159
+  particle: FLAME
+  speed: 0.04
+  amount: 20
+  frequency: 1
+  offsetx: 0.1
+  offsety: 0.1
+  offsetz: 0.1

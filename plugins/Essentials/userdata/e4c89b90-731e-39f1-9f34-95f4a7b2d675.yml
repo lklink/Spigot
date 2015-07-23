@@ -1,0 +1,21 @@
+lastAccountName: NateSkaker
+timestamps:
+  login: 1433722263294
+  lastteleport: 1433722381897
+  logout: 1433722536073
+ipAddress: 190.207.56.21
+lastlocation:
+  world: juegos
+  x: -1407.8904220670054
+  y: 34.0
+  z: 3973.44776597546
+  yaw: -193.40895
+  pitch: 9.749997
+logoutlocation:
+  world: juegos
+  x: 4693.903836402166
+  y: 52.0
+  z: 1059.3235700470823
+  yaw: 219.20045
+  pitch: 18.000004
+money: '30.0'

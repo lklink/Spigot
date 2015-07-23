@@ -1,0 +1,21 @@
+lastAccountName: SrDiestroMC
+timestamps:
+  login: 1435129732283
+  lastteleport: 1435129758249
+  logout: 1435129768874
+ipAddress: 177.229.67.9
+lastlocation:
+  world: world
+  x: -64.38766563361872
+  y: 69.0
+  z: 279.8800927388138
+  yaw: -75.0108
+  pitch: 11.46955
+logoutlocation:
+  world: spawn
+  x: 536.6773837177163
+  y: 39.0
+  z: -1067.4884315950665
+  yaw: 89.957886
+  pitch: -29.512665
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: Andres28PRO
+timestamps:
+  login: 1436124687855
+  lastteleport: 1436124705458
+  logout: 1436124728321
+ipAddress: 187.192.35.41
+lastlocation:
+  world: spawn
+  x: -706.3349846701537
+  y: 9.0
+  z: -1482.3397283161507
+  yaw: -80.12472
+  pitch: 17.927364
+logoutlocation:
+  world: spawn
+  x: -614.4009711068202
+  y: 28.0
+  z: -1379.6880454798838
+  yaw: -174.9492
+  pitch: 3.3895125
+socialspy: false
+money: '30.0'

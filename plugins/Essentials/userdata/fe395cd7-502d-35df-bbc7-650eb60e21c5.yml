@@ -1,0 +1,23 @@
+lastAccountName: Nelson
+timestamps:
+  login: 1432093441995
+  lastteleport: 1430788643121
+  logout: 1432093498013
+ipAddress: 179.8.202.77
+lastlocation:
+  world: plotworld
+  x: -58.75733933677959
+  y: 66.0
+  z: 121.6999999880791
+  yaw: 232.34995
+  pitch: 15.450039
+logoutlocation:
+  world: plotworld
+  x: -45.69400274716469
+  y: 65.0
+  z: 86.25904343610648
+  yaw: 350.85413
+  pitch: 29.699587
+socialspy: false
+afk: false
+money: '30.0'

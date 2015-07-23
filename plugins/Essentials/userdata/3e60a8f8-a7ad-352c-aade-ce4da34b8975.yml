@@ -1,0 +1,22 @@
+lastAccountName: Jona
+timestamps:
+  login: 1433305883887
+  lastteleport: 1433305959341
+  logout: 1433306445994
+ipAddress: 200.74.19.208
+lastlocation:
+  world: plotworld
+  x: -168.05475982766703
+  y: 65.5
+  z: -112.87231263672514
+  yaw: -36.70785
+  pitch: 29.178064
+logoutlocation:
+  world: survival
+  x: 138.80034406747475
+  y: 64.0
+  z: 258.7395330579993
+  yaw: -223.77246
+  pitch: 12.505503
+socialspy: false
+money: '30.0'

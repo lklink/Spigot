@@ -1,0 +1,22 @@
+lastAccountName: Foogles
+timestamps:
+  login: 1433983604315
+  lastteleport: 1433867176543
+  logout: 1433983776978
+ipAddress: 200.87.40.17
+lastlocation:
+  world: juegos
+  x: -1395.4739336992643
+  y: 28.0
+  z: 4021.736913707456
+  yaw: 180.541
+  pitch: 29.999588
+logoutlocation:
+  world: plotworld
+  x: 61.02097440367211
+  y: 65.0
+  z: -219.44474088863385
+  yaw: -174.75134
+  pitch: -43.649967
+socialspy: false
+money: '30.0'

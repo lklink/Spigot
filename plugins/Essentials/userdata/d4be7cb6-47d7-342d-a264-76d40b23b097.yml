@@ -1,0 +1,30 @@
+lastAccountName: MrGopes
+timestamps:
+  login: 1436648847311
+  logout: 1436649120937
+  lastteleport: 1436648901511
+ipAddress: 190.5.56.230
+lastlocation:
+  world: spawn
+  x: -615.968317082568
+  y: 27.0
+  z: -1455.8120051398716
+  yaw: -184.79948
+  pitch: 5.468815
+homes:
+  home:
+    world: survival
+    x: -27.69999998807907
+    y: 102.0
+    z: 58.1949273829381
+    yaw: 109.6186
+    pitch: 34.87159
+socialspy: false
+logoutlocation:
+  world: juegos
+  x: -883.3000000119209
+  y: 6.0
+  z: 3655.036181322987
+  yaw: -273.4547
+  pitch: 28.729988
+money: '30.0'

@@ -1,0 +1,25 @@
+name=fuck_the_police
+residents=nicobkn45,porotakilemo
+mayor=nicobkn45
+assistants=
+
+
+townBoard=/town set board [msg]
+tag=
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+bonusBlocks=0
+purchasedBlocks=0
+taxpercent=false
+taxes=0.0
+plotPrice=0.0
+plotTax=0.0
+commercialPlotPrice=0.0
+commercialPlotTax=0.0
+embassyPlotPrice=0.0
+embassyPlotTax=0.0
+hasUpkeep=true
+open=false
+adminDisabledPvP=false
+public=true
+homeBlock=survival,15,-5
+spawn=survival,252.21225437762797,64.0,-76.44153928707819,1.6499571,90.90035

@@ -1,0 +1,21 @@
+lastAccountName: cristian123
+timestamps:
+  login: 1434590810673
+  lastteleport: 1434590961410
+  logout: 1434590966754
+ipAddress: 186.178.42.73
+lastlocation:
+  world: juegos
+  x: -1395.7568928238752
+  y: 28.0
+  z: 3982.340650469632
+  yaw: -175.35007
+  pitch: -2.8499992
+logoutlocation:
+  world: Factions
+  x: -275.91539918022994
+  y: 79.0
+  z: -298.6606724888221
+  yaw: 22.009222
+  pitch: 11.399999
+money: '30.0'

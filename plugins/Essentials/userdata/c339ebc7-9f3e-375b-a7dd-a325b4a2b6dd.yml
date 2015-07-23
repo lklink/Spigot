@@ -1,0 +1,23 @@
+lastAccountName: maat144s
+timestamps:
+  login: 1428283378959
+  lastteleport: 1428285265918
+  logout: 1428285415637
+ipAddress: 190.215.172.195
+lastlocation:
+  world: juegos
+  x: -1446.699999988079
+  y: 28.0
+  z: -572.0298021130158
+  yaw: 230.40575
+  pitch: 12.000026
+logoutlocation:
+  world: juegos
+  x: -952.1420799692961
+  y: 123.0
+  z: -524.7335071001177
+  yaw: -178.50262
+  pitch: 5.4000587
+socialspy: false
+afk: false
+money: '30.0'

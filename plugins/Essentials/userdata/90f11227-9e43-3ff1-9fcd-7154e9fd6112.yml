@@ -1,0 +1,21 @@
+lastAccountName: isaac
+timestamps:
+  login: 1433717131556
+  logout: 1433718783340
+ipAddress: 201.148.213.198
+lastlocation:
+  world: juegos
+  x: -1368.0198738768763
+  y: 28.0
+  z: 3991.1942600984526
+  yaw: -110.45898
+  pitch: 23.249569
+logoutlocation:
+  world: SkyWars
+  x: 0.9902992889039591
+  y: 51.0
+  z: -25.94999998807907
+  yaw: 354.13806
+  pitch: 5.895997
+socialspy: false
+money: '30.0'

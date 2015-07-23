@@ -1,0 +1,30 @@
+lastAccountName: luife3000
+timestamps:
+  login: 1433252329850
+  lastteleport: 1433252197193
+  logout: 1433252462914
+ipAddress: 191.116.71.105
+lastlocation:
+  world: plotworld
+  x: 97.4635676524946
+  y: 65.0
+  z: -172.44094398487218
+  yaw: 260.0993
+  pitch: 16.050026
+logoutlocation:
+  world: survival
+  x: 88.77568572431598
+  y: 64.0
+  z: 250.70691218650492
+  yaw: 359.85
+  pitch: 25.499994
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 297.9664886437933
+    y: 66.0
+    z: 177.20846611804913
+    yaw: -206.69986
+    pitch: 25.200006
+money: '540.0'

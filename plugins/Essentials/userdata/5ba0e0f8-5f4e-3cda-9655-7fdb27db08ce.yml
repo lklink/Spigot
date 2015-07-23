@@ -1,0 +1,30 @@
+lastAccountName: Vahino
+timestamps:
+  login: 1426741376457
+  logout: 1426741512060
+  lastteleport: 1426621664983
+ipAddress: 200.104.83.149
+logoutlocation:
+  world: world
+  x: -204.60425655797914
+  y: 59.0
+  z: 118.27737776265796
+  yaw: 118.64972
+  pitch: 26.100111
+homes:
+  home:
+    world: world
+    x: -205.89275670705308
+    y: 59.0
+    z: 111.14301502462548
+    yaw: -326.10162
+    pitch: 32.39997
+lastlocation:
+  world: world
+  x: -344.03128306919047
+  y: 57.0
+  z: 267.50630512922777
+  yaw: 309.44946
+  pitch: 17.399912
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: allen12
+timestamps:
+  login: 1432961127993
+  lastteleport: 1432960283651
+  logout: 1432962826930
+ipAddress: 186.91.235.136
+lastlocation:
+  world: juegos
+  x: -1398.0239128358296
+  y: 43.0
+  z: 3965.5720231432642
+  yaw: 269.61743
+  pitch: 8.380999
+logoutlocation:
+  world: survival
+  x: 103.14056705662533
+  y: 63.0
+  z: 631.3747434137279
+  yaw: 343.16797
+  pitch: 18.18133
+socialspy: false
+money: '30.0'

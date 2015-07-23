@@ -1,0 +1,22 @@
+lastAccountName: matias587
+timestamps:
+  login: 1434780915421
+  logout: 1434782193948
+  lastteleport: 1434781276919
+ipAddress: 191.112.19.86
+lastlocation:
+  world: survival
+  x: 31.699999988079057
+  y: 65.0
+  z: 39.849111496955885
+  yaw: 346.34082
+  pitch: 62.54999
+logoutlocation:
+  world: survival
+  x: 416.69999998807907
+  y: 74.0
+  z: -0.6999999880790666
+  yaw: 231.20294
+  pitch: 14.700067
+socialspy: false
+money: '30.0'

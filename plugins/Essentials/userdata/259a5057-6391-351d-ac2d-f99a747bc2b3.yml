@@ -1,0 +1,20 @@
+lastAccountName: jhonatan
+timestamps:
+  login: 1434480641293
+  logout: 1434480875323
+ipAddress: 190.152.128.231
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -694.3740975548299
+  y: 8.0
+  z: -1505.076008562881
+  yaw: 225.7987
+  pitch: 13.200004
+money: '30.0'

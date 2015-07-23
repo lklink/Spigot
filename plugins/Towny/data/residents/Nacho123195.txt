@@ -1,0 +1,11 @@
+lastOnline=1435890283970
+registered=1434945441267
+isNPC=false
+title=
+surname=
+town=FuriusPvP
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

@@ -1,0 +1,21 @@
+lastAccountName: salseito
+timestamps:
+  login: 1433625643371
+  logout: 1433625922594
+ipAddress: 200.104.45.36
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1468.4206424951517
+  y: 10.0
+  z: 4022.517370891908
+  yaw: -26.308973
+  pitch: 53.099987
+socialspy: false
+money: '30.0'

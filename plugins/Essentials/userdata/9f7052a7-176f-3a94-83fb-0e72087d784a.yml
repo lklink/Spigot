@@ -1,0 +1,30 @@
+lastAccountName: xXalexskate13Xx
+timestamps:
+  login: 1434311635768
+  logout: 1434321538410
+  lastteleport: 1434317981696
+ipAddress: 200.86.231.196
+lastlocation:
+  world: juegos
+  x: -1398.6172362024438
+  y: 17.0
+  z: 3965.5287315189407
+  yaw: -177.20912
+  pitch: -31.350492
+logoutlocation:
+  world: survival
+  x: -1503.634303403156
+  y: 201.0
+  z: 5220.632636985647
+  yaw: 42.60742
+  pitch: 9.750007
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: -1502.099737469349
+    y: 201.0
+    z: 5223.674689057578
+    yaw: 88.06071
+    pitch: 27.00002
+money: '20895.0'

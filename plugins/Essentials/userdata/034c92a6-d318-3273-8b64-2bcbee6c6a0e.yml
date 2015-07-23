@@ -1,0 +1,21 @@
+lastAccountName: barreytor
+timestamps:
+  login: 1436817503096
+  lastteleport: 1436817882062
+  logout: 1436817983042
+ipAddress: 190.47.245.105
+lastlocation:
+  world: juegos
+  x: -1021.2902777553134
+  y: 50.0
+  z: -94.86485698427977
+  yaw: 212.44148
+  pitch: 34.94998
+money: '10030.0'
+logoutlocation:
+  world: spawn
+  x: -695.0397355500029
+  y: 6.351397594807183
+  z: -1410.6575977235639
+  yaw: 43.12491
+  pitch: 1.6020279

@@ -1,0 +1,22 @@
+lastAccountName: papatata1234
+timestamps:
+  login: 1436910007049
+  lastteleport: 1436910568413
+  logout: 1436910799845
+ipAddress: 190.164.47.21
+lastlocation:
+  world: spawn
+  x: -623.9589971797568
+  y: 49.0
+  z: -2424.9441897789798
+  yaw: 50.549225
+  pitch: 24.839998
+logoutlocation:
+  world: spawn
+  x: -595.2167470694384
+  y: 28.0
+  z: -1401.9066536994933
+  yaw: 68.47507
+  pitch: -36.198006
+socialspy: false
+money: '30.0'

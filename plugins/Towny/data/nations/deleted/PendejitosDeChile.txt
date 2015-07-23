@@ -1,0 +1,7 @@
+towns=MoreAttacks
+capital=MoreAttacks
+assistants=
+allies=
+enemies=
+taxes=0.0
+neutral=false

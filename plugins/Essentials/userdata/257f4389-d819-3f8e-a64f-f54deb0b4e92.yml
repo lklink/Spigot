@@ -1,0 +1,22 @@
+lastAccountName: MiniGamer_
+timestamps:
+  login: 1434141635542
+  lastteleport: 1434141027672
+  logout: 1434141725172
+ipAddress: 201.243.169.131
+lastlocation:
+  world: spawn
+  x: -614.9690060785949
+  y: 28.0
+  z: -1412.986291471983
+  yaw: -198.75389
+  pitch: 4.2249994
+logoutlocation:
+  world: plotworld
+  x: 128.27179520904534
+  y: 65.0
+  z: -219.47615259371082
+  yaw: 17.343536
+  pitch: 14.7653055
+socialspy: false
+money: '30.0'

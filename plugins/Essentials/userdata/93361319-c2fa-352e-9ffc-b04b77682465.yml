@@ -1,0 +1,20 @@
+lastAccountName: GravityCube
+timestamps:
+  login: 1431396154515
+  logout: 1431396169966
+ipAddress: 200.120.242.20
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -952.5
+  y: 130.0
+  z: -524.5
+  yaw: -180.33606
+  pitch: 30.553192
+money: '30.0'

@@ -1,0 +1,32 @@
+lastAccountName: 0Pipe0
+timestamps:
+  login: 1435964303392
+  lastteleport: 1435964316851
+  logout: 1435964452366
+  mute: 0
+ipAddress: 181.163.177.186
+lastlocation:
+  world: spawn
+  x: -613.4996241756598
+  y: 28.0
+  z: -1367.7492261052334
+  yaw: 180.5251
+  pitch: 61.302
+homes:
+  home:
+    world: survival
+    x: -39.11105105362772
+    y: 60.0
+    z: 420.0437575312958
+    yaw: -171.29662
+    pitch: 33.45008
+logoutlocation:
+  world: survival
+  x: -38.32253312779826
+  y: 41.0
+  z: 459.57780217043
+  yaw: -87.147064
+  pitch: 16.05023
+socialspy: false
+muted: false
+money: '30.0'

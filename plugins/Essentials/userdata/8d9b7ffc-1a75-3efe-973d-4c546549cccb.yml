@@ -1,0 +1,22 @@
+lastAccountName: DelFincito
+timestamps:
+  login: 1433118860094
+  lastteleport: 1433123111074
+  logout: 1433123336547
+ipAddress: 190.100.167.20
+lastlocation:
+  world: survival
+  x: -772.2400567879766
+  y: 72.0
+  z: 2978.827175220953
+  yaw: 217.66168
+  pitch: 57.000042
+logoutlocation:
+  world: juegos
+  x: -1395.5967312172806
+  y: 28.0
+  z: 4014.317247185493
+  yaw: 209.34106
+  pitch: 14.250001
+socialspy: false
+money: '30.0'

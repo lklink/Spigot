@@ -1,0 +1,22 @@
+lastAccountName: Andres
+timestamps:
+  login: 1435024616513
+  lastteleport: 1435023848025
+  logout: 1435025083331
+ipAddress: 181.211.60.36
+lastlocation:
+  world: juegos
+  x: -1393.0677962888158
+  y: 28.0
+  z: 4009.2651649622253
+  yaw: -148.1998
+  pitch: 0.74998593
+logoutlocation:
+  world: juegos
+  x: -1398.0404713209718
+  y: 6.0
+  z: 4024.106851375108
+  yaw: 67.19949
+  pitch: 22.799973
+socialspy: false
+money: '30.0'

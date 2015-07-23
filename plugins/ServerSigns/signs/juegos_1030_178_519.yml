@@ -1,0 +1,22 @@
+permission: ''
+world: juegos
+X: 1030
+Y: 178
+Z: 519
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- "/broadcast &3&l&o[&4Equipo Rojo&3&l&o] &e&l&o \xa1Esta Dominando La Torre!"
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

@@ -1,0 +1,31 @@
+lastAccountName: bubbanohdish
+timestamps:
+  login: 1426373867341
+  logout: 1426380698047
+  lastteleport: 1426380574428
+ipAddress: 190.160.163.160
+logoutlocation:
+  world: world
+  x: -2520.685060277063
+  y: 106.0
+  z: 2639.8983521446853
+  yaw: 227.27051
+  pitch: 28.889423
+lastlocation:
+  world: world
+  x: -56.45652367339835
+  y: 74.09042162143827
+  z: 275.69999998807936
+  yaw: -1.0595381
+  pitch: 16.462809
+afk: false
+homes:
+  arbol:
+    world: world
+    x: 135.40795905344922
+    y: 70.0
+    z: 105.89403624118103
+    yaw: -168.54109
+    pitch: 32.38626
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: LACL
+timestamps:
+  login: 1437264699853
+  lastteleport: 1436983970412
+  logout: 1437264861160
+ipAddress: 190.211.6.235
+lastlocation:
+  world: survival_nether
+  x: -13.723292106848689
+  y: 66.24918707874468
+  z: 81.8067210881875
+  yaw: -236.17438
+  pitch: 47.69996
+logoutlocation:
+  world: plotworld
+  x: 223.69999998807907
+  y: 62.0
+  z: -108.30000001192096
+  yaw: 127.500854
+  pitch: 74.25002
+socialspy: false
+money: '550.0'

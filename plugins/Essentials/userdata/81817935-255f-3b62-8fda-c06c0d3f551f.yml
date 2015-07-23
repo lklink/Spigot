@@ -1,0 +1,20 @@
+lastAccountName: nano
+timestamps:
+  login: 1433384075479
+  logout: 1433384239369
+ipAddress: 190.129.40.180
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -324.1592339154036
+  y: 69.0
+  z: -328.92179618073396
+  yaw: -148.39073
+  pitch: -4.200023
+money: '30.0'

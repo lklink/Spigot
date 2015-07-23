@@ -1,0 +1,21 @@
+lastAccountName: Chuchuina
+timestamps:
+  login: 1434143207646
+  logout: 1434143245247
+ipAddress: 200.120.77.118
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1396.5
+  y: 55.0
+  z: 4033.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

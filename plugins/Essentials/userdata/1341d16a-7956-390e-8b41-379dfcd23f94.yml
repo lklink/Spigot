@@ -1,0 +1,21 @@
+lastAccountName: ElPixar_Gamez
+timestamps:
+  login: 1434062037990
+  lastteleport: 1434062294653
+  logout: 1434062441413
+ipAddress: 200.74.124.137
+lastlocation:
+  world: survival
+  x: -2.5445231023588466
+  y: 114.0
+  z: 14.33379758292938
+  yaw: -83.76858
+  pitch: -5.088039
+logoutlocation:
+  world: survival
+  x: -1570.3016124668297
+  y: 96.0
+  z: 3749.699999988079
+  yaw: 64.16329
+  pitch: 32.162647
+money: '30.0'

@@ -1,0 +1,23 @@
+lastAccountName: piphd2001
+timestamps:
+  login: 1430959899088
+  lastteleport: 1430961186883
+  logout: 1430962241746
+ipAddress: 200.120.188.171
+lastlocation:
+  world: juegos
+  x: -950.5474468006477
+  y: 123.0
+  z: -513.1861730867944
+  yaw: -8.273453
+  pitch: 36.600006
+logoutlocation:
+  world: juegos
+  x: -981.5556439851358
+  y: -156.1075492754334
+  z: -554.4926970767082
+  yaw: -241.236
+  pitch: -37.846813
+socialspy: false
+afk: false
+money: '30.0'

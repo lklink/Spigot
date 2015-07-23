@@ -1,0 +1,22 @@
+lastAccountName: ojarata
+timestamps:
+  login: 1434316416763
+  lastteleport: 1434317810931
+  logout: 1434317916305
+ipAddress: 190.101.61.85
+lastlocation:
+  world: juegos
+  x: -875.551854601262
+  y: 8.0
+  z: 3713.6382080679773
+  yaw: -115.22677
+  pitch: 17.528828
+logoutlocation:
+  world: juegos
+  x: -1114.5181834959478
+  y: 52.0
+  z: 2780.8607992054112
+  yaw: -158.81268
+  pitch: 24.564253
+socialspy: false
+money: '10030.0'

@@ -1,0 +1,22 @@
+lastAccountName: sam400
+timestamps:
+  login: 1436232182958
+  lastteleport: 1436233738801
+  logout: 1436233779259
+ipAddress: 179.53.175.247
+lastlocation:
+  world: plotworld
+  x: 39.85382455888199
+  y: 65.0
+  z: 155.3811655235291
+  yaw: -356.72168
+  pitch: -11.550002
+logoutlocation:
+  world: survival
+  x: -19.5
+  y: 112.5
+  z: 47.5
+  yaw: 175.67664
+  pitch: 23.86662
+socialspy: false
+money: '30.0'

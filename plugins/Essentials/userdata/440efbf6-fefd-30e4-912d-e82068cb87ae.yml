@@ -1,0 +1,24 @@
+lastAccountName: GamerNacho761
+timestamps:
+  login: 1437411070960
+  logout: 1437413516433
+  lastteleport: 1437413399358
+  kits:
+    oro: 1437412479146
+ipAddress: 190.44.45.165
+lastlocation:
+  world: plotworld
+  x: 43.790064336015355
+  y: 63.7531999805212
+  z: -12.777163023517803
+  yaw: 358.9859
+  pitch: 16.236992
+logoutlocation:
+  world: plotworld
+  x: 15.843333342952228
+  y: 66.0
+  z: 10.699999988079073
+  yaw: 358.2796
+  pitch: 57.25787
+socialspy: false
+money: '30.0'

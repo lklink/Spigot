@@ -1,0 +1,22 @@
+lastAccountName: Zinocks
+timestamps:
+  login: 1433259142979
+  logout: 1433259716603
+  lastteleport: 1433259208036
+ipAddress: 186.106.156.222
+lastlocation:
+  world: juegos
+  x: -1388.759943304977
+  y: 28.0
+  z: 3980.3774354316006
+  yaw: 269.64096
+  pitch: 15.899583
+logoutlocation:
+  world: Factions
+  x: -355.6382201373661
+  y: 37.0
+  z: -34.95748567899687
+  yaw: 210.2594
+  pitch: -50.999996
+socialspy: false
+money: '30.0'

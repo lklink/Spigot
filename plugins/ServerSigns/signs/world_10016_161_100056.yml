@@ -1,0 +1,22 @@
+permission: ''
+world: world
+X: 10016
+Y: 161
+Z: 100056
+price: 0.0
+cooldown: 0
+globalCooldown: 600
+confirmation: false
+commands:
+- /effect <player> 1 60 2
+grantPermissions: []
+lastGlobalUse: 1427248249397
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

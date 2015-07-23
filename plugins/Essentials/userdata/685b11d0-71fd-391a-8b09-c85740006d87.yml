@@ -1,0 +1,54 @@
+lastAccountName: elcrackboy
+timestamps:
+  login: 1437618807474
+  logout: 1437618871576
+  lastteleport: 1437618737301
+  kits:
+    youtuber: 1435269924669
+    oro: 1436748731610
+    esmeralda: 1437013778601
+    nuevo: 1436578119331
+    plata: 1435269082907
+    user: 1437013847355
+ipAddress: 189.194.45.189
+lastlocation:
+  world: juegos
+  x: -12112.458794989228
+  y: 134.0
+  z: 4143.542297513469
+  yaw: 278.13565
+  pitch: 17.692387
+logoutlocation:
+  world: juegos
+  x: -12130.699999988079
+  y: 134.0
+  z: 4136.300000011921
+  yaw: -68.26337
+  pitch: -4.544781
+socialspy: false
+money: '10000.0'
+homes:
+  minigame:
+    world: juegos
+    x: -12104.300000011921
+    y: 134.0
+    z: 4143.489813395077
+    yaw: -271.194
+    pitch: 10.79991
+  lobby:
+    world: Beta
+    x: -51.63318633953642
+    y: 84.0
+    z: 158.9930449101719
+    yaw: -86.47388
+    pitch: 57.146667
+  azul:
+    world: juegos
+    x: -12124.428460339543
+    y: 134.0
+    z: 4034.9282764264
+    yaw: 272.17932
+    pitch: 4.019595
+nickname: §6elcrackboy
+afk: false
+teleportenabled: true

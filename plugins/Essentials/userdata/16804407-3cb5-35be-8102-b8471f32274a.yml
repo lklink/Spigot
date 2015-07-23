@@ -1,0 +1,22 @@
+lastAccountName: hastan
+timestamps:
+  login: 1434856910320
+  lastteleport: 1434683118267
+  logout: 1434857163882
+ipAddress: 179.60.73.219
+lastlocation:
+  world: survival
+  x: 330.2164711826598
+  y: 72.0
+  z: 24.79801961068739
+  yaw: -26.020836
+  pitch: 15.750001
+logoutlocation:
+  world: survival
+  x: 409.36475009531637
+  y: 75.0
+  z: 10.249586671914221
+  yaw: -359.7736
+  pitch: 26.249964
+socialspy: false
+money: '30.0'

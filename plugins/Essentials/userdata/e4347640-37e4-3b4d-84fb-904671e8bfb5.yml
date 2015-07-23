@@ -1,0 +1,30 @@
+lastAccountName: panxo2000
+timestamps:
+  login: 1429934283094
+  lastteleport: 1429939129987
+  logout: 1429940687990
+ipAddress: 186.78.8.85
+lastlocation:
+  world: survival_nether
+  x: 23.851794667304347
+  y: 55.0
+  z: 85.69999998807909
+  yaw: 340.18912
+  pitch: 44.700302
+money: '150.0'
+homes:
+  home:
+    world: survival
+    x: 6.5
+    y: 62.0
+    z: 540.5
+    yaw: 101.687256
+    pitch: 20.999971
+logoutlocation:
+  world: plotworld
+  x: -98.3891938347663
+  y: 65.0
+  z: -30.76318617176124
+  yaw: -101.84079
+  pitch: 25.349913
+socialspy: false

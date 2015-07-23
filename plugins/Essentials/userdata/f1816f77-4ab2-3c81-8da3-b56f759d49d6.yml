@@ -1,0 +1,21 @@
+lastAccountName: Flax15
+timestamps:
+  login: 1432858076846
+  lastteleport: 1432858136155
+  logout: 1432858231596
+ipAddress: 167.61.179.235
+lastlocation:
+  world: survival
+  x: -9.257887879451442
+  y: 48.0
+  z: 24.501645469403055
+  yaw: -182.16943
+  pitch: 2.4000018
+logoutlocation:
+  world: survival
+  x: -9.486092128077722
+  y: 111.0
+  z: 61.606967828114605
+  yaw: 259.28033
+  pitch: 57.90003
+money: '30.0'

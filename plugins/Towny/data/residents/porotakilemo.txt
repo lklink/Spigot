@@ -1,0 +1,11 @@
+lastOnline=1435968305886
+registered=1435952993517
+isNPC=false
+title=
+surname=
+town=fuck_the_police
+town-ranks=assistant
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

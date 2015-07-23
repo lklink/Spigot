@@ -1,0 +1,30 @@
+lastAccountName: DarthKay
+timestamps:
+  login: 1434833610004
+  lastteleport: 1434318198285
+  logout: 1434833670122
+ipAddress: 179.60.78.81
+lastlocation:
+  world: juegos
+  x: -1383.854072472303
+  y: 10.0
+  z: 3982.1979919328364
+  yaw: 12.090467
+  pitch: 7.6499023
+logoutlocation:
+  world: plotworld
+  x: 129.24605014643194
+  y: 85.875
+  z: -165.82398962598452
+  yaw: -272.6997
+  pitch: 17.700027
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: 239.69778759469935
+    y: 17.0
+    z: 171.23750001192093
+    yaw: -16.718872
+    pitch: 29.096525
+money: '10020.0'

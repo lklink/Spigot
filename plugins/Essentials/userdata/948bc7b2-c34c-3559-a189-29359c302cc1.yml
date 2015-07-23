@@ -1,0 +1,21 @@
+lastAccountName: ES_EBUEN_ANTHONY
+timestamps:
+  login: 1437370363472
+  lastteleport: 1437370409372
+  logout: 1437370504530
+ipAddress: 187.170.116.194
+lastlocation:
+  world: spawn
+  x: -613.1875590084986
+  y: 28.0
+  z: -1395.2128279302797
+  yaw: -183.97493
+  pitch: -5.1480036
+logoutlocation:
+  world: spawn
+  x: -621.7863406894404
+  y: 50.0
+  z: -2400.637133977592
+  yaw: 0.7961129
+  pitch: 6.99249
+money: '30.0'

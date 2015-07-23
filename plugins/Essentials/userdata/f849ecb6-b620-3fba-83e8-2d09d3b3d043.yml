@@ -1,0 +1,22 @@
+lastAccountName: Fiolnop
+timestamps:
+  login: 1433986089572
+  logout: 1433987710464
+  lastteleport: 1433986160550
+ipAddress: 190.237.138.14
+lastlocation:
+  world: juegos
+  x: -1391.8018012795021
+  y: 89.0
+  z: 4008.314002079523
+  yaw: 191.24973
+  pitch: 8.099984
+logoutlocation:
+  world: plotworld
+  x: 19.436387033444344
+  y: 73.0
+  z: 19.804067433113232
+  yaw: -31.480774
+  pitch: 30.37501
+socialspy: false
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: Diego
+timestamps:
+  login: 1429841065084
+  logout: 1429841094649
+ipAddress: 191.113.38.201
+lastlocation:
+  world: world
+  x: -76.0
+  y: 69.0
+  z: 280.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -75.5
+  y: 69.0
+  z: 274.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

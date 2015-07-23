@@ -1,0 +1,20 @@
+lastAccountName: DigiTamer19xx
+timestamps:
+  login: 1433052587930
+  logout: 1433052598308
+ipAddress: 200.104.164.151
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.609
+  pitch: 30.149588
+money: '30.0'

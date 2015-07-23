@@ -1,0 +1,30 @@
+lastAccountName: Niniano
+timestamps:
+  login: 1436137871523
+  lastteleport: 1436138588243
+  logout: 1436138675433
+ipAddress: 190.20.37.144
+lastlocation:
+  world: spawn
+  x: -613.7649560729935
+  y: 28.0
+  z: -1379.1536938162233
+  yaw: -134.34302
+  pitch: 16.069752
+homes:
+  home:
+    world: survival
+    x: 76.77555491117582
+    y: 63.0
+    z: 612.9772877529927
+    yaw: 343.08722
+    pitch: 2.6703873
+logoutlocation:
+  world: survival
+  x: -11.646780476121586
+  y: 31.0
+  z: 61.99156241580101
+  yaw: -12.774048
+  pitch: 26.144432
+socialspy: false
+money: '30.0'

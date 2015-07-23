@@ -1,0 +1,22 @@
+lastAccountName: grifinben
+timestamps:
+  login: 1433634369798
+  logout: 1433634373398
+  lastteleport: 1432508497640
+ipAddress: 186.79.120.215
+lastlocation:
+  world: survival
+  x: -2.7168679815006973
+  y: 51.0
+  z: 1.8203654766431625
+  yaw: -12.662783
+  pitch: 44.941856
+logoutlocation:
+  world: plotworld
+  x: -15.552055522104821
+  y: 65.0
+  z: 131.36933308499664
+  yaw: 256.23688
+  pitch: 36.499474
+socialspy: false
+money: '30.0'

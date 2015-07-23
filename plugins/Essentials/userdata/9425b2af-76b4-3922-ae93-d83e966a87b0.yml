@@ -1,0 +1,21 @@
+lastAccountName: yurgen
+timestamps:
+  login: 1435950889719
+  lastteleport: 1435951143935
+  logout: 1435951371468
+ipAddress: 190.66.186.227
+lastlocation:
+  world: spawn
+  x: -635.1068437633147
+  y: 6.0
+  z: -1520.0838519474992
+  yaw: 63.524628
+  pitch: 8.700001
+logoutlocation:
+  world: spawn
+  x: -613.7157379668182
+  y: 28.0
+  z: -1364.8806821613107
+  yaw: -3.0748901
+  pitch: 2.8019996
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: Ezcio123123
+timestamps:
+  login: 1432347812988
+  lastteleport: 1432347464313
+  logout: 1432348248959
+ipAddress: 181.75.119.206
+lastlocation:
+  world: juegos
+  x: -1398.3493153210393
+  y: 28.0
+  z: 3953.950198824249
+  yaw: -175.25899
+  pitch: -9.900412
+logoutlocation:
+  world: juegos
+  x: -1030.5686896771072
+  y: 35.0
+  z: -101.18468069125194
+  yaw: 195.44902
+  pitch: 21.000006
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: knales11
+timestamps:
+  login: 1435102209622
+  logout: 1435103879599
+  lastteleport: 1435102242062
+ipAddress: 190.22.227.245
+logoutlocation:
+  world: spawn
+  x: -623.9190160280112
+  y: 48.5
+  z: -2442.2579660362367
+  yaw: -167.01578
+  pitch: 8.7298975
+socialspy: false
+lastlocation:
+  world: survival
+  x: 389.71451087608534
+  y: 104.68180124032963
+  z: 276.25315103683437
+  yaw: -97.43373
+  pitch: 8.008311
+money: '10000000000000'

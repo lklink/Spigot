@@ -1,0 +1,25 @@
+name=AngryBlades
+residents=Elhpipe
+mayor=Elhpipe
+assistants=
+
+
+townBoard=/town set board [msg]
+tag=
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+bonusBlocks=0
+purchasedBlocks=0
+taxpercent=false
+taxes=0.0
+plotPrice=0.0
+plotTax=0.0
+commercialPlotPrice=0.0
+commercialPlotTax=0.0
+embassyPlotPrice=0.0
+embassyPlotTax=0.0
+hasUpkeep=true
+open=false
+adminDisabledPvP=false
+public=true
+homeBlock=survival,64,-10
+spawn=survival,1034.4085973637111,65.0,-150.61402067942052,-2.9999976,176.03064

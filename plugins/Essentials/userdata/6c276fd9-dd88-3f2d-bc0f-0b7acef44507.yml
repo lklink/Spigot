@@ -1,0 +1,21 @@
+lastAccountName: nicobkn4
+timestamps:
+  login: 1437531329477
+  logout: 1437531382430
+ipAddress: 190.46.43.250
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: spawn
+  x: -609.8375985245162
+  y: 28.0
+  z: -1419.0981928899178
+  yaw: -158.92494
+  pitch: 35.952007
+socialspy: false
+money: '30.0'

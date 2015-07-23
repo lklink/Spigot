@@ -1,0 +1,22 @@
+lastAccountName: MatiasCoif
+timestamps:
+  login: 1433897728970
+  logout: 1433898156168
+  lastteleport: 1433897763820
+ipAddress: 181.161.250.32
+lastlocation:
+  world: survival_nether
+  x: 87.29059650804764
+  y: 85.0
+  z: 48.10661405773462
+  yaw: -0.18801984
+  pitch: 35.64308
+logoutlocation:
+  world: SkyWars
+  x: -0.5522420992556558
+  y: 51.104080378093045
+  z: 19.391525041279642
+  yaw: -176.969
+  pitch: 31.177652
+socialspy: false
+money: '30.0'

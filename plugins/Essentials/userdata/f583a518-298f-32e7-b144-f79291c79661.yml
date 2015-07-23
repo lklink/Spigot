@@ -1,0 +1,22 @@
+lastAccountName: felipe
+timestamps:
+  login: 1435020759621
+  logout: 1435021835290
+  lastteleport: 1435020359343
+ipAddress: 181.72.91.129
+lastlocation:
+  world: juegos
+  x: -1392.1986815541159
+  y: 28.0
+  z: 4008.240687849806
+  yaw: 207.15001
+  pitch: -7.3499994
+logoutlocation:
+  world: survival
+  x: -8.415797362294349
+  y: 121.0
+  z: -3.6398046160923707
+  yaw: 271.9405
+  pitch: 18.149803
+socialspy: false
+money: '29.0'

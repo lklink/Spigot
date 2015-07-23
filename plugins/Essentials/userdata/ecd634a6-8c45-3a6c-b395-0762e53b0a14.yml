@@ -1,0 +1,20 @@
+lastAccountName: tomaxo14
+timestamps:
+  login: 1436735463826
+  logout: 1436735503477
+ipAddress: 191.119.24.15
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1402.5
+  y: 53.0
+  z: 4030.5
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

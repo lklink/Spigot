@@ -1,0 +1,21 @@
+lastAccountName: notch
+timestamps:
+  login: 1432683572329
+  lastteleport: 1432683726338
+  logout: 1432684041449
+ipAddress: 186.107.201.221
+lastlocation:
+  world: juegos
+  x: -1405.4864269533962
+  y: 28.0
+  z: 3970.3192608525387
+  yaw: -25.10905
+  pitch: 5.999588
+logoutlocation:
+  world: SkyWars
+  x: -6.702550511238354
+  y: 49.0
+  z: 10.86837243247616
+  yaw: 88.623566
+  pitch: 18.750008
+money: '30.0'

@@ -1,0 +1,59 @@
+permission: ''
+world: juegos
+X: -1400
+Y: 29
+Z: 4006
+price: 0.0
+cooldown: 60
+globalCooldown: 0
+confirmation: false
+commands:
+- /heal
+- /warp skywars
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  vakita025: 1433797944318
+  RICHARD: 1434859195862
+  BraulioIsaac: 1433883686043
+  Thetomash333: 1434234559796
+  antero: 1433857845111
+  JesusMartinez: 1434938536975
+  Randy654: 1435258460836
+  fabr1: 1434949538903
+  matias587: 1434780988681
+  gonzalo: 1433796103761
+  KalmStkzCTM: 1434857588619
+  Naikito: 1433970256336
+  jonatan: 1434759478791
+  mielsen: 1433899025146
+  elcrackboy: 1435516719687
+  raul_llanquileo: 1433813620258
+  JuegaLiver_YT: 1435374940424
+  thegaymer1134: 1434739830099
+  Griim: 1434768060330
+  Andres: 1435024704210
+  iZady: 1434579498344
+  C4LCeTiN: 1433715750512
+  hbnino: 1434919232549
+  PEPELOTAS_13: 1433891952795
+  kamikaze: 1435092207969
+  fer0boy: 1434926142677
+  extermijr: 1433983766726
+  Randroid75: 1434824122112
+  Papape980: 1433810435986
+  SrDuds_BR: 1433797666452
+  renato: 1434836438618
+  david: 1434917401765
+  papatata1234: 1434923912547
+  xporkurx: 1434780986181
+  Volrat: 1433101925717
+  gguhuhgyfy: 1433730611302
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

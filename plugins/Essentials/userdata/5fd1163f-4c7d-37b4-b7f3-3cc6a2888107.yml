@@ -1,0 +1,153 @@
+lastAccountName: _KuxoMC_
+timestamps:
+  login: 1437681178236
+  lastteleport: 1437607671975
+  kits:
+    tools: 1429905793148
+    firework: 1428111208800
+    color: 1429984305252
+    diamante: 1434318499353
+    esmeralda: 1435350461398
+    plata: 1433624832525
+  logout: 1437681155983
+ipAddress: 200.104.169.177
+lastlocation:
+  world: MundoPlots
+  x: 48.947046486996115
+  y: 120.35193648575672
+  z: 76.01819985156722
+  yaw: 90.696945
+  pitch: 5.762394
+socialspy: false
+logoutlocation:
+  world: juegos
+  x: -1485.6418324168158
+  y: 193.0
+  z: -790.6697600748168
+  yaw: -1.7103271
+  pitch: 5.700012
+homes:
+  coliseo:
+    world: world
+    x: 1000240.9908229689
+    y: 81.0
+    z: 34336.10608794528
+    yaw: -47.546143
+    pitch: 48.96787
+  skywars:
+    world: world
+    x: 999930.8546749942
+    y: 63.0
+    z: 34566.12671531571
+    yaw: -319.04736
+    pitch: 14.146739
+  jungla:
+    world: world
+    x: 1002263.5
+    y: 76.0
+    z: 34500.5
+    yaw: -110.90648
+    pitch: 45.704002
+  asd:
+    world: juegos
+    x: -1600.7803452267585
+    y: 36.0
+    z: -1035.3000000119205
+    yaw: -25.710724
+    pitch: 22.911377
+  cannon_:
+    world: juegos
+    x: -1731.5
+    y: 126.0
+    z: -716.5
+    yaw: -276.70126
+    pitch: 39.061802
+  cannon:
+    world: juegos
+    x: -1733.0116998590631
+    y: 127.99656664953042
+    z: -727.5714406389529
+    yaw: -9.111572
+    pitch: 70.60239
+  contru:
+    world: world
+    x: 999747.7705429192
+    y: 79.10338518043206
+    z: 34314.12318080192
+    yaw: 120.55349
+    pitch: 70.971054
+  sir:
+    world: world
+    x: 999748.6242265684
+    y: 240.52936763998758
+    z: 34313.07513206933
+    yaw: 1.3805499
+    pitch: 75.7704
+  sir1:
+    world: SkyWars
+    x: -33.12882518685628
+    y: 53.0
+    z: 1190.5545161237105
+    yaw: -49.261925
+    pitch: 36.049786
+  sir2:
+    world: SkyWars
+    x: -22.34361808925408
+    y: 49.111610857963356
+    z: 3685.544612011716
+    yaw: 180.3345
+    pitch: -5.2671037
+  sir3:
+    world: juegos
+    x: 972.3218167449936
+    y: 141.0
+    z: 596.7239587066044
+    yaw: 73.780754
+    pitch: 11.563902
+  sir4:
+    world: SkyWars
+    x: -0.012951977805988807
+    y: 52.621000843295626
+    z: 24.30986705326809
+    yaw: -175.94678
+    pitch: 25.783808
+  contru1:
+    world: juegos
+    x: -1614.2347874337233
+    y: 169.8424991733409
+    z: -678.9445990474615
+    yaw: -61.610027
+    pitch: 13.354152
+  globos:
+    world: juegos
+    x: -1477.4232558769745
+    y: 198.99652232621034
+    z: -926.264408173627
+    yaw: -227.1737
+    pitch: 73.18319
+  wnether:
+    world: survival_nether
+    x: 88.96045156499815
+    y: 90.0
+    z: 54.92717020128653
+    yaw: -250.32619
+    pitch: 50.41772
+  monta_a:
+    world: Factions
+    x: 1100.8009660603666
+    y: 107.0
+    z: -770.3000000119209
+    yaw: 355.53433
+    pitch: 21.535767
+  cast:
+    world: juegos
+    x: -1441.045245723751
+    y: 209.39533483326028
+    z: -781.5715536561114
+    yaw: -16.073822
+    pitch: 63.642902
+afk: false
+godmode: false
+money: '10000000000000'
+teleportenabled: true
+nickname: §3KuxoMC

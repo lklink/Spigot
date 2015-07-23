@@ -1,0 +1,21 @@
+lastAccountName: Erick
+timestamps:
+  login: 1433101101173
+  logout: 1433101125424
+ipAddress: 181.113.49.74
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -255.48699549126385
+  y: 80.0
+  z: -280.26172451021654
+  yaw: 269.20963
+  pitch: 70.79999
+socialspy: false
+money: '30.0'

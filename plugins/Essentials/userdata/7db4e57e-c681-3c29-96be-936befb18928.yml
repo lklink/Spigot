@@ -1,0 +1,21 @@
+lastAccountName: volkanito
+timestamps:
+  login: 1429906984917
+  logout: 1429906998169
+ipAddress: 190.22.137.246
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -953.5
+  y: 255.0
+  z: -525.5
+  yaw: 2.1000001
+  pitch: -0.45
+socialspy: false
+money: '30.0'

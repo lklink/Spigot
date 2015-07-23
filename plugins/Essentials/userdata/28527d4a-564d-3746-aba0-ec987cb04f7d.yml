@@ -1,0 +1,20 @@
+lastAccountName: danes
+timestamps:
+  login: 1434819227141
+  logout: 1434819245756
+ipAddress: 186.64.202.218
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 29.0
+  z: 4026.5
+  yaw: 0.45000002
+  pitch: -1.9499999
+money: '30.0'

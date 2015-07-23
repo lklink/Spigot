@@ -1,0 +1,23 @@
+lastAccountName: ventor
+timestamps:
+  login: 1437423651769
+  lastteleport: 1437414714741
+  logout: 1437423839884
+ipAddress: 186.104.216.181
+lastlocation:
+  world: Beta
+  x: -2.0162471718252624
+  y: 74.20000004768372
+  z: 131.02086662544903
+  yaw: 359.97958
+  pitch: -52.200012
+logoutlocation:
+  world: Beta
+  x: 35.31348588399459
+  y: 74.5
+  z: 159.42839428372395
+  yaw: 89.678986
+  pitch: -1.50008
+socialspy: false
+money: '20030.0'
+teleportenabled: true

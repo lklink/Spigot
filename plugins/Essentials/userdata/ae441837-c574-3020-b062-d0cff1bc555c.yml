@@ -1,0 +1,22 @@
+lastAccountName: GatoSinBotas
+timestamps:
+  login: 1433032229637
+  lastteleport: 1433003756046
+  logout: 1433032232088
+ipAddress: 186.156.99.9
+lastlocation:
+  world: juegos
+  x: -1394.2597039518364
+  y: 28.0
+  z: 4007.645723977318
+  yaw: -182.759
+  pitch: -16.650421
+logoutlocation:
+  world: survival
+  x: 57.14388630542372
+  y: 61.825986120242156
+  z: 24.14279398392936
+  yaw: -63.819614
+  pitch: -8.699999
+socialspy: false
+money: '30.0'

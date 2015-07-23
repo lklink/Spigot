@@ -1,0 +1,25 @@
+name=Tigerland
+residents=TigerGamer_YT
+mayor=TigerGamer_YT
+assistants=
+
+
+townBoard=/town set board [msg]
+tag=
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+bonusBlocks=0
+purchasedBlocks=0
+taxpercent=false
+taxes=0.0
+plotPrice=0.0
+plotTax=0.0
+commercialPlotPrice=0.0
+commercialPlotTax=0.0
+embassyPlotPrice=0.0
+embassyPlotTax=0.0
+hasUpkeep=true
+open=false
+adminDisabledPvP=false
+public=true
+homeBlock=survival,5,23
+spawn=survival,90.01388196585766,73.0,375.4107393280251,37.087753,211.31392

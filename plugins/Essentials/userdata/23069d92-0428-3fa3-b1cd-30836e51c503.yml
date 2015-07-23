@@ -1,0 +1,29 @@
+lastAccountName: sergio310
+timestamps:
+  login: 1435428096110
+  lastteleport: 1435429450828
+  logout: 1435429510285
+ipAddress: 186.58.106.29
+lastlocation:
+  world: survival
+  x: -1564.4543959740379
+  y: 104.5
+  z: 3824.788836461848
+  yaw: -268.19046
+  pitch: -6.3001227
+homes:
+  home:
+    world: survival
+    x: 338.699999988079
+    y: 71.0
+    z: -10.108109367445511
+    yaw: -102.969475
+    pitch: 7.9499855
+logoutlocation:
+  world: survival_nether
+  x: 49.53353215266076
+  y: 87.0
+  z: 78.77374707200926
+  yaw: 86.92607
+  pitch: -4.215974
+money: '29.0'

@@ -1,0 +1,22 @@
+lastAccountName: ariel134
+timestamps:
+  login: 1433708277604
+  logout: 1433708662620
+  lastteleport: 1433708630548
+ipAddress: 190.230.35.227
+lastlocation:
+  world: juegos
+  x: -1022.9049494171268
+  y: 36.0
+  z: -133.07207246963765
+  yaw: 180.29915
+  pitch: 26.09957
+logoutlocation:
+  world: SkyWars
+  x: 0.0880467585425501
+  y: 51.0
+  z: -25.68616839809286
+  yaw: 295.33807
+  pitch: 19.695995
+socialspy: false
+money: '30.0'

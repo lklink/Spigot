@@ -1,0 +1,22 @@
+lastAccountName: StichGamer
+timestamps:
+  login: 1435201940105
+  logout: 1435202223664
+  lastteleport: 1435202009561
+ipAddress: 189.231.22.97
+lastlocation:
+  world: world
+  x: -2.544529224034367
+  y: 72.0
+  z: 273.5100924464522
+  yaw: 247.047
+  pitch: 20.853773
+logoutlocation:
+  world: spawn
+  x: -619.8969035030406
+  y: 48.0
+  z: -2435.6121211801974
+  yaw: 302.4472
+  pitch: 18.218172
+socialspy: false
+money: '245.0'

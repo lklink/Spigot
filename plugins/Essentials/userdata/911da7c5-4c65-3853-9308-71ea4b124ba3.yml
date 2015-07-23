@@ -1,0 +1,24 @@
+lastAccountName: dylan
+timestamps:
+  login: 1434485734421
+  lastteleport: 1434485877641
+  logout: 1434486005395
+  mute: 1434488977947
+ipAddress: 201.252.35.155
+lastlocation:
+  world: spawn
+  x: -616.28747976171
+  y: 28.0
+  z: -1381.3129806399838
+  yaw: 158.29865
+  pitch: 9.450005
+logoutlocation:
+  world: spawn
+  x: -613.369402176472
+  y: 27.0
+  z: -1487.126165836898
+  yaw: 178.39864
+  pitch: -4.199997
+socialspy: false
+muted: true
+money: '30.0'

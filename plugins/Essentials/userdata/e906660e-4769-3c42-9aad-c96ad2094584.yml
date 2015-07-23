@@ -1,0 +1,22 @@
+lastAccountName: cristobal
+timestamps:
+  login: 1434473578299
+  logout: 1434473856480
+  lastteleport: 1434473752266
+ipAddress: 200.126.109.217
+lastlocation:
+  world: survival
+  x: -1562.5
+  y: 102.0
+  z: 3779.5
+  yaw: 355.50958
+  pitch: -21.300095
+logoutlocation:
+  world: survival
+  x: 67.69999998807907
+  y: 60.0
+  z: 76.23955770790039
+  yaw: 344.0312
+  pitch: 13.049992
+socialspy: false
+money: '30.0'

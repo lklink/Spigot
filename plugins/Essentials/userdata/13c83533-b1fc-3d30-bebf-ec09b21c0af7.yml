@@ -1,0 +1,22 @@
+lastAccountName: Nekooo
+timestamps:
+  login: 1434860429390
+  lastteleport: 1434859957372
+  logout: 1434860432892
+ipAddress: 190.47.156.173
+lastlocation:
+  world: plotworld
+  x: -290.23998523938184
+  y: 65.0
+  z: 118.1061212455409
+  yaw: 2.051771
+  pitch: 11.398738
+logoutlocation:
+  world: survival
+  x: -11.843046933301764
+  y: 112.0
+  z: 58.57171428246054
+  yaw: 130.21455
+  pitch: 36.47711
+socialspy: false
+money: '30.0'

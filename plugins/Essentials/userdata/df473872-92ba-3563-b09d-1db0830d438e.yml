@@ -1,0 +1,22 @@
+lastAccountName: cata
+timestamps:
+  login: 1434234195623
+  lastteleport: 1433633329339
+  logout: 1434234202621
+ipAddress: 190.164.163.90
+lastlocation:
+  world: juegos
+  x: -1395.4877406816638
+  y: 28.0
+  z: 3980.300000011921
+  yaw: 177.391
+  pitch: 1.3495868
+socialspy: false
+logoutlocation:
+  world: Factions
+  x: -65.7758103088138
+  y: 52.0
+  z: -330.69999998807907
+  yaw: 115.15832
+  pitch: 64.65001
+money: '30.0'

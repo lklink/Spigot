@@ -1,0 +1,21 @@
+lastAccountName: pulenta22
+timestamps:
+  login: 1433884517309
+  lastteleport: 1433884799165
+  logout: 1433884940112
+ipAddress: 190.137.63.79
+lastlocation:
+  world: juegos
+  x: 4697.827637836832
+  y: 53.0
+  z: 1062.6701300618518
+  yaw: 78.35278
+  pitch: 8.098062
+logoutlocation:
+  world: juegos
+  x: -1039.699999988079
+  y: 36.0
+  z: -108.26604360168533
+  yaw: 37.19922
+  pitch: -3.150495
+money: '30.0'

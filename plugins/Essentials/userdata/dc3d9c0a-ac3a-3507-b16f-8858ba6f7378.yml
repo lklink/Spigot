@@ -1,0 +1,22 @@
+lastAccountName: LocatiiGamer_YT
+timestamps:
+  login: 1435523065010
+  logout: 1435527700633
+  lastteleport: 1435526273419
+ipAddress: 201.251.10.198
+lastlocation:
+  world: spawn
+  x: -604.150005191728
+  y: 5.0
+  z: -1297.3211814026317
+  yaw: 87.614494
+  pitch: -21.130695
+logoutlocation:
+  world: spawn
+  x: -640.57218526304
+  y: 29.5
+  z: -1406.9922195696072
+  yaw: -262.7388
+  pitch: 14.659874
+socialspy: false
+money: '30.0'

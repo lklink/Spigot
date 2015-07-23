@@ -1,0 +1,21 @@
+lastAccountName: nitro123
+timestamps:
+  login: 1434672783520
+  lastteleport: 1434672834456
+  logout: 1434673712544
+ipAddress: 186.37.202.27
+lastlocation:
+  world: juegos
+  x: -1392.7453559008218
+  y: 28.0
+  z: 4008.104144483051
+  yaw: 216.9
+  pitch: -9.0
+logoutlocation:
+  world: survival
+  x: 259.35759714481344
+  y: 77.0
+  z: 66.8486493455096
+  yaw: 338.24048
+  pitch: -6.899985
+money: '30.0'

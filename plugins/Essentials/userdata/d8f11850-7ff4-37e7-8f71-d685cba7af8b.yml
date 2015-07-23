@@ -1,0 +1,20 @@
+lastAccountName: Sr_RanPerHD
+timestamps:
+  login: 1435613724027
+  logout: 1435614776431
+ipAddress: 176.179.167.221
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -548.0408048241927
+  y: 6.125279618835833
+  z: -1450.5505984825074
+  yaw: 132.2649
+  pitch: 7.7216735
+money: '30.0'

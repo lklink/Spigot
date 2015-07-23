@@ -1,0 +1,22 @@
+lastAccountName: erik
+timestamps:
+  login: 1435090093929
+  lastteleport: 1434767524757
+  logout: 1435090928177
+ipAddress: 186.59.43.213
+lastlocation:
+  world: juegos
+  x: -1393.6989370837564
+  y: 28.0
+  z: 4007.245910891244
+  yaw: 251.99992
+  pitch: 0.75000113
+logoutlocation:
+  world: plotworld
+  x: -307.69999998807907
+  y: 64.0
+  z: -138.96731430539648
+  yaw: 144.45032
+  pitch: 41.25003
+socialspy: false
+money: '30.0'

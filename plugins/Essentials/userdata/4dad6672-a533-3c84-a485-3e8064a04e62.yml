@@ -1,0 +1,21 @@
+lastAccountName: lFone
+timestamps:
+  login: 1433617870478
+  lastteleport: 1433620777774
+  logout: 1433622848950
+ipAddress: 189.199.167.57
+lastlocation:
+  world: juegos
+  x: -1402.1517133086713
+  y: 28.0
+  z: 3996.8556116735253
+  yaw: -252.48021
+  pitch: -27.917818
+logoutlocation:
+  world: juegos
+  x: -1021.8549942966846
+  y: 35.0
+  z: -109.3837813889218
+  yaw: -214.03806
+  pitch: 6.4639263
+money: '30.0'

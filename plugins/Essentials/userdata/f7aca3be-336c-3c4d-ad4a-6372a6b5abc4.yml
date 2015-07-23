@@ -1,0 +1,30 @@
+lastAccountName: destruyebloques
+timestamps:
+  login: 1437449526706
+  lastteleport: 1437350606043
+  logout: 1437449677926
+ipAddress: 201.138.37.57
+lastlocation:
+  world: plotworld
+  x: -257.03763225299514
+  y: 65.0
+  z: -16.569691839339
+  yaw: 162.15112
+  pitch: 40.949974
+homes:
+  home:
+    world: plotworld
+    x: 145.1348949344315
+    y: 65.0
+    z: 183.94006243374375
+    yaw: 84.28246
+    pitch: 57.213577
+logoutlocation:
+  world: plotworld
+  x: 148.69999998807907
+  y: 70.5
+  z: 181.13653806045443
+  yaw: 172.36365
+  pitch: 46.536842
+socialspy: false
+money: '620.0'

@@ -1,0 +1,24 @@
+permission: ''
+world: world
+X: 247
+Y: 70
+Z: 29
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /spawn
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  Diegotiro: 1426363225874
+  LuckyLuke007: 1426388514126
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

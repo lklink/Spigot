@@ -1,0 +1,22 @@
+lastAccountName: FlameElMaster
+timestamps:
+  login: 1434041435518
+  lastteleport: 1434041739026
+  logout: 1434042099263
+ipAddress: 181.226.45.218
+lastlocation:
+  world: survival
+  x: 43.99395322511583
+  y: 62.0
+  z: 82.55337854842139
+  yaw: 18.230385
+  pitch: 0.14637373
+logoutlocation:
+  world: spawn
+  x: -608.7554269379295
+  y: 48.0
+  z: -2431.60893551868
+  yaw: 146.24916
+  pitch: 22.200003
+socialspy: false
+money: '30.0'

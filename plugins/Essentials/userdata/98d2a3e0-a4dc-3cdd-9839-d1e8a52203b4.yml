@@ -1,0 +1,20 @@
+lastAccountName: mariano
+timestamps:
+  login: 1435868673878
+  logout: 1435868742630
+ipAddress: 190.246.32.87
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -609.8026263245081
+  y: 28.0
+  z: -1436.2521919609003
+  yaw: -154.99872
+  pitch: 11.4336
+money: '30.0'

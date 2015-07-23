@@ -1,0 +1,30 @@
+lastAccountName: AznJasin
+timestamps:
+  login: 1432401164669
+  lastteleport: 1432354258293
+  logout: 1432401674489
+ipAddress: 201.239.26.119
+lastlocation:
+  world: plotworld
+  x: 132.40414157029838
+  y: 66.1707870772188
+  z: 40.55298246633753
+  yaw: -346.95105
+  pitch: 40.350018
+homes:
+  home:
+    world: Factions
+    x: -382.4168192904526
+    y: 89.0
+    z: -74.87982196458171
+    yaw: 267.10626
+    pitch: 59.70006
+logoutlocation:
+  world: plotworld
+  x: 137.47808481074992
+  y: 65.0
+  z: 73.81243885127228
+  yaw: 32.09964
+  pitch: 15.899983
+socialspy: false
+money: '30.0'

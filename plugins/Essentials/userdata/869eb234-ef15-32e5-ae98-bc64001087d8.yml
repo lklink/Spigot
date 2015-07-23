@@ -1,0 +1,22 @@
+lastAccountName: Feri_124
+timestamps:
+  login: 1436989609477
+  lastteleport: 1436990084885
+  logout: 1436990185280
+ipAddress: 177.241.7.77
+lastlocation:
+  world: spawn
+  x: -614.7602921576242
+  y: 28.0
+  z: -1367.4610811793968
+  yaw: -314.69907
+  pitch: 49.906445
+logoutlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -178.65623
+  pitch: 67.50187
+socialspy: false
+money: '30.0'

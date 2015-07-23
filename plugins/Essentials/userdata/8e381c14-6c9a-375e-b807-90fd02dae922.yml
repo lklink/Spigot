@@ -1,0 +1,24 @@
+lastAccountName: _DarkWarrior96_
+timestamps:
+  login: 1437598441633
+  logout: 1437598448683
+  mute: 0
+  lastteleport: 1437013768850
+ipAddress: 190.140.152.197
+lastlocation:
+  world: spawn
+  x: -612.8900789657856
+  y: 28.753199980521202
+  z: -1383.3073636487418
+  yaw: -176.3926
+  pitch: 5.983062
+logoutlocation:
+  world: juegos
+  x: -1108.1501047592299
+  y: 49.24918707874468
+  z: 2776.5598434186386
+  yaw: -55.2534
+  pitch: 17.567102
+socialspy: false
+muted: false
+money: '30.0'

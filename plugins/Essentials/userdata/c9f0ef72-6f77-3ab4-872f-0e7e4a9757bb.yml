@@ -1,0 +1,21 @@
+lastAccountName: Derp
+timestamps:
+  login: 1432403331039
+  logout: 1432403332239
+ipAddress: 201.239.26.119
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1395.5
+  y: 28.0
+  z: 4026.5
+  yaw: -179.309
+  pitch: 31.949587
+socialspy: false
+money: '30.0'

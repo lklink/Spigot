@@ -1,0 +1,22 @@
+lastAccountName: D1234L
+timestamps:
+  login: 1432500734472
+  lastteleport: 1432500522370
+  logout: 1432500951450
+ipAddress: 190.234.106.253
+lastlocation:
+  world: SkyWars
+  x: 1.1648253335198384
+  y: 51.0
+  z: 25.97538588677029
+  yaw: 2.096606
+  pitch: 15.506403
+logoutlocation:
+  world: survival
+  x: 54.34755107528843
+  y: 76.0
+  z: 261.15604374288915
+  yaw: -147.74979
+  pitch: 84.60002
+socialspy: false
+money: '30.0'

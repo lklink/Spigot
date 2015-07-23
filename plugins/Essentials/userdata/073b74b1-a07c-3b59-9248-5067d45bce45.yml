@@ -1,0 +1,21 @@
+lastAccountName: lucasleols3
+timestamps:
+  login: 1435675040392
+  lastteleport: 1435675081644
+  logout: 1435675095223
+ipAddress: 190.188.0.2
+lastlocation:
+  world: spawn
+  x: -612.3834265072863
+  y: 28.0
+  z: -1415.6958423732874
+  yaw: -173.17494
+  pitch: 27.102005
+logoutlocation:
+  world: spawn
+  x: -625.2249490266976
+  y: 50.0
+  z: -2450.9304365322773
+  yaw: 166.99614
+  pitch: 17.792389
+money: '30.0'

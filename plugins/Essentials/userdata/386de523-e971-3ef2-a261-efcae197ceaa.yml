@@ -1,0 +1,22 @@
+lastAccountName: joaquin
+timestamps:
+  login: 1435596316333
+  logout: 1435596322245
+  lastteleport: 1433717747482
+ipAddress: 201.186.168.54
+lastlocation:
+  world: juegos
+  x: -1395.2344521666928
+  y: 28.0
+  z: 3982.401857825849
+  yaw: 175.89085
+  pitch: -4.2004066
+logoutlocation:
+  world: world2
+  x: -225.32217190006725
+  y: 76.0
+  z: -292.5555331587944
+  yaw: 108.858734
+  pitch: 55.49998
+socialspy: false
+money: '30.0'

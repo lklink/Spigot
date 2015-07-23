@@ -1,0 +1,20 @@
+lastAccountName: Criselgordo
+timestamps:
+  login: 1434078624785
+  logout: 1434078943052
+ipAddress: 190.162.132.36
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -520.2563845584664
+  y: 9.0
+  z: -1457.8726569618307
+  yaw: 0.49780273
+  pitch: 9.29999
+money: '30.0'

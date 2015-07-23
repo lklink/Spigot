@@ -1,0 +1,22 @@
+lastAccountName: 333cesar333
+timestamps:
+  login: 1429828866868
+  lastteleport: 1429829281974
+  logout: 1429829374657
+ipAddress: 181.201.3.126
+lastlocation:
+  world: juegos
+  x: -925.9485781729342
+  y: 122.0
+  z: -525.1799115300842
+  yaw: -263.99896
+  pitch: 22.050007
+logoutlocation:
+  world: juegos
+  x: 4703.400220228248
+  y: 52.0
+  z: 1048.255836611838
+  yaw: -188.79858
+  pitch: 9.14804
+socialspy: false
+money: '30.0'

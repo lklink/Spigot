@@ -1,0 +1,22 @@
+lastAccountName: kamikaze
+timestamps:
+  login: 1435092498782
+  lastteleport: 1435092207993
+  logout: 1435092795693
+ipAddress: 186.35.141.25
+lastlocation:
+  world: juegos
+  x: -1398.5679028464563
+  y: 28.0
+  z: 4009.005477599626
+  yaw: -200.39998
+  pitch: -1.6499999
+socialspy: false
+logoutlocation:
+  world: spawn
+  x: -622.3814106367879
+  y: 49.5
+  z: -2406.402988305838
+  yaw: 182.146
+  pitch: 11.399996
+money: '30.0'

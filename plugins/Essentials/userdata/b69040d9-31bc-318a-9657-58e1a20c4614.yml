@@ -1,0 +1,22 @@
+lastAccountName: JustFalopa
+timestamps:
+  login: 1431816645664
+  logout: 1431817874999
+  lastteleport: 1431817190284
+ipAddress: 190.48.174.80
+lastlocation:
+  world: SkyWars
+  x: 0.5631243115119019
+  y: 49.0
+  z: -9.590349733499075
+  yaw: -182.58708
+  pitch: 23.5932
+logoutlocation:
+  world: juegos
+  x: -952.0302152639467
+  y: 123.5
+  z: -563.2753227547838
+  yaw: 200.66399
+  pitch: 25.303194
+socialspy: false
+money: '70.0'

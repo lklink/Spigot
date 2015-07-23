@@ -1,0 +1,21 @@
+lastAccountName: THOR59
+timestamps:
+  login: 1435867220884
+  logout: 1435867233485
+ipAddress: 186.61.81.244
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: plotworld
+  x: -6.39830195686694
+  y: 65.0
+  z: -309.6464001418665
+  yaw: 42.524944
+  pitch: 12.562481
+socialspy: false
+money: '30.0'

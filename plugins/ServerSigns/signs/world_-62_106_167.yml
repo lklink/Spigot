@@ -1,0 +1,22 @@
+permission: ''
+world: world
+X: -62
+Y: 106
+Z: 167
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /broadcast El jugador &4<player> Encontro el Easter Egg de la Manzana
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

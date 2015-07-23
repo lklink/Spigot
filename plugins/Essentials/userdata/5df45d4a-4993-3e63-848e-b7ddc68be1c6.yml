@@ -1,0 +1,22 @@
+lastAccountName: renato
+timestamps:
+  login: 1434835775808
+  logout: 1434838048254
+  lastteleport: 1434837660721
+ipAddress: 181.201.133.104
+lastlocation:
+  world: juegos
+  x: -1426.5484697694599
+  y: 28.0
+  z: 3991.1123105722168
+  yaw: -161.09924
+  pitch: 29.549974
+logoutlocation:
+  world: juegos
+  x: -1437.5509865302056
+  y: 28.0
+  z: 3973.4039781283277
+  yaw: -178.05008
+  pitch: 3.7499995
+socialspy: false
+money: '28.0'

@@ -1,0 +1,21 @@
+lastAccountName: Delsin
+timestamps:
+  login: 1434596150821
+  lastteleport: 1434596325063
+  logout: 1434596598942
+ipAddress: 189.174.218.179
+lastlocation:
+  world: Factions
+  x: -271.45627399228454
+  y: 79.0
+  z: -296.2574873722617
+  yaw: 180.40121
+  pitch: 9.349403
+logoutlocation:
+  world: juegos
+  x: -1396.5523873375762
+  y: 27.0
+  z: 3935.5461719428986
+  yaw: 0.7971802
+  pitch: 17.898985
+money: '30.0'

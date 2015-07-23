@@ -1,0 +1,30 @@
+lastAccountName: ChechotyHarDxX
+timestamps:
+  login: 1432482002205
+  lastteleport: 1432436386071
+  logout: 1432482834865
+ipAddress: 190.107.226.52
+lastlocation:
+  world: survival
+  x: 160.55842997432333
+  y: 72.0
+  z: 8.814038040278982
+  yaw: 258.3803
+  pitch: 25.946474
+homes:
+  home:
+    world: Factions
+    x: -952.1994403872623
+    y: 67.0
+    z: -197.87950261664665
+    yaw: 83.95508
+    pitch: 18.900003
+logoutlocation:
+  world: plotworld
+  x: 135.17221278231074
+  y: 69.0
+  z: 97.8552274809348
+  yaw: 126.13513
+  pitch: 14.850099
+socialspy: false
+money: '30.0'

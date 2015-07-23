@@ -1,0 +1,21 @@
+lastAccountName: sebi291
+timestamps:
+  login: 1433052220246
+  lastteleport: 1433052327028
+  logout: 1433052523193
+ipAddress: 181.74.118.206
+lastlocation:
+  world: juegos
+  x: -1439.5
+  y: 28.0
+  z: -676.5
+  yaw: 0.0
+  pitch: 0.15
+logoutlocation:
+  world: survival
+  x: -5.226685315678949
+  y: 103.5
+  z: 47.27119408489883
+  yaw: 86.481026
+  pitch: 37.949993
+money: '30.0'

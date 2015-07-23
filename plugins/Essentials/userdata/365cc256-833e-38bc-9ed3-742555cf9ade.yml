@@ -1,0 +1,22 @@
+lastAccountName: kills455
+timestamps:
+  login: 1436442240222
+  lastteleport: 1436442114363
+  logout: 1436442483071
+ipAddress: 190.201.206.245
+lastlocation:
+  world: spawn
+  x: -618.9733396639224
+  y: 28.0
+  z: -1396.8631728704122
+  yaw: -265.57492
+  pitch: -14.597999
+logoutlocation:
+  world: spawn
+  x: -607.3000000119209
+  y: 28.0
+  z: -1382.2625086563778
+  yaw: 223.27504
+  pitch: 20.801992
+socialspy: false
+money: '30.0'

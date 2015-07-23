@@ -1,0 +1,38 @@
+lastAccountName: MagmaFire1
+timestamps:
+  login: 1434638029045
+  logout: 1434639192414
+  lastteleport: 1433893810724
+ipAddress: 190.215.112.130
+lastlocation:
+  world: survival
+  x: 3831.15411239158
+  y: 126.0
+  z: 7713.699999988079
+  yaw: 250.6658
+  pitch: -22.002102
+logoutlocation:
+  world: survival
+  x: 3819.479524958229
+  y: 123.0
+  z: 7700.109325538997
+  yaw: -150.43442
+  pitch: 4.997898
+socialspy: false
+afk: false
+homes:
+  home:
+    world: world
+    x: 880.6999999880791
+    y: 11.0
+    z: -539.3966957885867
+    yaw: 57.81891
+    pitch: 27.299942
+  base:
+    world: survival_nether
+    x: 222.2389257385712
+    y: 32.0
+    z: -163.2432149944153
+    yaw: -356.9214
+    pitch: 37.500015
+money: '210.0'

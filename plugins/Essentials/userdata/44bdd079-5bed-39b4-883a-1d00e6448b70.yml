@@ -1,0 +1,22 @@
+lastAccountName: Memo_Gamer
+timestamps:
+  login: 1433289995950
+  lastteleport: 1433289744673
+  logout: 1433290098853
+ipAddress: 189.162.145.98
+lastlocation:
+  world: plotworld
+  x: 2.31035898804433
+  y: 65.0
+  z: 199.11391609454316
+  yaw: 277.59515
+  pitch: -0.96806186
+logoutlocation:
+  world: plotworld
+  x: -210.4529938742013
+  y: 65.0
+  z: 123.87947643138988
+  yaw: -2.5293267
+  pitch: 2.92741
+socialspy: false
+money: '30.0'

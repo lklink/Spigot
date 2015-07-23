@@ -1,0 +1,22 @@
+lastAccountName: IkeR
+timestamps:
+  login: 1433815301344
+  lastteleport: 1433815346351
+  logout: 1433815470079
+ipAddress: 190.209.252.108
+lastlocation:
+  world: Factions
+  x: -326.9686588175269
+  y: 69.0
+  z: -278.58217509786425
+  yaw: 13.458431
+  pitch: 11.69999
+logoutlocation:
+  world: SkyWars
+  x: -0.6656126677045169
+  y: 49.0
+  z: -8.163216493496236
+  yaw: -70.36187
+  pitch: 30.346
+socialspy: false
+money: '30.0'

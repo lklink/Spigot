@@ -1,0 +1,22 @@
+lastAccountName: kurjab
+timestamps:
+  login: 1436079949504
+  lastteleport: 1436079979729
+  logout: 1436080021226
+ipAddress: 191.113.151.38
+lastlocation:
+  world: survival
+  x: 73.69999998807907
+  y: 23.0
+  z: 260.69999998807907
+  yaw: 5.6507454
+  pitch: 3.9839787
+logoutlocation:
+  world: spawn
+  x: -620.6882260976784
+  y: 49.0
+  z: -2430.201263815186
+  yaw: 183.12897
+  pitch: -5.8464346
+socialspy: false
+money: '55.0'

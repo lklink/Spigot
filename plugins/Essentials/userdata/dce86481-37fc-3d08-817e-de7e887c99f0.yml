@@ -1,0 +1,22 @@
+lastAccountName: joca2265
+timestamps:
+  login: 1436649488840
+  lastteleport: 1436649568796
+  logout: 1436649808484
+ipAddress: 189.133.218.70
+lastlocation:
+  world: spawn
+  x: -613.1342140179881
+  y: 28.0
+  z: -1371.4854162127763
+  yaw: 341.1751
+  pitch: 5.8020024
+logoutlocation:
+  world: juegos
+  x: -889.3000000119209
+  y: 6.0
+  z: 3679.699999988079
+  yaw: 44.684204
+  pitch: -77.1
+socialspy: false
+money: '30.0'

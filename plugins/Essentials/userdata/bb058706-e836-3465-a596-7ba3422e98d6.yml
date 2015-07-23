@@ -1,0 +1,21 @@
+lastAccountName: julii
+timestamps:
+  login: 1432694104937
+  logout: 1432694165839
+ipAddress: 190.31.113.11
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1393.5677647594673
+  y: 28.5
+  z: 3966.727179310708
+  yaw: 187.29327
+  pitch: 12.1179905
+socialspy: false
+money: '30.0'

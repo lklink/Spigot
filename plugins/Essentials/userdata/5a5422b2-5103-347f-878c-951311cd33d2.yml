@@ -1,0 +1,22 @@
+lastAccountName: RICHARD
+timestamps:
+  login: 1434859008965
+  logout: 1434859720352
+  lastteleport: 1434859382140
+ipAddress: 181.72.194.23
+lastlocation:
+  world: juegos
+  x: -1392.7161683292688
+  y: 28.0
+  z: 4009.229896307901
+  yaw: -155.85
+  pitch: -1.0499996
+logoutlocation:
+  world: juegos
+  x: -1395.8038084892185
+  y: 28.0
+  z: 4020.998710180812
+  yaw: -179.84999
+  pitch: 3.900004
+socialspy: false
+money: '1350.0'

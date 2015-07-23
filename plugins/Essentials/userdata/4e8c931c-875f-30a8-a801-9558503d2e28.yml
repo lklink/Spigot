@@ -1,0 +1,22 @@
+lastAccountName: Dan1430
+timestamps:
+  login: 1436989084330
+  logout: 1436990322804
+  lastteleport: 1436990205381
+ipAddress: 187.132.95.82
+lastlocation:
+  world: spawn
+  x: -613.6234254888969
+  y: 28.0
+  z: -1367.372822989373
+  yaw: -213.67487
+  pitch: 34.602
+logoutlocation:
+  world: juegos
+  x: -1088.8030284137417
+  y: 54.0
+  z: 2767.3677799044167
+  yaw: 57.857185
+  pitch: 39.29977
+socialspy: false
+money: '30.0'

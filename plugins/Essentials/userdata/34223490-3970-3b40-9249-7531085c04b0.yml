@@ -1,0 +1,22 @@
+lastAccountName: mohammad
+timestamps:
+  login: 1434671872412
+  lastteleport: 1433890919550
+  logout: 1434671894563
+ipAddress: 200.28.55.45
+lastlocation:
+  world: Factions
+  x: -844.7271990541057
+  y: 61.193504454558045
+  z: 54.69999998807907
+  yaw: 3.0251925
+  pitch: 9.370706
+logoutlocation:
+  world: Factions
+  x: -851.3000000119209
+  y: 71.0
+  z: 11.534928560331004
+  yaw: -289.95355
+  pitch: -8.006039
+socialspy: false
+money: '30.0'

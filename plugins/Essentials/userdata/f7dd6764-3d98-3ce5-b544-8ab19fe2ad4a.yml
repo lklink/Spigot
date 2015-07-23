@@ -1,0 +1,22 @@
+lastAccountName: extermijr
+timestamps:
+  login: 1434064290497
+  lastteleport: 1433985203317
+  logout: 1434064309147
+ipAddress: 200.83.117.154
+lastlocation:
+  world: survival
+  x: 45.83669429620099
+  y: 115.0
+  z: 135.08267808666653
+  yaw: -90.300026
+  pitch: -1.8000138
+logoutlocation:
+  world: plotworld
+  x: -167.8286758541736
+  y: 65.0
+  z: -264.38463302156515
+  yaw: -85.35004
+  pitch: 5.249993
+socialspy: false
+money: '30.0'

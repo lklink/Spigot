@@ -1,0 +1,22 @@
+lastAccountName: DIEGO220Gamer
+timestamps:
+  login: 1435427064278
+  logout: 1435427199830
+  lastteleport: 1434936604916
+ipAddress: 187.143.86.23
+lastlocation:
+  world: spawn
+  x: 540.5410352298085
+  y: 39.0
+  z: -1067.9562225250593
+  yaw: -271.54935
+  pitch: 21.13628
+logoutlocation:
+  world: spawn
+  x: -621.1628135025132
+  y: 50.0
+  z: -2445.7823493462447
+  yaw: 145.14357
+  pitch: 24.091894
+socialspy: false
+money: '210.0'

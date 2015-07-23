@@ -1,0 +1,30 @@
+lastAccountName: Steve_EC
+timestamps:
+  login: 1435540350567
+  logout: 1435540424439
+  lastteleport: 1435357729709
+ipAddress: 190.200.181.21
+lastlocation:
+  world: survival_nether
+  x: 146.28878288102098
+  y: 78.0
+  z: 108.19582399835342
+  yaw: 171.44989
+  pitch: 1.8000187
+logoutlocation:
+  world: plotworld
+  x: 204.35002515282554
+  y: 66.0
+  z: -260.92096879833036
+  yaw: 36.00342
+  pitch: 29.55001
+socialspy: false
+homes:
+  home:
+    world: plotworld
+    x: 214.65585637280245
+    y: 65.0
+    z: -255.18083695912162
+    yaw: 4.499986
+    pitch: 34.800003
+money: '83.0'

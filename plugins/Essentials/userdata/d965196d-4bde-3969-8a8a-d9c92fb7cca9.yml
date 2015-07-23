@@ -1,0 +1,21 @@
+lastAccountName: franck
+timestamps:
+  login: 1433632362508
+  lastteleport: 1433632939437
+  logout: 1433633015548
+ipAddress: 186.106.18.6
+lastlocation:
+  world: juegos
+  x: -1392.5978284032224
+  y: 28.0
+  z: 4006.856095291391
+  yaw: 243.09099
+  pitch: 4.049592
+logoutlocation:
+  world: survival
+  x: 44.843495169633925
+  y: 116.5
+  z: 66.55819563694416
+  yaw: -15.759346
+  pitch: 21.149832
+money: '30.0'

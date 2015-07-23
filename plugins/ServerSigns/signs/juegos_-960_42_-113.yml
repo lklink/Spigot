@@ -1,0 +1,55 @@
+permission: ''
+world: juegos
+X: -960
+Y: 42
+Z: -113
+price: 0.0
+cooldown: 86400
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 322:1 1'
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  destruyebloques: 1433707193965
+  BraulioIsaac: 1434769193828
+  alfredonx: 1433802282965
+  Rayquaza39: 1433559681015
+  antero: 1433738899908
+  guilmon: 1433555726702
+  knino: 1433613454687
+  xXalexskate13Xx: 1433699372840
+  dani3019: 1436061924069
+  Kikas_PvpYT: 1433651825599
+  Memo_Gamer: 1433288634986
+  _KuxoMC_: 1433549469323
+  MarquiCodGamer: 1433288350089
+  Naikito: 1432953405317
+  davidm9: 1433207825328
+  elcrackboy: 1434577076588
+  JseAranda: 1433537572622
+  Miix20: 1433617999972
+  seba2002stian: 1435623797413
+  jorge: 1433797647592
+  Hotban23: 1433798283123
+  Javonico: 1433814491161
+  C4LCeTiN: 1433555592146
+  seb962: 1437434260124
+  Foogles: 1433867229460
+  K0nrad_Joan: 1434056188223
+  Zhedas: 1433699394343
+  nicobkn45: 1435903483320
+  natali: 1436455331331
+  Diegotiro: 1433711856570
+  MirageMAN: 1437328541163
+  pulenta22: 1433884873834
+  Leannan: 1433811967848
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

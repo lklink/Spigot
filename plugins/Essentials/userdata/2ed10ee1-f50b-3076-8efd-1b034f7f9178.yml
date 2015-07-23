@@ -1,0 +1,22 @@
+lastAccountName: vakita025
+timestamps:
+  login: 1433798165529
+  lastteleport: 1433798436319
+  logout: 1433798650269
+ipAddress: 190.237.43.89
+lastlocation:
+  world: juegos
+  x: -1510.300000011921
+  y: 17.0
+  z: 3987.699999988079
+  yaw: 189.13217
+  pitch: -31.927372
+logoutlocation:
+  world: juegos
+  x: -1380.4419880991586
+  y: 38.0
+  z: 3968.347870211469
+  yaw: -155.39255
+  pitch: 28.901415
+socialspy: false
+money: '30.0'

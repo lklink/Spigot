@@ -1,0 +1,100 @@
+lastAccountName: knino
+timestamps:
+  login: 1437442598334
+  logout: 1437443147724
+  lastteleport: 1437443060068
+  kits:
+    color: 1430081782321
+    esmeralda: 1434318440333
+    plata: 1434053838867
+ipAddress: 191.112.238.98
+lastlocation:
+  world: Beta
+  x: -39.79100522172588
+  y: 83.0
+  z: 163.45610583564275
+  yaw: -142.8568
+  pitch: 6.5993924
+logoutlocation:
+  world: Beta
+  x: -52.17772628228733
+  y: 91.5
+  z: 159.02717985573327
+  yaw: -37.528324
+  pitch: 27.193438
+socialspy: false
+money: '21860.0'
+afk: false
+homes:
+  casa:
+    world: survival
+    x: 398.85288562934596
+    y: 98.0
+    z: 277.47664831558643
+    yaw: -37.75088
+    pitch: 43.950054
+  minafail:
+    world: world
+    x: 2545.4517418278474
+    y: 61.0
+    z: 829.5693358070713
+    yaw: 153.07808
+    pitch: 46.499985
+  dungkuxo:
+    world: juegos
+    x: -1620.0191653185468
+    y: 105.0
+    z: -848.6925245425707
+    yaw: 167.85002
+    pitch: 21.599718
+  mecanismofinal:
+    world: plotworld
+    x: -24.699999988079067
+    y: 1.0
+    z: -91.80387265217252
+    yaw: -24.809937
+    pitch: 25.19947
+  spawn:
+    world: juegos
+    x: -1395.9495506288174
+    y: 28.0
+    z: 3869.46540065542
+    yaw: -183.20898
+    pitch: 17.549587
+  castillo:
+    world: juegos
+    x: -1086.0069495115536
+    y: 36.0
+    z: 3250.6359458729435
+    yaw: -302.26865
+    pitch: 25.199974
+  spawn2:
+    world: spawn
+    x: -613.325552308782
+    y: 28.0
+    z: -1367.612138018115
+    yaw: -170.99945
+    pitch: 73.50005
+  skywars:
+    world: spawn
+    x: -620.56366834015
+    y: 49.0
+    z: -2425.819142283246
+    yaw: -173.54858
+    pitch: 49.650036
+  1vs1konrad:
+    world: juegos
+    x: -10037.667074152527
+    y: 93.15400510966704
+    z: 4530.067640929594
+    yaw: -255.71234
+    pitch: 27.084467
+  pvpmio:
+    world: juegos
+    x: 10069.877538424384
+    y: 102.0
+    z: 6001.339644435704
+    yaw: -126.7981
+    pitch: 9.300007
+godmode: false
+nickname: §4§lknino

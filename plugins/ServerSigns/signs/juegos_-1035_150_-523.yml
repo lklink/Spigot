@@ -1,0 +1,25 @@
+permission: ''
+world: juegos
+X: -1035
+Y: 150
+Z: -523
+price: 0.0
+cooldown: 1728000
+globalCooldown: 0
+confirmation: false
+commands:
+- '*give <player> 383:120 1'
+- '*spawn <player> '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse:
+  C4LCeTiN: 1429997796477
+  knales11: 1429998296023
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

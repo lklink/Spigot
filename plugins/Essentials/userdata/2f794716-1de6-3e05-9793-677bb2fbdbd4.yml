@@ -1,0 +1,21 @@
+lastAccountName: _Avilolo_
+timestamps:
+  login: 1434315191424
+  lastteleport: 1434315424695
+  logout: 1434315770498
+ipAddress: 190.252.153.13
+lastlocation:
+  world: spawn
+  x: -620.4043216627501
+  y: 49.0
+  z: -2428.587588569836
+  yaw: -4.8484564
+  pitch: 12.837204
+logoutlocation:
+  world: plotworld
+  x: 249.23434738681516
+  y: 65.0
+  z: -174.6958014434478
+  yaw: 41.65892
+  pitch: 6.665421
+money: '210.0'

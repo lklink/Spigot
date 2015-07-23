@@ -1,0 +1,30 @@
+lastAccountName: DuckyDuke
+timestamps:
+  login: 1430076364756
+  logout: 1430077645231
+  lastteleport: 1430077525571
+ipAddress: 186.65.130.119
+lastlocation:
+  world: survival
+  x: -27.412963767440722
+  y: 65.0155550727022
+  z: 1785.8635261294048
+  yaw: 215.15508
+  pitch: 6.4841547
+logoutlocation:
+  world: plotworld
+  x: -131.61768564317333
+  y: 65.0
+  z: -24.757390626727727
+  yaw: 56.775936
+  pitch: 4.199994
+socialspy: false
+homes:
+  home:
+    world: survival
+    x: -409.30000001192093
+    y: 62.0
+    z: 1814.699999988079
+    yaw: 221.35104
+    pitch: 15.550684
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: WiGetta777
+timestamps:
+  login: 1433691437610
+  lastteleport: 1433691485569
+  logout: 1433691560750
+ipAddress: 190.161.70.87
+lastlocation:
+  world: juegos
+  x: -1395.509194578892
+  y: 28.0
+  z: 3981.347638355545
+  yaw: 180.6909
+  pitch: -3.3004084
+logoutlocation:
+  world: Factions
+  x: -344.8450660143282
+  y: 67.0
+  z: -121.37692116278885
+  yaw: 148.75923
+  pitch: 22.950016
+money: '30.0'

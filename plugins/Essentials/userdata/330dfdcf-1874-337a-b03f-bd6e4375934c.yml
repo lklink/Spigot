@@ -1,0 +1,22 @@
+lastAccountName: ThusedargamerPvP
+timestamps:
+  login: 1435418807281
+  lastteleport: 1435286166571
+  logout: 1435418844032
+ipAddress: 201.110.239.215
+lastlocation:
+  world: spawn
+  x: 539.2235395910343
+  y: 39.0
+  z: -1070.984743280932
+  yaw: 285.87354
+  pitch: 23.613903
+logoutlocation:
+  world: juegos
+  x: -1114.5
+  y: 54.0
+  z: 2764.5
+  yaw: -0.3429564
+  pitch: 23.69983
+socialspy: false
+money: '55.0'

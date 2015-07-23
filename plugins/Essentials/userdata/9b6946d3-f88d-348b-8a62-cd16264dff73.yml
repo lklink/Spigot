@@ -1,0 +1,20 @@
+lastAccountName: morales
+timestamps:
+  login: 1432568902986
+  logout: 1432569297743
+ipAddress: 181.64.209.83
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1399.9093547342723
+  y: 28.0
+  z: 3965.9487877519423
+  yaw: 14.491149
+  pitch: 14.399915
+money: '30.0'

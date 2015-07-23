@@ -1,0 +1,22 @@
+lastAccountName: fef
+timestamps:
+  login: 1437317689437
+  logout: 1437317691387
+  lastteleport: 1436732258711
+ipAddress: 201.230.49.159
+lastlocation:
+  world: juegos
+  x: -843.5543696151591
+  y: 6.0
+  z: 3675.300000011921
+  yaw: -88.51917
+  pitch: 19.950094
+logoutlocation:
+  world: spawn
+  x: -622.8182621478074
+  y: 48.5
+  z: -2441.747889323123
+  yaw: 340.34772
+  pitch: 20.550016
+socialspy: false
+money: '210.0'

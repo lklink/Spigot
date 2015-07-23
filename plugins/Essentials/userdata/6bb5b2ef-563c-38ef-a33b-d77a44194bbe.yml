@@ -1,0 +1,22 @@
+lastAccountName: matrixero290
+timestamps:
+  login: 1433687041880
+  lastteleport: 1433686977871
+  logout: 1433687118107
+ipAddress: 190.46.74.93
+lastlocation:
+  world: juegos
+  x: -1395.411998884548
+  y: 28.0
+  z: 3980.752497897122
+  yaw: -184.25893
+  pitch: 6.449587
+logoutlocation:
+  world: Factions
+  x: -281.03328911164954
+  y: 79.0
+  z: -298.42721712807406
+  yaw: 83.05929
+  pitch: 9.450066
+socialspy: false
+money: '30.0'

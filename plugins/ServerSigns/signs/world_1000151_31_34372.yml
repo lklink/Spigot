@@ -1,0 +1,26 @@
+permission: ''
+world: world
+X: 1000151
+Y: 31
+Z: 34372
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- /enchant 34 3
+- /enchant punch 2
+- /enchant 50 1
+- /enchant infinite 1
+- /enchant power 5
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

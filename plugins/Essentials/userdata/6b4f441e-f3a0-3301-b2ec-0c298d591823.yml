@@ -1,0 +1,21 @@
+lastAccountName: iCraank
+timestamps:
+  login: 1432425510870
+  lastteleport: 1432426316869
+  logout: 1432426324418
+ipAddress: 186.106.99.231
+lastlocation:
+  world: juegos
+  x: -1411.59501915556
+  y: 11.0
+  z: 3944.8031929501403
+  yaw: 183.54185
+  pitch: 70.94963
+logoutlocation:
+  world: juegos
+  x: -1395.5035790720722
+  y: 28.0
+  z: 4021.974213502626
+  yaw: -186.80904
+  pitch: 10.349588
+money: '30.0'

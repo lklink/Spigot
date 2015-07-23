@@ -1,0 +1,22 @@
+lastAccountName: Snipex10
+timestamps:
+  login: 1436750298427
+  logout: 1436750323727
+  lastteleport: 1431743897112
+ipAddress: 201.214.135.224
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: spawn
+  x: -614.4692791687648
+  y: 27.0
+  z: -1478.0618154411654
+  yaw: 182.98727
+  pitch: 2.4847791
+socialspy: false
+money: '120.0'

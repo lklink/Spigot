@@ -1,0 +1,21 @@
+lastAccountName: daniela
+timestamps:
+  login: 1433987430861
+  lastteleport: 1433987476850
+  logout: 1433987529916
+ipAddress: 186.65.191.191
+lastlocation:
+  world: juegos
+  x: -1392.90542089942
+  y: 28.0
+  z: 4007.974905636658
+  yaw: -132.9589
+  pitch: 3.2995827
+logoutlocation:
+  world: survival
+  x: -30.65046038756639
+  y: 109.0
+  z: 15.305734695697613
+  yaw: -98.10935
+  pitch: -10.500176
+money: '30.0'

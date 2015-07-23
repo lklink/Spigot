@@ -1,0 +1,21 @@
+lastAccountName: alemimi
+timestamps:
+  login: 1433013577248
+  logout: 1433013595498
+ipAddress: 190.233.167.192
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1392.5
+  y: 55.0
+  z: 4031.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '30.0'

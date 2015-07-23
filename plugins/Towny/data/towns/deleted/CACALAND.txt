@@ -1,0 +1,25 @@
+name=CACALAND
+residents=dani3019
+mayor=dani3019
+assistants=
+
+
+townBoard=/town set board [msg]
+tag=
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse,pvp
+bonusBlocks=0
+purchasedBlocks=0
+taxpercent=false
+taxes=0.0
+plotPrice=0.0
+plotTax=0.0
+commercialPlotPrice=0.0
+commercialPlotTax=0.0
+embassyPlotPrice=0.0
+embassyPlotTax=0.0
+hasUpkeep=true
+open=false
+adminDisabledPvP=false
+public=true
+homeBlock=Factions,-1,133
+spawn=Factions,-15.447587015745702,119.0,2141.404911169781,41.378597,-265.39536

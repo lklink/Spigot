@@ -1,0 +1,20 @@
+lastAccountName: LeanGaymerHD
+timestamps:
+  login: 1436222041788
+  logout: 1436222175640
+ipAddress: 201.255.168.128
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -633.5488434340919
+  y: 9.0
+  z: -1456.300000011921
+  yaw: 51.524998
+  pitch: 7.950005
+money: '30.0'

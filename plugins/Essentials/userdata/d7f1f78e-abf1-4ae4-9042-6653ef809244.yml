@@ -1,0 +1,22 @@
+lastAccountName: elcrackboy
+timestamps:
+  login: 1435200655850
+  lastteleport: 1435174602965
+  logout: 1435202906170
+ipAddress: 189.194.45.189
+lastlocation:
+  world: world
+  x: -64.11435444951653
+  y: 69.0
+  z: 282.1785500236347
+  yaw: -246.81905
+  pitch: 20.796017
+logoutlocation:
+  world: spawn
+  x: -617.4012241190458
+  y: 50.0
+  z: -2447.6911421061573
+  yaw: 351.44937
+  pitch: 27.090006
+socialspy: false
+money: '10000.0'

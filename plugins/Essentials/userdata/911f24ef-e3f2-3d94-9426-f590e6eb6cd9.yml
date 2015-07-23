@@ -1,0 +1,22 @@
+lastAccountName: JuegaLiver_YT
+timestamps:
+  login: 1436026969740
+  lastteleport: 1436028681396
+  logout: 1436029552729
+ipAddress: 200.89.40.155
+lastlocation:
+  world: spawn
+  x: -613.5540856779305
+  y: 28.0
+  z: -1368.7128019900745
+  yaw: 178.12509
+  pitch: 62.351997
+logoutlocation:
+  world: plotworld
+  x: 289.7988443262495
+  y: 65.0
+  z: -133.3641581552594
+  yaw: -51.28274
+  pitch: 8.866398
+socialspy: false
+money: '0.0'

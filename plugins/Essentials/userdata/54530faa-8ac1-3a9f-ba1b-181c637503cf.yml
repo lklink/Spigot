@@ -1,0 +1,21 @@
+lastAccountName: ERIKECO1
+timestamps:
+  login: 1433711148897
+  logout: 1433711188800
+ipAddress: 186.78.138.18
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: juegos
+  x: -1393.5
+  y: 56.0
+  z: 4031.5
+  yaw: 0.0
+  pitch: 0.0
+socialspy: false
+money: '2700.0'

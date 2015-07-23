@@ -1,0 +1,32 @@
+lastAccountName: benjaxh_
+timestamps:
+  login: 1435886580562
+  lastteleport: 1432942276049
+  logout: 1435887510395
+ipAddress: 186.104.208.124
+lastlocation:
+  world: plotworld
+  x: -123.27247123605734
+  y: 65.0
+  z: 92.9706290425341
+  yaw: -6.276367
+  pitch: -14.396043
+homes:
+  home:
+    world: survival_nether
+    x: -182.12580147876997
+    y: 53.0
+    z: 441.483183107591
+    yaw: 268.3708
+    pitch: 8.049067
+logoutlocation:
+  world: plotworld
+  x: -128.00452386548136
+  y: 65.0
+  z: 86.3985690400157
+  yaw: 85.554436
+  pitch: 4.221285
+socialspy: false
+godmode: false
+afk: false
+money: '619.0'

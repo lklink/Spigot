@@ -1,0 +1,22 @@
+lastAccountName: Benjamin
+timestamps:
+  login: 1432484982730
+  lastteleport: 1432485135913
+  logout: 1432485388327
+ipAddress: 190.160.206.84
+lastlocation:
+  world: plotworld
+  x: -94.32379224950522
+  y: 65.0
+  z: 143.986714929408
+  yaw: -134.98315
+  pitch: 3.3000011
+logoutlocation:
+  world: juegos
+  x: -968.6449306232527
+  y: 35.0
+  z: -112.61226823160472
+  yaw: 84.74927
+  pitch: 3.6000023
+socialspy: false
+money: '2225.0'

@@ -1,0 +1,11 @@
+lastOnline=1435887512248
+registered=1435886580559
+isNPC=false
+title=
+surname=
+town=Requiem
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

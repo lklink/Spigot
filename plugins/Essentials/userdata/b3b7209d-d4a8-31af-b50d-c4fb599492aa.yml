@@ -1,0 +1,31 @@
+lastAccountName: Sebax21
+timestamps:
+  login: 1429906067354
+  lastteleport: 1429906845931
+  logout: 1429907296002
+ipAddress: 179.8.204.35
+lastlocation:
+  world: plotworld
+  x: 59.82154809294288
+  y: 65.0
+  z: 62.93758201697834
+  yaw: -191.40012
+  pitch: 13.79992
+homes:
+  home:
+    world: survival
+    x: 1.237500011920929
+    y: 62.0
+    z: 535.5845563013097
+    yaw: -47.207245
+    pitch: 20.066832
+money: '3703.0'
+logoutlocation:
+  world: plotworld
+  x: 67.67884026182652
+  y: 65.0
+  z: 61.03155232060713
+  yaw: 52.0501
+  pitch: 9.599996
+socialspy: false
+afk: false

@@ -1,0 +1,22 @@
+lastAccountName: RainbowDash___
+timestamps:
+  login: 1434242420526
+  lastteleport: 1434242801986
+  logout: 1434242890733
+ipAddress: 201.186.244.31
+lastlocation:
+  world: survival
+  x: 87.57898896590072
+  y: 64.0
+  z: 241.69999998807907
+  yaw: -4.1999884
+  pitch: 49.350025
+logoutlocation:
+  world: plotworld
+  x: -22.921180820527876
+  y: 65.5
+  z: 3.667945560608695
+  yaw: -270.47226
+  pitch: 58.74536
+socialspy: false
+money: '95.0'

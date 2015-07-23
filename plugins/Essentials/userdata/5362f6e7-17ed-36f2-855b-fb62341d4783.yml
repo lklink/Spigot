@@ -1,0 +1,21 @@
+lastAccountName: Sacred
+timestamps:
+  login: 1434230139210
+  lastteleport: 1434230173976
+  logout: 1434230176972
+ipAddress: 181.163.203.40
+lastlocation:
+  world: spawn
+  x: -620.6757963859482
+  y: 28.0
+  z: -1405.038881882388
+  yaw: 159.64859
+  pitch: 0.15000284
+logoutlocation:
+  world: survival
+  x: -8.70351355615393
+  y: 120.0
+  z: -0.5171873220425962
+  yaw: 6.380424
+  pitch: 32.246395
+money: '30.0'

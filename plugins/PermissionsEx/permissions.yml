@@ -1,0 +1,854 @@
+groups:
+  default:
+    permissions:
+    - towny.town.*
+    - towny.nation.*
+    - -towny.town.toggle.pvp
+    - towny.chat.general
+    - towny.chat.town
+    - towny.chat.nation
+    - towny.chat.local
+    - towny.claimed.owntown.build.*
+    - towny.claimed.owntown.destroy.*
+    - towny.wild.build.*
+    - towny.wild.destroy.*
+    - towny.wild.switch.*
+    - towny.wild.item_use.*
+    - announcement.receive
+    - iConomy.payment
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.pay
+    - essentials.kit
+    - titlemotd.show
+    - essentials.msg
+    - lwc.protect
+    - authme.player.*
+    - modifyworld.*
+    - tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - plotme.use.auto
+    - plotme.use.home
+    - plotme.use.done
+    - plotme.use.add
+    - plotme.limit.1
+    - plotme.use.remove
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - multiverse.portal.access.*
+    - serversigns.use.*
+    - essentials.signs.use.buy
+    - essentials.signs.use.sell
+    - essentials.signs.use.warp
+    - serversigns.use.*
+    - essentials.spawn
+    options:
+      default: true
+      prefix: '&8||&bUser&8|| &8 '
+  Plata:
+    permissions:
+    - plotme.use.claim
+    - -tc.darkgrey
+    - tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - chestcommands.open.Color.yml
+    - chestcommands.open.Particulas.yml
+    - essentials.hat
+    - essentials.sethome.multiple.plata
+    - essentials.kits.Plata
+    - lwc.protect
+    options:
+      prefix: '&a&k||&7Plata&a&k||&5 '
+    inheritance:
+    - default
+  Oro:
+    permissions:
+    - iConomy.payment
+    - essentials.sethome.multiple.oro
+    - essentials.craft
+    - essentials.ignore
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - -essentials.kits.Plata
+    - essentials.kits.Oro
+    - essentials.keepxp
+    - essentials.chat.color
+    - essentials.enderchest
+    - lwc.protect
+    - authme.player.*
+    options:
+      prefix: '&9&k||&eOro&9&k||&5 '
+    inheritance:
+    - default
+    - Plata
+  Diamante:
+    permissions:
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.hat
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - essentials.sethome.multiple.diamante
+    - -essentials.kits.Plata
+    - -essentials.kits.Oro
+    - essentials.kits.Diamante
+    - essentials.chat.color
+    options:
+      prefix: '&d&k||&bDiamante&d&k||&5 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+  Esmeralda:
+    permissions:
+    - essentials.sethome.multiple.esmeralda
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - -essentials.kits.Plata
+    - -essentials.kits.Oro
+    - essentials.chat.format
+    - -essentials.kits.Diamante
+    - essentials.kits.Esmeralda
+    options:
+      prefix: '&d&k||&aEsmeralda&d&k||&5 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    worlds:
+      spawn:
+        permissions:
+        - essentials.fly
+      plotworld:
+        permissions:
+        - essentials.fly
+  Youtuber:
+    permissions:
+    - -essentials.kits.Plata
+    - -essentials.kits.Oro
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - -essentials.kits.Diamante
+    - -essentials.kits.Esmeralda
+    - essentials.kits.Youtuber
+    - essentials.fly
+    options:
+      prefix: '&c&k||&4&lYou&f&ltuber&c&k||&r '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+  Builder:
+    permissions:
+    - worldguard.*
+    - worldedit.*
+    - -permissions*
+    - authme.*
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - towny.chat.mod
+    - modifyworld.*
+    - essentials.*
+    - plotme.use.auto
+    - plotme.use.home
+    - plotme.use.biome
+    - plotme.use.done
+    - plotme.use.add
+    - plotme.use.remove
+    - plotme.limit.1
+    options:
+      prefix: '&8&k||&3&lConstructor&8&k||&9 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    - Youtuber
+  Mod:
+    permissions:
+    - voxelsniper.*
+    - worldguard.*
+    - worldedit.*
+    - -permissions*
+    - serversigns.*
+    - mineresetlite.*
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - tc.gold
+    - -tc.darkred
+    - -tc.lightblue
+    - mgskywars.start
+    - lwc.*
+    - essentials.*
+    - plotme.admin
+    options:
+      prefix: '&7&k||&6&lMod&7&k||&3 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    - Youtuber
+    - Builder
+  Dev:
+    permissions:
+    - worldguard.*
+    - worldedit.*
+    - -permissions*
+    - serversigns.*
+    - mineresetlite.*
+    - mgskywars.start
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - tc.darkred
+    - -tc.lightblue
+    - lwc.*
+    - essentials.*
+    - plotme.admin
+    options:
+      prefix: '&7&k||&9&lDev&7&k||&3 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    - Youtuber
+    - Builder
+    - Mod
+  Admin:
+    permissions:
+    - '*'
+    - -permissions*
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - tc.darkred
+    - -tc.lightblue
+    options:
+      prefix: '&5&k||&c&lAdmin&5&k||&c '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    - Youtuber
+    - Mod
+    - Dev
+  Owner:
+    permissions:
+    - '*'
+    - -tc.darkgrey
+    - -tc.lightgrey
+    - -tc.yellow
+    - -tc.aqua
+    - -tc.lightgreen
+    - -tc.lightred
+    - -tc.gold
+    - -tc.darkred
+    - tc.lightblue
+    options:
+      prefix: '&c&k||&9&lOwner&c&k||&4 '
+    inheritance:
+    - default
+    - Plata
+    - Oro
+    - Diamante
+    - Youtuber
+    - Mod
+users:
+  d74a38a0-f857-3b66-a1d3-d584775381ec:
+    group:
+    - Arquitecto
+    options:
+      name: tyrion
+  5882b3d8-7e89-3dd8-a5f1-018de4e22b74:
+    options:
+      name: Ducky
+  d4b16fec-f91a-326e-918d-c21c48c79a5a:
+    group:
+    - Owner
+    options:
+      name: C4LCeTiN
+    permissions:
+    - SKILLZ.*
+  d367a376-5231-3ecb-b4c3-f8bf0dd4f0ef:
+    group:
+    - Owner
+    options:
+      name: knino
+    worlds:
+      '60':
+        group:
+        - Oro
+    permissions:
+    - SKILLZ.*
+  885ed186-82d4-3744-88d9-8a292b254c4b:
+    group:
+    - Mod
+    options:
+      name: FabianMC
+  c44f484b-7626-35a6-8b8e-9a843e25aa04:
+    group:
+    - Diamante
+    options:
+      name: ShooterWinkle
+    permissions:
+    - SKILLZ.*
+  483bb296-2150-39a1-a8f7-a1d6ce929477:
+    group:
+    - Owner
+    options:
+      name: zentuxzeto
+  5fd1163f-4c7d-37b4-b7f3-3cc6a2888107:
+    options:
+      name: _KuxoMC_
+    group:
+    - Mod
+    permissions:
+    - SKILLZ.*
+  c0a0d292-6231-31ee-b7df-c3b4adcf9367:
+    options:
+      name: Elhpipe
+    permissions:
+    - SKILLZ.*
+  4d23df55-1267-304e-82d8-eda9f3b9e04b:
+    options:
+      name: knales11
+    group:
+    - default
+    permissions:
+    - SKILLZ.*
+  fcbd9fbd-1733-3484-b853-a24aa623f86c:
+    group:
+    - Mod
+    options:
+      name: Stalforeth
+  f0cf92a5-5cb4-3cc8-a4d2-ba19a14217e7:
+    group:
+    - Admin
+    options:
+      name: Maxi_Fsr
+    permissions:
+    - SKILLZ.*
+  b1e8d9af-913f-3b99-9659-7b22f3b88bdb:
+    options:
+      name: Mage3683
+    permissions:
+    - SKILLZ.*
+  d4c9063b-ba9c-3bc9-b854-aae81804c8e2:
+    options:
+      name: lolomanolo11
+    permissions:
+    - SKILLZ.*
+  cf142a53-a14b-3eb7-984b-493aa06c8a48:
+    options:
+      name: zyppo
+  e4af8a57-bc80-342f-a20b-966071065b2e:
+    options:
+      name: SirAceTheActor
+  3db9dfb9-e615-36ac-82fa-2b8f0d99710a:
+    options:
+      name: GianlukaMC
+  d24c0342-2623-3988-98dd-2770340ebbe3:
+    group:
+    - Youtuber
+    options:
+      name: Clemente_YT
+    permissions:
+    - SKILLZ.*
+  e07cbe23-396d-301a-b68a-9df2a714a008:
+    options:
+      name: benjaxh_
+    permissions:
+    - SKILLZ.*
+  16e602a0-571e-3a8a-86b8-69b7f1551688:
+    options:
+      name: snipex10
+  64c752e6-64d6-3b4d-adf5-2f9e97fb8e65:
+    options:
+      name: SebasCapo
+    permissions:
+    - SKILLZ.*
+  4cabf54e-a723-3453-82f8-ffa6836107cd:
+    options:
+      name: JustReey
+    group:
+    - default
+    permissions:
+    - SKILLZ.*
+  8f6dcd22-781a-34f4-911d-5afcfd457c45:
+    options:
+      name: DrSolow
+  b69040d9-31bc-318a-9657-58e1a20c4614:
+    options:
+      name: JustFalopa
+  ea7f279c-fb18-3f37-96ff-26ea54977af8:
+    options:
+      name: OliOrtiz
+  19dfd421-3ec0-3f58-aa27-6198fc87a6bb:
+    options:
+      name: Lokillo_PlayerYT
+  24f5aaf9-92e0-3036-8de4-5c94a5ce0a0f:
+    options:
+      name: PonchisLR_xv
+  5cca2432-10e8-39ed-ae07-1c9aebc0b2a7:
+    options:
+      name: Pro001
+  0163996f-a2bf-333e-8ccb-78753954128e:
+    group:
+    - Youtuber
+    options:
+      name: JokerGames_YT
+    permissions:
+    - SKILLZ.*
+  fc8b5a02-84a9-3018-8954-ba4ec365dada:
+    permissions:
+    - SKILLZ.*
+    group:
+    - Diamante
+    options:
+      name: MagmaFire1
+  92010b98-3427-399c-85e9-0d0824a593aa:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: xSolowZ_
+  046ef7e0-c45e-3024-b0c1-203aa495bef8:
+    group:
+    - default
+    options:
+      name: Alvaro
+    permissions:
+    - SKILLZ.*
+  ab9ea4d3-4290-32e5-9dc0-da7230998460:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: BraulioIsaac
+  6ab5d106-4325-37b7-ab86-f1291e73ecfc:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: SebastianM117
+  bc65457a-ed3c-37be-ad3b-8cec4c6da95b:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: DominicSantiMX
+  b49ee769-e951-3f4c-b2e6-3a0f4f9ece4b:
+    group:
+    - default
+    options:
+      name: thefitbeul45
+  d41a9e42-9cc8-3326-8fc5-5c9fb8d2c519:
+    group:
+    - Youtuber
+    options:
+      name: YTDerekGamer
+    permissions:
+    - SKILLZ.*
+  6fb3f064-cf12-341b-8516-0256c1e1998c:
+    group:
+    - Admin
+    options:
+      name: Diegotiro
+  309e83bf-2ccc-39e6-a46d-f5d68629acc5:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: K0nrad_Joan
+    group:
+    - Builder
+  21619a24-fd9c-3bc7-874c-bc6d3d1affe4:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: meeperbeeper
+  d4ee5603-0d65-34c0-b753-90a478cf1606:
+    group:
+    - Admin
+    options:
+      name: Reey_
+    permissions:
+    - SKILLZ.*
+  685b11d0-71fd-391a-8b09-c85740006d87:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: elcrackboy
+      prefix: ''
+    group:
+    - Builder
+  c47659e2-8bc1-3133-ac0c-b2335f220ef2:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: roy
+  ae0f29e0-facc-3ef9-863e-0888e3b9f297:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: luife3000
+  cc7d4abc-69df-31e2-90f0-cb41f3a58c2f:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: itsMarkito
+  316a5edb-8a31-3b67-8d9a-ccfbca52c23c:
+    permissions:
+    - SKILLZ.*
+    group:
+    - Oro
+    options:
+      name: Miix20
+  0c170d33-fff8-3ce9-bf38-6bf91ffca59f:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: dani3019
+  892fccb0-1341-339b-87b1-a541fd5fff17:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: PewDiePie25
+  0a15fd46-60bc-3e99-af95-ad9e403b7007:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: _AfriPvPGamer_
+  8d18c408-7bb8-37af-a7b8-7ce4a63b9a9f:
+    group:
+    - Youtuber
+    options:
+      name: SrVaquita
+  ada9ba4c-cf3f-3382-a227-3be3befd457b:
+    group:
+    - Plata
+    options:
+      name: SimonMiicZ
+  9f7052a7-176f-3a94-83fb-0e72087d784a:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: xXalexskate13Xx
+  4f901245-e92b-3c99-8907-b46c9ef8ea0a:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: CarlosMC
+  c81258d5-1b38-32a1-b135-1d0fc71565bc:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: matias621
+  a9b862bd-b464-3821-895b-42966b4e7340:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: ElianGamer51
+  1d3ee885-6aee-3f99-9cdd-0bec4fd2b0a7:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: lechuga
+  6b7915ec-3e07-3175-b280-3dffc7763be1:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: davidm9
+  91cb1303-b3c2-38d2-b7c6-27bcc7b99dbd:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: KillerRichMC
+  cdc85753-c668-315c-8938-492e04ca53ef:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: Progamer61
+  79f754e3-878c-399c-b3c1-32038b306614:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: TheFelixHD
+  65e8728b-459f-3020-ae67-e0ee0fc58733:
+    group:
+    - Youtuber
+    permissions:
+    - SKILLZ.*
+    options:
+      name: ErikEco1
+      prefix: ''
+  b29bcf7e-9a3f-3b4d-b6f5-9b9a01c07abb:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: viviana3600
+  aef3161a-ee80-31c1-bc34-a6b8c4e485a2:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: pedrogaymer100
+    group:
+    - Diamante
+  98feac57-5c35-3bbd-8ad0-7f47607f35be:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: sword_for_evil
+  4dfe18c3-dab9-3fe5-90f9-ec99416eab35:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: JseAranda
+  5c1b6c7c-f90e-3e8d-be6c-e775a4fa4e5f:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: LouZ_
+  c3bfccf7-c11a-3d2a-b8da-34ba92326f40:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: Javonico
+    group:
+    - default
+  407a57c9-5107-3ede-8ca1-0b4a56ef2a33:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: alfredonx
+  86e9efe4-83c4-349c-af9a-08047384057e:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: Zhedas
+  f7aca3be-336c-3c4d-ad4a-6372a6b5abc4:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: destruyebloques
+  61bb4e37-545c-3dda-ae6a-2744e1086da1:
+    options:
+      name: jorge
+    permissions:
+    - SKILLZ.*
+  45fc9b3b-7455-3943-af62-feaeba555bc2:
+    group:
+    - Youtuber
+    options:
+      name: MrComando40
+  197037bd-ff47-38dd-873e-b7c97178105d:
+    group:
+    - Diamante
+    options:
+      name: Jak3
+  default:
+    group:
+    - Plata
+  671f8099-0773-36d2-ae4c-ba4443bdb1d1:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: LauGamer_XD
+    group:
+    - default
+  c3f25425-31d1-3c4a-a51e-c958791941d5:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: david9877
+  2f794716-1de6-3e05-9793-677bb2fbdbd4:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: _Avilolo_
+  e14fdf7c-7c99-3f84-afd4-5faddb32b00f:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: BLUBLEGUM
+  ff7d1e6a-f5b9-3efc-8242-4e41d79b80ff:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: CookLoco
+  be0be880-669e-3034-a228-fe53b39a68dd:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: ItzTony_Hg17
+  2c53bd2b-f0d0-37ad-a9d0-b71b5b5d23d1:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: TheLocuraPvP
+  697a7288-cd44-3fff-9c37-2231f3dbea7d:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: DIEGO220Gamer
+  d9f5cd63-bb2f-31c9-9ff9-3d760cc0bdee:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: CALE331
+  d66f783d-56d2-497a-b0bc-eacc55b73d9c:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: StichGamer
+  73a54955-ef23-3f45-b5a4-c26fed85d17e:
+    group:
+    - default
+    permissions:
+    - SKILLZ.*
+    options:
+      name: M3ndexx
+  171c421d-5b5e-3be8-b77d-59a7302ffcbf:
+    group:
+    - Youtuber
+    options:
+      name: SweetyB
+  21332b1e-9465-32de-b1cc-9dfb431d0ba7:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: NeCr0ManC3r
+  6fe7fc8c-c5ec-3761-84d8-d2fbdcb66cf0:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: Rudma007
+  9ca6232b-1386-39e9-9d97-945a1b8d7326:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: NoHacksJustEze
+  77cbc694-b70d-3450-bd37-c5123f59429f:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: YisusGames
+  116043d9-0e51-3e24-8ea3-5794b8e5f125:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: jared
+  e3a4b231-4e10-33aa-9601-68673c10db63:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: ismael
+  8c6b33be-21f4-3111-9e58-8af9e383d39d:
+    group:
+    - Owner
+    options:
+      name: MrNaikito
+    permissions:
+    - SKILLZ.*
+  597cff2f-0a12-3f76-9ad3-3ee8d2635841:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: thenachopropvp
+  4e640e89-7bdf-31c4-a526-ca27049d3ea2:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: LACL
+  170fc2ae-1fa3-31a8-84c6-df70bc709d93:
+    group:
+    - Mod
+    options:
+      name: ventor
+  2e99976f-d84c-3c11-a78b-5b06dd820445:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: fef
+  4acbcc1a-a53e-39f6-b984-b97ead33f61e:
+    permissions:
+    - SKILLZ.*
+    options:
+      name: iJon71
+  440efbf6-fefd-30e4-912d-e82068cb87ae:
+    group:
+    - Oro
+    options:
+      name: GamerNacho761
+  34eba4cb-a59a-3f74-b5ad-33de2958c31d:
+    permissions:
+    - plots.*
+    - plots.auto
+    options:
+      name: DrizzerX
+schema-version: 1

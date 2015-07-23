@@ -1,0 +1,35 @@
+lastAccountName: Javonico
+timestamps:
+  login: 1437005366826
+  lastteleport: 1437006665121
+  logout: 1437006973367
+  kits:
+    youtuber: 1435532468887
+    esmeralda: 1435535046109
+ipAddress: 201.170.110.50
+lastlocation:
+  world: spawn
+  x: -621.0346165560014
+  y: 48.0
+  z: -2412.1567979893543
+  yaw: -132.1949
+  pitch: -31.0222
+logoutlocation:
+  world: plotworld
+  x: -194.38175170939422
+  y: 65.0
+  z: 0.975877566300068
+  yaw: 119.43309
+  pitch: 89.57085
+socialspy: false
+money: '52205.0'
+homes:
+  home:
+    world: survival
+    x: -1687.3520531290765
+    y: 63.0
+    z: 4017.7849523314676
+    yaw: 247.56326
+    pitch: 6.7496476
+afk: true
+nickname: §3Javonico

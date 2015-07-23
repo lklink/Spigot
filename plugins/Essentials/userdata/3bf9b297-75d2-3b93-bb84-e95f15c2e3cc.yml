@@ -1,0 +1,22 @@
+lastAccountName: masmaskot
+timestamps:
+  login: 1433977672440
+  lastteleport: 1433529510303
+  logout: 1433977692995
+ipAddress: 201.186.254.158
+lastlocation:
+  world: survival
+  x: -20.50497284297283
+  y: 48.0
+  z: 27.868990864261722
+  yaw: -190.86958
+  pitch: 16.946392
+logoutlocation:
+  world: juegos
+  x: -1396.2067676490356
+  y: 28.0
+  z: 3994.586610200788
+  yaw: 175.89096
+  pitch: 16.199589
+socialspy: false
+money: '30.0'

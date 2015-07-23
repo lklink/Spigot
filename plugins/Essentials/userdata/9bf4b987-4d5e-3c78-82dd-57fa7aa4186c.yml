@@ -1,0 +1,21 @@
+lastAccountName: volrat
+timestamps:
+  login: 1430269103441
+  logout: 1430269108870
+ipAddress: 186.104.253.15
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -952.5
+  y: 130.0
+  z: -524.5
+  yaw: -182.13605
+  pitch: 30.403196
+socialspy: false
+money: '20055.0'

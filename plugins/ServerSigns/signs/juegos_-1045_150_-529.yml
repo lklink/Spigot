@@ -1,0 +1,23 @@
+permission: ''
+world: juegos
+X: -1045
+Y: 150
+Z: -529
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- '*spawn <player>'
+- '*give <player> 311 1 0 {ench:[{id:0,lvl:2}]}'
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: []
+exp: 0
+pi_criteria:
+  enchants: false
+  name: false
+  lores: false
+  durability: false
+should_cancel_event: true

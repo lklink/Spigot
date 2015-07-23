@@ -1,0 +1,30 @@
+lastAccountName: Griim
+timestamps:
+  login: 1434824843937
+  lastteleport: 1434828166427
+  logout: 1434828767634
+ipAddress: 190.160.151.11
+lastlocation:
+  world: plotworld
+  x: -213.54742111927143
+  y: 65.0
+  z: 239.23923810595198
+  yaw: -350.85034
+  pitch: 23.849915
+homes:
+  home:
+    world: survival
+    x: -39.229158642101424
+    y: 58.0
+    z: 434.7999474657905
+    yaw: 161.25354
+    pitch: 13.350087
+logoutlocation:
+  world: plotworld
+  x: -213.32975846575826
+  y: 65.0
+  z: 247.15375238086116
+  yaw: -201.45923
+  pitch: -12.449944
+socialspy: false
+money: '30.0'

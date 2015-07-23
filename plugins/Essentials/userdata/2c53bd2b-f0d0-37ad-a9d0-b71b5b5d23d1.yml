@@ -1,0 +1,22 @@
+lastAccountName: TheLocuraPvP
+timestamps:
+  login: 1435362746553
+  lastteleport: 1434856354634
+  logout: 1435362749253
+ipAddress: 179.8.217.52
+lastlocation:
+  world: spawn
+  x: 555.7657215353365
+  y: 39.5
+  z: -1065.9183420298525
+  yaw: 252.79482
+  pitch: -17.54999
+logoutlocation:
+  world: spawn
+  x: 561.6199067889754
+  y: 48.0
+  z: -1067.796288976863
+  yaw: 84.59496
+  pitch: 47.522194
+socialspy: false
+money: '240.0'

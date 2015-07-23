@@ -1,0 +1,20 @@
+lastAccountName: Sipexx10
+timestamps:
+  login: 1431746086216
+  logout: 1431746088766
+ipAddress: 201.214.135.224
+lastlocation:
+  world: juegos
+  x: -952.4587604191012
+  y: 129.91480945967268
+  z: -524.5366122256469
+  yaw: -177.83528
+  pitch: 66.652794
+logoutlocation:
+  world: juegos
+  x: -952.5
+  y: 130.0
+  z: -524.5
+  yaw: -182.43604
+  pitch: 29.653198
+money: '30.0'

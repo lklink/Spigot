@@ -1,0 +1,11 @@
+lastOnline=1436977024833
+registered=1435603280478
+isNPC=false
+title=
+surname=
+town=Tigerland
+town-ranks=
+nation-ranks=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse

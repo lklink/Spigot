@@ -1,0 +1,20 @@
+lastAccountName: Kaneki
+timestamps:
+  login: 1435555143952
+  logout: 1435555183902
+ipAddress: 181.200.9.1
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: spawn
+  x: -611.9841766907332
+  y: 28.0
+  z: -1369.1306453054015
+  yaw: 157.42514
+  pitch: 12.252002
+money: '30.0'

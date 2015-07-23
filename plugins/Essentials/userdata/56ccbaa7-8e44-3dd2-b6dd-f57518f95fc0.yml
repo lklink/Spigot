@@ -1,0 +1,21 @@
+lastAccountName: ItzMane_HC
+timestamps:
+  login: 1433301273241
+  lastteleport: 1433301297963
+  logout: 1433301329294
+ipAddress: 189.177.206.34
+lastlocation:
+  world: juegos
+  x: -1395.7277321077831
+  y: 28.0
+  z: 3981.575710831206
+  yaw: -174.81036
+  pitch: 10.306944
+logoutlocation:
+  world: Factions
+  x: -270.81872059394425
+  y: 79.0
+  z: -299.3087005756464
+  yaw: 33.141277
+  pitch: 11.259185
+money: '30.0'

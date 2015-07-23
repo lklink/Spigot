@@ -1,0 +1,22 @@
+lastAccountName: AlejandroGaymer
+timestamps:
+  login: 1434237325019
+  lastteleport: 1434235914864
+  logout: 1434237327818
+ipAddress: 190.236.196.245
+lastlocation:
+  world: spawn
+  x: -627.1999795087321
+  y: 25.0
+  z: -1557.7962178156627
+  yaw: 18.948608
+  pitch: 12.150005
+logoutlocation:
+  world: spawn
+  x: -614.6137627596612
+  y: 28.0
+  z: -1379.496369611547
+  yaw: 31.248703
+  pitch: 12.900009
+socialspy: false
+money: '30.0'

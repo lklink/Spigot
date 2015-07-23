@@ -1,0 +1,22 @@
+lastAccountName: nijai
+timestamps:
+  login: 1435289901092
+  lastteleport: 1434684713792
+  logout: 1435289902842
+ipAddress: 191.112.150.245
+lastlocation:
+  world: survival
+  x: -8.925578599683215
+  y: 34.320906702852696
+  z: 69.14843657621427
+  yaw: 44.630432
+  pitch: -16.649998
+logoutlocation:
+  world: survival
+  x: 415.9769234745883
+  y: 74.0
+  z: 11.604340231891038
+  yaw: 104.926674
+  pitch: 16.649992
+socialspy: false
+money: '30.0'

@@ -1,0 +1,22 @@
+lastAccountName: Bruno_Gamer007
+timestamps:
+  login: 1434151866647
+  lastteleport: 1434149677980
+  logout: 1434151869747
+ipAddress: 190.186.175.53
+lastlocation:
+  world: survival
+  x: -25.646385486249955
+  y: 57.15743834322587
+  z: 25.01981928925066
+  yaw: 212.3305
+  pitch: -57.149967
+logoutlocation:
+  world: survival
+  x: -8.5
+  y: 121.0
+  z: -2.5
+  yaw: 15.680424
+  pitch: 33.446396
+socialspy: false
+money: '30.0'

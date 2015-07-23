@@ -1,0 +1,21 @@
+lastAccountName: davicho10
+timestamps:
+  login: 1433103386096
+  lastteleport: 1433103588266
+  logout: 1433103609416
+ipAddress: 181.198.5.202
+lastlocation:
+  world: survival
+  x: -5.325542010793001
+  y: 114.0
+  z: 19.289659406533698
+  yaw: 356.39078
+  pitch: -7.200167
+logoutlocation:
+  world: juegos
+  x: -1397.1840901990656
+  y: 28.0
+  z: 4029.137499988079
+  yaw: 211.59102
+  pitch: 1.7995872
+money: '30.0'

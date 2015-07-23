@@ -1,0 +1,22 @@
+lastAccountName: vacalao
+timestamps:
+  login: 1433588632846
+  lastteleport: 1433587794734
+  logout: 1433588919716
+ipAddress: 88.7.127.226
+lastlocation:
+  world: juegos
+  x: -1392.1621089462801
+  y: 28.0
+  z: 4008.0050547176374
+  yaw: -153.64963
+  pitch: 4.5396276
+logoutlocation:
+  world: plotworld
+  x: 127.29036655388704
+  y: 65.5
+  z: 230.78901017202358
+  yaw: 258.75116
+  pitch: -0.75002533
+socialspy: false
+money: '30.0'

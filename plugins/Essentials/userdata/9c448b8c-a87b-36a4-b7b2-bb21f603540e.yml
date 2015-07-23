@@ -1,0 +1,21 @@
+lastAccountName: danixextrem
+timestamps:
+  login: 1433718716120
+  logout: 1433718755836
+ipAddress: 186.107.229.67
+lastlocation:
+  world: juegos
+  x: -1395.4185400764914
+  y: 30.018814808330944
+  z: 4026.3840599087716
+  yaw: 178.01599
+  pitch: 8.899191
+logoutlocation:
+  world: Factions
+  x: -222.84619099843695
+  y: 69.0
+  z: -292.09079321716916
+  yaw: -79.5408
+  pitch: 6.6000032
+socialspy: false
+money: '30.0'
